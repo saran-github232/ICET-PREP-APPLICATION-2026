@@ -8,6 +8,8 @@ import { TESTS } from '../data/tests';
 import { motion } from 'framer-motion';
 import { Clock, Loader2 } from 'lucide-react';
 
+import { MOCK_QUESTIONS } from '../data/mockData';
+
 const ExamSimulator: React.FC = () => {
   const { testId } = useParams<{ testId: string }>();
   const navigate = useNavigate();
@@ -32,9 +34,9 @@ const ExamSimulator: React.FC = () => {
       try {
         const loadPromise = pdfService.loadTest(testMetadata.pdfPath);
         
-        // Timeout after 15 seconds to avoid infinite loading if AI is slow
+        // Timeout after 25 seconds to avoid infinite loading if AI is slow
         const timeoutPromise = new Promise((_, reject) => 
-          setTimeout(() => reject(new Error("Loading timeout")), 15000)
+          setTimeout(() => reject(new Error("Loading timeout")), 25000)
         );
 
         const q = await Promise.race([loadPromise, timeoutPromise]) as any[];
@@ -44,25 +46,10 @@ const ExamSimulator: React.FC = () => {
         }
         setQuestions(q);
       } catch (error) {
-        console.warn("Loading error or timeout, using simulation fallback:", error);
-        setQuestions([
-          { 
-            id: 'q1', 
-            number: 1, 
-            section: 'Analytical', 
-            text: 'Loading Question: What comes next in the sequence: 2, 6, 12, 20, 30, ...?', 
-            options: [{id: 'A', text: '40'}, {id: 'B', text: '42'}, {id: 'C', text: '44'}, {id: 'D', text: '46'}],
-            correctAnswer: 'B'
-          },
-          { 
-            id: 'q2', 
-            number: 2, 
-            section: 'Analytical', 
-            text: 'If ICET is JDFU, how is GATE written?', 
-            options: [{id: 'A', text: 'HBUF'}, {id: 'B', text: 'IBVF'}, {id: 'C', text: 'HCVF'}, {id: 'D', text: 'HBUF'}],
-            correctAnswer: 'A'
-          }
-        ]);
+        console.warn("Loading error or timeout, using simulated questions:", error);
+        // Use a random subset of 20 questions from our 25-question bank for variety
+        const shuffled = [...MOCK_QUESTIONS].sort(() => 0.5 - Math.random());
+        setQuestions(shuffled.slice(0, 20));
       } finally {
         setLoading(false);
       }

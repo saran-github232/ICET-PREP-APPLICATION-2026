@@ -155,20 +155,21 @@ const Results: React.FC = () => {
         </div>
 
         {/* Global Stats Group */}
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-12">
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-12 items-stretch">
           {/* Score Card */}
-          <div className="lg:col-span-2 premium-card p-10 flex flex-col md:flex-row items-center gap-12">
-            <div className="w-64 h-64 shrink-0">
+          <div className="lg:col-span-2 premium-card p-10 flex flex-col md:flex-row items-center gap-10">
+            <div className="relative w-64 h-64 shrink-0 flex items-center justify-center">
                <ResponsiveContainer width="100%" height="100%">
                   <PieChart>
                     <Pie
                       data={chartData}
                       cx="50%"
                       cy="50%"
-                      innerRadius={60}
-                      outerRadius={80}
+                      innerRadius={70}
+                      outerRadius={90}
                       paddingAngle={5}
                       dataKey="value"
+                      stroke="none"
                     >
                       {chartData.map((entry, index) => (
                         <Cell key={`cell-${index}`} fill={entry.color} />
@@ -177,46 +178,57 @@ const Results: React.FC = () => {
                     <Tooltip />
                   </PieChart>
                </ResponsiveContainer>
-               <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-center">
-                  <span className="block text-4xl font-bold text-primary">{stats.correct}</span>
-                  <span className="text-xs font-bold text-text-secondary uppercase">Score</span>
+               <div className="absolute inset-0 flex flex-col items-center justify-center pointer-events-none">
+                  <span className="text-5xl font-black text-primary leading-none">{stats.correct}</span>
+                  <span className="text-[10px] font-bold text-text-secondary uppercase tracking-[0.2em] mt-1">Score</span>
                </div>
             </div>
 
-            <div className="flex-1 space-y-6">
-              <div className="flex items-center gap-4">
-                <div className="p-4 bg-primary/5 rounded-2xl text-primary">
-                  <Trophy className="w-10 h-10" />
-                </div>
-                <div>
-                  <h3 className="text-4xl font-black">Accuracy: {Math.round((stats.correct / (stats.correct + stats.wrong || 1)) * 100)}%</h3>
-                  <p className="text-text-secondary font-serif italic">Great effort! Focus on Analytical Reasoning more.</p>
-                </div>
+            <div className="flex-1 space-y-8 w-full">
+              <div className="text-center md:text-left">
+                <h3 className="text-5xl font-black text-primary mb-2">
+                  Accuracy: {Math.round((stats.correct / (stats.total || 1)) * 100)}%
+                </h3>
+                <p className="text-lg text-text-secondary font-serif italic">
+                  {stats.correct >= stats.total * 0.7 
+                    ? "Exceptional performance! You're ready for the actual exam." 
+                    : "Great effort! Consistency is the key to mastering ICET."}
+                </p>
               </div>
 
               <div className="grid grid-cols-3 gap-4">
-                <div className="bg-success/5 p-4 rounded-xl border border-success/10">
-                  <span className="block text-success font-black text-2xl">{stats.correct}</span>
-                  <span className="text-xs font-bold uppercase tracking-widest opacity-60">Correct</span>
+                <div className="bg-success/5 p-5 rounded-2xl border border-success/10 text-center">
+                  <span className="block text-success font-black text-3xl mb-1">{stats.correct}</span>
+                  <span className="text-[10px] font-bold uppercase tracking-widest text-success/60">Correct</span>
                 </div>
-                <div className="bg-danger/5 p-4 rounded-xl border border-danger/10">
-                  <span className="block text-danger font-black text-2xl">{stats.wrong}</span>
-                  <span className="text-xs font-bold uppercase tracking-widest opacity-60">Incorrect</span>
+                <div className="bg-danger/5 p-5 rounded-2xl border border-danger/10 text-center">
+                  <span className="block text-danger font-black text-3xl mb-1">{stats.wrong}</span>
+                  <span className="text-[10px] font-bold uppercase tracking-widest text-danger/60">Incorrect</span>
                 </div>
-                <div className="bg-background p-4 rounded-xl border border-primary/5">
-                  <span className="block text-text-secondary font-black text-2xl">{stats.unattempted}</span>
-                  <span className="text-xs font-bold uppercase tracking-widest opacity-60">Left</span>
+                <div className="bg-background p-5 rounded-2xl border border-primary/5 text-center">
+                  <span className="block text-text-secondary font-black text-3xl mb-1">{stats.unattempted}</span>
+                  <span className="text-[10px] font-bold uppercase tracking-widest opacity-60">Left</span>
                 </div>
               </div>
             </div>
           </div>
 
-          <div className="premium-card p-8 bg-primary text-white flex flex-col justify-center">
-             <Sparkles className="w-12 h-12 text-secondary mb-6" />
-             <h3 className="text-2xl text-white mb-4">AI Tutor Insights</h3>
-             <p className="font-serif italic opacity-80 leading-loose">
-               "Based on your responses, you show strong command over the Verbal section. However, Quantitative Aptitude questions took 20% longer on average."
-             </p>
+          {/* AI Tutor Card */}
+          <div className="premium-card p-10 bg-primary text-white flex flex-col justify-center relative overflow-hidden group">
+             <div className="absolute top-0 right-0 p-8 opacity-10 group-hover:scale-110 transition-transform duration-700">
+               <Trophy className="w-32 h-32" />
+             </div>
+             <Sparkles className="w-12 h-12 text-secondary mb-8" />
+             <h3 className="text-3xl font-bold text-white mb-6">AI Tutor Insights</h3>
+             <div className="relative">
+               <p className="text-xl font-serif italic opacity-90 leading-relaxed">
+                 "Based on your responses, you show strong command over the Verbal section. Focus on Mathematical Aptitude to boost your overall percentile."
+               </p>
+               <div className="mt-8 flex items-center gap-3">
+                 <div className="h-0.5 w-12 bg-secondary" />
+                 <span className="text-xs font-bold uppercase tracking-[0.3em] text-secondary">VoidWare AI</span>
+               </div>
+             </div>
           </div>
         </div>
 

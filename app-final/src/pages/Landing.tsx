@@ -19,7 +19,7 @@ const Landing: React.FC = () => {
       setShowModal(true);
     }
     fetchQuote();
-  }, []);
+  }, [navigate]); // Refresh when navigating back to landing
 
   const fetchQuote = async () => {
     setQuoteLoading(true);
