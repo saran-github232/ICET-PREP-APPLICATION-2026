@@ -2,21 +2,12 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 
 const API_KEY_STORAGE_KEY = "icet_gemini_api_key";
 
-// PASTE YOUR API KEY HERE FOR A PERMANENT FIX
-const HARDCODED_API_KEY = ""; 
+// Priority: Local Storage (Manual Input) > .env File > Hardcoded Fallback
+export const getStoredApiKey = () => 
+  localStorage.getItem(API_KEY_STORAGE_KEY) || 
+  import.meta.env.VITE_GEMINI_API_KEY || 
+  "";
 
-const LOCAL_QUOTES = [
-  "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-  "Your time is limited, don't waste it living someone else's life.",
-  "The only way to do great work is to love what you do.",
-  "Believe in yourself and all that you are.",
-  "Education is the most powerful weapon which you can use to change the world.",
-  "Don't watch the clock; do what it does. Keep going.",
-  "The future depends on what you do today.",
-  "Your ambition is the path to your success. Persistence is the vehicle you arrive in."
-];
-
-export const getStoredApiKey = () => localStorage.getItem(API_KEY_STORAGE_KEY) || HARDCODED_API_KEY || "";
 export const setStoredApiKey = (key: string) => localStorage.setItem(API_KEY_STORAGE_KEY, key.trim());
 
 class GeminiService {
