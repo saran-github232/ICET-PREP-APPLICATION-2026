@@ -29,16 +29,28 @@ const ExamSimulator: React.FC = () => {
       setLoading(true);
       setLoadingStatus("Connecting to Google Gemini AI for parsing...");
       
-      const q = await pdfService.loadTest(testMetadata.pdfPath);
-      
-      if (q.length === 0) {
-        // Fallback for demo if PDF parsing is not fully set up or empty
+      try {
+        const loadPromise = pdfService.loadTest(testMetadata.pdfPath);
+        
+        // Timeout after 15 seconds to avoid infinite loading if AI is slow
+        const timeoutPromise = new Promise((_, reject) => 
+          setTimeout(() => reject(new Error("Loading timeout")), 15000)
+        );
+
+        const q = await Promise.race([loadPromise, timeoutPromise]) as any[];
+        
+        if (!q || q.length === 0) {
+          throw new Error("No questions found");
+        }
+        setQuestions(q);
+      } catch (error) {
+        console.warn("Loading error or timeout, using simulation fallback:", error);
         setQuestions([
           { 
             id: 'q1', 
             number: 1, 
             section: 'Analytical', 
-            text: 'What comes next in the sequence: 2, 6, 12, 20, 30, ...?', 
+            text: 'Loading Question: What comes next in the sequence: 2, 6, 12, 20, 30, ...?', 
             options: [{id: 'A', text: '40'}, {id: 'B', text: '42'}, {id: 'C', text: '44'}, {id: 'D', text: '46'}],
             correctAnswer: 'B'
           },
@@ -46,15 +58,14 @@ const ExamSimulator: React.FC = () => {
             id: 'q2', 
             number: 2, 
             section: 'Analytical', 
-            text: 'In a certain code language, if ICET is written as JDFU, how is GATE written?', 
+            text: 'If ICET is JDFU, how is GATE written?', 
             options: [{id: 'A', text: 'HBUF'}, {id: 'B', text: 'IBVF'}, {id: 'C', text: 'HCVF'}, {id: 'D', text: 'HBUF'}],
             correctAnswer: 'A'
           }
         ]);
-      } else {
-        setQuestions(q);
+      } finally {
+        setLoading(false);
       }
-      setLoading(false);
     };
 
     loadExam();
