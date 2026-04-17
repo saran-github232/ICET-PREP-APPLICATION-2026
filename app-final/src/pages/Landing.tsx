@@ -11,6 +11,7 @@ const Landing: React.FC = () => {
   const [apiKey, setApiKey] = useState(getStoredApiKey());
   const [quote, setQuote] = useState("Empowering your path to Academic Excellence.");
   const [quoteLoading, setQuoteLoading] = useState(true);
+  const [testStatus, setTestStatus] = useState<'idle' | 'testing' | 'success' | 'fail'>('idle');
 
   useEffect(() => {
     const hasOnboarded = localStorage.getItem('icet_onboarded');
@@ -25,6 +26,23 @@ const Landing: React.FC = () => {
     const q = await geminiService.getMotivationalQuote();
     setQuote(q);
     setQuoteLoading(false);
+  };
+
+  const handleTestConnection = async () => {
+    if (!apiKey.trim()) return;
+    setTestStatus('testing');
+    try {
+      setStoredApiKey(apiKey);
+      const q = await geminiService.getMotivationalQuote();
+      if (q && !q.includes("weapon which you can use")) { // Check if not the baseline fallback
+        setTestStatus('success');
+        setQuote(q);
+      } else {
+        setTestStatus('fail');
+      }
+    } catch (e) {
+      setTestStatus('fail');
+    }
   };
 
   const handleOnboard = () => {
@@ -156,13 +174,29 @@ const Landing: React.FC = () => {
                   <p className="mt-2 text-xs text-text-secondary">Your key is stored locally and never leaves your browser.</p>
                 </div>
 
-                <button 
-                  onClick={handleOnboard}
-                  disabled={!userName.trim()}
-                  className="w-full btn-primary mt-4"
-                >
-                  Enter the Arena
-                </button>
+                <div className="flex flex-col gap-3">
+                  <button 
+                    onClick={handleTestConnection}
+                    className={`w-full py-3 rounded-xl font-bold transition-all border-2 flex items-center justify-center gap-2 ${
+                      testStatus === 'success' ? 'bg-success/10 border-success text-success' :
+                      testStatus === 'fail' ? 'bg-danger/10 border-danger text-danger' :
+                      'bg-background border-primary/10 text-text-primary hover:border-primary/30'
+                    }`}
+                  >
+                    {testStatus === 'testing' ? <Clock className="w-4 h-4 animate-spin" /> : <Zap className="w-4 h-4" />}
+                    {testStatus === 'testing' ? 'Testing Connection...' : 
+                     testStatus === 'success' ? 'Connection Successful!' :
+                     testStatus === 'fail' ? 'Connection Failed (Check Key)' : 'Test AI Connection'}
+                  </button>
+
+                  <button 
+                    onClick={handleOnboard}
+                    disabled={!userName.trim()}
+                    className="w-full btn-primary"
+                  >
+                    Enter the Arena
+                  </button>
+                </div>
               </div>
             </motion.div>
           </div>
