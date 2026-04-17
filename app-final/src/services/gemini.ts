@@ -58,7 +58,7 @@ class GeminiService {
     if (!this.genAI) return "Please provide a Gemini API key to see AI-powered explanations.";
 
     try {
-      const model = this.genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+      const model = this.genAI.getGenerativeModel({ model: "gemini-1.5-flash-latest" });
       const prompt = `Solve this question step by step for an AP ICET aspirant.
 Question: ${question}
 Options: ${options.join(", ")}
@@ -68,7 +68,10 @@ Provide a clear, concise explanation focusing on the logical or mathematical pro
       
       const result = await model.generateContent(prompt);
       return result.response.text();
-    } catch (error) {
+    } catch (error: any) {
+      if (error?.message?.includes('429')) {
+        return "Daily AI limit reached. Please try again tomorrow or provide your own API key in Settings.";
+      }
       return "Unable to fetch explanation at this time. Please check your API key.";
     }
   }

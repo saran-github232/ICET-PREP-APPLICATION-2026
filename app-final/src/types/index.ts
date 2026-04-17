@@ -39,4 +39,5 @@ export interface TestMetadata {
   year: string;
   type: 'shift' | 'grand' | 'previous';
   pdfPath: string;
+  isReady?: boolean;
 }

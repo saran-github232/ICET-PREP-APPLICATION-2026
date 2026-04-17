@@ -2,7 +2,7 @@ import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import type { TestMetadata } from '../../types';
 import { motion } from 'framer-motion';
-import { ClipboardCheck, ArrowRight, Calendar } from 'lucide-react';
+import { ClipboardCheck, ArrowRight, Calendar, Zap, Clock } from 'lucide-react';
 
 interface Props {
   test: TestMetadata;
@@ -34,6 +34,22 @@ export const TestCard: React.FC<Props> = ({ test, index }) => {
       </div>
 
       <h3 className="text-xl mb-2 line-clamp-1">{test.title}</h3>
+      
+      {/* Status Badge */}
+      <div className="flex gap-2 mb-4">
+        {test.isReady ? (
+          <span className="flex items-center gap-1.5 px-2.5 py-1 bg-success/10 text-success text-[10px] font-black uppercase tracking-widest rounded-lg border border-success/20">
+            <Zap className="w-3 h-3" />
+            Working with PDF
+          </span>
+        ) : (
+          <span className="flex items-center gap-1.5 px-2.5 py-1 bg-amber-100/50 text-amber-600 text-[10px] font-black uppercase tracking-widest rounded-lg border border-amber-200/50">
+            <Clock className="w-3 h-3" />
+            Coming Soon
+          </span>
+        )}
+      </div>
+
       <p className="text-sm font-serif text-text-secondary italic mb-6">
         Full format mock exam with AI analysis.
       </p>
