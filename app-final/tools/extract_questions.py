@@ -125,11 +125,11 @@ def extract_questions_from_pdf(pdf_name):
             except Exception as e:
                 err_str = str(e)
                 if "429" in err_str:
-                    print(f"    ⚠️ Rate limit hit. Sleeping {backoff}s (Attempt {attempt+1}/3)...")
+                    print(f"    Rate limit hit. Sleeping {backoff}s (Attempt {attempt+1}/3)...")
                     time.sleep(backoff)
                     backoff *= 4 # Exponential backoff
                 else:
-                    print(f"    ❌ ERROR on page {i+1}: {e}")
+                    print(f"    ERROR on page {i+1}: {e}")
                     break
         
         time.sleep(2) # Base sleep between pages to stay under RPM limit
