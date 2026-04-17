@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Mono&family=Playfair+Display:wght@700;900&family=Source+Serif+Pro:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-text-primary font-sans antialiased;
+  }
+
+  h1, h2, h3 {
+    @apply font-display text-primary;
+  }
+
+  p, li, .question-text {
+    @apply font-serif text-lg leading-relaxed;
+  }
+
+  /* Custom scrollbar for premium feel */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-primary/20 rounded-full hover:bg-primary/40 transition-colors;
+  }
+}
+
+@layer components {
+  .premium-card {
+    @apply bg-white rounded-xl shadow-card border border-primary/5 hover:shadow-panel transition-all duration-300;
+  }
+
+  .btn-primary {
+    @apply bg-primary text-white py-3 px-6 rounded-lg font-bold hover:bg-primary/95 active:scale-95 transition-all disabled:opacity-50;
+  }
+
+  .btn-secondary {
+    @apply bg-secondary text-white py-3 px-6 rounded-lg font-bold hover:bg-secondary/95 active:scale-95 transition-all disabled:opacity-50;
+  }
+
+  .glass-panel {
+    @apply bg-white/80 backdrop-blur-md border border-white/20 shadow-panel;
+  }
+}
