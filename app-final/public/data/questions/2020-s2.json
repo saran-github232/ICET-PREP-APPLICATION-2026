@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "A unit of information equal to 1000 bytes"
+            },
+            {
+                "id": "2",
+                "text": "A unit of information equal to 100 kilobytes"
+            },
+            {
+                "id": "3",
+                "text": "A unit of information equal to 10 Tera Bytes"
+            },
+            {
+                "id": "4",
+                "text": "A unit of information equal to 1000 mega bites"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "2",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Memory whose contents can be accessed but cannot be changed"
+            },
+            {
+                "id": "2",
+                "text": "Memory which does not allow reading of the contents"
+            },
+            {
+                "id": "3",
+                "text": "Memory from which one can write out the contents"
+            },
+            {
+                "id": "4",
+                "text": "Temporary memory"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "3",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Solicited email"
+            },
+            {
+                "id": "2",
+                "text": "Email sent by friends"
+            },
+            {
+                "id": "3",
+                "text": "Unsolicited email"
+            },
+            {
+                "id": "4",
+                "text": "Unofficial email"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "4",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Eliminating bugs from the hardware of computer"
+            },
+            {
+                "id": "2",
+                "text": "Disinfect a computer lab"
+            },
+            {
+                "id": "3",
+                "text": "Locate and correct errors in a computer code"
+            },
+            {
+                "id": "4",
+                "text": "Locate and correct systemic errors in the hardware"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "5",
+        "text": "Which of the following is not a video file format?",
+        "options": [
+            {
+                "id": "1",
+                "text": ".mp4"
+            },
+            {
+                "id": "2",
+                "text": ".psd"
+            },
+            {
+                "id": "3",
+                "text": ".wmv"
+            },
+            {
+                "id": "4",
+                "text": ".avi"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "6",
+        "text": "VPN stands for",
+        "options": [
+            {
+                "id": "1",
+                "text": "Virtual Processing Node"
+            },
+            {
+                "id": "2",
+                "text": "Virtual Private Network"
+            },
+            {
+                "id": "3",
+                "text": "Virtual Processing Network"
+            },
+            {
+                "id": "4",
+                "text": "Virtual Private Node"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "7",
+        "text": "What is a blank cheque?",
+        "options": [
+            {
+                "id": "1",
+                "text": "A cheque that has been signed and all other details are not written"
+            },
+            {
+                "id": "2",
+                "text": "A cheque in which amount and other details are written but not signed"
+            },
+            {
+                "id": "3",
+                "text": "A cheque in which nothing is written"
+            },
+            {
+                "id": "4",
+                "text": "A cheque in which date is written and everything else is kept blank."
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "8",
+        "text": "The critical incidents appraisal method lays stress on",
+        "options": [
+            {
+                "id": "1",
+                "text": "work"
+            },
+            {
+                "id": "2",
+                "text": "behaviour"
+            },
+            {
+                "id": "3",
+                "text": "production"
+            },
+            {
+                "id": "4",
+                "text": "management"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "9",
+        "text": "Change the negative sentence into an affirmative one.",
+        "options": [
+            {
+                "id": "1",
+                "text": "He is literate"
+            },
+            {
+                "id": "2",
+                "text": "He is not literate"
+            },
+            {
+                "id": "3",
+                "text": "He is illiterate"
+            },
+            {
+                "id": "4",
+                "text": "He was illiterate"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "10",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "of"
+            },
+            {
+                "id": "2",
+                "text": "by"
+            },
+            {
+                "id": "3",
+                "text": "from"
+            },
+            {
+                "id": "4",
+                "text": "with"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "11",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "wasn't it?"
+            },
+            {
+                "id": "2",
+                "text": "isn't it?"
+            },
+            {
+                "id": "3",
+                "text": "was it?"
+            },
+            {
+                "id": "4",
+                "text": "is it?"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "12",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "My pocket is picked"
+            },
+            {
+                "id": "2",
+                "text": "My pocket has been picked"
+            },
+            {
+                "id": "3",
+                "text": "My pocket has been picked up"
+            },
+            {
+                "id": "4",
+                "text": "I was picked by someone"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "13",
+        "text": "The meaning of 'once and for all' is",
+        "options": [
+            {
+                "id": "1",
+                "text": "Gradually"
+            },
+            {
+                "id": "2",
+                "text": "Slowly"
+            },
+            {
+                "id": "3",
+                "text": "Finally"
+            },
+            {
+                "id": "4",
+                "text": "Full particulars"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "14",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "He told me that he alone caused save her"
+            },
+            {
+                "id": "2",
+                "text": "He told me to she is saved"
+            },
+            {
+                "id": "3",
+                "text": "He told me that she would be saved"
+            },
+            {
+                "id": "4",
+                "text": "He told me that I alone could save her"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "15",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "How can you get me a glass of water?"
+            },
+            {
+                "id": "2",
+                "text": "Possible to get a glass of water?"
+            },
+            {
+                "id": "3",
+                "text": "Will you please, get me a glass of water?"
+            },
+            {
+                "id": "4",
+                "text": "How do you get me a glass of water?"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "16",
+        "text": "Identify the correct sentences.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Every one of the clerk has applied for casual leave today"
+            },
+            {
+                "id": "2",
+                "text": "Every one of the clerks have applied for casual leave today"
+            },
+            {
+                "id": "3",
+                "text": "Every one of the clerks has applied for casual leave today"
+            },
+            {
+                "id": "4",
+                "text": "Every one of the clerk have applied for casual leave today"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "17",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "never"
+            },
+            {
+                "id": "2",
+                "text": "none"
+            },
+            {
+                "id": "3",
+                "text": "nothing"
+            },
+            {
+                "id": "4",
+                "text": "no"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "18",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "are"
+            },
+            {
+                "id": "2",
+                "text": "is"
+            },
+            {
+                "id": "3",
+                "text": "were"
+            },
+            {
+                "id": "4",
+                "text": "will had"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "19",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "beside"
+            },
+            {
+                "id": "2",
+                "text": "besides"
+            },
+            {
+                "id": "3",
+                "text": "between"
+            },
+            {
+                "id": "4",
+                "text": "at"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "20",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "effected"
+            },
+            {
+                "id": "2",
+                "text": "afected"
+            },
+            {
+                "id": "3",
+                "text": "affected"
+            },
+            {
+                "id": "4",
+                "text": "efected"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "21",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "complements"
+            },
+            {
+                "id": "2",
+                "text": "compliance"
+            },
+            {
+                "id": "3",
+                "text": "compliments"
+            },
+            {
+                "id": "4",
+                "text": "complement"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "22",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "The wall is building by the mason"
+            },
+            {
+                "id": "2",
+                "text": "The wall is being built by the mason"
+            },
+            {
+                "id": "3",
+                "text": "The mason built the wall"
+            },
+            {
+                "id": "4",
+                "text": "The mason had been building the wall"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "23",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "a mysterious thing"
+            },
+            {
+                "id": "2",
+                "text": "an easy thing"
+            },
+            {
+                "id": "3",
+                "text": "a complicated thing"
+            },
+            {
+                "id": "4",
+                "text": "a confusing thing"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "24",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "catalyst"
+            },
+            {
+                "id": "2",
+                "text": "carcass"
+            },
+            {
+                "id": "3",
+                "text": "corpse"
+            },
+            {
+                "id": "4",
+                "text": "catchment"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "25",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "black and white clothes"
+            },
+            {
+                "id": "2",
+                "text": "television"
+            },
+            {
+                "id": "3",
+                "text": "in writing"
+            },
+            {
+                "id": "4",
+                "text": "very often"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "26",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "in the centre"
+            },
+            {
+                "id": "2",
+                "text": "in spite of opposition or difficulty"
+            },
+            {
+                "id": "3",
+                "text": "completely"
+            },
+            {
+                "id": "4",
+                "text": "under the control of"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "27",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Ploughing"
+            },
+            {
+                "id": "2",
+                "text": "Honest"
+            },
+            {
+                "id": "3",
+                "text": "Devious"
+            },
+            {
+                "id": "4",
+                "text": "Gardening tool"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "28",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Food"
+            },
+            {
+                "id": "2",
+                "text": "Four wheeler"
+            },
+            {
+                "id": "3",
+                "text": "Parole"
+            },
+            {
+                "id": "4",
+                "text": "Charity"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "29",
+        "text": "A civil society was a surrogate for a state of",
+        "options": [
+            {
+                "id": "1",
+                "text": "nature"
+            },
+            {
+                "id": "2",
+                "text": "anarchy"
+            },
+            {
+                "id": "3",
+                "text": "monarchy"
+            },
+            {
+                "id": "4",
+                "text": "diarchy"
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "30",
+        "text": "The available interpretations of nature are",
+        "options": [
+            {
+                "id": "1",
+                "text": "diametrically opposite"
+            },
+            {
+                "id": "2",
+                "text": "totally in agreement"
+            },
+            {
+                "id": "3",
+                "text": "totally incoherent"
+            },
+            {
+                "id": "4",
+                "text": "highly unacceptable"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "31",
+        "text": "Civil society originated in",
+        "options": [
+            {
+                "id": "1",
+                "text": "discord"
+            },
+            {
+                "id": "2",
+                "text": "confusion"
+            },
+            {
+                "id": "3",
+                "text": "concord"
+            },
+            {
+                "id": "4",
+                "text": "contradiction"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "32",
+        "text": "Natural law was replaced by",
+        "options": [
+            {
+                "id": "1",
+                "text": "savage codes"
+            },
+            {
+                "id": "2",
+                "text": "dictatorial practices"
+            },
+            {
+                "id": "3",
+                "text": "Human law"
+            },
+            {
+                "id": "4",
+                "text": "feudal tendencies"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "33",
+        "text": "Human law endowed people with",
+        "options": [
+            {
+                "id": "1",
+                "text": "a sense of insecurity"
+            },
+            {
+                "id": "2",
+                "text": "a sense of being dominated"
+            },
+            {
+                "id": "3",
+                "text": "a sense of security"
+            },
+            {
+                "id": "4",
+                "text": "a sense of no compromise"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "34",
+        "text": "Commonly, virtues are",
+        "options": [
+            {
+                "id": "1",
+                "text": "abundant"
+            },
+            {
+                "id": "2",
+                "text": "scanty"
+            },
+            {
+                "id": "3",
+                "text": "popular"
+            },
+            {
+                "id": "4",
+                "text": "cheap"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "35",
+        "text": "Good deeds are performed as a",
+        "options": [
+            {
+                "id": "1",
+                "text": "duty"
+            },
+            {
+                "id": "2",
+                "text": "charity"
+            },
+            {
+                "id": "3",
+                "text": "speculation"
+            },
+            {
+                "id": "4",
+                "text": "business"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "36",
+        "text": "\u201cTheir virtues are \u2018penances\u2019\u201d, What is the meaning of the word \u2018penances\u2019?",
+        "options": [
+            {
+                "id": "1",
+                "text": "solution"
+            },
+            {
+                "id": "2",
+                "text": "atonement"
+            },
+            {
+                "id": "3",
+                "text": "punishment"
+            },
+            {
+                "id": "4",
+                "text": "fine"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "37",
+        "text": "The author desires to live his life",
+        "options": [
+            {
+                "id": "1",
+                "text": "ostentatiously"
+            },
+            {
+                "id": "2",
+                "text": "superficially"
+            },
+            {
+                "id": "3",
+                "text": "pompously"
+            },
+            {
+                "id": "4",
+                "text": "sincerely"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "38",
+        "text": "The author prefers to live for",
+        "options": [
+            {
+                "id": "1",
+                "text": "others"
+            },
+            {
+                "id": "2",
+                "text": "the nation"
+            },
+            {
+                "id": "3",
+                "text": "fashion"
+            },
+            {
+                "id": "4",
+                "text": "himself"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "39",
+        "text": "Where is \u201cServant Maid Services\u201d located?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Cannot be inferred"
+            },
+            {
+                "id": "2",
+                "text": "In one of the suburban parts of Kolkata"
+            },
+            {
+                "id": "3",
+                "text": "In one of the ghettos"
+            },
+            {
+                "id": "4",
+                "text": "In the city of Kolkata"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "40",
+        "text": "What is a ghetto?",
+        "options": [
+            {
+                "id": "1",
+                "text": "A den of criminals"
+            },
+            {
+                "id": "2",
+                "text": "Slum area occupied by minority group"
+            },
+            {
+                "id": "3",
+                "text": "A locality of bootleggers"
+            },
+            {
+                "id": "4",
+                "text": "Walled portion of the old city"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "41",
+        "text": "What makes the illegal immigrants indispensable?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Their political power"
+            },
+            {
+                "id": "2",
+                "text": "The fear that they will retaliate if antagonized"
+            },
+            {
+                "id": "3",
+                "text": "The attraction of their cheap labour"
+            },
+            {
+                "id": "4",
+                "text": "The strength of their bargaining power"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "42",
+        "text": "Who are the illegal immigrant employees of \u201cServant Maid Services\u201d?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Poor labourers from other part of the country"
+            },
+            {
+                "id": "2",
+                "text": "People from Nepal, Bangladesh, and Pakistan"
+            },
+            {
+                "id": "3",
+                "text": "People mostly from Bangladesh"
+            },
+            {
+                "id": "4",
+                "text": "Rohingya refuges"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "43",
+        "text": "What is the reason for illegal immigrations?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Ill health"
+            },
+            {
+                "id": "2",
+                "text": "Religious persecution"
+            },
+            {
+                "id": "3",
+                "text": "Cultural differences"
+            },
+            {
+                "id": "4",
+                "text": "Social political and economic factors"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "44",
+        "text": "The word 'culture'",
+        "options": [
+            {
+                "id": "1",
+                "text": "belittles"
+            },
+            {
+                "id": "2",
+                "text": "instigates"
+            },
+            {
+                "id": "3",
+                "text": "circumscribes"
+            },
+            {
+                "id": "4",
+                "text": "discourages"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "45",
+        "text": "Cultivated people are now",
+        "options": [
+            {
+                "id": "1",
+                "text": "a majority"
+            },
+            {
+                "id": "2",
+                "text": "a minority"
+            },
+            {
+                "id": "3",
+                "text": "ubiquitous"
+            },
+            {
+                "id": "4",
+                "text": "degenerated"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "46",
+        "text": "Aristocracy means",
+        "options": [
+            {
+                "id": "1",
+                "text": "nobility"
+            },
+            {
+                "id": "2",
+                "text": "working force"
+            },
+            {
+                "id": "3",
+                "text": "boorish"
+            },
+            {
+                "id": "4",
+                "text": "fascinating"
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "47",
+        "text": "Culture as an inheritance of the past is",
+        "options": [
+            {
+                "id": "1",
+                "text": "admired"
+            },
+            {
+                "id": "2",
+                "text": "loved"
+            },
+            {
+                "id": "3",
+                "text": "hated"
+            },
+            {
+                "id": "4",
+                "text": "glorified"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "48",
+        "text": "Cultivated people are good",
+        "options": [
+            {
+                "id": "1",
+                "text": "boxers"
+            },
+            {
+                "id": "2",
+                "text": "businessmen"
+            },
+            {
+                "id": "3",
+                "text": "mixers"
+            },
+            {
+                "id": "4",
+                "text": "walkers"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "49",
+        "text": "(25)\u2070.\u2075 \u00d7 (16)\u2070.\u00b2\u2075 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "2"
+            },
+            {
+                "id": "2",
+                "text": "5"
+            },
+            {
+                "id": "3",
+                "text": "10"
+            },
+            {
+                "id": "4",
+                "text": "7"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "50",
+        "text": "(5\u00b3)\u02e3 \u00f7 (3\u00b3)\u02b8 = 134, then x =",
+        "options": [
+            {
+                "id": "1",
+                "text": "7"
+            },
+            {
+                "id": "2",
+                "text": "5"
+            },
+            {
+                "id": "3",
+                "text": "1"
+            },
+            {
+                "id": "4",
+                "text": "8"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "51",
+        "text": "If A : B = 5 : 3 and B : C = 7 : 8, then A : B : C =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1 : 3 : 4"
+            },
+            {
+                "id": "2",
+                "text": "35 : 21 : 24"
+            },
+            {
+                "id": "3",
+                "text": "25 : 33 : 45"
+            },
+            {
+                "id": "4",
+                "text": "35 : 40 : 66"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "52",
+        "text": "A container contains 50 litres of milk from which 5 litres was taken out and replaced by 5 litres of water. This process was repeated further two times. Then the ratio of milk and water in the container is",
+        "options": [
+            {
+                "id": "1",
+                "text": "71 : 29"
+            },
+            {
+                "id": "2",
+                "text": "81 : 19"
+            },
+            {
+                "id": "3",
+                "text": "639 : 181"
+            },
+            {
+                "id": "4",
+                "text": "729 : 271"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "53",
+        "text": "The rationalising factor 1/(\u221a125 - \u221a9) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "8"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "5"
+            },
+            {
+                "id": "4",
+                "text": "3"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "54",
+        "text": "\u221a49 + \u221a16 + 6 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "\u221a17"
+            },
+            {
+                "id": "2",
+                "text": "\u221a21"
+            },
+            {
+                "id": "3",
+                "text": "\u221a15"
+            },
+            {
+                "id": "4",
+                "text": "\u221a80"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "55",
+        "text": "If the 4 digits even number 'X54Y' is divisible by 11, then the number of possible ordered pairs (X,Y) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2"
+            },
+            {
+                "id": "2",
+                "text": "3"
+            },
+            {
+                "id": "3",
+                "text": "1"
+            },
+            {
+                "id": "4",
+                "text": "5"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "56",
+        "text": "What is the smallest 4 digit number which when decreased by 15, 20, 25 & 40 is exactly divisible by 15, 20, 25 ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1099"
+            },
+            {
+                "id": "2",
+                "text": "1599"
+            },
+            {
+                "id": "3",
+                "text": "1299"
+            },
+            {
+                "id": "4",
+                "text": "1199"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "57",
+        "text": "In six clocks alarm commence tolling together and ring at intervals of 3, 6, 9, 12, 15 and 18 seconds respectively. In one hour of duration how many times do they ring together?",
+        "options": [
+            {
+                "id": "1",
+                "text": "4"
+            },
+            {
+                "id": "2",
+                "text": "18"
+            },
+            {
+                "id": "3",
+                "text": "20"
+            },
+            {
+                "id": "4",
+                "text": "21"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "58",
+        "text": "The maximum number of students among whom 1001 pens and 910 note books can be distributed in such a way that each student gets the same number of pens and the same number of notebooks is",
+        "options": [
+            {
+                "id": "1",
+                "text": "90"
+            },
+            {
+                "id": "2",
+                "text": "100"
+            },
+            {
+                "id": "3",
+                "text": "91"
+            },
+            {
+                "id": "4",
+                "text": "101"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "59",
+        "text": "1.27 + 0.94 + (27)\u00b9/\u00b3 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "2.77"
+            },
+            {
+                "id": "2",
+                "text": "3.46"
+            },
+            {
+                "id": "3",
+                "text": "5.21"
+            },
+            {
+                "id": "4",
+                "text": "1.53"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "60",
+        "text": "If 'x' and 'y' are two rational numbers such that x < -1 and y > 1, then which one of the following is true",
+        "options": [
+            {
+                "id": "1",
+                "text": "|x| > y"
+            },
+            {
+                "id": "2",
+                "text": "y - x\u00b3 < 1"
+            },
+            {
+                "id": "3",
+                "text": "1/x\u00b2 > 1/y\u00b2"
+            },
+            {
+                "id": "4",
+                "text": "y\u00b2 + x\u00b2 > 2"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "61",
+        "text": "If A = 2/7, B = 3/11, C = 4/13 and D = 1/5, then",
+        "options": [
+            {
+                "id": "1",
+                "text": "A < B < D < C"
+            },
+            {
+                "id": "2",
+                "text": "D < B < A < C"
+            },
+            {
+                "id": "3",
+                "text": "C < A < D < B"
+            },
+            {
+                "id": "4",
+                "text": "B < A < D < C"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "62",
+        "text": "If P=\u221a3-1, Q=\u221a5-1, R=\u221a9-\u221a7 and S=\u221a7-\u221a5, then",
+        "options": [
+            {
+                "id": "1",
+                "text": "R < S < Q < P"
+            },
+            {
+                "id": "2",
+                "text": "P < Q < R < S"
+            },
+            {
+                "id": "3",
+                "text": "Q < P < S < R"
+            },
+            {
+                "id": "4",
+                "text": "S < R < Q < P"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "63",
+        "text": "'A' drank 3/5th of the water in a bottle and 'B' drank 20% of the remaining. If 'B' drank 3 litres of the water, then the amount of water originally in the bottle is",
+        "options": [
+            {
+                "id": "1",
+                "text": "37.5 litres"
+            },
+            {
+                "id": "2",
+                "text": "75 litres"
+            },
+            {
+                "id": "3",
+                "text": "100 litres"
+            },
+            {
+                "id": "4",
+                "text": "45 litres"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "64",
+        "text": "A person incurs 5% loss by selling a watch for Rs. 1140/-. At what price should the watch be sold to earn 5% profit?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Rs 1206"
+            },
+            {
+                "id": "2",
+                "text": "Rs 1620"
+            },
+            {
+                "id": "3",
+                "text": "Rs 1260"
+            },
+            {
+                "id": "4",
+                "text": "Rs 1200"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "65",
+        "text": "Instead of increasing the salary of an employee twice successively by 10%, the employer has given a one-time 20% hike. The percentage of loss or gain for the employee is",
+        "options": [
+            {
+                "id": "1",
+                "text": "0.9% gain"
+            },
+            {
+                "id": "2",
+                "text": "1% gain"
+            },
+            {
+                "id": "3",
+                "text": "1% loss"
+            },
+            {
+                "id": "4",
+                "text": "0.9% loss"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "66",
+        "text": "A person sells an article at a profit of 10%. If he had bought it at 10% less and sold it for Rs. 3 more, he would have gained 25%. Then the cost price of that article (in Rs.) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "111"
+            },
+            {
+                "id": "2",
+                "text": "112"
+            },
+            {
+                "id": "3",
+                "text": "130"
+            },
+            {
+                "id": "4",
+                "text": "120"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "67",
+        "text": "'P' and 'Q' are the only partners in a business. 'P' invests 1/4 of the capital for 15 months and 'Q' receives 2/3 of the total profit. For how many months Q's capital was in the business",
+        "options": [
+            {
+                "id": "1",
+                "text": "10"
+            },
+            {
+                "id": "2",
+                "text": "8"
+            },
+            {
+                "id": "3",
+                "text": "9"
+            },
+            {
+                "id": "4",
+                "text": "12"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "68",
+        "text": "Two partners 'A' and 'B' invest Rs. 1.25 lakhs and Rs. 0.75 lakhs respectively in a business. They agree to share 60% of the annual profit equally and the remaining 40% of the profit as interest for their capital. If 'A' gets Rs. 300 more than 'B', then the total annual profit (in thousands) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "30"
+            },
+            {
+                "id": "2",
+                "text": "3"
+            },
+            {
+                "id": "3",
+                "text": "30.50"
+            },
+            {
+                "id": "4",
+                "text": "3.5"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "69",
+        "text": "A pipe 'A' can fill an empty tank in 5 hours. But due to small hole at the bottom of the tank, the pipe took 8 hours to fill the tank. Then the time required for the full tank of water to drain through that tiny hole, in hours is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1 1/2 hours"
+            },
+            {
+                "id": "2",
+                "text": "12 2/3 hours"
+            },
+            {
+                "id": "3",
+                "text": "12 3/4 hours"
+            },
+            {
+                "id": "4",
+                "text": "13 1/3 hours"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "70",
+        "text": "A tank is filled in 5 hrs by three pipes together 'A', 'B' and 'C'. If the pipe 'C' is twice as fast as 'B' and 'B' is twice as fast as 'A', then the time that pipe 'A' alone take to fill the tank (in hours) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "35"
+            },
+            {
+                "id": "2",
+                "text": "25"
+            },
+            {
+                "id": "3",
+                "text": "20"
+            },
+            {
+                "id": "4",
+                "text": "30"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "71",
+        "text": "Walking at 10 KMPH speed, a person travels a distance of 'd' kilometres. If he increases his speed by 4 KMPH, he would have travelled 20 kilometres more than the same time, then 'd' is (in Km.)",
+        "options": [
+            {
+                "id": "1",
+                "text": "56"
+            },
+            {
+                "id": "2",
+                "text": "70"
+            },
+            {
+                "id": "3",
+                "text": "86"
+            },
+            {
+                "id": "4",
+                "text": "50"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "72",
+        "text": "A man takes 5 hours and 45 minutes for a round trip, by walk on onwards journey and by a car in return journey. He would have gained 2 hours if he travels by car by both ways. The time he would taken by walking both ways is",
+        "options": [
+            {
+                "id": "1",
+                "text": "3 hrs 45 mts"
+            },
+            {
+                "id": "2",
+                "text": "7 hrs 30 mts"
+            },
+            {
+                "id": "3",
+                "text": "11 hrs 45 mts"
+            },
+            {
+                "id": "4",
+                "text": "7 hrs 45 mts"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "73",
+        "text": "'A' and 'B' can complete a work in 15 days and 10 days respectively. They started the work together but after two days 'B' had to leave that work. The number of days 'A' alone can complete the remaining work is",
+        "options": [
+            {
+                "id": "1",
+                "text": "15"
+            },
+            {
+                "id": "2",
+                "text": "10"
+            },
+            {
+                "id": "3",
+                "text": "8"
+            },
+            {
+                "id": "4",
+                "text": "5"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "74",
+        "text": "Working independently 3 boys or 3 women or 1 man can do a piece of work in 44 days. Working together, the time needed (in days) to complete the same piece of work for 1 man, 1 woman and 1 boy is",
+        "options": [
+            {
+                "id": "1",
+                "text": "26"
+            },
+            {
+                "id": "2",
+                "text": "24"
+            },
+            {
+                "id": "3",
+                "text": "28"
+            },
+            {
+                "id": "4",
+                "text": "22"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "75",
+        "text": "The lengths of the diagonals of a rhombus are 60 cm and 25 cm. Then the area of the rhombus in square centimetres, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1500"
+            },
+            {
+                "id": "2",
+                "text": "750"
+            },
+            {
+                "id": "3",
+                "text": "1200"
+            },
+            {
+                "id": "4",
+                "text": "600"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "76",
+        "text": "The area (in sq.cm) of an equilateral triangle whose side is 4 cm is",
+        "options": [
+            {
+                "id": "1",
+                "text": "8\u221a3"
+            },
+            {
+                "id": "2",
+                "text": "4\u221a3"
+            },
+            {
+                "id": "3",
+                "text": "16\u221a3"
+            },
+            {
+                "id": "4",
+                "text": "2\u221a3"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "77",
+        "text": "If the volume of circular cylinder and a cone of same height are equal, then the ratio of their base radii, in that order, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1 : 3"
+            },
+            {
+                "id": "2",
+                "text": "1 : \u221a3"
+            },
+            {
+                "id": "3",
+                "text": "3 : 1"
+            },
+            {
+                "id": "4",
+                "text": "\u221a3 : 1"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "78",
+        "text": "If the total surface area of a cuboid whose sides are in the ratio 1 : 2 : 3 is 1078 square units, then its volume in cubic units is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1998"
+            },
+            {
+                "id": "2",
+                "text": "2058"
+            },
+            {
+                "id": "3",
+                "text": "2068"
+            },
+            {
+                "id": "4",
+                "text": "2508"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "79",
+        "text": "The area of a trapezium with 8 cm and 10 cm as lengths of the parallel sides is 144 cm\u00b2. Then the distance between the parallel sides (in centimetres) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "32"
+            },
+            {
+                "id": "2",
+                "text": "16"
+            },
+            {
+                "id": "3",
+                "text": "8"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "80",
+        "text": "In \u0394ABC, 'D', 'E' and 'F' are the midpoints of sides BC, CA, AB respectively. Then the area of quadrilateral BDEF formed is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/3 of area of \u0394ABC"
+            },
+            {
+                "id": "2",
+                "text": "Half of the area of \u0394ABC"
+            },
+            {
+                "id": "3",
+                "text": "1/4 of area of \u0394ABC"
+            },
+            {
+                "id": "4",
+                "text": "1/5 of area of \u0394ABC"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "81",
+        "text": "If the area of the sector cut from a circle of radius 12 units is 60 square units, then the angle of the sector (in degrees) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "5/6\u03c0"
+            },
+            {
+                "id": "2",
+                "text": "135/\u03c0"
+            },
+            {
+                "id": "3",
+                "text": "105/\u03c0"
+            },
+            {
+                "id": "4",
+                "text": "150/\u03c0"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "82",
+        "text": "y < x < |y| implies",
+        "options": [
+            {
+                "id": "1",
+                "text": "|x| < |y|, y > 0"
+            },
+            {
+                "id": "2",
+                "text": "|x| < |y|, y < 0"
+            },
+            {
+                "id": "3",
+                "text": "|x| < |y|, x < 0"
+            },
+            {
+                "id": "4",
+                "text": "|x| < |y|, x > 0"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "83",
+        "text": "If 3\u00b3 is divided by 7, then the remainder is",
+        "options": [
+            {
+                "id": "1",
+                "text": "4"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "5"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "84",
+        "text": "The contrapositive of statement \u201cif two triangles are congruent then they are similar\u201d is",
+        "options": [
+            {
+                "id": "1",
+                "text": "If two triangles are similar then they are congruent"
+            },
+            {
+                "id": "2",
+                "text": "If two triangles are not congruent then they are not similar"
+            },
+            {
+                "id": "3",
+                "text": "If two triangles are not similar then they are not congruent"
+            },
+            {
+                "id": "4",
+                "text": "If two triangles are similar then they are not congruent"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "85",
+        "text": "If f: R\u2192R is defined by f(x) = 2x + |x|, then f(2x) - f(-x) + f(-x) is equal to",
+        "options": [
+            {
+                "id": "1",
+                "text": "2x"
+            },
+            {
+                "id": "2",
+                "text": "-2|x|"
+            },
+            {
+                "id": "3",
+                "text": "2|x|"
+            },
+            {
+                "id": "4",
+                "text": "-2x"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "86",
+        "text": "The equation of the line having slope more than 1 and with the intercepts a, b on the X and Y axes respectively such that a + b = 2, ab = -3 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "x - 3y - 3 = 0"
+            },
+            {
+                "id": "2",
+                "text": "3x - 2y - 6 = 0"
+            },
+            {
+                "id": "3",
+                "text": "3x - y + 3 = 0"
+            },
+            {
+                "id": "4",
+                "text": "2x + 10y - 5 = 0"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "87",
+        "text": "sin 120\u00b0 cos 150\u00b0 \u2013 cos 240\u00b0 sin 330\u00b0 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "-1"
+            },
+            {
+                "id": "3",
+                "text": "2/3"
+            },
+            {
+                "id": "4",
+                "text": "[\u221a3+1]/4"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "88",
+        "text": "If the polynomials ax\u00b3 + 5x\u00b2 - x - 4 and 2x\u00b3 + 3x\u00b2 + x + a leave the same remainder when divided by x + 1, then a =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "-1"
+            },
+            {
+                "id": "4",
+                "text": "-2"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "89",
+        "text": "If 6/(x+y) + 1/(x-y) = 1 and 24/(x+y) + 6/(x-y) = 5, then xy =",
+        "options": [
+            {
+                "id": "1",
+                "text": "35"
+            },
+            {
+                "id": "2",
+                "text": "24"
+            },
+            {
+                "id": "3",
+                "text": "30"
+            },
+            {
+                "id": "4",
+                "text": "28"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "90",
+        "text": "If the 4th and 8th terms of a geometric progression are 8 and 128/625 respectively; then Common ratio r =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/25"
+            },
+            {
+                "id": "2",
+                "text": "4/25"
+            },
+            {
+                "id": "3",
+                "text": "2/5"
+            },
+            {
+                "id": "4",
+                "text": "4/5"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    }
+]

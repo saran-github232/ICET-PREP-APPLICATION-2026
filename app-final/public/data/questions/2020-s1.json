@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "How many sides are there in the regular polygon?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The sum of the internal angles of the polygon is 6\u03c0 radians"
+            },
+            {
+                "id": "2",
+                "text": "Length of each side of the polygon is 20 cm"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "2",
+        "text": "Are the roots of the equation 4ax\u00b2 + 5bx + 6c = 0 real?",
+        "options": [
+            {
+                "id": "1",
+                "text": "a : b : c = 2 : 3 : 4"
+            },
+            {
+                "id": "2",
+                "text": "a + b + c = 27"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "3",
+        "text": "Is the positive integer n, odd?",
+        "options": [
+            {
+                "id": "1",
+                "text": "n is the sequence of a composite number"
+            },
+            {
+                "id": "2",
+                "text": "n is the square root of a composite number"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 3,
+        "section": "Analytical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "4",
+        "text": "'Z' is in which direction with respect to 'X' ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "'Y' is to the south of 'X', 'Z' is to the east of 'P', and 'P' is to the north of 'Y'"
+            },
+            {
+                "id": "2",
+                "text": "'P' is to the south of 'X'"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "5",
+        "text": "Is triangle ABC equilateral?",
+        "options": [
+            {
+                "id": "1",
+                "text": "AB = AC"
+            },
+            {
+                "id": "2",
+                "text": "\u2220BAC = 60\u00b0"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Analytical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "6",
+        "text": "Is b > a ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "x + 3 is a factor of x\u2076 - 27b\u2076"
+            },
+            {
+                "id": "2",
+                "text": "x - 2 is a factor of x\u00b2 - 4a\u00b2b"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "7",
+        "text": "If 'X' and 'Y' are integers, then is 'z' an even integer?",
+        "options": [
+            {
+                "id": "1",
+                "text": "z = (x + y)\u00b2"
+            },
+            {
+                "id": "2",
+                "text": "z = 2x + 8y"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "8",
+        "text": "What is the volume of the sphere?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The surface area of the sphere is equal to the area of the circle with radius 5 units"
+            },
+            {
+                "id": "2",
+                "text": "The radius of the sphere is equal to half of the length of a diagonal of an inscribed cube"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "9",
+        "text": "Is the perimeter of the rectangle more than 65 cms?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Its length is less than 16 cm"
+            },
+            {
+                "id": "2",
+                "text": "Its breadth is greater than 10 cm"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "10",
+        "text": "Is 10, a factor of n + 5?",
+        "options": [
+            {
+                "id": "1",
+                "text": "'n' is odd and divisible by 9"
+            },
+            {
+                "id": "2",
+                "text": "'n' is even and divisible by 5"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "11",
+        "text": "What is the angle of the sector at the centre of a circle?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The perimeter of the sector is 16 units"
+            },
+            {
+                "id": "2",
+                "text": "Arc length of that sector is 10 units"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Analytical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "12",
+        "text": "What is the area of the right angled triangle in the XY-plane for which (2,3) and (-4,0) are two vertices",
+        "options": [
+            {
+                "id": "1",
+                "text": "The triangle crosses the Y-axis at exactly two points"
+            },
+            {
+                "id": "2",
+                "text": "The y-coordinates of two of the three vertices of the triangle are zeros"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "13",
+        "text": "A set 'S' consists of 6 integers. What is the median of these integers of 'S'?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The range of the set of integers is 'S' is 40"
+            },
+            {
+                "id": "2",
+                "text": "Arithmetic mean of the six integers in 'S' is 15"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "14",
+        "text": "123 : 18 :: 456 : ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "120"
+            },
+            {
+                "id": "2",
+                "text": "136"
+            },
+            {
+                "id": "3",
+                "text": "177"
+            },
+            {
+                "id": "4",
+                "text": "192"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "15",
+        "text": "AEI : 45 :: IOU : ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "535"
+            },
+            {
+                "id": "2",
+                "text": "135"
+            },
+            {
+                "id": "3",
+                "text": "1325"
+            },
+            {
+                "id": "4",
+                "text": "2835"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "16",
+        "text": "BC : 31 :: DE : ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "61"
+            },
+            {
+                "id": "2",
+                "text": "91"
+            },
+            {
+                "id": "3",
+                "text": "121"
+            },
+            {
+                "id": "4",
+                "text": "141"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "17",
+        "text": "24 : 120 :: ____ : 168",
+        "options": [
+            {
+                "id": "1",
+                "text": "48"
+            },
+            {
+                "id": "2",
+                "text": "49"
+            },
+            {
+                "id": "3",
+                "text": "58"
+            },
+            {
+                "id": "4",
+                "text": "59"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "18",
+        "text": "COW : DQZ :: RAT : ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "SBU"
+            },
+            {
+                "id": "2",
+                "text": "SCU"
+            },
+            {
+                "id": "3",
+                "text": "SCW"
+            },
+            {
+                "id": "4",
+                "text": "SBW"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "19",
+        "text": "11 : 170 :: ____ : 530",
+        "options": [
+            {
+                "id": "1",
+                "text": "17"
+            },
+            {
+                "id": "2",
+                "text": "19"
+            },
+            {
+                "id": "3",
+                "text": "21"
+            },
+            {
+                "id": "4",
+                "text": "23"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "20",
+        "text": "67 : 13 :: 79 : ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "26"
+            },
+            {
+                "id": "2",
+                "text": "16"
+            },
+            {
+                "id": "3",
+                "text": "25"
+            },
+            {
+                "id": "4",
+                "text": "17"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "21",
+        "text": "9 : 343 :: ____ : 216",
+        "options": [
+            {
+                "id": "1",
+                "text": "8"
+            },
+            {
+                "id": "2",
+                "text": "7"
+            },
+            {
+                "id": "3",
+                "text": "6"
+            },
+            {
+                "id": "4",
+                "text": "10"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "22",
+        "text": "7 : 57 :: 6 : ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "48"
+            },
+            {
+                "id": "2",
+                "text": "47"
+            },
+            {
+                "id": "3",
+                "text": "43"
+            },
+            {
+                "id": "4",
+                "text": "41"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "23",
+        "text": "81 : 3 :: 625 : ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "7"
+            },
+            {
+                "id": "2",
+                "text": "6"
+            },
+            {
+                "id": "3",
+                "text": "4"
+            },
+            {
+                "id": "4",
+                "text": "5"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "24",
+        "text": "Pick the odd thing out in the following.",
+        "options": [
+            {
+                "id": "1",
+                "text": "CLOUD"
+            },
+            {
+                "id": "2",
+                "text": "VAPOUR"
+            },
+            {
+                "id": "3",
+                "text": "RAIN"
+            },
+            {
+                "id": "4",
+                "text": "MIST"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "25",
+        "text": "Pick the odd thing out in the following.",
+        "options": [
+            {
+                "id": "1",
+                "text": "\u03c0"
+            },
+            {
+                "id": "2",
+                "text": "\u03c0/6"
+            },
+            {
+                "id": "3",
+                "text": "sin \u03c0/6"
+            },
+            {
+                "id": "4",
+                "text": "cos \u03c0/6"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "26",
+        "text": "Pick the odd thing out in the following.",
+        "options": [
+            {
+                "id": "1",
+                "text": "JULY"
+            },
+            {
+                "id": "2",
+                "text": "AUGUST"
+            },
+            {
+                "id": "3",
+                "text": "SEPTEMBER"
+            },
+            {
+                "id": "4",
+                "text": "OCTOBER"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "27",
+        "text": "Pick the odd thing out in the following.",
+        "options": [
+            {
+                "id": "1",
+                "text": "43"
+            },
+            {
+                "id": "2",
+                "text": "53"
+            },
+            {
+                "id": "3",
+                "text": "63"
+            },
+            {
+                "id": "4",
+                "text": "73"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "28",
+        "text": "Pick the odd thing out in the following.",
+        "options": [
+            {
+                "id": "1",
+                "text": "3138"
+            },
+            {
+                "id": "2",
+                "text": "1416"
+            },
+            {
+                "id": "3",
+                "text": "2327"
+            },
+            {
+                "id": "4",
+                "text": "4149"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "29",
+        "text": "X, U, S, P, N, K, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "L"
+            },
+            {
+                "id": "2",
+                "text": "M"
+            },
+            {
+                "id": "3",
+                "text": "J"
+            },
+            {
+                "id": "4",
+                "text": "I"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "30",
+        "text": "720, 120, 30, 6, 1, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "180"
+            },
+            {
+                "id": "2",
+                "text": "240"
+            },
+            {
+                "id": "3",
+                "text": "360"
+            },
+            {
+                "id": "4",
+                "text": "300"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "31",
+        "text": "8, 18, 38, 78, 158, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "218"
+            },
+            {
+                "id": "2",
+                "text": "318"
+            },
+            {
+                "id": "3",
+                "text": "358"
+            },
+            {
+                "id": "4",
+                "text": "258"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "32",
+        "text": "0, 3, 8, 15, 24, 35, ____, 63",
+        "options": [
+            {
+                "id": "1",
+                "text": "48"
+            },
+            {
+                "id": "2",
+                "text": "45"
+            },
+            {
+                "id": "3",
+                "text": "46"
+            },
+            {
+                "id": "4",
+                "text": "47"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "33",
+        "text": "1.5, 4, 7.5, 12, 17.5, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "22"
+            },
+            {
+                "id": "2",
+                "text": "25"
+            },
+            {
+                "id": "3",
+                "text": "23"
+            },
+            {
+                "id": "4",
+                "text": "24"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "34",
+        "text": "4, 18, 87, 431, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "2250"
+            },
+            {
+                "id": "2",
+                "text": "2550"
+            },
+            {
+                "id": "3",
+                "text": "2150"
+            },
+            {
+                "id": "4",
+                "text": "2350"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "35",
+        "text": "2, 6, 20, 42, 110, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "160"
+            },
+            {
+                "id": "2",
+                "text": "156"
+            },
+            {
+                "id": "3",
+                "text": "162"
+            },
+            {
+                "id": "4",
+                "text": "152"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "36",
+        "text": "5/6, 1/2, 1/6, 1/15, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/6"
+            },
+            {
+                "id": "2",
+                "text": "1/3"
+            },
+            {
+                "id": "3",
+                "text": "2/6"
+            },
+            {
+                "id": "4",
+                "text": "5/6"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "37",
+        "text": "4, 7, 12, 19, 28, 39, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "49"
+            },
+            {
+                "id": "2",
+                "text": "52"
+            },
+            {
+                "id": "3",
+                "text": "51"
+            },
+            {
+                "id": "4",
+                "text": "50"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "38",
+        "text": "5, 6, 4, 7, 3, 8, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "2"
+            },
+            {
+                "id": "2",
+                "text": "1"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "39",
+        "text": "The year in which the cost of a milk powder tin is least is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2014"
+            },
+            {
+                "id": "2",
+                "text": "2013"
+            },
+            {
+                "id": "3",
+                "text": "2012"
+            },
+            {
+                "id": "4",
+                "text": "2011"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Analysis",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "40",
+        "text": "The difference in the cost (in rupees) per tin in the years 2012 and 2015 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "30"
+            },
+            {
+                "id": "2",
+                "text": "35"
+            },
+            {
+                "id": "3",
+                "text": "300"
+            },
+            {
+                "id": "4",
+                "text": "350"
+            }
+        ],
+        "correct": 1,
+        "section": "Data Analysis",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "41",
+        "text": "The percentage increase in the cost per tin from 2011 to 2015 (corrected to two decimal places is)",
+        "options": [
+            {
+                "id": "1",
+                "text": "20.37"
+            },
+            {
+                "id": "2",
+                "text": "21.42"
+            },
+            {
+                "id": "3",
+                "text": "22.86"
+            },
+            {
+                "id": "4",
+                "text": "23.27"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Analysis",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "42",
+        "text": "The budget given to Agriculture by state II is what percent of the budget allocated to tourism by the same state (corrected to two decimal places)?",
+        "options": [
+            {
+                "id": "1",
+                "text": "35.71"
+            },
+            {
+                "id": "2",
+                "text": "280"
+            },
+            {
+                "id": "3",
+                "text": "37.51"
+            },
+            {
+                "id": "4",
+                "text": "140"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Analysis",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "43",
+        "text": "The budget allocated to the industry by state I, is what percent of the total budget of that state (corrected to two decimal places)?",
+        "options": [
+            {
+                "id": "1",
+                "text": "34.72"
+            },
+            {
+                "id": "2",
+                "text": "33.33"
+            },
+            {
+                "id": "3",
+                "text": "35.46"
+            },
+            {
+                "id": "4",
+                "text": "36.18"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Analysis",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "44",
+        "text": "The ratio of the budget allocations for the health to that of industry by state I is,",
+        "options": [
+            {
+                "id": "1",
+                "text": "25 : 16"
+            },
+            {
+                "id": "2",
+                "text": "16 : 25"
+            },
+            {
+                "id": "3",
+                "text": "25 : 6"
+            },
+            {
+                "id": "4",
+                "text": "6 : 25"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Analysis",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "45",
+        "text": "If the total budget of state II is Rs. 22,000 crores, then the amount in crores of rupees allocated to Industry, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1800"
+            },
+            {
+                "id": "2",
+                "text": "3600"
+            },
+            {
+                "id": "3",
+                "text": "3800"
+            },
+            {
+                "id": "4",
+                "text": "4400"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Analysis",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "46",
+        "text": "If the amount allocated by state I to tourism is RS. 855 crores, then the amount in crores of rupees allocated to agriculture by the same state, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1125"
+            },
+            {
+                "id": "2",
+                "text": "1235"
+            },
+            {
+                "id": "3",
+                "text": "1315"
+            },
+            {
+                "id": "4",
+                "text": "1375"
+            }
+        ],
+        "correct": 1,
+        "section": "Data Analysis",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "47",
+        "text": "The number of students who play only football is",
+        "options": [
+            {
+                "id": "1",
+                "text": "385"
+            },
+            {
+                "id": "2",
+                "text": "310"
+            },
+            {
+                "id": "3",
+                "text": "205"
+            },
+            {
+                "id": "4",
+                "text": "143"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Analysis",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "48",
+        "text": "The number of students who do not play any one of the given three games is",
+        "options": [
+            {
+                "id": "1",
+                "text": "663"
+            },
+            {
+                "id": "2",
+                "text": "687"
+            },
+            {
+                "id": "3",
+                "text": "347"
+            },
+            {
+                "id": "4",
+                "text": "1003"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Analysis",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "49",
+        "text": "GALAXY is coded as DXIXUV, then the code for STAR is",
+        "options": [
+            {
+                "id": "1",
+                "text": "PQXN"
+            },
+            {
+                "id": "2",
+                "text": "PQXM"
+            },
+            {
+                "id": "3",
+                "text": "PQXO"
+            },
+            {
+                "id": "4",
+                "text": "PQOX"
+            }
+        ],
+        "correct": 2,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "50",
+        "text": "If COMPUTER is coded as OCPMTURE, then the code for POPULATION is",
+        "options": [
+            {
+                "id": "1",
+                "text": "OPUPALITNO"
+            },
+            {
+                "id": "2",
+                "text": "OUPPLATION"
+            },
+            {
+                "id": "3",
+                "text": "OPPALUTION"
+            },
+            {
+                "id": "4",
+                "text": "OPPUAILTON"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "51",
+        "text": "If TABLE is coded as SZAKD, then the code for HOUSEHOLD is",
+        "options": [
+            {
+                "id": "1",
+                "text": "GNTSEGNKC"
+            },
+            {
+                "id": "2",
+                "text": "GOUSEGOLC"
+            },
+            {
+                "id": "3",
+                "text": "GOUSDGKNC"
+            },
+            {
+                "id": "4",
+                "text": "GNTRDGKNKC"
+            }
+        ],
+        "correct": 3,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "52",
+        "text": "If PLACEMENT is coded as MIXZBJBKQ, then the word that is coded as JLRBP is",
+        "options": [
+            {
+                "id": "1",
+                "text": "MOULD"
+            },
+            {
+                "id": "2",
+                "text": "MOUSE"
+            },
+            {
+                "id": "3",
+                "text": "METER"
+            },
+            {
+                "id": "4",
+                "text": "MONEY"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "53",
+        "text": "If GATE is coded as 10042308, then the LURE is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "15212108"
+            },
+            {
+                "id": "2",
+                "text": "15241805"
+            },
+            {
+                "id": "3",
+                "text": "15242108"
+            },
+            {
+                "id": "4",
+                "text": "12182105"
+            }
+        ],
+        "correct": 2,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "54",
+        "text": "The word 'BRING' is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "VQTXY"
+            },
+            {
+                "id": "2",
+                "text": "VPTBY"
+            },
+            {
+                "id": "3",
+                "text": "VPUXY"
+            },
+            {
+                "id": "4",
+                "text": "VQUBY"
+            }
+        ],
+        "correct": 2,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "55",
+        "text": "The word 'LEMON' is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "BC MIX"
+            },
+            {
+                "id": "2",
+                "text": "BPNJX"
+            },
+            {
+                "id": "3",
+                "text": "BPMJX"
+            },
+            {
+                "id": "4",
+                "text": "BC NIX"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "56",
+        "text": "The number of letters that are coded as the second letter that comes after any chosen letter",
+        "options": [
+            {
+                "id": "1",
+                "text": "4"
+            },
+            {
+                "id": "2",
+                "text": "3"
+            },
+            {
+                "id": "3",
+                "text": "2"
+            },
+            {
+                "id": "4",
+                "text": "1"
+            }
+        ],
+        "correct": 2,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "57",
+        "text": "The string of letters that is coded as 'MGKPT' is",
+        "options": [
+            {
+                "id": "1",
+                "text": "SHARP"
+            },
+            {
+                "id": "2",
+                "text": "MACTP"
+            },
+            {
+                "id": "3",
+                "text": "SACTP"
+            },
+            {
+                "id": "4",
+                "text": "MCARP"
+            }
+        ],
+        "correct": 3,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "58",
+        "text": "The string of letters that is coded as 'BSNLO' is,",
+        "options": [
+            {
+                "id": "1",
+                "text": "LAWFY"
+            },
+            {
+                "id": "2",
+                "text": "LWFTY"
+            },
+            {
+                "id": "3",
+                "text": "LAFTY"
+            },
+            {
+                "id": "4",
+                "text": "LWAFY"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "59",
+        "text": "If today is Wednesday, then the day of the week after 125 days is",
+        "options": [
+            {
+                "id": "1",
+                "text": "Sunday"
+            },
+            {
+                "id": "2",
+                "text": "Monday"
+            },
+            {
+                "id": "3",
+                "text": "Friday"
+            },
+            {
+                "id": "4",
+                "text": "Tuesday"
+            }
+        ],
+        "correct": 3,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "60",
+        "text": "The year next to 1991 having the same calendar as that of 1991 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2003"
+            },
+            {
+                "id": "2",
+                "text": "2001"
+            },
+            {
+                "id": "3",
+                "text": "2002"
+            },
+            {
+                "id": "4",
+                "text": "2000"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "61",
+        "text": "The acute angle between the hands of a clock when the clock shows 20 minutes past 4 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "20\u00b0"
+            },
+            {
+                "id": "2",
+                "text": "10\u00b0"
+            },
+            {
+                "id": "3",
+                "text": "15\u00b0"
+            },
+            {
+                "id": "4",
+                "text": "40\u00b0"
+            }
+        ],
+        "correct": 1,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "62",
+        "text": "At what time between 2 and 3 o'clock will the two hands of a clock be at right angles to each other?",
+        "options": [
+            {
+                "id": "1",
+                "text": "2 no 27 6/11 min past 2"
+            },
+            {
+                "id": "2",
+                "text": "2 no 28 3/11 min past 2"
+            },
+            {
+                "id": "3",
+                "text": "2 no 28 2/11 min past 2"
+            },
+            {
+                "id": "4",
+                "text": "2 no 27 3/11 min past 2"
+            }
+        ],
+        "correct": 3,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "63",
+        "text": "Introducing a man, a woman said \"he is the only son of my mother\". Then the woman related to the man as",
+        "options": [
+            {
+                "id": "1",
+                "text": "Aunt"
+            },
+            {
+                "id": "2",
+                "text": "Niece"
+            },
+            {
+                "id": "3",
+                "text": "Uncle"
+            },
+            {
+                "id": "4",
+                "text": "Nephew"
+            }
+        ],
+        "correct": 0,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "64",
+        "text": "A student 'R' arrived to his class by 9.15 am, and is late to the class by 40 minutes, but half an hour early to the arrival of another student 'Q' to the same class. If the student 'Q' is late to the class by 'x' minutes, then x =",
+        "options": [
+            {
+                "id": "1",
+                "text": "40"
+            },
+            {
+                "id": "2",
+                "text": "110"
+            },
+            {
+                "id": "3",
+                "text": "70"
+            },
+            {
+                "id": "4",
+                "text": "10"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "65",
+        "text": "There are 10 people a1, a2, .... a10 sitting around a circle facing the centre at equal distance. a1 is opposite to a6; a2 is on the right side of a1; a4 and a5 are on either side of a6 with a5 on the left; a3 is opposite to a8; a7 and a9 are on either side of a4. If a9 and a10 are between a2 and a5, then the persons on either side of a7 are",
+        "options": [
+            {
+                "id": "1",
+                "text": "a3, a6"
+            },
+            {
+                "id": "2",
+                "text": "a3, a8"
+            },
+            {
+                "id": "3",
+                "text": "a4, a8"
+            },
+            {
+                "id": "4",
+                "text": "a4, a9"
+            }
+        ],
+        "correct": 1,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "66",
+        "text": "If '+', '\u2013' is denoted by 'A', 'B', '\u00d7' is denoted by 'C' and '\u00f7' is denoted by 'D', then",
+        "options": [
+            {
+                "id": "1",
+                "text": "-8"
+            },
+            {
+                "id": "2",
+                "text": "6"
+            },
+            {
+                "id": "3",
+                "text": "-15"
+            },
+            {
+                "id": "4",
+                "text": "16"
+            }
+        ],
+        "correct": 3,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "67",
+        "text": "If m, n are two positive integers, define m\u2295n as the remainder obtained when 3m + 4n is divided by 9, then 7\u22958 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "5"
+            },
+            {
+                "id": "2",
+                "text": "8"
+            },
+            {
+                "id": "3",
+                "text": "4"
+            },
+            {
+                "id": "4",
+                "text": "7"
+            }
+        ],
+        "correct": 1,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "68",
+        "text": "If 'P' stands for '+', 'Q' stands for '\u2013', 'R' stands for '\u00d7' and 'S' stands for '\u00f7', then the value of (10 R 4) P (4 R 4) Q 6 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "60"
+            },
+            {
+                "id": "2",
+                "text": "46"
+            },
+            {
+                "id": "3",
+                "text": "56"
+            },
+            {
+                "id": "4",
+                "text": "50"
+            }
+        ],
+        "correct": 3,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "69",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "infertile"
+            },
+            {
+                "id": "2",
+                "text": "rich"
+            },
+            {
+                "id": "3",
+                "text": "prosperous"
+            },
+            {
+                "id": "4",
+                "text": "plenteous"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "70",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "indigent"
+            },
+            {
+                "id": "2",
+                "text": "careful"
+            },
+            {
+                "id": "3",
+                "text": "negligent"
+            },
+            {
+                "id": "4",
+                "text": "indifferent"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "71",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "eccentricity"
+            },
+            {
+                "id": "2",
+                "text": "alacrity"
+            },
+            {
+                "id": "3",
+                "text": "gullibility"
+            },
+            {
+                "id": "4",
+                "text": "probability"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "72",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "rusted"
+            },
+            {
+                "id": "2",
+                "text": "goodness"
+            },
+            {
+                "id": "3",
+                "text": "foolish"
+            },
+            {
+                "id": "4",
+                "text": "poverty"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "73",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Vigorous"
+            },
+            {
+                "id": "2",
+                "text": "Frail"
+            },
+            {
+                "id": "3",
+                "text": "Insipid"
+            },
+            {
+                "id": "4",
+                "text": "Tasteless"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "74",
+        "text": "Fill in the blank by choosing the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "fainted"
+            },
+            {
+                "id": "2",
+                "text": "fained"
+            },
+            {
+                "id": "3",
+                "text": "feigned"
+            },
+            {
+                "id": "4",
+                "text": "eluded"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "75",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "lavish"
+            },
+            {
+                "id": "2",
+                "text": "final"
+            },
+            {
+                "id": "3",
+                "text": "unmindful"
+            },
+            {
+                "id": "4",
+                "text": "forgive"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "76",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "precariousness"
+            },
+            {
+                "id": "2",
+                "text": "exaltation"
+            },
+            {
+                "id": "3",
+                "text": "leave"
+            },
+            {
+                "id": "4",
+                "text": "mystery"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "77",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "adaptable"
+            },
+            {
+                "id": "2",
+                "text": "flexible"
+            },
+            {
+                "id": "3",
+                "text": "ugly"
+            },
+            {
+                "id": "4",
+                "text": "modular"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "78",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "happiness"
+            },
+            {
+                "id": "2",
+                "text": "make"
+            },
+            {
+                "id": "3",
+                "text": "prepare"
+            },
+            {
+                "id": "4",
+                "text": "discharge"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "79",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Sultry"
+            },
+            {
+                "id": "2",
+                "text": "Poultry"
+            },
+            {
+                "id": "3",
+                "text": "Loose"
+            },
+            {
+                "id": "4",
+                "text": "defamation"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "80",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Grant"
+            },
+            {
+                "id": "2",
+                "text": "Slant"
+            },
+            {
+                "id": "3",
+                "text": "Plant"
+            },
+            {
+                "id": "4",
+                "text": "Gusto"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "81",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "incredible"
+            },
+            {
+                "id": "2",
+                "text": "gullible"
+            },
+            {
+                "id": "3",
+                "text": "creditable"
+            },
+            {
+                "id": "4",
+                "text": "creditworthy"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "82",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "tenant"
+            },
+            {
+                "id": "2",
+                "text": "absentee"
+            },
+            {
+                "id": "3",
+                "text": "tyrant"
+            },
+            {
+                "id": "4",
+                "text": "termagant"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "83",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "vigour"
+            },
+            {
+                "id": "2",
+                "text": "weariness"
+            },
+            {
+                "id": "3",
+                "text": "energy"
+            },
+            {
+                "id": "4",
+                "text": "likely"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "84",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Firefox"
+            },
+            {
+                "id": "2",
+                "text": "Opera"
+            },
+            {
+                "id": "3",
+                "text": "Internet Explorer"
+            },
+            {
+                "id": "4",
+                "text": "Yahoo"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "85",
+        "text": "\u2018Inventory\u2019 refers to",
+        "options": [
+            {
+                "id": "1",
+                "text": "Inventions of a company"
+            },
+            {
+                "id": "2",
+                "text": "Innovations of a company"
+            },
+            {
+                "id": "3",
+                "text": "Items or products of a company in stock"
+            },
+            {
+                "id": "4",
+                "text": "List of inventions and innovations of a company"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "86",
+        "text": "\u2018Outsource\u2019 in business means",
+        "options": [
+            {
+                "id": "1",
+                "text": "Being out of source for a business organization"
+            },
+            {
+                "id": "2",
+                "text": "Deficiency of employees in a company"
+            },
+            {
+                "id": "3",
+                "text": "Far reachable resources of a company"
+            },
+            {
+                "id": "4",
+                "text": "Assigning a job to persons outside a company"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "87",
+        "text": "\u201cBalance Sheet\u201d means",
+        "options": [
+            {
+                "id": "1",
+                "text": "A report that is balanced from falling down"
+            },
+            {
+                "id": "2",
+                "text": "A report about company\u2019s assets and liabilities"
+            },
+            {
+                "id": "3",
+                "text": "A report about company\u2019s assets, liabilities and shareholders\u2019 equity"
+            },
+            {
+                "id": "4",
+                "text": "A report that balance profits and losses"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "88",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Taking some denomination of the currency out of circulation"
+            },
+            {
+                "id": "2",
+                "text": "Taking higher denomination of the currency out of circulation completely"
+            },
+            {
+                "id": "3",
+                "text": "Pegging the value of the currency to lower level with reference to other international currencies"
+            },
+            {
+                "id": "4",
+                "text": "Changing the nomenclature of the currency"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "89",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "A young company founded with innovative ideas"
+            },
+            {
+                "id": "2",
+                "text": "Founding a company without any idea"
+            },
+            {
+                "id": "3",
+                "text": "Company started at call/demand"
+            },
+            {
+                "id": "4",
+                "text": "Company started up with a little amount of funds"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "90",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "A group businessmen coming together to fund a new company"
+            },
+            {
+                "id": "2",
+                "text": "A crowd coming forward to fund a crumbling company"
+            },
+            {
+                "id": "3",
+                "text": "A crowd funding a sick company"
+            },
+            {
+                "id": "4",
+                "text": "The use of small amounts of capital from a large number of individuals to finance a new business venture"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    }
+]

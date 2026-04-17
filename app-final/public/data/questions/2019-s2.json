@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "'P', 'Q', 'R' . 'P' Q 4/5 R Q 1/3 . P R Q . , P, Q R Rs. 1,08,000 R ( | )",
+        "options": [
+            {
+                "id": "1",
+                "text": "33,000"
+            },
+            {
+                "id": "2",
+                "text": "30,000"
+            },
+            {
+                "id": "3",
+                "text": "32,000"
+            },
+            {
+                "id": "4",
+                "text": "36,000"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "2",
+        "text": "Two pipes 'P' and 'Q' can respectively fill a cistern in 48 minutes and 60 minutes respectively. Both the pipes are opened for 20 minutes and then the pipe 'Q' is turned off. Then the time (in minutes) it takes further to fill the cistern is",
+        "options": [
+            {
+                "id": "1",
+                "text": "32"
+            },
+            {
+                "id": "2",
+                "text": "18"
+            },
+            {
+                "id": "3",
+                "text": "12"
+            },
+            {
+                "id": "4",
+                "text": "16"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "3",
+        "text": "Two pipes & a waste pipe can fill a cistern in 12 minutes and 16 minutes respectively and a waste pipe can drain it at 20 gallons per minute. If all the three pipes are opened simultaneously the cistern is filled in 24 minutes. Then the capacity of the cistern, in gallons, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "240"
+            },
+            {
+                "id": "2",
+                "text": "280"
+            },
+            {
+                "id": "3",
+                "text": "192"
+            },
+            {
+                "id": "4",
+                "text": "260"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "4",
+        "text": "Two persons 'A' and 'B' together can finish a piece of work in 16 days while 'B' and 'C' together can complete the same work in 20 days. If 'A', 'B', 'C' work together, the same work is completed in 12 days, then the number of days required for 'A' alone to complete the work is",
+        "options": [
+            {
+                "id": "1",
+                "text": "30"
+            },
+            {
+                "id": "2",
+                "text": "25"
+            },
+            {
+                "id": "3",
+                "text": "28"
+            },
+            {
+                "id": "4",
+                "text": "24"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "5",
+        "text": "If 'P' and 'Q' can do a piece of work in 18 days, 'Q' and 'R' can do it in 24 days, 'P' and 'R' can do it in 36 days, then the time (in days) needed by 'P' alone to finish that work, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "45"
+            },
+            {
+                "id": "2",
+                "text": "48"
+            },
+            {
+                "id": "3",
+                "text": "24"
+            },
+            {
+                "id": "4",
+                "text": "32"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "6",
+        "text": "A window is in the shape of a rectangle surmounted by a semicircle on the length side of the rectangle. If the dimensions of the sides of the rectangle are 16 cm and 6 cm, then the area of that window, in square centimetres, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "16(3 + \u03c0)"
+            },
+            {
+                "id": "2",
+                "text": "24(3 + \u03c0)"
+            },
+            {
+                "id": "3",
+                "text": "32(3 + \u03c0)"
+            },
+            {
+                "id": "4",
+                "text": "40(3 + \u03c0)"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "7",
+        "text": "If the perimeter and diagonal of a rectangle are 18 m and 5 m respectively, then the area of that rectangle (in sq. meter) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "56"
+            },
+            {
+                "id": "2",
+                "text": "36"
+            },
+            {
+                "id": "3",
+                "text": "28"
+            },
+            {
+                "id": "4",
+                "text": "48"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "8",
+        "text": "If a metallic solid sphere of diameter 6 cm is drawn into a uniform wire of diameter 4 mm, then the length (in meters) of the wire so drawn is",
+        "options": [
+            {
+                "id": "1",
+                "text": "6"
+            },
+            {
+                "id": "2",
+                "text": "8"
+            },
+            {
+                "id": "3",
+                "text": "10"
+            },
+            {
+                "id": "4",
+                "text": "9"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "9",
+        "text": "Three circles of radius 8 cm each are touching each other externally. Then the area (in sq. cm) inside the triangle formed by joining their centres that is covered by the 3 circles is",
+        "options": [
+            {
+                "id": "1",
+                "text": "32\u03c0"
+            },
+            {
+                "id": "2",
+                "text": "64\u03c0"
+            },
+            {
+                "id": "3",
+                "text": "32\u03c0/3"
+            },
+            {
+                "id": "4",
+                "text": "64\u03c0/3"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "10",
+        "text": "If the angle of a sector of a circle of radius 21 cm is 75\u00b0, then the perimeter of that sector approximately (in cms) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "72"
+            },
+            {
+                "id": "2",
+                "text": "69.5"
+            },
+            {
+                "id": "3",
+                "text": "63"
+            },
+            {
+                "id": "4",
+                "text": "79.5"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "11",
+        "text": "The floor area of a conical shaped tent is 154 sq.m and its vertical height is 24m. If each square meter of canvas costs Rs. 15.50, the approximate cost of the canvas needed for the tent (in Rs) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "8525"
+            },
+            {
+                "id": "2",
+                "text": "9525"
+            },
+            {
+                "id": "3",
+                "text": "8275"
+            },
+            {
+                "id": "4",
+                "text": "9250"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "12",
+        "text": "15(10) = ______(2)",
+        "options": [
+            {
+                "id": "1",
+                "text": "1110"
+            },
+            {
+                "id": "2",
+                "text": "0111"
+            },
+            {
+                "id": "3",
+                "text": "1011"
+            },
+            {
+                "id": "4",
+                "text": "1111"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "13",
+        "text": "For a,b \u2208 Z+, define a^b as the remainder obtained when a^b is divided by 23. Then 7*13 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "13"
+            },
+            {
+                "id": "2",
+                "text": "14"
+            },
+            {
+                "id": "3",
+                "text": "15"
+            },
+            {
+                "id": "4",
+                "text": "16"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "14",
+        "text": "The contra positive of p \u2192 (q \u2192 r) is equivalent to",
+        "options": [
+            {
+                "id": "1",
+                "text": "(~q \u2227 r) \u2192 p"
+            },
+            {
+                "id": "2",
+                "text": "(q \u2227 ~r) \u2192 ~p"
+            },
+            {
+                "id": "3",
+                "text": "(q \u2227 ~r) \u2192 p"
+            },
+            {
+                "id": "4",
+                "text": "p \u2192 (q \u2227 ~r)"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "15",
+        "text": "If f(x) = (x+1)/(x-1) for x \u2260 1, then f(o f(x)) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "f(x)"
+            },
+            {
+                "id": "2",
+                "text": "1"
+            },
+            {
+                "id": "3",
+                "text": "1/f(x)"
+            },
+            {
+                "id": "4",
+                "text": "0"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "16",
+        "text": "The equation of the straight line passing through the point (2, -3) and making equal intercepts on the coordinate axes, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "x - y - 5 = 0"
+            },
+            {
+                "id": "2",
+                "text": "x + 2y + 4 = 0"
+            },
+            {
+                "id": "3",
+                "text": "2x - y - 7 = 0"
+            },
+            {
+                "id": "4",
+                "text": "x + y + 1 = 0"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "17",
+        "text": "1 / (sin 10\u00b0 cos 10\u00b0) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1 / sqrt(3)"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "18",
+        "text": "When ax^2+bx+2 is divided by x-1 and x+2 if the remainders are 6 and 0 respectively, then the quadratic equation formed with 'a' and 'b' as its roots is",
+        "options": [
+            {
+                "id": "1",
+                "text": "x^2 + 2x - 3 = 0"
+            },
+            {
+                "id": "2",
+                "text": "x^2 - 4x + 3 = 0"
+            },
+            {
+                "id": "3",
+                "text": "x^2 + 4x + 3 = 0"
+            },
+            {
+                "id": "4",
+                "text": "x^2 - 5x + 6 = 0"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "19",
+        "text": "If the system of equations cx+3y = c-3 and 12x+cy = c has infinitely many solutions, then the value of 'c' is",
+        "options": [
+            {
+                "id": "1",
+                "text": "5"
+            },
+            {
+                "id": "2",
+                "text": "4"
+            },
+            {
+                "id": "3",
+                "text": "6"
+            },
+            {
+                "id": "4",
+                "text": "-3"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "20",
+        "text": "The sum of all the odd integers between 2 and 100 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2400"
+            },
+            {
+                "id": "2",
+                "text": "2499"
+            },
+            {
+                "id": "3",
+                "text": "2500"
+            },
+            {
+                "id": "4",
+                "text": "2599"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "21",
+        "text": "If in a geometric progression, the difference between 5th term and 4th term is 576 and the difference between its 2nd term and first term is 9, then the 6th term of that progression is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2172"
+            },
+            {
+                "id": "2",
+                "text": "2972"
+            },
+            {
+                "id": "3",
+                "text": "3076"
+            },
+            {
+                "id": "4",
+                "text": "3072"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "22",
+        "text": "A= [[2, 2, 1], [1, 2, 2], [2, 1, 2]] => (Adj A)-1 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/5 A"
+            },
+            {
+                "id": "2",
+                "text": "5A"
+            },
+            {
+                "id": "3",
+                "text": "-1/4 A"
+            },
+            {
+                "id": "4",
+                "text": "4A"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "23",
+        "text": "The incenter of the triangle formed by the points (2, 3), (-2, -5) and (-4, 6) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "(1, -2)"
+            },
+            {
+                "id": "2",
+                "text": "(-1, 2)"
+            },
+            {
+                "id": "3",
+                "text": "(1, 2)"
+            },
+            {
+                "id": "4",
+                "text": "(-1, -2)"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "24",
+        "text": "If the arithmetic mean of x1, x2, ..., xn whose sum of squares is 51, then the arithmetic mean of 7x1-21, 7x2-21, ..., 7xn-21 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "30"
+            },
+            {
+                "id": "2",
+                "text": "153"
+            },
+            {
+                "id": "3",
+                "text": "336"
+            },
+            {
+                "id": "4",
+                "text": "357"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "25",
+        "text": "The median of 12, 14, 10, 16, 8, 6, 18, 15, 11 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "11"
+            },
+            {
+                "id": "2",
+                "text": "12"
+            },
+            {
+                "id": "3",
+                "text": "10"
+            },
+            {
+                "id": "4",
+                "text": "14"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "26",
+        "text": "The mode of 42, 36, 44, 38, 36, 40, 45, 36 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "40"
+            },
+            {
+                "id": "2",
+                "text": "42"
+            },
+            {
+                "id": "3",
+                "text": "36"
+            },
+            {
+                "id": "4",
+                "text": "38"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "27",
+        "text": "If the median of some numbers is 16.8 and their arithmetic mean is 18.4, then their mode is",
+        "options": [
+            {
+                "id": "1",
+                "text": "13.2"
+            },
+            {
+                "id": "2",
+                "text": "12.4"
+            },
+            {
+                "id": "3",
+                "text": "12.6"
+            },
+            {
+                "id": "4",
+                "text": "13.6"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "28",
+        "text": "The mean deviation of 1, 2, 3, 4, 2 about their arithmetic mean is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1.8"
+            },
+            {
+                "id": "2",
+                "text": "0.84"
+            },
+            {
+                "id": "3",
+                "text": "0.88"
+            },
+            {
+                "id": "4",
+                "text": "1.6"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "29",
+        "text": "The standard deviation of four consecutive positive integers is",
+        "options": [
+            {
+                "id": "1",
+                "text": "5/sqrt(2)"
+            },
+            {
+                "id": "2",
+                "text": "5/2"
+            },
+            {
+                "id": "3",
+                "text": "sqrt(5)/2"
+            },
+            {
+                "id": "4",
+                "text": "sqrt(5)/sqrt(2)"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "30",
+        "text": "The arithmetic mean of 10 numbers is 6, but it was later observed that one of the numbers was misread as 9. After correcting the wrong entry, if their mean was 7, then actual value of that wrong entry is",
+        "options": [
+            {
+                "id": "1",
+                "text": "20"
+            },
+            {
+                "id": "2",
+                "text": "17"
+            },
+            {
+                "id": "3",
+                "text": "19"
+            },
+            {
+                "id": "4",
+                "text": "18"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "31",
+        "text": "If a problem in probability is given to 3 students 'P', 'Q' and 'R' whose chances of solving it are 1/2, 1/3 and 1/4 respectively, then the probability that the problem will be solved is",
+        "options": [
+            {
+                "id": "1",
+                "text": "3/4"
+            },
+            {
+                "id": "2",
+                "text": "2/3"
+            },
+            {
+                "id": "3",
+                "text": "4/5"
+            },
+            {
+                "id": "4",
+                "text": "5/6"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "32",
+        "text": "The probability that a student 'A' succeeds in a test is 0.85 and the probability that 'B' succeeds in the same test is 0.75. Then the probability that exactly one of them succeeds in that test is",
+        "options": [
+            {
+                "id": "1",
+                "text": "13/20"
+            },
+            {
+                "id": "2",
+                "text": "13/80"
+            },
+            {
+                "id": "3",
+                "text": "13/40"
+            },
+            {
+                "id": "4",
+                "text": "17/40"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "33",
+        "text": "'A' and 'B' are two sets such that n(A) = 4 and n(B) = 2. If a relation from A to B is selected at random, then the probability that their relation is not a function is",
+        "options": [
+            {
+                "id": "1",
+                "text": "7/8"
+            },
+            {
+                "id": "2",
+                "text": "1/16"
+            },
+            {
+                "id": "3",
+                "text": "3/16"
+            },
+            {
+                "id": "4",
+                "text": "15/16"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "34",
+        "text": "What is the perimeter of \u25b3ABC?",
+        "options": [
+            {
+                "id": "1",
+                "text": "\u25b3ABC ?"
+            },
+            {
+                "id": "2",
+                "text": "\u25b3ABC is an equilateral triangle \u25b3ABC"
+            },
+            {
+                "id": "3",
+                "text": "Area of \u25b3ABC is 4\u221a3 sq.cms \u25b3ABC 4\u221a3 . . ."
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "35",
+        "text": "What is the digit in the unit's place of a six digit positive integer?",
+        "options": [
+            {
+                "id": "1",
+                "text": "?"
+            },
+            {
+                "id": "2",
+                "text": "n leaves the remainder 7 when divided by 10 n 10 7"
+            },
+            {
+                "id": "3",
+                "text": "n is divisible by 7 7 ."
+            },
+            {
+                "id": "4",
+                "text": "2"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "36",
+        "text": "Who is the tallest among A, B, C and D?",
+        "options": [
+            {
+                "id": "1",
+                "text": "A, B, C, D ?"
+            },
+            {
+                "id": "2",
+                "text": "A is taller than B but shorter than C B A C"
+            },
+            {
+                "id": "3",
+                "text": "D is taller than B but shorter than A B D A"
+            },
+            {
+                "id": "4",
+                "text": "3"
+            }
+        ],
+        "correct": 2,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "37",
+        "text": "If A and B are two non empty sets what are the elements in B?",
+        "options": [
+            {
+                "id": "1",
+                "text": "A, B B ?"
+            },
+            {
+                "id": "2",
+                "text": "A \u2229 B = {1,2,3,4,5,6,7}"
+            },
+            {
+                "id": "3",
+                "text": "A-B = {8,9,10,11,12,13}"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "38",
+        "text": "What is the present age of the son?",
+        "options": [
+            {
+                "id": "1",
+                "text": "?"
+            },
+            {
+                "id": "2",
+                "text": "The sum of the present ages of the father and the son is 45 , 45"
+            },
+            {
+                "id": "3",
+                "text": "Five years ago the father's age was 6 times the age of the son 6 ."
+            },
+            {
+                "id": "4",
+                "text": "3"
+            }
+        ],
+        "correct": 2,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "39",
+        "text": "What is the average weight of the four students A, B, C and D?",
+        "options": [
+            {
+                "id": "1",
+                "text": "A, B, C, D ?"
+            },
+            {
+                "id": "2",
+                "text": "Average weight of A, B and C is 64 kg A, B, C 64 . ."
+            },
+            {
+                "id": "3",
+                "text": "Average weight of B, C and D is 66 kg. B, C, D 66 . ."
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 3,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "40",
+        "text": "When was Amar born?",
+        "options": [
+            {
+                "id": "1",
+                "text": "?"
+            },
+            {
+                "id": "2",
+                "text": "Amar is older than Ram who was born on August 20, 1996. 20,1996 ."
+            },
+            {
+                "id": "3",
+                "text": "Amar will be 45 years old on 15th August, 2020. 15, 2020 45 ."
+            },
+            {
+                "id": "4",
+                "text": "2"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "41",
+        "text": "What is the speed of that train?",
+        "options": [
+            {
+                "id": "1",
+                "text": "?"
+            },
+            {
+                "id": "2",
+                "text": "The train is 40 meters long. 40"
+            },
+            {
+                "id": "3",
+                "text": "The train takes 40 minutes to travel between 2 stations A and B. A B 40 ."
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "42",
+        "text": "How many days are needed for A to complete a piece of work?",
+        "options": [
+            {
+                "id": "1",
+                "text": "A ?"
+            },
+            {
+                "id": "2",
+                "text": "A and B require 20 days to complete the work A, B 20"
+            },
+            {
+                "id": "3",
+                "text": "A takes 10 days more than B to complete the work B A 10 ."
+            },
+            {
+                "id": "4",
+                "text": "3"
+            }
+        ],
+        "correct": 2,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "43",
+        "text": "If 115 < m < 125, then what is the positive integer m?",
+        "options": [
+            {
+                "id": "1",
+                "text": "115 < m < 125 , m?"
+            },
+            {
+                "id": "2",
+                "text": "m leaves remainder 2 when divided by 4 m 4 2"
+            },
+            {
+                "id": "3",
+                "text": "m+3 is a multiple of 11 m+3 11"
+            },
+            {
+                "id": "4",
+                "text": "2"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "44",
+        "text": "What are the sides of right angled triangle?",
+        "options": [
+            {
+                "id": "1",
+                "text": "?"
+            },
+            {
+                "id": "2",
+                "text": "The perimeter of the triangle is 60 cm 60 . ."
+            },
+            {
+                "id": "3",
+                "text": "The difference between the height and the base is 14 cm. 14 . ."
+            },
+            {
+                "id": "4",
+                "text": "3"
+            }
+        ],
+        "correct": 2,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "45",
+        "text": "Is x+y a positive integer?",
+        "options": [
+            {
+                "id": "1",
+                "text": "x+y ?"
+            },
+            {
+                "id": "2",
+                "text": "x+3 is equal to the larger root of x\u00b2 \u2013 16 = 0 x\u00b2 \u2013 16 = 0 x + 3"
+            },
+            {
+                "id": "3",
+                "text": "y+3 is the real root of x\u00b3 + 27 = 0 y+3"
+            },
+            {
+                "id": "4",
+                "text": "3"
+            }
+        ],
+        "correct": 2,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "46",
+        "text": "Is the angle of the triangle ABC acute?",
+        "options": [
+            {
+                "id": "1",
+                "text": "\u2220ABC \u2220A ?"
+            },
+            {
+                "id": "2",
+                "text": "ABC is a right angled triangle ABC"
+            },
+            {
+                "id": "3",
+                "text": "\u2220B = 90\u00b0"
+            },
+            {
+                "id": "4",
+                "text": "2"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "47",
+        "text": "What is the average of 5 real numbers a, b,c,d, e?",
+        "options": [
+            {
+                "id": "1",
+                "text": "a,b,c,d, e ?"
+            },
+            {
+                "id": "2",
+                "text": "a + e = 20"
+            },
+            {
+                "id": "3",
+                "text": "a, b, c, d, e AP"
+            },
+            {
+                "id": "4",
+                "text": "3"
+            }
+        ],
+        "correct": 2,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "48",
+        "text": "What is the share of A in the profit in a business at the end of the year when there are three partners A, B and C in the business?",
+        "options": [
+            {
+                "id": "1",
+                "text": "A, B, C A ?"
+            },
+            {
+                "id": "2",
+                "text": "The total profit in the business at the end of the year is Rs. 10,000 . 10,000"
+            },
+            {
+                "id": "3",
+                "text": "A's capital in the business is twice that of B. A B"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 3,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "49",
+        "text": "If A is a set with 15 elements and P is a subset of A, then what is the number of subsets of A which are disjoint with P.",
+        "options": [
+            {
+                "id": "1",
+                "text": "15 A P , P A"
+            },
+            {
+                "id": "2",
+                "text": "P has less than 7 elements"
+            },
+            {
+                "id": "3",
+                "text": "The largest subset of A which is disjoint from P has 10 elements"
+            },
+            {
+                "id": "4",
+                "text": "2"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "50",
+        "text": "What is the number of common tangents to the two circles?",
+        "options": [
+            {
+                "id": "1",
+                "text": ""
+            },
+            {
+                "id": "2",
+                "text": "The number of points common to the two circles is 0."
+            },
+            {
+                "id": "3",
+                "text": "The radii of the two circles are in the ratio 3 : 4"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "51",
+        "text": "Is the function f an odd function?",
+        "options": [
+            {
+                "id": "1",
+                "text": "f ?"
+            },
+            {
+                "id": "2",
+                "text": "f(-2) = f(2)"
+            },
+            {
+                "id": "3",
+                "text": "f(-3) = -f(3)"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "52",
+        "text": "Is the positive integer n a prime?",
+        "options": [
+            {
+                "id": "1",
+                "text": "n ?"
+            },
+            {
+                "id": "2",
+                "text": "n\u00b3 has at least four divisors n\u00b3"
+            },
+            {
+                "id": "3",
+                "text": "n\u00b2 has exactly three divisors n\u00b2"
+            },
+            {
+                "id": "4",
+                "text": "2"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "53",
+        "text": "Sunday : Monday :: August : ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "June"
+            },
+            {
+                "id": "2",
+                "text": "July"
+            },
+            {
+                "id": "3",
+                "text": "September"
+            },
+            {
+                "id": "4",
+                "text": "October"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "54",
+        "text": "Country :: Human Body : : White Blood cells",
+        "options": [
+            {
+                "id": "1",
+                "text": "People"
+            },
+            {
+                "id": "2",
+                "text": "Politicians"
+            },
+            {
+                "id": "3",
+                "text": "Army"
+            },
+            {
+                "id": "4",
+                "text": "Ambulance"
+            }
+        ],
+        "correct": 2,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "55",
+        "text": "49:13::81:__",
+        "options": [
+            {
+                "id": "1",
+                "text": "15"
+            },
+            {
+                "id": "2",
+                "text": "19"
+            },
+            {
+                "id": "3",
+                "text": "17"
+            },
+            {
+                "id": "4",
+                "text": "21"
+            }
+        ],
+        "correct": 2,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "56",
+        "text": "11:56::13:__",
+        "options": [
+            {
+                "id": "1",
+                "text": "185"
+            },
+            {
+                "id": "2",
+                "text": "200"
+            },
+            {
+                "id": "3",
+                "text": "205"
+            },
+            {
+                "id": "4",
+                "text": "210"
+            }
+        ],
+        "correct": 3,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "57",
+        "text": "__ :Temperature:: Barometer : Pressure",
+        "options": [
+            {
+                "id": "1",
+                "text": "Furnace"
+            },
+            {
+                "id": "2",
+                "text": "Thermometer"
+            },
+            {
+                "id": "3",
+                "text": "Flask"
+            },
+            {
+                "id": "4",
+                "text": "Centigrade"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "58",
+        "text": "BET : YIGW ::",
+        "options": [
+            {
+                "id": "1",
+                "text": "PED"
+            },
+            {
+                "id": "2",
+                "text": "QOF"
+            },
+            {
+                "id": "3",
+                "text": "QOD"
+            },
+            {
+                "id": "4",
+                "text": "PEF"
+            }
+        ],
+        "correct": 2,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "59",
+        "text": "MARKET :: JISLEQ :: PENCIL : __",
+        "options": [
+            {
+                "id": "1",
+                "text": "BOKNIM"
+            },
+            {
+                "id": "2",
+                "text": "NIMBOK"
+            },
+            {
+                "id": "3",
+                "text": "DOMQIP"
+            },
+            {
+                "id": "4",
+                "text": "QIPDOM"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "60",
+        "text": "LEARN:56::PURSE:__",
+        "options": [
+            {
+                "id": "1",
+                "text": "79"
+            },
+            {
+                "id": "2",
+                "text": "94"
+            },
+            {
+                "id": "3",
+                "text": "105"
+            },
+            {
+                "id": "4",
+                "text": "125"
+            }
+        ],
+        "correct": 2,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "61",
+        "text": "PET:64::RIN:__",
+        "options": [
+            {
+                "id": "1",
+                "text": "80"
+            },
+            {
+                "id": "2",
+                "text": "48"
+            },
+            {
+                "id": "3",
+                "text": "35"
+            },
+            {
+                "id": "4",
+                "text": "28"
+            }
+        ],
+        "correct": 2,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "62",
+        "text": "BRING:HPESC::______:QNOV T",
+        "options": [
+            {
+                "id": "1",
+                "text": "SPEND"
+            },
+            {
+                "id": "2",
+                "text": "STUMP"
+            },
+            {
+                "id": "3",
+                "text": "SPERM"
+            },
+            {
+                "id": "4",
+                "text": "STAMP"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "63",
+        "text": "In the following questions pick the odd thing out.",
+        "options": [
+            {
+                "id": "1",
+                "text": "x\u00b3 \u2013 8 = 0"
+            },
+            {
+                "id": "2",
+                "text": "x\u00b3 \u2013 27 = 0"
+            },
+            {
+                "id": "3",
+                "text": "x\u00b3 \u2013 64 = 0"
+            },
+            {
+                "id": "4",
+                "text": "x\u00b3 \u2013 625 = 0"
+            }
+        ],
+        "correct": 3,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "64",
+        "text": "In the following questions pick the odd thing out.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1 2 4 | 2 4 8 | 3 5 7"
+            },
+            {
+                "id": "2",
+                "text": "1 3 9 | 2 6 18 | 3 7 14"
+            },
+            {
+                "id": "3",
+                "text": "0 1 1 | 0 2 2 | 3 5 7"
+            },
+            {
+                "id": "4",
+                "text": "1 2 3 | 4 5 6 | 7 8 9"
+            }
+        ],
+        "correct": 3,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "65",
+        "text": "In the following questions pick the odd thing out.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Fish"
+            },
+            {
+                "id": "2",
+                "text": "Frog"
+            },
+            {
+                "id": "3",
+                "text": "Crocodile"
+            },
+            {
+                "id": "4",
+                "text": "Tortoise"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "66",
+        "text": "In the following questions pick the odd thing out.",
+        "options": [
+            {
+                "id": "1",
+                "text": "CGK"
+            },
+            {
+                "id": "2",
+                "text": "BEI"
+            },
+            {
+                "id": "3",
+                "text": "AEI"
+            },
+            {
+                "id": "4",
+                "text": "DHL"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "67",
+        "text": "In the following questions pick the odd thing out.",
+        "options": [
+            {
+                "id": "1",
+                "text": "D14X"
+            },
+            {
+                "id": "2",
+                "text": "F10R"
+            },
+            {
+                "id": "3",
+                "text": "H12P"
+            },
+            {
+                "id": "4",
+                "text": "J15T"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "68",
+        "text": "The following questions follow a definite pattern. Observe the same and fill in the blanks with suitable answers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "153"
+            },
+            {
+                "id": "2",
+                "text": "159"
+            },
+            {
+                "id": "3",
+                "text": "183"
+            },
+            {
+                "id": "4",
+                "text": "209"
+            }
+        ],
+        "correct": 2,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "69",
+        "text": "The following questions follow a definite pattern. Observe the same and fill in the blanks with suitable answers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "127"
+            },
+            {
+                "id": "2",
+                "text": "142"
+            },
+            {
+                "id": "3",
+                "text": "152"
+            },
+            {
+                "id": "4",
+                "text": "157"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "70",
+        "text": "The following questions follow a definite pattern. Observe the same and fill in the blanks with suitable answers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "289"
+            },
+            {
+                "id": "2",
+                "text": "256"
+            },
+            {
+                "id": "3",
+                "text": "288"
+            },
+            {
+                "id": "4",
+                "text": "324"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "71",
+        "text": "The following questions follow a definite pattern. Observe the same and fill in the blanks with suitable answers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1 1/3"
+            },
+            {
+                "id": "2",
+                "text": "1 2/3"
+            },
+            {
+                "id": "3",
+                "text": "1 4/3"
+            },
+            {
+                "id": "4",
+                "text": "1 5/6"
+            }
+        ],
+        "correct": 3,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "72",
+        "text": "The following questions follow a definite pattern. Observe the same and fill in the blanks with suitable answers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "11550"
+            },
+            {
+                "id": "2",
+                "text": "15500"
+            },
+            {
+                "id": "3",
+                "text": "15650"
+            },
+            {
+                "id": "4",
+                "text": "15670"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "73",
+        "text": "The following questions follow a definite pattern. Observe the same and fill in the blanks with suitable answers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "68"
+            },
+            {
+                "id": "2",
+                "text": "66"
+            },
+            {
+                "id": "3",
+                "text": "64"
+            },
+            {
+                "id": "4",
+                "text": "62"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "74",
+        "text": "The following questions follow a definite pattern. Observe the same and fill in the blanks with suitable answers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "35"
+            },
+            {
+                "id": "2",
+                "text": "37 1/2"
+            },
+            {
+                "id": "3",
+                "text": "39 3/4"
+            },
+            {
+                "id": "4",
+                "text": "41 2/3"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "75",
+        "text": "The following questions follow a definite pattern. Observe the same and fill in the blanks with suitable answers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "194"
+            },
+            {
+                "id": "2",
+                "text": "146"
+            },
+            {
+                "id": "3",
+                "text": "138"
+            },
+            {
+                "id": "4",
+                "text": "170"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "76",
+        "text": "The following questions follow a definite pattern. Observe the same and fill in the blanks with suitable answers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1664"
+            },
+            {
+                "id": "2",
+                "text": "1772"
+            },
+            {
+                "id": "3",
+                "text": "1914"
+            },
+            {
+                "id": "4",
+                "text": "2028"
+            }
+        ],
+        "correct": 3,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "77",
+        "text": "The following questions follow a definite pattern. Observe the same and fill in the blanks with suitable answers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1110"
+            },
+            {
+                "id": "2",
+                "text": "1101"
+            },
+            {
+                "id": "3",
+                "text": "1001"
+            },
+            {
+                "id": "4",
+                "text": "1010"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "78",
+        "text": "What is the average export (in crores of rupees) of all the companies put together in the year under review?",
+        "options": [
+            {
+                "id": "1",
+                "text": "9/7"
+            },
+            {
+                "id": "2",
+                "text": "8 1/7"
+            },
+            {
+                "id": "3",
+                "text": "7 3/7"
+            },
+            {
+                "id": "4",
+                "text": "6 3/7"
+            }
+        ],
+        "correct": 1,
+        "section": "Data Interpretation",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "79",
+        "text": "What is the (approximate) percentage increase in the exports of G over that of F in the year under review? (corrected to one decimal place)",
+        "options": [
+            {
+                "id": "1",
+                "text": "19.5"
+            },
+            {
+                "id": "2",
+                "text": "20.7"
+            },
+            {
+                "id": "3",
+                "text": "21.3"
+            },
+            {
+                "id": "4",
+                "text": "22.1"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Interpretation",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "80",
+        "text": "Taken in the alphabetical order, which company has the maximum percentage increase over its predecessor company in the year under review?",
+        "options": [
+            {
+                "id": "1",
+                "text": "C"
+            },
+            {
+                "id": "2",
+                "text": "F"
+            },
+            {
+                "id": "3",
+                "text": "D"
+            },
+            {
+                "id": "4",
+                "text": "B"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Interpretation",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "81",
+        "text": "Which of the following pair of years has an average income of exactly 7 crores rupees?",
+        "options": [
+            {
+                "id": "1",
+                "text": "2015, 2016"
+            },
+            {
+                "id": "2",
+                "text": "2013, 2017"
+            },
+            {
+                "id": "3",
+                "text": "2015, 2018"
+            },
+            {
+                "id": "4",
+                "text": "2014, 2018"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Interpretation",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "82",
+        "text": "The number of years in which the income is more than the average yearly income in the given period is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2"
+            },
+            {
+                "id": "2",
+                "text": "3"
+            },
+            {
+                "id": "3",
+                "text": "4"
+            },
+            {
+                "id": "4",
+                "text": "5"
+            }
+        ],
+        "correct": 1,
+        "section": "Data Interpretation",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "83",
+        "text": "In which year the income from the exports is very nearer to the average of its preceding and succeeding years",
+        "options": [
+            {
+                "id": "1",
+                "text": "2014"
+            },
+            {
+                "id": "2",
+                "text": "2015"
+            },
+            {
+                "id": "3",
+                "text": "2016"
+            },
+            {
+                "id": "4",
+                "text": "2017"
+            }
+        ],
+        "correct": 1,
+        "section": "Data Interpretation",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "84",
+        "text": "The percentage increase in the income from exports in the year 2017 over its previous year corrected to two decimal places is",
+        "options": [
+            {
+                "id": "1",
+                "text": "13.33"
+            },
+            {
+                "id": "2",
+                "text": "14.27"
+            },
+            {
+                "id": "3",
+                "text": "15.38"
+            },
+            {
+                "id": "4",
+                "text": "16.41"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Interpretation",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "85",
+        "text": "The percentage growth in the income from exports in year 2019 over the year 2013, corrected to two decimal places is",
+        "options": [
+            {
+                "id": "1",
+                "text": "98.85"
+            },
+            {
+                "id": "2",
+                "text": "97.23"
+            },
+            {
+                "id": "3",
+                "text": "96.84"
+            },
+            {
+                "id": "4",
+                "text": "96.15"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Interpretation",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "86",
+        "text": "What is the number in the Venn diagram that represent the people who speak all the three languages",
+        "options": [
+            {
+                "id": "1",
+                "text": "3"
+            },
+            {
+                "id": "2",
+                "text": "4"
+            },
+            {
+                "id": "3",
+                "text": "6"
+            },
+            {
+                "id": "4",
+                "text": "7"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Interpretation",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "87",
+        "text": "What is the number in the Venn diagram that represents people who speak Telugu and English but not Hindi?",
+        "options": [
+            {
+                "id": "1",
+                "text": "2"
+            },
+            {
+                "id": "2",
+                "text": "3"
+            },
+            {
+                "id": "3",
+                "text": "4"
+            },
+            {
+                "id": "4",
+                "text": "5"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Interpretation",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "88",
+        "text": "What is the code for BUSINESS?",
+        "options": [
+            {
+                "id": "1",
+                "text": "ZTRH MDRR"
+            },
+            {
+                "id": "2",
+                "text": "ZAROMIRR"
+            },
+            {
+                "id": "3",
+                "text": "ATRHNCR R"
+            },
+            {
+                "id": "4",
+                "text": "AVRGD RR"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding and Decoding",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "89",
+        "text": "What is the word coded as BULNASIQ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "CONTROLE"
+            },
+            {
+                "id": "2",
+                "text": "COSTUMES"
+            },
+            {
+                "id": "3",
+                "text": "COMPUTER"
+            },
+            {
+                "id": "4",
+                "text": "CONSUMER"
+            }
+        ],
+        "correct": 2,
+        "section": "Coding and Decoding",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "90",
+        "text": "What word is coded as DOMEMBI?",
+        "options": [
+            {
+                "id": "1",
+                "text": "FIANCEE"
+            },
+            {
+                "id": "2",
+                "text": "FAMINES"
+            },
+            {
+                "id": "3",
+                "text": "FINNACE"
+            },
+            {
+                "id": "4",
+                "text": "FINANCE"
+            }
+        ],
+        "correct": 3,
+        "section": "Coding and Decoding",
+        "correctAnswer": "4"
+    }
+]

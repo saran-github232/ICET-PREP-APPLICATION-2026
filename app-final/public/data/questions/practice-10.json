@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "Who is the Chief Executive Officer of Niti Ayog?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b B.V.R Subrahmanyam"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Parameswaran Iyer"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Narendra Modi"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Nirmala Sitharaman"
+            }
+        ],
+        "correct": 0,
+        "section": "Current Affairs",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "2",
+        "text": "Crypto currency refers to",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b The alternative form of payment created using encryption algorithm"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Physical coins used by customer for payment"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Risk free investment"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b European Currency"
+            }
+        ],
+        "correct": 0,
+        "section": "Economics",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "3",
+        "text": "What is the full form of NPCI?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b National Productivity Council of India"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b National Payments Corporation of India"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b National Payments Company Initiative"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b National Promotion Commission of India"
+            }
+        ],
+        "correct": 1,
+        "section": "Computer",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "4",
+        "text": "What is the storage that refers to the remote storage facility available anywhere on the internet?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Hard disc"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Off line"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Cloud"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Modem"
+            }
+        ],
+        "correct": 2,
+        "section": "Computer",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "5",
+        "text": "What is the effect of fear on humans?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b We understand life's great mystery"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b We are not able to develop our intelligence."
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b We think freely"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b We see the vast expanse of life"
+            }
+        ],
+        "correct": 1,
+        "section": "Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "6",
+        "text": "The aim of education is to make us realize the need of ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b understanding science"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b freedom"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b jobs"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b passing examinations"
+            }
+        ],
+        "correct": 1,
+        "section": "Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "7",
+        "text": "When we are young, we should ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b seek the meaning of life"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b study and get a degree"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b try for a good job"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b study science"
+            }
+        ],
+        "correct": 0,
+        "section": "Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "8",
+        "text": "Education helps us realize the ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b way to develop out career"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b need for good health"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b meaning of fear"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b necessity of freedom"
+            }
+        ],
+        "correct": 3,
+        "section": "Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "9",
+        "text": "The passage is about:",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Education"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Freedom"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Intelligence"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Livelihood"
+            }
+        ],
+        "correct": 1,
+        "section": "Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "10",
+        "text": "Powerful rulers who are sentimental decide the policies of the nations:",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b When science does not influence them"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b When science does influence them"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b When rulers are educated"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b When rulers are uneducated"
+            }
+        ],
+        "correct": 0,
+        "section": "Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "11",
+        "text": "If a man were to say \u201cI hate the human race, and I think it would be a good thing if it were exterminated,\u201d we could say, \u201cWell, my dear sir, let us begin the process with you\u201d. What does the statement mean?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b If a man hates mankind and wants destruction of mankind, he keeps himself safe."
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b If a man hates mankind and wants destruction of mankind, he must be destroyed first."
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b If a man hates mankind and wants destruction of mankind, mankind gets destructed."
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b If a man hates mankind and wants destruction of mankind, mankind gets destroyed"
+            }
+        ],
+        "correct": 1,
+        "section": "Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "12",
+        "text": "To do good or harm depends on",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b science itself"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b the technical knowledge."
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Wealth of man"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b the wisdom of the mankind."
+            }
+        ],
+        "correct": 3,
+        "section": "Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "13",
+        "text": "We cannot insure our own prosperity except by",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b looking after ourselves"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b not bothering about others"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b thinking of the safety of others"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b destroying our enemies"
+            }
+        ],
+        "correct": 2,
+        "section": "Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "14",
+        "text": "Science can achieve many ends; but it cannot solve ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b numerical problems"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b geographical problems"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b ethical problems"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b space problems"
+            }
+        ],
+        "correct": 2,
+        "section": "Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "15",
+        "text": "What was the first impression of the author about the visitor?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Office clerk"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Egyptian peasant"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Factory worker"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Journalist"
+            }
+        ],
+        "correct": 1,
+        "section": "Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "16",
+        "text": "What was the name of the visitor?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Edward"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Huda"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Ahmad"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Nadia"
+            }
+        ],
+        "correct": 2,
+        "section": "Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "17",
+        "text": "How did the speaker and Ahmad respond once they recognized each other?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b The speaker maintained dignified silence"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b They fell into each other's arms and sobbed"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Ahmad greeted the speaker in broken words"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b They looked at each other and smiled"
+            }
+        ],
+        "correct": 1,
+        "section": "Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "18",
+        "text": "What is \u2018Edfu\u2019 in the passage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Kitchen"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Restaurant"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Town"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b City"
+            }
+        ],
+        "correct": 2,
+        "section": "Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "19",
+        "text": "What is the theme of the passage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Meeting of high class and low class"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Reminiscence of love in the past"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Meeting of total strangers"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Remembering hard times"
+            }
+        ],
+        "correct": 1,
+        "section": "Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "20",
+        "text": "What is a key characteristic of India's business environment?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Stable market conditions"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Homogeneous regulatory frameworks"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Complex cultural diversity"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Low population density"
+            }
+        ],
+        "correct": 2,
+        "section": "Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "21",
+        "text": "Which initiative aimed to simplify taxation in India?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Make in India"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Digital India"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Goods and Services Tax (GST)"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Startup India"
+            }
+        ],
+        "correct": 2,
+        "section": "Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "22",
+        "text": "Which Indian city is often referred to as the \u2018Silicon Valley of India\u2019?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b New Delhi"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Mumbai"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Hyderabad"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Bangalore"
+            }
+        ],
+        "correct": 3,
+        "section": "Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "23",
+        "text": "What challenges do businesses face due to India's cultural diversity?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Uniform adaptation strategies"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Language barriers"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Simplified regulatory processes"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Limited market potential"
+            }
+        ],
+        "correct": 1,
+        "section": "Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "24",
+        "text": "What initiative aims to boost manufacturing in India?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Make in India"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Digital India"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Start-up India"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Skill India"
+            }
+        ],
+        "correct": 0,
+        "section": "Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "25",
+        "text": "If 17.28+x / 3.6x0.2 = 200, then the value of x is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 0.12"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 0.25"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 0.33"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 0.5"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "26",
+        "text": "If \u221a5 = 3.88 then \u221b5/3 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 0.43"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 1.89"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 1.29"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 1.63"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "27",
+        "text": "If \u221ax\u00b2 x 15\u00b2 = 5\u00b2 x 3\u00b2, then x =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 12"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 15"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 8"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 10"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "28",
+        "text": "If x = a / (a-1) and y = 1 / (a-1) then",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b x=y"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b x=y if a < 1"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b x>y if a > 1"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b x>y if a < 1"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "29",
+        "text": "The largest number of 5 digits, which is a perfect square is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 99999"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 99764"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 99976"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 99856"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "30",
+        "text": "L.C.M. of 22, 54, 108, 135 and 198 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 330"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 1980"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 5940"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 11880"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "31",
+        "text": "H.C.F. of 1/2, 2/3, 3/4, 4/5 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 1/2"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 1/10"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 9/120"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 1/120"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "32",
+        "text": "The least perfect square number which is divisible by 21, 36 and 66 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 213444"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 214344"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 214434"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 231444"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "33",
+        "text": "Which number should be there in place of '*' so that 5932*48 is divisible by 8?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 7"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 5"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 8"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "34",
+        "text": "9\u00b2x18\u2074 / 316 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 2/3"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 4/9"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 16/81"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 32/243"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "35",
+        "text": "If x/3 = y/4 = z/7, then (x+y+z)/z =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 7"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 1/2"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 1/7"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "36",
+        "text": "If 18:x = x:8, then x =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 144"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 72"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 26"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 12"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "37",
+        "text": "What must be added to each term of the ratio 7:13 so that the ratio becomes 2:3?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 5"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 1"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "38",
+        "text": "The two numbers are in the ratio 5:7. Their difference is 10. Then the sum of numbers is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 82"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 60"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 89"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 88"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "39",
+        "text": "The speeds of three cars are in the ratio 2:3:4. The ratio between the time taken by them to travel the same distance is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 6:4:3"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 12:15:10"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 4:5:6"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 15:12:10"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "40",
+        "text": "If the digits of a given two-digit number are reversed, the number is equal to 9 less than 3 times the original number. If the difference between these two numbers is 45, find the original number?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 27"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 45"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 36"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 72"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "41",
+        "text": "If x x 15 = 37.5% of 220, then x is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 82.5"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 11"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 5.5"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 8250"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "42",
+        "text": "X% of Y + Y% of X =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b X% of Y"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 2% of XY"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Y% of X"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b XY% of 3"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "43",
+        "text": "Subtracting 6% of x is equivalent to multiplying x by how much",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 0.94"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 9.4"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 0.094"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 94"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "44",
+        "text": "If A's salary is 30% less than that of B. Then how much percentage is B's salary more than that of A?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 42 6/7 %"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 43.5%"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 32 6/7 %"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 42.5%"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "45",
+        "text": "By selling 36 mangoes, a vendor loss the selling price of 4 mangoes. His loss per cent is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 12 1/2 %"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 11 1/9 %"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 10%"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 11%"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "46",
+        "text": "Subahsh purchased T.V. at 9/10 of its selling price and sold it at 8% more than its original selling price. Then what is his gain percent?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 8%"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 18%"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 10%"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 20%"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "47",
+        "text": "P, Q and R entered into a partnership, and their capitals are in the proportion of 1/3 : 1/4 : 1/5. P is withdrawing half of his capital at the end of 4 months. Out of a total annual profit of Rs. 847, P's share is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Rs. 252"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Rs. 280"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Rs. 315"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Rs. 412"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "48",
+        "text": "'A' is twice as good a workman as B and together they finish a piece of work in 14 days. In how many days 'A' alone can finish the work?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 11 days"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 21 days"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 28 days"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 42 days"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "49",
+        "text": "5 women or 9 children can finish a piece of work in 19 days. In how many days, 3 men and 6 children will do the same work?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 10 days"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 12 days"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 13 days"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 15 days"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "50",
+        "text": "If the diagonal of a square is 5.2 cm, then the area of that square is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 13.52 sq.cm."
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 12.50 sq. cm"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 10.50 sq. cm."
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 14.40 sq. cm."
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "51",
+        "text": "The total surface area of a cube is 726 m\u00b2. What is the volume of the cube?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 1300 m\u00b3"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 1331 m\u00b3"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 1452 m\u00b3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 1542 m\u00b3"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "52",
+        "text": "A circle and square have same area. The ratio of side and the radius of the circle is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b \u221a\u03c0 : 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 1:\u221a\u03c0"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b \u03c0 : 1"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 1 : \u03c0"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "53",
+        "text": "1011(2) + 1001(2) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 1110(2)"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 1111(2)"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 10000(2)"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 10100(2)"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "54",
+        "text": "If 1002(7) = X(10), then x =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 370"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 420"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 345"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 450"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "55",
+        "text": "sin 1200\u00b0 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 1/\u221a3"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 1/2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b -\u221a3/2"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b \u221a3/2"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "56",
+        "text": "If the angle of elevation of the top of a tower from a point 60 meters from its foot is 30\u00b0, then what is the height of the tower in meters?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 60\u221a3"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 20"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 20\u221a3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 60"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "57",
+        "text": "If x\u00b3 + 10 x\u00b2 + ax + b = x - 1 as well as x + 2, then (a, b) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b (6, 18)"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b (7, -18)"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b (7, 18)"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b (-7, 18)"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "58",
+        "text": "The fourth term in the binomial expansion of (x-2)\u2076 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b -160 x\u00b3"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b -80x\u00b3"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 160x\u00b3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 80x\u00b3"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "59",
+        "text": "If A is the matrix [2 2 1] [1 2 2] [2 1 2], then |A\u00b3| =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 27"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 25"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 64"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 125"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "60",
+        "text": "lim \u03b8->0 (1-cos \u03b8) / \u03b8\u00b2 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 2"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 1/4"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 1/2"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 4"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "61",
+        "text": "y = x\u00b2 sin x\u00b2 => dy/dx =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b x\u00b2 cos x\u00b2 + 2x sin x\u00b2"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 2x sin x\u00b2 + 2x\u00b3 cos x\u00b2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 2(sin x\u00b2 + x\u00b3 cos x\u00b2)"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 2x sin x\u00b2 + 2x cos x\u00b2"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "62",
+        "text": "What is each of the interior angle of a regular octagon?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 120\u00b0"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 60\u00b0"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 135\u00b0"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 100\u00b0"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "63",
+        "text": "What is the third vertex of a triangle whose two vertices are (7,4) and (4,-6) and the centroid is (2,0) ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b (5, -2)"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b (-5, 2)"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b (-5, -2)"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b (5, 2)"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "64",
+        "text": "The equation of the line passing through (2, 1) and (1, 2) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b x + y - 3 = 0"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b x - y - 3 = 0"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b x - y + 3 = 0"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b x + y + 3 = 0"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "65",
+        "text": "The arithmetic mean of 3.4, 4.8, 6.2, 2.6, 4.6, 3.8, and 6.8 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 5.2"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 4.4"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 4.8"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 4.6"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "66",
+        "text": "What is the geometric Mean of 9, 6 and 4 ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 12"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 8"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 6"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 18"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "67",
+        "text": "What is the Harmonic Mean of 2, 3, 4 and 6 ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 3.4"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 3.2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 4.2"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 4.5"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "68",
+        "text": "The median of 9, 8, 7, 5, 7, 8, 3, 6, 4 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 7"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 8"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 5"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 6"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "69",
+        "text": "The mode of 18, 20, 16, 17, 22, 20, 19, 20, 21 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 18"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 20"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 19"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 21"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "70",
+        "text": "Standard Deviation of five consecutive integers is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b \u221a3"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b \u221a2.5"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b \u221a2"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b \u221a3.5"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "71",
+        "text": "What is the mean deviation of 2, 3, 2, 1, 4 through arithmetic mean?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 2.2"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 1.88"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 0.68"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 0.88"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "72",
+        "text": "If A and B are sets such that n(A) = 5 and n(B) = 4 and a relation from A into B is selected at random, then the probability that the relation be a function is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 1/2\u2075"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 1/2\u2077"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 1/2\u00b9\u2070"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 1/2\u2074"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "73",
+        "text": "When three dice are thrown, what is the probability of getting the sum 8?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 7/72"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 1/12"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 1/9"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 5/72"
+            }
+        ],
+        "correct": 0,
+        "section": "Probability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "74",
+        "text": "There are 6 green balls, 5 black balls and 7 white balls in a bag. When a ball is drawn at random from the bag, what is the probability that the ball is either green or black ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 11/18"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 13/18"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 15/18"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 17/18"
+            }
+        ],
+        "correct": 0,
+        "section": "Probability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "75",
+        "text": "What is the probability that a number selected at random is a prime number from 1 to 20?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 1/4"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 3/4"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 1/2"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 2/3"
+            }
+        ],
+        "correct": 0,
+        "section": "Probability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "76",
+        "text": "What is the mean deviation of 2, 3, 2, 1, 4 through arithmetic mean?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 2.2"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 1.88"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 0.68"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 0.88"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "77",
+        "text": "If A and B are sets such that n(A) = 5 and n(B) = 4 and a relation from A into B is selected at random, then the probability that the relation be a function is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 1/2\u2075"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 1/2\u2077"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 1/2\u00b9\u2070"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 1/2\u2074"
+            }
+        ],
+        "correct": 2,
+        "section": "Probability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "78",
+        "text": "When three dice are thrown, what is the probability of getting the sum 8?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 7/72"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 1/12"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 1/9"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 5/72"
+            }
+        ],
+        "correct": 0,
+        "section": "Probability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "79",
+        "text": "There are 6 green balls, 5 black balls and 7 white balls in a bag. When a ball is drawn at random from the bag, what is the probability that the ball is either green or black ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 11/18"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 13/18"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 15/18"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 17/18"
+            }
+        ],
+        "correct": 0,
+        "section": "Probability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "80",
+        "text": "What is the cost of each pen?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Rs. 10"
+            },
+            {
+                "id": "2",
+                "text": "Rs. 30"
+            },
+            {
+                "id": "3",
+                "text": "Rs. 5"
+            },
+            {
+                "id": "4",
+                "text": "Rs. 15"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Sufficiency",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "81",
+        "text": "What is the value of X?",
+        "options": [
+            {
+                "id": "1",
+                "text": "X=3, Y=2"
+            },
+            {
+                "id": "2",
+                "text": "X=6, Y=1"
+            },
+            {
+                "id": "3",
+                "text": "X=0, Y=3"
+            },
+            {
+                "id": "4",
+                "text": "X=3, Y=0"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Sufficiency",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "82",
+        "text": "For the positive integer n, is n-10 odd?",
+        "options": [
+            {
+                "id": "1",
+                "text": "n-16 is a positive integer"
+            },
+            {
+                "id": "2",
+                "text": "n-16 is a positive integer"
+            },
+            {
+                "id": "3",
+                "text": "n+12 is even"
+            },
+            {
+                "id": "4",
+                "text": "n+12 is even"
+            }
+        ],
+        "correct": 1,
+        "section": "Data Sufficiency",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "83",
+        "text": "Four friends, A, B, C and D got the top four ranks in a test but A did not get the first, B did not get the second, C did not get the third and D did not get the fourth. Who secured which rank?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Neither A nor D were among the first 2 ranks."
+            },
+            {
+                "id": "2",
+                "text": "Neither B nor C was third or fourth"
+            },
+            {
+                "id": "3",
+                "text": "A got first rank and B got second rank"
+            },
+            {
+                "id": "4",
+                "text": "D got first rank and C got fourth rank"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Sufficiency",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "84",
+        "text": "What is the value of x in the equation 2x + 5 = 11?",
+        "options": [
+            {
+                "id": "1",
+                "text": "x = 3"
+            },
+            {
+                "id": "2",
+                "text": "x is a prime number."
+            },
+            {
+                "id": "3",
+                "text": "x is an even number."
+            },
+            {
+                "id": "4",
+                "text": "x is an odd number."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "85",
+        "text": "What is the two digit number whose first digit is a and the second digit is b?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The number is a multiple of 62"
+            },
+            {
+                "id": "2",
+                "text": "The number is a multiple of 62"
+            },
+            {
+                "id": "3",
+                "text": "a+b=9"
+            },
+            {
+                "id": "4",
+                "text": "a+b=9"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "86",
+        "text": "What is the Cost of the book? I) A man earns a profit of 25 % on selling a Book II) The selling price of book is Rs. 5000",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 1,
+        "section": "Data Sufficiency",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "87",
+        "text": "What is Priya's rank from the top in a class of seventy students? I) There are six students between Priya and Charan. II) Charan is eight from the top.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "88",
+        "text": "What % of 32 is x ? I) X is 10 percent of 20 II) 800% of x is less than 4",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "89",
+        "text": "How is Deepa related to Laxmi? I) Deepa's mother is sister of Laxmi's father. II) Deepa is the daughter of Laxmi's grandfather's only son",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "90",
+        "text": "What is present age of Shilpa? I) Shilpa's present age is five times of Rahul's present age. II) Five years ago their age was twenty-five times of Rahul's age at that time.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    }
+]

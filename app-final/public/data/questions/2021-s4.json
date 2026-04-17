@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "Choose the correct answer A : The issue has been debated with more heat than light. B : Obsession clouds vision. B means that deep involvement may sometimes ____ our vision.",
+        "options": [
+            {
+                "id": "1",
+                "text": "improve"
+            },
+            {
+                "id": "2",
+                "text": "blur"
+            },
+            {
+                "id": "3",
+                "text": "broaden"
+            },
+            {
+                "id": "4",
+                "text": "promote"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "2",
+        "text": "Fill in the blank by choosing the correct answer The boy takes ____ his mother.",
+        "options": [
+            {
+                "id": "1",
+                "text": "after"
+            },
+            {
+                "id": "2",
+                "text": "before"
+            },
+            {
+                "id": "3",
+                "text": "besides"
+            },
+            {
+                "id": "4",
+                "text": "beside"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "3",
+        "text": "Fill in the blank by choosing the correct answer The days ____ so quickly.",
+        "options": [
+            {
+                "id": "1",
+                "text": "by"
+            },
+            {
+                "id": "2",
+                "text": "bye"
+            },
+            {
+                "id": "3",
+                "text": "for"
+            },
+            {
+                "id": "4",
+                "text": "to"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "4",
+        "text": "Choose the correct answer The cricket match proved to be a big draw. The underlined phrase means",
+        "options": [
+            {
+                "id": "1",
+                "text": "a keen contest"
+            },
+            {
+                "id": "2",
+                "text": "a huge attraction"
+            },
+            {
+                "id": "3",
+                "text": "a game of boredom"
+            },
+            {
+                "id": "4",
+                "text": "a lovely spectacle"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "5",
+        "text": "Fill in the blank by choosing the correct answer The sun ____ at six this morning.",
+        "options": [
+            {
+                "id": "1",
+                "text": "raised"
+            },
+            {
+                "id": "2",
+                "text": "rose"
+            },
+            {
+                "id": "3",
+                "text": "arose"
+            },
+            {
+                "id": "4",
+                "text": "aroused"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "6",
+        "text": "Fill in the blank by choosing the correct answer The hosts were happy with our visit ____ their home.",
+        "options": [
+            {
+                "id": "1",
+                "text": "on"
+            },
+            {
+                "id": "2",
+                "text": "in"
+            },
+            {
+                "id": "3",
+                "text": "of"
+            },
+            {
+                "id": "4",
+                "text": "to"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "7",
+        "text": "Fill in the blank by choosing the correct answer Having been stung by the scorpion, he ____ to his feet.",
+        "options": [
+            {
+                "id": "1",
+                "text": "spring"
+            },
+            {
+                "id": "2",
+                "text": "springs"
+            },
+            {
+                "id": "3",
+                "text": "sprang"
+            },
+            {
+                "id": "4",
+                "text": "have spring"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "8",
+        "text": "Fill in the blank by choosing the correct answer She was ____ aware of what was happening outside.",
+        "options": [
+            {
+                "id": "1",
+                "text": "hardly"
+            },
+            {
+                "id": "2",
+                "text": "hard"
+            },
+            {
+                "id": "3",
+                "text": "hardened"
+            },
+            {
+                "id": "4",
+                "text": "can"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "9",
+        "text": "What is the meaning in the word, \"harness\" found in the first paragraph of the passage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "bind and yoke together"
+            },
+            {
+                "id": "2",
+                "text": "experiment"
+            },
+            {
+                "id": "3",
+                "text": "authorize"
+            },
+            {
+                "id": "4",
+                "text": "distribute"
+            }
+        ],
+        "correct": 0,
+        "section": "Passage Based Questions",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "10",
+        "text": "In which year ISRO was established superseding Indian National Committee for Space Research (INCOSPAR)?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1962"
+            },
+            {
+                "id": "2",
+                "text": "1977"
+            },
+            {
+                "id": "3",
+                "text": "1968"
+            },
+            {
+                "id": "4",
+                "text": "1969"
+            }
+        ],
+        "correct": 3,
+        "section": "Passage Based Questions",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "11",
+        "text": "ISRO built its first satellite, Aryabhatta, and it was launched on 19th April, 1975 from the land of",
+        "options": [
+            {
+                "id": "1",
+                "text": "USA"
+            },
+            {
+                "id": "2",
+                "text": "(Former) Soviet Union"
+            },
+            {
+                "id": "3",
+                "text": "France"
+            },
+            {
+                "id": "4",
+                "text": "India"
+            }
+        ],
+        "correct": 1,
+        "section": "Passage Based Questions",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "12",
+        "text": "ISRO developed PSLV's and GSLV's for launching satellites of the categories of",
+        "options": [
+            {
+                "id": "1",
+                "text": "Defence"
+            },
+            {
+                "id": "2",
+                "text": "Communication"
+            },
+            {
+                "id": "3",
+                "text": "Earth observation"
+            },
+            {
+                "id": "4",
+                "text": "Both communication and Earth observation"
+            }
+        ],
+        "correct": 3,
+        "section": "Passage Based Questions",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "13",
+        "text": "ISRO launched 104 satellites in a single rocket (PSLV-C37) and it is regarded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "an Asia record"
+            },
+            {
+                "id": "2",
+                "text": "a SAARC record"
+            },
+            {
+                "id": "3",
+                "text": "a World record"
+            },
+            {
+                "id": "4",
+                "text": "a G-7 record"
+            }
+        ],
+        "correct": 2,
+        "section": "Passage Based Questions",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "14",
+        "text": "India was able to overcome its food deficiency problem in",
+        "options": [
+            {
+                "id": "1",
+                "text": "a period of ten years"
+            },
+            {
+                "id": "2",
+                "text": "a period of two years"
+            },
+            {
+                "id": "3",
+                "text": "the year 1967"
+            },
+            {
+                "id": "4",
+                "text": "the year 1947"
+            }
+        ],
+        "correct": 1,
+        "section": "Passage Based Questions",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "15",
+        "text": "Which of the following most appropriately completes the statement: Amartya Sen feels that the famine occurred due to",
+        "options": [
+            {
+                "id": "1",
+                "text": "A&D"
+            },
+            {
+                "id": "2",
+                "text": "A&C"
+            },
+            {
+                "id": "3",
+                "text": "B&C"
+            },
+            {
+                "id": "4",
+                "text": "C&D"
+            }
+        ],
+        "correct": 1,
+        "section": "Passage Based Questions",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "16",
+        "text": "A word used in the passage which means the same as 'an event which causes great damage and suffering' is",
+        "options": [
+            {
+                "id": "1",
+                "text": "haunted"
+            },
+            {
+                "id": "2",
+                "text": "catastrophe"
+            },
+            {
+                "id": "3",
+                "text": "hysteria"
+            },
+            {
+                "id": "4",
+                "text": "potent"
+            }
+        ],
+        "correct": 1,
+        "section": "Passage Based Questions",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "17",
+        "text": "This passage is mainly about",
+        "options": [
+            {
+                "id": "1",
+                "text": "the worst food disaster in the world"
+            },
+            {
+                "id": "2",
+                "text": "the cause of four million deaths in Bangladesh"
+            },
+            {
+                "id": "3",
+                "text": "India's successful implementation of Green Revolution"
+            },
+            {
+                "id": "4",
+                "text": "Amartya Sen's analysis of the food shortage problem"
+            }
+        ],
+        "correct": 0,
+        "section": "Passage Based Questions",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "18",
+        "text": "Which of the following statement is NOT endorsed by the passage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The famine in Bengal happened solely due to low food production"
+            },
+            {
+                "id": "2",
+                "text": "Both India and Bangladesh were affected by the famine."
+            },
+            {
+                "id": "3",
+                "text": "The British did not take adequate steps to address the problem."
+            },
+            {
+                "id": "4",
+                "text": "After independence, India needed to look into the food security issue on a priority basis."
+            }
+        ],
+        "correct": 0,
+        "section": "Passage Based Questions",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "19",
+        "text": "To how many supporters was \"I Have a Dream\" delivered by Civil Rights Activist, Martin Luther King Jr.?",
+        "options": [
+            {
+                "id": "1",
+                "text": "2,15,000"
+            },
+            {
+                "id": "2",
+                "text": "2,25,000"
+            },
+            {
+                "id": "3",
+                "text": "1,50,000"
+            },
+            {
+                "id": "4",
+                "text": "2,50,000"
+            }
+        ],
+        "correct": 3,
+        "section": "Passage Based Questions",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "20",
+        "text": "What issue does Martin Luther King's speech address?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Condemning of racism only"
+            },
+            {
+                "id": "2",
+                "text": "End to racism and plea for economic rights"
+            },
+            {
+                "id": "3",
+                "text": "Civil rights only"
+            },
+            {
+                "id": "4",
+                "text": "Advocating Civil War"
+            }
+        ],
+        "correct": 1,
+        "section": "Passage Based Questions",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "21",
+        "text": "What drives Martin Luther King to use the phrase: \"I have a dream\"?",
+        "options": [
+            {
+                "id": "1",
+                "text": "He reads out the Emancipation Proclamation"
+            },
+            {
+                "id": "2",
+                "text": "He is prompted by Mahalia Jackson"
+            },
+            {
+                "id": "3",
+                "text": "He is overwhelmed by the crowd"
+            },
+            {
+                "id": "4",
+                "text": "Lincoln had asked him to give the speech"
+            }
+        ],
+        "correct": 1,
+        "section": "Passage Based Questions",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "22",
+        "text": "What is the meaning of the phrase \"partly improvised\" found in the last paragraph?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Partly creatively modified"
+            },
+            {
+                "id": "2",
+                "text": "Partly made important"
+            },
+            {
+                "id": "3",
+                "text": "Partly added strength"
+            },
+            {
+                "id": "4",
+                "text": "Partly omitted"
+            }
+        ],
+        "correct": 0,
+        "section": "Passage Based Questions",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "23",
+        "text": "What is the basic reference for Martin Luther King's famed speech?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The Emancipation proclamation"
+            },
+            {
+                "id": "2",
+                "text": "An improvisation"
+            },
+            {
+                "id": "3",
+                "text": "A peroration"
+            },
+            {
+                "id": "4",
+                "text": "\"I Have a Dream\""
+            }
+        ],
+        "correct": 0,
+        "section": "Passage Based Questions",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "24",
+        "text": "Carbon sequestration involves",
+        "options": [
+            {
+                "id": "1",
+                "text": "releasing carbon into the atmosphere"
+            },
+            {
+                "id": "2",
+                "text": "storing greenhouse gases"
+            },
+            {
+                "id": "3",
+                "text": "removing carbon from the atmosphere and storing it"
+            },
+            {
+                "id": "4",
+                "text": "removing carbon from the atmosphere"
+            }
+        ],
+        "correct": 2,
+        "section": "Passage Based Questions",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "25",
+        "text": "A carbon sink emits less carbon than it ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "releases"
+            },
+            {
+                "id": "2",
+                "text": "produces"
+            },
+            {
+                "id": "3",
+                "text": "absorbs"
+            },
+            {
+                "id": "4",
+                "text": "exudes"
+            }
+        ],
+        "correct": 2,
+        "section": "Passage Based Questions",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "26",
+        "text": "The world today ____ sufficient carbon sinks to fight global warming",
+        "options": [
+            {
+                "id": "1",
+                "text": "has"
+            },
+            {
+                "id": "2",
+                "text": "need not work towards creating"
+            },
+            {
+                "id": "3",
+                "text": "does not have"
+            },
+            {
+                "id": "4",
+                "text": "cannot financially afford"
+            }
+        ],
+        "correct": 2,
+        "section": "Passage Based Questions",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "27",
+        "text": "Reducing carbon emissions is important to",
+        "options": [
+            {
+                "id": "1",
+                "text": "prevent logging"
+            },
+            {
+                "id": "2",
+                "text": "reach climate neutrality"
+            },
+            {
+                "id": "3",
+                "text": "avoid forest fires"
+            },
+            {
+                "id": "4",
+                "text": "grow forests"
+            }
+        ],
+        "correct": 1,
+        "section": "Passage Based Questions",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "28",
+        "text": "Which of the following is not an example of carbon sink?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The sky"
+            },
+            {
+                "id": "2",
+                "text": "Forest"
+            },
+            {
+                "id": "3",
+                "text": "Ocean"
+            },
+            {
+                "id": "4",
+                "text": "Soil"
+            }
+        ],
+        "correct": 0,
+        "section": "Passage Based Questions",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "29",
+        "text": "If (2\u221a2/3)^x = (243/32)^(x+3)/2 , then x\u00b2 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "225"
+            },
+            {
+                "id": "2",
+                "text": "49"
+            },
+            {
+                "id": "3",
+                "text": "225/49"
+            },
+            {
+                "id": "4",
+                "text": "274"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "30",
+        "text": "If 8\u00b3.(27)\u2074.6\u00b3 / (64)\u00b2 .9\u2075 .18\u00b3 = 2\u1d43.2\u1d56 then the quadratic equation for which \u03b1 and \u03b2 are the roots is",
+        "options": [
+            {
+                "id": "1",
+                "text": "x\u00b2+2x+3=0"
+            },
+            {
+                "id": "2",
+                "text": "x\u00b2-2x-3=0"
+            },
+            {
+                "id": "3",
+                "text": "x\u00b2+2x-3=0"
+            },
+            {
+                "id": "4",
+                "text": "x\u00b2-2x+3=0"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "31",
+        "text": "The ratio of the present ages of a father and his son is 7 : 1 and the difference in their ages is 36 years. The ratio of their ages in the same order when the son reaches 20 years of age is",
+        "options": [
+            {
+                "id": "1",
+                "text": "8 : 3"
+            },
+            {
+                "id": "2",
+                "text": "14 : 5"
+            },
+            {
+                "id": "3",
+                "text": "14 : 3"
+            },
+            {
+                "id": "4",
+                "text": "9 : 5"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "32",
+        "text": "If 5x = 4y, then 3x : 2y =",
+        "options": [
+            {
+                "id": "1",
+                "text": "4 : 3"
+            },
+            {
+                "id": "2",
+                "text": "3 : 4"
+            },
+            {
+                "id": "3",
+                "text": "5 : 6"
+            },
+            {
+                "id": "4",
+                "text": "6 : 5"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "33",
+        "text": "1/\u221a12-\u221a35 - 2/\u221a10+2\u221a21 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/\u221a8-2\u221a15"
+            },
+            {
+                "id": "2",
+                "text": "1/\u221a8+2\u221a15"
+            },
+            {
+                "id": "3",
+                "text": "1/\u221a7-2\u221a10"
+            },
+            {
+                "id": "4",
+                "text": "1/\u221a7+2\u221a10"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "34",
+        "text": "If x = 9 + 4\u221a5, then \u221ax =",
+        "options": [
+            {
+                "id": "1",
+                "text": "2+3\u221a5"
+            },
+            {
+                "id": "2",
+                "text": "1+2\u221a5"
+            },
+            {
+                "id": "3",
+                "text": "3+2\u221a5"
+            },
+            {
+                "id": "4",
+                "text": "2+\u221a5"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "35",
+        "text": "The number of integers k that are divisible by 3 and satisfying the inequality -17 < k \u2264 12 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "9"
+            },
+            {
+                "id": "2",
+                "text": "10"
+            },
+            {
+                "id": "3",
+                "text": "11"
+            },
+            {
+                "id": "4",
+                "text": "12"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "36",
+        "text": "The number of positive divisors of 11! is",
+        "options": [
+            {
+                "id": "1",
+                "text": "11"
+            },
+            {
+                "id": "2",
+                "text": "11"
+            },
+            {
+                "id": "3",
+                "text": "180"
+            },
+            {
+                "id": "4",
+                "text": "540"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "37",
+        "text": "Three persons A, B and C take 27, 36 and 45 seconds respectively to run around a circular track. If all of them start at a point P on the track at the same time, after how much time (in minutes) all of them meet again at P",
+        "options": [
+            {
+                "id": "1",
+                "text": "6"
+            },
+            {
+                "id": "2",
+                "text": "9"
+            },
+            {
+                "id": "3",
+                "text": "12"
+            },
+            {
+                "id": "4",
+                "text": "15"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "38",
+        "text": "The number of pairs of positive integers a and b with gcd(a,b)=23 and a+b=184 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "8"
+            },
+            {
+                "id": "2",
+                "text": "4"
+            },
+            {
+                "id": "3",
+                "text": "2"
+            },
+            {
+                "id": "4",
+                "text": "1"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "39",
+        "text": "The decimal representation of 3/22 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "0.136"
+            },
+            {
+                "id": "2",
+                "text": "0.136"
+            },
+            {
+                "id": "3",
+                "text": "0.136"
+            },
+            {
+                "id": "4",
+                "text": "0.136"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "40",
+        "text": "If 1 2/3 + 4 5/6 + 7 8/9 + 11/12 = m/n and (m, n) = 1, then m-n =",
+        "options": [
+            {
+                "id": "1",
+                "text": "875"
+            },
+            {
+                "id": "2",
+                "text": "862"
+            },
+            {
+                "id": "3",
+                "text": "825"
+            },
+            {
+                "id": "4",
+                "text": "784"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "41",
+        "text": "If [2 7 5 9] are the first four elements of a decreasing sequence a\u2081, a\u2082, a\u2083, a\u2084, then a\u2081-a\u2084 / a\u2081 + a\u2084 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "2/7"
+            },
+            {
+                "id": "2",
+                "text": "19/56"
+            },
+            {
+                "id": "3",
+                "text": "51/56"
+            },
+            {
+                "id": "4",
+                "text": "19/51"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "42",
+        "text": "The smallest fraction among the following fractions is 2/9, 3/11, 4/13, 6/7",
+        "options": [
+            {
+                "id": "1",
+                "text": "3/11"
+            },
+            {
+                "id": "2",
+                "text": "2/9"
+            },
+            {
+                "id": "3",
+                "text": "4/13"
+            },
+            {
+                "id": "4",
+                "text": "6/7"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "43",
+        "text": "The total number of students in a class with 88 girls and the remaining 45% boys is",
+        "options": [
+            {
+                "id": "1",
+                "text": "120"
+            },
+            {
+                "id": "2",
+                "text": "130"
+            },
+            {
+                "id": "3",
+                "text": "150"
+            },
+            {
+                "id": "4",
+                "text": "160"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "44",
+        "text": "If 30% of x is equal to 24 more than 15% of 120, then 25% of x is",
+        "options": [
+            {
+                "id": "1",
+                "text": "25"
+            },
+            {
+                "id": "2",
+                "text": "35"
+            },
+            {
+                "id": "3",
+                "text": "27"
+            },
+            {
+                "id": "4",
+                "text": "26"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "45",
+        "text": "The cost price of an item is Rs.360/- and its marked price is Rs.480/-. The discount percentage that can be given on it to earn a profit of 25% is",
+        "options": [
+            {
+                "id": "1",
+                "text": "8 2/3%"
+            },
+            {
+                "id": "2",
+                "text": "7 1/4%"
+            },
+            {
+                "id": "3",
+                "text": "6 1/4%"
+            },
+            {
+                "id": "4",
+                "text": "5%"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "46",
+        "text": "The cost price (in Rs.) of the item, which is sold at Rs. 189/- for a profit of 12 1/2 % is",
+        "options": [
+            {
+                "id": "1",
+                "text": "178"
+            },
+            {
+                "id": "2",
+                "text": "168"
+            },
+            {
+                "id": "3",
+                "text": "154"
+            },
+            {
+                "id": "4",
+                "text": "148"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "47",
+        "text": "In a partnership, A invests 50% of the capital for 1/4th of the time, B invests 20% of the capital for 1/2 of the time and C invests 30% of the capital for the whole time. If the share of A in the end profit is Rs.12.5 lakhs then the total profit (in lakhs of rupees) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "25"
+            },
+            {
+                "id": "2",
+                "text": "37.5"
+            },
+            {
+                "id": "3",
+                "text": "50"
+            },
+            {
+                "id": "4",
+                "text": "52.5"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "48",
+        "text": "A and B started a business investing Rs. 3.5 and Rs. 6.5 lakhs respectively. After six months B withdrew from the business while C joined it at that time investing Rs. 7.5 lakhs. In the year-end profit of Rs 2.4 lakhs the share of A (in rupees) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "60,000"
+            },
+            {
+                "id": "2",
+                "text": "80,000"
+            },
+            {
+                "id": "3",
+                "text": "76,000"
+            },
+            {
+                "id": "4",
+                "text": "1,60,000"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "49",
+        "text": "Two pipes P, Q and R can fill an empty tank individually in 18 minutes and 24 minutes respectively. Both are opened at a time and after some time Q is closed and P is continued to fill the tank. If the tank is full in 12 minutes then the time (in minutes) for which the pipe Q is opened is",
+        "options": [
+            {
+                "id": "1",
+                "text": "9"
+            },
+            {
+                "id": "2",
+                "text": "8"
+            },
+            {
+                "id": "3",
+                "text": "7"
+            },
+            {
+                "id": "4",
+                "text": "6"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "50",
+        "text": "Two taps A and B can fill an empty tank in 12 hours and 8 hours respectively while C can empty the full tank in 6 hours. If all the three taps are opened simultaneously then the time (in hours) in which the empty tank gets filled is",
+        "options": [
+            {
+                "id": "1",
+                "text": "10"
+            },
+            {
+                "id": "2",
+                "text": "12"
+            },
+            {
+                "id": "3",
+                "text": "18"
+            },
+            {
+                "id": "4",
+                "text": "24"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "51",
+        "text": "If a train moving at a speed of 36 meters per second passes a person riding on a bicycle in the opposite direction at 4 meters per second in 10 seconds, then the length of that train (in meters) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "320"
+            },
+            {
+                "id": "2",
+                "text": "360"
+            },
+            {
+                "id": "3",
+                "text": "400"
+            },
+            {
+                "id": "4",
+                "text": "144"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "52",
+        "text": "A person travels from P to Q by a car at a speed of 75 kmph and returns from Q to P reducing the speed by 25 kmph. If the total time taken for the entire journey is 3 hours then the distance between P and Q (in km) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "100"
+            },
+            {
+                "id": "2",
+                "text": "90"
+            },
+            {
+                "id": "3",
+                "text": "75"
+            },
+            {
+                "id": "4",
+                "text": "80"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "53",
+        "text": "Two persons X and Y can together complete a piece of work in 8 days; Y and Z together can complete the same work in 12 days. If X,Y and Z together can complete the same work in 6 days, then the number of days needed for Y alone to complete the work is",
+        "options": [
+            {
+                "id": "1",
+                "text": "36"
+            },
+            {
+                "id": "2",
+                "text": "30"
+            },
+            {
+                "id": "3",
+                "text": "24"
+            },
+            {
+                "id": "4",
+                "text": "18"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "54",
+        "text": "P, Q and R can complete a piece of work independently in 15 hours, 12 hours and 10 hours respectively. P and Q started the work and after 4 hours R joined them to complete the work. The time (in minutes) R worked is",
+        "options": [
+            {
+                "id": "1",
+                "text": "60"
+            },
+            {
+                "id": "2",
+                "text": "75"
+            },
+            {
+                "id": "3",
+                "text": "90"
+            },
+            {
+                "id": "4",
+                "text": "96"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "55",
+        "text": "The area (in sq. cm) of a regular hexagon with each side of 6 cm is",
+        "options": [
+            {
+                "id": "1",
+                "text": "9\u221a3"
+            },
+            {
+                "id": "2",
+                "text": "18\u221a3"
+            },
+            {
+                "id": "3",
+                "text": "36\u221a3"
+            },
+            {
+                "id": "4",
+                "text": "54\u221a3"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "56",
+        "text": "The area of a rectangular metal sheet is 60 sq.m. The sum of its length and a diagonal is equal to 5 times its breadth. The circumference of the metallic sheet (in meters) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "65"
+            },
+            {
+                "id": "2",
+                "text": "55"
+            },
+            {
+                "id": "3",
+                "text": "44"
+            },
+            {
+                "id": "4",
+                "text": "34"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "57",
+        "text": "The number of bricks with dimensions 20 cm x 10 cm x 7.5 cm required to build a wall of dimension 24 m x 4 m x 0.25 m is",
+        "options": [
+            {
+                "id": "1",
+                "text": "24000"
+            },
+            {
+                "id": "2",
+                "text": "20000"
+            },
+            {
+                "id": "3",
+                "text": "16000"
+            },
+            {
+                "id": "4",
+                "text": "12000"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "58",
+        "text": "An oil storage tank is in the shape of a cone of radius 6 meters and height 9 meters surmounted on a cylinder of height 3 meters. The volume (in cubic meters) of the oil that can be stored in the tank is",
+        "options": [
+            {
+                "id": "1",
+                "text": "216 \u03c0"
+            },
+            {
+                "id": "2",
+                "text": "162 \u03c0"
+            },
+            {
+                "id": "3",
+                "text": "108 \u03c0"
+            },
+            {
+                "id": "4",
+                "text": "54 \u03c0"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "59",
+        "text": "For a solid circular cylinder let c and t respectively denote its curved surface area and total surface area. If c : t = 1 : 2 and t = 616 square units then the volume (in cubic units) of the cylinder is (take \u03c0 = 22/7)",
+        "options": [
+            {
+                "id": "1",
+                "text": "539"
+            },
+            {
+                "id": "2",
+                "text": "1078"
+            },
+            {
+                "id": "3",
+                "text": "1617"
+            },
+            {
+                "id": "4",
+                "text": "2156"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "60",
+        "text": "The number of revolutions made by a wheel of diameter 2.8 meters to cover a distance of 660 meters is",
+        "options": [
+            {
+                "id": "1",
+                "text": "50"
+            },
+            {
+                "id": "2",
+                "text": "75"
+            },
+            {
+                "id": "3",
+                "text": "90"
+            },
+            {
+                "id": "4",
+                "text": "100"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "61",
+        "text": "If a metallic cylinder of radius 6 inches and height 64 inches is melted and cast in the form a solid sphere, then the surface area of that sphere (in sq. inches) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "546 \u03c0"
+            },
+            {
+                "id": "2",
+                "text": "576 \u03c0"
+            },
+            {
+                "id": "3",
+                "text": "584 \u03c0"
+            },
+            {
+                "id": "4",
+                "text": "625 \u03c0"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "62",
+        "text": "If m divides a - b, then write a = b (mod m). Then the correct statement among the following is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2\u00b9\u2075 = 4 (mod 7)"
+            },
+            {
+                "id": "2",
+                "text": "2\u00b9\u2077 = 3 (mod 7)"
+            },
+            {
+                "id": "3",
+                "text": "2\u00b2\u2070 = 2 (mod 7)"
+            },
+            {
+                "id": "4",
+                "text": "2\u00b2\u2074 = 1 (mod 7)"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "63",
+        "text": "The digit in units place of 7\u00b2\u2075 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "6"
+            },
+            {
+                "id": "2",
+                "text": "7"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "5"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "64",
+        "text": "The contradiction, among the following when p, q are two statements is",
+        "options": [
+            {
+                "id": "1",
+                "text": "(\u00acq) \u2227 p"
+            },
+            {
+                "id": "2",
+                "text": "p \u2227 q \u2227 ((\u00acp) \u2228 (\u00acq))"
+            },
+            {
+                "id": "3",
+                "text": "(p \u2228 q) \u2228 (\u00acp)"
+            },
+            {
+                "id": "4",
+                "text": "p \u21d2 q"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "65",
+        "text": "Let N and Z denote the set of all natural numbers and the set of all integers respectively. The function f: N \u2192 Z defined by f(n) = n/2 or -(n-1)/2, according as n is even or is odd, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "injection only"
+            },
+            {
+                "id": "2",
+                "text": "surjection only"
+            },
+            {
+                "id": "3",
+                "text": "bijection only"
+            },
+            {
+                "id": "4",
+                "text": "neither an injection nor a surjection"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "66",
+        "text": "The equation of the line which is perpendicular to the line L, and passing through the point (1, 1) where L is the line making intercepts 1/4 and 1/5 respectively on the x-axis and y-axis, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "4x + 5y = 1"
+            },
+            {
+                "id": "2",
+                "text": "4x - 5y = 1"
+            },
+            {
+                "id": "3",
+                "text": "5x - 4y = 1"
+            },
+            {
+                "id": "4",
+                "text": "5x + 4y = 1"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "67",
+        "text": "cos \u03b8 / sec \u03b8 - 1 + cos \u03b8 / sec \u03b8 + 1 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "2 cot \u03b8"
+            },
+            {
+                "id": "2",
+                "text": "2 tan \u03b8"
+            },
+            {
+                "id": "3",
+                "text": "2 cot\u00b2 \u03b8"
+            },
+            {
+                "id": "4",
+                "text": "2 tan\u207b\u00b2 \u03b8"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "68",
+        "text": "The ordered pair (\u03b1,\u03b2) such that the polynomial x\u2074 + \u03b1x\u00b3 + \u03b2x\u00b2 - 12x + 16 has the quadratic expression x\u00b2 + x - 2 as a factor is",
+        "options": [
+            {
+                "id": "1",
+                "text": "(3,8)"
+            },
+            {
+                "id": "2",
+                "text": "(-3,8)"
+            },
+            {
+                "id": "3",
+                "text": "(3,-8)"
+            },
+            {
+                "id": "4",
+                "text": "(-3,-8)"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "69",
+        "text": "The angles of elevation of the top of a tower and the top of a flagstaff on it are observed to be 30\u00b0 and 60\u00b0 respectively from a point P on the level ground 200 meters away from the foot of the tower. Then the length of the flagstaff (in meters) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "200\u221a3"
+            },
+            {
+                "id": "2",
+                "text": "200/\u221a3"
+            },
+            {
+                "id": "3",
+                "text": "400\u221a3"
+            },
+            {
+                "id": "4",
+                "text": "400/\u221a3"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "70",
+        "text": "If a\u2081 < a\u2082 < a\u2083 < ... < a\u2089 are nine arithmetic means between 5 and 65 then a\u2087 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "35"
+            },
+            {
+                "id": "2",
+                "text": "47"
+            },
+            {
+                "id": "3",
+                "text": "53"
+            },
+            {
+                "id": "4",
+                "text": "59"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "71",
+        "text": "(\u221a3\u22121)\u2076 + (\u221a3+1)\u2076 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "416"
+            },
+            {
+                "id": "2",
+                "text": "424"
+            },
+            {
+                "id": "3",
+                "text": "432"
+            },
+            {
+                "id": "4",
+                "text": "440"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "72",
+        "text": "lim x\u21920 (1 - cos a) / x\u00b2 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "0"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "\u221e"
+            },
+            {
+                "id": "4",
+                "text": "1/2"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "73",
+        "text": "Given that A(2, 2), B(6, 1) and C(7, 3) are the vertices of a triangle, the length of the median through A is",
+        "options": [
+            {
+                "id": "1",
+                "text": "5"
+            },
+            {
+                "id": "2",
+                "text": "4 1/2"
+            },
+            {
+                "id": "3",
+                "text": "4"
+            },
+            {
+                "id": "4",
+                "text": "3 1/2"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "74",
+        "text": "The arithmetic mean of the distribution given below is",
+        "options": [
+            {
+                "id": "1",
+                "text": "22/7"
+            },
+            {
+                "id": "2",
+                "text": "7"
+            },
+            {
+                "id": "3",
+                "text": "33/7"
+            },
+            {
+                "id": "4",
+                "text": "6"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "75",
+        "text": "The arithmetic mean of the squares of the first n natural numbers is",
+        "options": [
+            {
+                "id": "1",
+                "text": "(n+1)/2"
+            },
+            {
+                "id": "2",
+                "text": "n(n+1)\u00b2/4"
+            },
+            {
+                "id": "3",
+                "text": "(n+1)(2n+1)/6"
+            },
+            {
+                "id": "4",
+                "text": "n(n+2)/2"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "76",
+        "text": "For n \u2265 1, let xn=r where r is the remainder when n is divided by 7 (for instance, x\u2082\u2084 = 3 since 24 leaves remainder 3 when divided by 7). The mode of the observations x\u2085, x\u2089, x\u2081\u2081, x\u2081\u2083, x\u2081\u2086, x\u2082\u2081, x\u2082\u2083, x\u2082\u2085 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "0"
+            },
+            {
+                "id": "2",
+                "text": "1"
+            },
+            {
+                "id": "3",
+                "text": "2"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "77",
+        "text": "If the mean and the mode of a data are 15 and 21 respectively then the median of the data is",
+        "options": [
+            {
+                "id": "1",
+                "text": "17"
+            },
+            {
+                "id": "2",
+                "text": "18"
+            },
+            {
+                "id": "3",
+                "text": "19"
+            },
+            {
+                "id": "4",
+                "text": "23"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "78",
+        "text": "If x\u2081, x\u2082, ..., x\u2081\u2080 are marks obtained by a student such that \u2211 xi=90 and \u2211 x\u1d62\u00b2=900 , then the variance of this data is",
+        "options": [
+            {
+                "id": "1",
+                "text": "3"
+            },
+            {
+                "id": "2",
+                "text": "9"
+            },
+            {
+                "id": "3",
+                "text": "27"
+            },
+            {
+                "id": "4",
+                "text": "81"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "79",
+        "text": "The standard deviation of the scores 204, 208, 212, 216, 220, 224, 228 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "\u221a216"
+            },
+            {
+                "id": "2",
+                "text": "216"
+            },
+            {
+                "id": "3",
+                "text": "16"
+            },
+            {
+                "id": "4",
+                "text": "8"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "80",
+        "text": "The inequality satisfied by the correlation coefficient r is",
+        "options": [
+            {
+                "id": "1",
+                "text": "|r| > 1"
+            },
+            {
+                "id": "2",
+                "text": "|r| < 1"
+            },
+            {
+                "id": "3",
+                "text": "|r| \u2264 1"
+            },
+            {
+                "id": "4",
+                "text": "|r| > 2"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "81",
+        "text": "If two unbiased 6 faced dice are thrown simultaneously then the probability they show up distinct numbers is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/6"
+            },
+            {
+                "id": "2",
+                "text": "5/6"
+            },
+            {
+                "id": "3",
+                "text": "13/36"
+            },
+            {
+                "id": "4",
+                "text": "25/36"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "82",
+        "text": "A bag contains 4 green, 6 red and 7 white balls. If a ball is drawn at random from this bag then the probability that it is either green or red is",
+        "options": [
+            {
+                "id": "1",
+                "text": "4/17"
+            },
+            {
+                "id": "2",
+                "text": "6/17"
+            },
+            {
+                "id": "3",
+                "text": "7/17"
+            },
+            {
+                "id": "4",
+                "text": "10/17"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "83",
+        "text": "A person gets Rs. 100 if a head turns up and loses Rs. 50 if a tail turns up when an unbiased coin is tossed. If three unbiased coins are tossed simultaneously then the probability that the person neither gains nor loses is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/2"
+            },
+            {
+                "id": "2",
+                "text": "3/8"
+            },
+            {
+                "id": "3",
+                "text": "5/8"
+            },
+            {
+                "id": "4",
+                "text": "1/5"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "84",
+        "text": "What is the value of x\u00b3 + y\u00b3 ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "x + y = 13"
+            },
+            {
+                "id": "2",
+                "text": "x\u00b2 + y\u00b2 = 97"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Analytical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "85",
+        "text": "What is the x-intercept of the straight line?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "86",
+        "text": "If a, b are nonzero real numbers, what is the value of (4a-3b)/(4a+5b) ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "a+b = 14"
+            },
+            {
+                "id": "2",
+                "text": "a:b = 6:1"
+            },
+            {
+                "id": "3",
+                "text": "2"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "87",
+        "text": "If a, b, c, d are consecutive terms of an arithmetic progression, then what is the value of (b+d) - (a+c) ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "a+b+c+d = 84"
+            },
+            {
+                "id": "2",
+                "text": "The common difference of the AP is 12"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "88",
+        "text": "What is the area of the rectangle ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Perimeter of the rectangle is 34 cm"
+            },
+            {
+                "id": "2",
+                "text": "Length of the diagonal is 13 cm"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "89",
+        "text": "What is the original cost price of the article?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The marked price of the article is Rs.1850"
+            },
+            {
+                "id": "2",
+                "text": "By selling the article the dealer gets 9% loss"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "90",
+        "text": "How many students failed in both Botany and Zoology ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "23 students passed in both Botany and Zoology"
+            },
+            {
+                "id": "2",
+                "text": "The number of students passed in Botany exceed the number of students passed in Zoology by 13"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 3,
+        "section": "Analytical Ability",
+        "correctAnswer": "4"
+    }
+]

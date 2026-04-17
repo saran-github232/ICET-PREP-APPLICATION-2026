@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "Q81: Comprehension In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. A great fire (1)______ in London in 1666, which (2)____ the city and made around 1,00,000 people homeless. This fire is said to have begun in a pudding lane. It (3)____ through the crowded streets and wooden houses. However, after the fire, London was (4)___ with wider streets and improved water supplies. New buildings were (5)___ using bricks instead of wood. Question: Select the most appropriate option to fill in the blank no. 2.",
+        "options": [
+            {
+                "id": "1",
+                "text": "destroyed"
+            },
+            {
+                "id": "2",
+                "text": "smashed"
+            },
+            {
+                "id": "3",
+                "text": "shattered"
+            },
+            {
+                "id": "4",
+                "text": "demolished"
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "2",
+        "text": "Q82: Comprehension In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. A great fire (1)______ in London in 1666, which (2)____ the city and made around 1,00,000 people homeless. This fire is said to have begun in a pudding lane. It (3)____ through the crowded streets and wooden houses. However, after the fire, London was (4)___ with wider streets and improved water supplies. New buildings were (5)___ using bricks instead of wood. Question: Select the most appropriate option to fill in the blank no. 3.",
+        "options": [
+            {
+                "id": "1",
+                "text": "glided"
+            },
+            {
+                "id": "2",
+                "text": "carried"
+            },
+            {
+                "id": "3",
+                "text": "swept"
+            },
+            {
+                "id": "4",
+                "text": "pulled"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "3",
+        "text": "Q83: Comprehension In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. A great fire (1)______ in London in 1666, which (2)____ the city and made around 1,00,000 people homeless. This fire is said to have begun in a pudding lane. It (3)____ through the crowded streets and wooden houses. However, after the fire, London was (4)___ with wider streets and improved water supplies. New buildings were (5)___ using bricks instead of wood. Question: Select the most appropriate option to fill in blank no. 4.",
+        "options": [
+            {
+                "id": "1",
+                "text": "rebuilt"
+            },
+            {
+                "id": "2",
+                "text": "innovated"
+            },
+            {
+                "id": "3",
+                "text": "modelled"
+            },
+            {
+                "id": "4",
+                "text": "restored"
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "4",
+        "text": "Q84: Comprehension In the following passage, some of the words have been deleted. Read the passage carefully and select the correct answer for the given blank out of the four alternatives. There are so many myths about the (1) ______ impacts of milk on health. Changing how much milk you drink because of (2) ______ myths may mean you are unnecessarily restricting this (3) ______ nutritious drink. Australians often restrict dairy foods when they try to (4) ______ weight believing them to be fattening. While dairy products naturally contain fat there are many reduced fat products (5) ______. Question Select the most appropriate option to fill in the blank number 1.",
+        "options": [
+            {
+                "id": "1",
+                "text": "kind"
+            },
+            {
+                "id": "2",
+                "text": "welcoming"
+            },
+            {
+                "id": "3",
+                "text": "impolite"
+            },
+            {
+                "id": "4",
+                "text": "negative"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "5",
+        "text": "Q85: Comprehension In the following passage, some of the words have been deleted. Read the passage carefully and select the correct answer for the given blank out of the four alternatives. There are so many myths about the (1) ______ impacts of milk on health. Changing how much milk you drink because of (2) ______ myths may mean you are unnecessarily restricting this (3) ______ nutritious drink. Australians often restrict dairy foods when they try to (4) ______ weight believing them to be fattening. While dairy products naturally contain fat there are many reduced fat products (5) ______. Question Select the most appropriate option to fill in the blank number 2.",
+        "options": [
+            {
+                "id": "1",
+                "text": "those"
+            },
+            {
+                "id": "2",
+                "text": "thus"
+            },
+            {
+                "id": "3",
+                "text": "these"
+            },
+            {
+                "id": "4",
+                "text": "this"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "6",
+        "text": "Q86: Comprehension In the following passage, some of the words have been deleted. Read the passage carefully and select the correct answer for the given blank out of the four alternatives. There are so many myths about the (1) ______ impacts of milk on health. Changing how much milk you drink because of (2) ______ myths may mean you are unnecessarily restricting this (3) ______ nutritious drink. Australians often restrict dairy foods when they try to (4) ______ weight believing them to be fattening. While dairy products naturally contain fat there are many reduced fat products (5) ______. Question Select the most appropriate option to fill in the blank number 5.",
+        "options": [
+            {
+                "id": "1",
+                "text": "inoperable"
+            },
+            {
+                "id": "2",
+                "text": "deficient"
+            },
+            {
+                "id": "3",
+                "text": "durable"
+            },
+            {
+                "id": "4",
+                "text": "available"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "7",
+        "text": "Q87: Comprehension In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. India is one of the largest producers of tea in the world. The industry is (1)________ recognised as technically very well (2) ________. The Indian tea industry is a (3) ________one traditionally. Tea has been used in India for (4) ________ purposes as well as for (5) ________. Question Select the most appropriate option to fill in the blank number 1.",
+        "options": [
+            {
+                "id": "1",
+                "text": "globally"
+            },
+            {
+                "id": "2",
+                "text": "tediously"
+            },
+            {
+                "id": "3",
+                "text": "industrially"
+            },
+            {
+                "id": "4",
+                "text": "mutually"
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "8",
+        "text": "Q88: Read the passage given below and then answer the questions given below the passage. Some words may be highlighted for your attention. Read carefully. Air pollution has jumped to number five spot amongst the top killers in India. Releasing India-specific data, the Global Burden of Disease (GBD) warned that outdoor air pollution caused 8,27,000 deaths and 17.7 million healthy years of life in 2010 Worldwide, outdoor air pollution caused 3.2 million premature deaths and over 74 million years of healthy life in 2010 A substantial rise in cardiovascular diseases, strokes and chronic obstructive pulmonary diseases in India in 2010 are directly attributed to the rising levels of particulate matter pollution. Two-thirds of the rising disease graphs worldwide are found in South Asia. What does the 60% rise in lung cancer cases in non-smokers indicate?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Non-smokers are careless about their health."
+            },
+            {
+                "id": "2",
+                "text": "Non-smokers are secretly smoking."
+            },
+            {
+                "id": "3",
+                "text": "Air pollution has become a major cause of lung cancer."
+            },
+            {
+                "id": "4",
+                "text": "The data collected on the rise in lung cancer is inaccurate."
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "9",
+        "text": "Q89. Read the passage given below and then answer the questions given below the passage. Some words may be highlighted for your attention. Read carefully. Air pollution has jumped to number five spot amongst the top killers in India. Releasing India-specific data, the Global Burden of Disease (GBD) warned that outdoor air pollution caused 8,27,000 deaths and 17.7 million healthy years of life in 2010 Worldwide, outdoor air pollution caused 3.2 million premature deaths and over 74 million years of healthy life in 2010 A substantial rise in cardiovascular diseases, strokes and chronic obstructive pulmonary diseases in India in 2010 are directly attributed to the rising levels of particulate matter pollution. Two-thirds of the rising disease graphs worldwide are found in South Asia. What are the consequences of rising levels of particulate matter pollution? A. Rise in cardiovascular diseases B. Rise in strokes C. Rise in obesity",
+        "options": [
+            {
+                "id": "1",
+                "text": "Only A"
+            },
+            {
+                "id": "2",
+                "text": "Only B"
+            },
+            {
+                "id": "3",
+                "text": "Only C"
+            },
+            {
+                "id": "4",
+                "text": "Only A and B"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "10",
+        "text": "Q91. Read the passage given below and then answer the questions given below the passage. Some words may be highlighted for your attention. Read carefully. Air pollution has jumped to number five spot amongst the top killers in India. Releasing India-specific data, the Global Burden of Disease (GBD) warned that outdoor air pollution caused 8,27,000 deaths and 17.7 million healthy years of life in 2010 Worldwide, outdoor air pollution caused 3.2 million premature deaths and over 74 million years of healthy life in 2010 A substantial rise in cardiovascular diseases, strokes and chronic obstructive pulmonary diseases in India in 2010 are directly attributed to the rising levels of particulate matter pollution. Two-thirds of the rising disease graphs worldwide are found in South Asia. Dr. Vinod Raina, heading the oncology wing at AllMS, confirmed that 'we are getting 10 lakh new cancer cases every year, out of which approximately one lakh are lung cancer cases. We still have to quantify how many of these lung cancer cases are pollution-related: Dr. Aaron Cohen, principal scientist, Health Effects Institute, Boston, and chairperson of the Air Pollution Group at Institute for Health Metrics and Evaluation for Global Burden of Disease pointed out that a study of lung cancer amongst non-smokers had shown a 60 per cent increase caused by air pollution. Prof. S. K. Chhabra, heading the department of cardio-respiratory physiology at the Vallabhbhai Patel Chest Institute, warned against the risk from new generation pollutants, especially ozone that is currently responsible for a four per cent increase in mortality rates. 'Ozone has become a key ingredient of urban smog', said Prof. Chhabra. Prof. Randeep Guleria, head of the pulmonary unit at AllMS, highlighted how indoor air pollution had emerged as another major killer amongst women using biomass for their cooking requirements. 'Women in the Gujjar community suffer a high incidence of cancer caused by indoor air pollution': Prof. Guleria explained. Allergies, respiratory diseases, bronchitis, asthma, etc. were all caused by air pollution. The harmful fumes from vehicles are a major cause of air pollution. The India-related data was calculated from the largest global database ever assembled using India-specific levels of baseline mortality and incidence of five leading causes of death in India and was released at a workshop organised by ICMR and CSE. The 2010 GBD was produced by a rigorous scientific process involving 150 global experts led by the Institute of Health Metrics and Evaluation along with WHO and Harvard University. Why is ozone a dangerous new-generation pollutant?",
+        "options": [
+            {
+                "id": "1",
+                "text": "It is a major constituent of urban smog."
+            },
+            {
+                "id": "2",
+                "text": "It is responsible for a four per cent increase is mortality rates."
+            },
+            {
+                "id": "3",
+                "text": "It is highly toxic."
+            },
+            {
+                "id": "4",
+                "text": "Only A and B"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "11",
+        "text": "Which of the following is the opposite of the word 'chronic' given in bold in the above passage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Prolonged"
+            },
+            {
+                "id": "2",
+                "text": "Enduring"
+            },
+            {
+                "id": "3",
+                "text": "Long lasting"
+            },
+            {
+                "id": "4",
+                "text": "Fleeting"
+            }
+        ],
+        "correct": 3,
+        "section": "Vocabulary",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "12",
+        "text": "Which of the following sentence/s is true about women in the Gujjar community? A. They use biomass for cooking. B. They are highly prone to cancer because of indoor air pollution. C. They are concerned about the pollution caused by biomass.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Only A"
+            },
+            {
+                "id": "2",
+                "text": "Only A and B"
+            },
+            {
+                "id": "3",
+                "text": "Only B"
+            },
+            {
+                "id": "4",
+                "text": "Only C"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "13",
+        "text": "What kinds of diseases are caused by air pollution? A. Diabetes, obesity, depression B. Allergies, asthma, bronchitis C. Hair fall, loss of appetite, weight loss",
+        "options": [
+            {
+                "id": "1",
+                "text": "Only A"
+            },
+            {
+                "id": "2",
+                "text": "Only B"
+            },
+            {
+                "id": "3",
+                "text": "Only C"
+            },
+            {
+                "id": "4",
+                "text": "Only A and B"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "14",
+        "text": "Which of the following statements is false according to the passage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Two-thirds of the rising disease graphs worldwide are found in South Asia."
+            },
+            {
+                "id": "2",
+                "text": "A study of lung cancer amongst non-smokers had shown a 60 per cent increase caused by air pollution."
+            },
+            {
+                "id": "3",
+                "text": "The 2010 GBD was produced by a rigorous scientific process involving 150 global experts."
+            },
+            {
+                "id": "4",
+                "text": "The head of oncology department confirmed getting thousands of new cases of lung cancer every year."
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "15",
+        "text": "Choose the word that is closest in meaning to the word given in bold in the passage 'substantial?'",
+        "options": [
+            {
+                "id": "1",
+                "text": "Significant"
+            },
+            {
+                "id": "2",
+                "text": "Inconsiderable"
+            },
+            {
+                "id": "3",
+                "text": "Unreal"
+            },
+            {
+                "id": "4",
+                "text": "Dissatisfying"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "16",
+        "text": "Choose the word that is closest in meaning to the word given in bold in the passage, 'Emerged?'",
+        "options": [
+            {
+                "id": "1",
+                "text": "Hid"
+            },
+            {
+                "id": "2",
+                "text": "Camouflaged"
+            },
+            {
+                "id": "3",
+                "text": "Came forth"
+            },
+            {
+                "id": "4",
+                "text": "Underneath"
+            }
+        ],
+        "correct": 2,
+        "section": "Vocabulary",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "17",
+        "text": "What was the reason the old man flattered Srinivas's wife?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Because it is an example of good manners."
+            },
+            {
+                "id": "2",
+                "text": "Because he wanted to be welcomed."
+            },
+            {
+                "id": "3",
+                "text": "Because he had met her for the first time."
+            },
+            {
+                "id": "4",
+                "text": "both 1 and 2 ."
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "18",
+        "text": "Read the following statements and answer the following. (a) Srinivas's wife treated the old man very well. (b) The old man enjoyed his food.",
+        "options": [
+            {
+                "id": "1",
+                "text": "(a) is right and (b) is wrong."
+            },
+            {
+                "id": "2",
+                "text": "(b) is right and (a) is wrong."
+            },
+            {
+                "id": "3",
+                "text": "Both (a) and (b) are right."
+            },
+            {
+                "id": "4",
+                "text": "Both (a) and (b) are wrong."
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "19",
+        "text": "Why was the old man felt overjoyed on receiving the invitation?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The old man was very hungry."
+            },
+            {
+                "id": "2",
+                "text": "The meal was prepared by an experienced cook."
+            },
+            {
+                "id": "3",
+                "text": "Srinivas would not have accepted no as an answer."
+            },
+            {
+                "id": "4",
+                "text": "A rich aroma of food was coming out of the kitchen."
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "20",
+        "text": "Which is the closest meaning to word \"affably?\"",
+        "options": [
+            {
+                "id": "1",
+                "text": "Dangerous"
+            },
+            {
+                "id": "2",
+                "text": "Friendly"
+            },
+            {
+                "id": "3",
+                "text": "Reluctant"
+            },
+            {
+                "id": "4",
+                "text": "Opposite"
+            }
+        ],
+        "correct": 1,
+        "section": "Vocabulary",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "21",
+        "text": "Which kind of organism was cloned successfully for the first time and what was it named?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Dolly the rat"
+            },
+            {
+                "id": "2",
+                "text": "Dolly the sheep"
+            },
+            {
+                "id": "3",
+                "text": "Dolly the snake"
+            },
+            {
+                "id": "4",
+                "text": "Dolly the elephant"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "22",
+        "text": "Choose the correct meaning of the word \"triad' as given in the passage.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Bisexual"
+            },
+            {
+                "id": "2",
+                "text": "Pentagonal"
+            },
+            {
+                "id": "3",
+                "text": "a group of three related things"
+            },
+            {
+                "id": "4",
+                "text": "Bifocal"
+            }
+        ],
+        "correct": 2,
+        "section": "Vocabulary",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "23",
+        "text": "In the above passage which element can be referred to the third element of the 'triad'",
+        "options": [
+            {
+                "id": "1",
+                "text": "Involvement of Society."
+            },
+            {
+                "id": "2",
+                "text": "primary research"
+            },
+            {
+                "id": "3",
+                "text": "Technological advancement"
+            },
+            {
+                "id": "4",
+                "text": "Governmental regulations"
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "24",
+        "text": "Pick the correct statement that reflects why the author is not making any comparison between concept driven research and tool driven research?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The given statemnt is a fallacy as the author clearly endorses the distinction between concept driven research and tool driven research."
+            },
+            {
+                "id": "2",
+                "text": "The author has not been supported by different tools in his research."
+            },
+            {
+                "id": "3",
+                "text": "The author has found that basic concept-driven research supported by tool-driven technological developments contribute the most to advancement in human civilization."
+            },
+            {
+                "id": "4",
+                "text": "Since Dolly the sheep could not be cloned without proper technology, the author does not distinguish between concept driven research and tool driven research."
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "25",
+        "text": "Choose the correct meaning of the highlighted phrase 'all singing, all dancing' as given in the passage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Very modern and technically advanced."
+            },
+            {
+                "id": "2",
+                "text": "Cultural performance."
+            },
+            {
+                "id": "3",
+                "text": "Pagan ritual."
+            },
+            {
+                "id": "4",
+                "text": "Spontaneity"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "26",
+        "text": "What is the central idea of the passage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "war between Science and technology."
+            },
+            {
+                "id": "2",
+                "text": "Science and technology together can lead to advancement of human civilization."
+            },
+            {
+                "id": "3",
+                "text": "Importance of societal acceptance for betterment of human civilization."
+            },
+            {
+                "id": "4",
+                "text": "Primary research can't be completed without technological development."
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "27",
+        "text": "Which of the following is the opposite of the word 'chronic' given in bold in the above passage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Prolonged"
+            },
+            {
+                "id": "2",
+                "text": "Enduring"
+            },
+            {
+                "id": "3",
+                "text": "Long lasting"
+            },
+            {
+                "id": "4",
+                "text": "Fleeting"
+            }
+        ],
+        "correct": 3,
+        "section": "Vocabulary",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "28",
+        "text": "Which of the following sentence/s is true about women in the Gujjar community? A. They use biomass for cooking. B. They are highly prone to cancer because of indoor air pollution. C. They are concerned about the pollution caused by biomass.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Only A"
+            },
+            {
+                "id": "2",
+                "text": "Only A and B"
+            },
+            {
+                "id": "3",
+                "text": "Only B"
+            },
+            {
+                "id": "4",
+                "text": "Only C"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "29",
+        "text": "What kinds of diseases are caused by air pollution? A. Diabetes, obesity, depression B. Allergies, asthma, bronchitis C. Hair fall, loss of appetite, weight loss",
+        "options": [
+            {
+                "id": "1",
+                "text": "Only A"
+            },
+            {
+                "id": "2",
+                "text": "Only B"
+            },
+            {
+                "id": "3",
+                "text": "Only C"
+            },
+            {
+                "id": "4",
+                "text": "Only A and B"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "30",
+        "text": "Which of the following statements is false according to the passage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Two-thirds of the rising disease graphs worldwide are found in South Asia."
+            },
+            {
+                "id": "2",
+                "text": "A study of lung cancer amongst non-smokers had shown a 60 per cent increase caused by air pollution."
+            },
+            {
+                "id": "3",
+                "text": "The 2010 GBD was produced by a rigorous scientific process involving 150 global experts."
+            },
+            {
+                "id": "4",
+                "text": "The head of oncology department confirmed getting thousands of new cases of lung cancer every year."
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "31",
+        "text": "Which of the following is NOT a section of the AP ICET 2026 exam?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Analytical Ability"
+            },
+            {
+                "id": "2",
+                "text": "Communication Ability"
+            },
+            {
+                "id": "3",
+                "text": "Mathematical Ability"
+            },
+            {
+                "id": "4",
+                "text": "Logical Reasoning"
+            }
+        ],
+        "correct": 3,
+        "section": "AP ICET Exam Pattern",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "32",
+        "text": "What is the total number of questions in the AP ICET 2026 exam?",
+        "options": [
+            {
+                "id": "1",
+                "text": "150"
+            },
+            {
+                "id": "2",
+                "text": "200"
+            },
+            {
+                "id": "3",
+                "text": "250"
+            },
+            {
+                "id": "4",
+                "text": "300"
+            }
+        ],
+        "correct": 1,
+        "section": "AP ICET Exam Pattern",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "33",
+        "text": "What is the duration of the AP ICET 2026 exam in minutes?",
+        "options": [
+            {
+                "id": "1",
+                "text": "120"
+            },
+            {
+                "id": "2",
+                "text": "150"
+            },
+            {
+                "id": "3",
+                "text": "180"
+            },
+            {
+                "id": "4",
+                "text": "200"
+            }
+        ],
+        "correct": 1,
+        "section": "AP ICET Exam Pattern",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "34",
+        "text": "How many marks are awarded for each correct answer in the AP ICET 2026 exam?",
+        "options": [
+            {
+                "id": "1",
+                "text": "0"
+            },
+            {
+                "id": "2",
+                "text": "1"
+            },
+            {
+                "id": "3",
+                "text": "2"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "AP ICET Marking Scheme",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "35",
+        "text": "Is there any negative marking in the AP ICET 2026 exam?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Yes"
+            },
+            {
+                "id": "2",
+                "text": "No"
+            },
+            {
+                "id": "3",
+                "text": "Only for certain sections"
+            },
+            {
+                "id": "4",
+                "text": "It depends on the difficulty level"
+            }
+        ],
+        "correct": 1,
+        "section": "AP ICET Marking Scheme",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "36",
+        "text": "Which section has the highest number of questions in the AP ICET 2026 exam?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Analytical Ability"
+            },
+            {
+                "id": "2",
+                "text": "Communication Ability"
+            },
+            {
+                "id": "3",
+                "text": "Mathematical Ability"
+            },
+            {
+                "id": "4",
+                "text": "All sections have an equal number of questions"
+            }
+        ],
+        "correct": 0,
+        "section": "AP ICET Exam Pattern",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "37",
+        "text": "In which mode will the AP ICET 2026 exam be conducted?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Offline (Pen and Paper)"
+            },
+            {
+                "id": "2",
+                "text": "Online (Computer-Based Test)"
+            },
+            {
+                "id": "3",
+                "text": "Hybrid"
+            },
+            {
+                "id": "4",
+                "text": "Oral Examination"
+            }
+        ],
+        "correct": 1,
+        "section": "AP ICET Exam Pattern",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "38",
+        "text": "What is the total number of marks for the AP ICET 2026 exam?",
+        "options": [
+            {
+                "id": "1",
+                "text": "150"
+            },
+            {
+                "id": "2",
+                "text": "200"
+            },
+            {
+                "id": "3",
+                "text": "250"
+            },
+            {
+                "id": "4",
+                "text": "300"
+            }
+        ],
+        "correct": 1,
+        "section": "AP ICET Exam Pattern",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "39",
+        "text": "The medium of the exam for section B (Communication Ability) will be in which language only?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Telugu"
+            },
+            {
+                "id": "2",
+                "text": "English"
+            },
+            {
+                "id": "3",
+                "text": "Both Telugu and English"
+            },
+            {
+                "id": "4",
+                "text": "Hindi"
+            }
+        ],
+        "correct": 1,
+        "section": "AP ICET Exam Pattern",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "40",
+        "text": "Which of the following is a sub-topic under Analytical Ability?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Vocabulary"
+            },
+            {
+                "id": "2",
+                "text": "Arithmetical Ability"
+            },
+            {
+                "id": "3",
+                "text": "Data Sufficiency"
+            },
+            {
+                "id": "4",
+                "text": "Functional Grammar"
+            }
+        ],
+        "correct": 2,
+        "section": "Topics for AP ICET 2026",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "41",
+        "text": "The area of a square is equal to that of a circle. What is the circumference of the circle? I. The diagonal of the square is X inches. II. The side of the square is Y inches.",
+        "options": [
+            {
+                "id": "1",
+                "text": "If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question."
+            },
+            {
+                "id": "2",
+                "text": "If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question."
+            },
+            {
+                "id": "3",
+                "text": "If the data either in statement I alone or in statement II alone are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "If the data even in both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "42",
+        "text": "What is the height of a right-angled triangle? I. The area of the right-angled triangle is equal to the area of a rectangle whose breadth is 15 m. II. The length of the rectangle is 12 m.",
+        "options": [
+            {
+                "id": "1",
+                "text": "If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question."
+            },
+            {
+                "id": "2",
+                "text": "If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question."
+            },
+            {
+                "id": "3",
+                "text": "If the data either in statement I alone or in statement II alone are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "If the data even in both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "43",
+        "text": "What is the difference between the shares of profits of Rekha and Nutan out of a profit of Rs. 6,000 at the end of the year? I. Rekha invested Rs. 50, 000 and withdrew Rs. 1000 after 4 months. II. For the last 8 months, Nutan's capital was 125% of Rekha's.",
+        "options": [
+            {
+                "id": "1",
+                "text": "If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question."
+            },
+            {
+                "id": "2",
+                "text": "If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question."
+            },
+            {
+                "id": "3",
+                "text": "If the data either in statement I alone or in statement II alone are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "If the data even in both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "44",
+        "text": "What is the average daily wage of a worker who works for five days; he made Rs. 80 on the first, day. I. The worker made a total of Rs. 400 for the first four days of work. II. The worker made 20% more each day than he did on the previous day.",
+        "options": [
+            {
+                "id": "1",
+                "text": "If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question."
+            },
+            {
+                "id": "2",
+                "text": "If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question."
+            },
+            {
+                "id": "3",
+                "text": "If the data either in statement I alone or in statement II alone are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "If the data even in both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "45",
+        "text": "What is the cost of laying the carpet in a rectangular hall? I. The cost of the carpet is Rs. 450 per square metre. II. The perimeter of the hall is 50 meters.",
+        "options": [
+            {
+                "id": "1",
+                "text": "If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question."
+            },
+            {
+                "id": "2",
+                "text": "If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question."
+            },
+            {
+                "id": "3",
+                "text": "If the data either in statement I alone or in statement II alone are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "If the data even in both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "46",
+        "text": "Q. What is the circum-radius of a right-angled triangle? I. The length of the hypotenuse of the right-angled triangle is 13 cm. II. The perimeter of the right-angled triangle is 100 cm.",
+        "options": [
+            {
+                "id": "1",
+                "text": "if one of the statements is redundant."
+            },
+            {
+                "id": "2",
+                "text": "If both the statements are redundant."
+            },
+            {
+                "id": "3",
+                "text": "If one of the statements is redundant."
+            },
+            {
+                "id": "4",
+                "text": "If even by using both statements the answer can not be found."
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "47",
+        "text": "Q. What is the 4th term of a geometric progression? I. the 3rd term of the geometric progression is 8, II. The 7th term of the geometric progression is 128.",
+        "options": [
+            {
+                "id": "1",
+                "text": "If only one of the two statements is sufficient to answer the question."
+            },
+            {
+                "id": "2",
+                "text": "If either of the two statements is sufficient to answer the question."
+            },
+            {
+                "id": "3",
+                "text": "If both the statements are required to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "If the question cannot be answered even with the help of both the statement."
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "48",
+        "text": "Q. Three people A,B and C are standing along the border of a rectangular field X metres long and Y metres broad (X, Y EN), What is the perimeter of the field? I. The area of the field is 45 m2, II. The shortest distance between A and B is equal to the shortest distance between B and C and also equals to the shortest distance between C and A, along the border.",
+        "options": [
+            {
+                "id": "1",
+                "text": "If only one of the two statements is sufficient to answer the question."
+            },
+            {
+                "id": "2",
+                "text": "If either of.the two statements is sufficient to answer the question."
+            },
+            {
+                "id": "3",
+                "text": "If both the statements are required to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "If the question cannot be answered even with the help of both the statement."
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "49",
+        "text": "Q. Three men A, B and C invest Rs.4,700 for a business. A invests Rs. 700 more than B and B invests Rs.500 more than C. C invests for 14 months. How much profit will A receive? I. Total profit at the end of the year is Rs. 840,II. A,B subscribe their money in a business for 8 and 9 months respectively,",
+        "options": [
+            {
+                "id": "1",
+                "text": "If only one of the two statements is sufficient to answer the question."
+            },
+            {
+                "id": "2",
+                "text": "If either of . the two statements are sufficient to answer the question."
+            },
+            {
+                "id": "3",
+                "text": "If both the statements are required to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "If the question cannot be answered even with the help of both the statement."
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "50",
+        "text": "Q. In What ratio should pure and adulterated fruit juices be sold so as to make a profit of 10% by selling the mixture at Rs.14/litre? I. Pure juice is sold at Rs. 18 per litre to get a profit of 20%. II. Adulterated juice is sold at Rs.15 per litre to get a profit of 25%.",
+        "options": [
+            {
+                "id": "1",
+                "text": "If only one of the two statements is sufficient to answer the question."
+            },
+            {
+                "id": "2",
+                "text": "If either of . the two statements are sufficient to answer the question."
+            },
+            {
+                "id": "3",
+                "text": "If both the statements are required to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "If the question cannot be answered even with the help of both the statement."
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "51",
+        "text": "The cost price of an article whose selling price is Rs.250 and profit percentage is 20%",
+        "options": [
+            {
+                "id": "1",
+                "text": "if the quantity in column B is greater than quantity in column A."
+            },
+            {
+                "id": "2",
+                "text": "if the quantity in Column A is greater than quantity in Column B."
+            },
+            {
+                "id": "3",
+                "text": "If the two quantities are equal in column A and Column B"
+            },
+            {
+                "id": "4",
+                "text": "if the relationship cannot be determined from the given information"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "52",
+        "text": "81^3-18^3-63^3",
+        "options": [
+            {
+                "id": "1",
+                "text": "if the quantity in column B is greater than quantity in column A."
+            },
+            {
+                "id": "2",
+                "text": "if the quantity in Column A is greater than quantity in Column B."
+            },
+            {
+                "id": "3",
+                "text": "If the two quantities are equal in column A and Column B"
+            },
+            {
+                "id": "4",
+                "text": "if the relationship cannot be determined from the given information"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "53",
+        "text": "The Average speed of a person if speed for first half is 30km/hr and for the second half it is 45 km/hr.",
+        "options": [
+            {
+                "id": "1",
+                "text": "if the quantity in column B is greater than quantity in column A."
+            },
+            {
+                "id": "2",
+                "text": "if the quantity in Column A is greater than the quantity in Column B."
+            },
+            {
+                "id": "3",
+                "text": "If the two quantities are equal in column A and Column B"
+            },
+            {
+                "id": "4",
+                "text": "if the relationship cannot be determined from the given information"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "54",
+        "text": "External angle of an equilateral triangle",
+        "options": [
+            {
+                "id": "1",
+                "text": "if the quantity in column B is greater than the quantity in column A."
+            },
+            {
+                "id": "2",
+                "text": "if the quantity in Column A is greater than quantity in Column B."
+            },
+            {
+                "id": "3",
+                "text": "If the two quantities are equal in column A and Column B"
+            },
+            {
+                "id": "4",
+                "text": "if the relationship cannot be determined from the given information"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "55",
+        "text": "The cost price of an article whose selling price is Rs.250 and profit percentage is 20%",
+        "options": [
+            {
+                "id": "1",
+                "text": "if the quantity in column B is greater than quantity in column A."
+            },
+            {
+                "id": "2",
+                "text": "if the quantity in Column A is greater than quantity in Column B."
+            },
+            {
+                "id": "3",
+                "text": "If the two quantities are equal in column A and Column B"
+            },
+            {
+                "id": "4",
+                "text": "if the relationship cannot be determined from the given information"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "56",
+        "text": "Cube root of three",
+        "options": [
+            {
+                "id": "1",
+                "text": "if the quantity in Column A is greater than the quantity in Column B."
+            },
+            {
+                "id": "2",
+                "text": "if the quantity in Column B is greater than the quantity in Column A"
+            },
+            {
+                "id": "3",
+                "text": "if the quantities are equal."
+            },
+            {
+                "id": "4",
+                "text": "if the comparison cannot be made"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "57",
+        "text": "1/3 of 8",
+        "options": [
+            {
+                "id": "1",
+                "text": "if the quantity in Column A is greater than the quantity in Column B."
+            },
+            {
+                "id": "2",
+                "text": "if the quantity in Column B is greater than the quantity in Column A"
+            },
+            {
+                "id": "3",
+                "text": "if the quantities are equal."
+            },
+            {
+                "id": "4",
+                "text": "if the comparison cannot be made"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "58",
+        "text": "Time elapsed from 2:55 P.M. to 3:15 P.M on the same afternoon",
+        "options": [
+            {
+                "id": "1",
+                "text": "if the quantity in Column A is greater than the quantity in Column B."
+            },
+            {
+                "id": "2",
+                "text": "if the quantity in Column B is greater than the quantity in Column A"
+            },
+            {
+                "id": "3",
+                "text": "if the quantities are equal."
+            },
+            {
+                "id": "4",
+                "text": "if the comparison cannot be made"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "59",
+        "text": "The number of posts needed for a 12 posts fence",
+        "options": [
+            {
+                "id": "1",
+                "text": "if the quantity in Column A is greater than the quantity in Column B."
+            },
+            {
+                "id": "2",
+                "text": "if the quantity in Column B is greater than the quantity in Column A"
+            },
+            {
+                "id": "3",
+                "text": "if the quantities are equal."
+            },
+            {
+                "id": "4",
+                "text": "if the comparison cannot be made"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "60",
+        "text": "Half of 60% of 30",
+        "options": [
+            {
+                "id": "1",
+                "text": "if the quantity in Column A is greater than the quantity in Column B."
+            },
+            {
+                "id": "2",
+                "text": "if the quantity in Column B is greater than the quantity in Column A"
+            },
+            {
+                "id": "3",
+                "text": "if the quantities are equal."
+            },
+            {
+                "id": "4",
+                "text": "if the comparison cannot be made"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "61",
+        "text": "RTM, VZX, ZFI, DLT, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "HRE"
+            },
+            {
+                "id": "2",
+                "text": "RST"
+            },
+            {
+                "id": "3",
+                "text": "TMO"
+            },
+            {
+                "id": "4",
+                "text": "HRS"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "62",
+        "text": "NAME, NEME, ?, NOME, NUME",
+        "options": [
+            {
+                "id": "1",
+                "text": "NMME"
+            },
+            {
+                "id": "2",
+                "text": "NKME"
+            },
+            {
+                "id": "3",
+                "text": "NIME"
+            },
+            {
+                "id": "4",
+                "text": "NJME"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "63",
+        "text": "5, 10, 17, 26, 37, 50, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "58"
+            },
+            {
+                "id": "2",
+                "text": "65"
+            },
+            {
+                "id": "3",
+                "text": "76"
+            },
+            {
+                "id": "4",
+                "text": "54"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "64",
+        "text": "ABCD, HGLO, OLUZ, VQDK, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "RTQV"
+            },
+            {
+                "id": "2",
+                "text": "CYQR"
+            },
+            {
+                "id": "3",
+                "text": "CMVQ"
+            },
+            {
+                "id": "4",
+                "text": "CVMV"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "65",
+        "text": "2, 4, 10, 28, ?, 244",
+        "options": [
+            {
+                "id": "1",
+                "text": "94"
+            },
+            {
+                "id": "2",
+                "text": "90"
+            },
+            {
+                "id": "3",
+                "text": "88"
+            },
+            {
+                "id": "4",
+                "text": "82"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "66",
+        "text": "abCD, fgHI, ?, stUV, abCD",
+        "options": [
+            {
+                "id": "1",
+                "text": "KIMO"
+            },
+            {
+                "id": "2",
+                "text": "ImNO"
+            },
+            {
+                "id": "3",
+                "text": "mnOP"
+            },
+            {
+                "id": "4",
+                "text": "InMO"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "67",
+        "text": "FOX, ?, JSX, LUX, NWX",
+        "options": [
+            {
+                "id": "1",
+                "text": "HQS"
+            },
+            {
+                "id": "2",
+                "text": "HQX"
+            },
+            {
+                "id": "3",
+                "text": "HXQ"
+            },
+            {
+                "id": "4",
+                "text": "HEX"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "68",
+        "text": "ABCD, BDFD, CFID, ?, EJOD",
+        "options": [
+            {
+                "id": "1",
+                "text": "DHED"
+            },
+            {
+                "id": "2",
+                "text": "DHDD"
+            },
+            {
+                "id": "3",
+                "text": "DLHD"
+            },
+            {
+                "id": "4",
+                "text": "DLHD"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "69",
+        "text": "1331, 2197, ?, 6859",
+        "options": [
+            {
+                "id": "1",
+                "text": "4913"
+            },
+            {
+                "id": "2",
+                "text": "5832"
+            },
+            {
+                "id": "3",
+                "text": "4096"
+            },
+            {
+                "id": "4",
+                "text": "3375"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "70",
+        "text": "4, 6, 12, 14, 28, 30, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "62"
+            },
+            {
+                "id": "2",
+                "text": "60"
+            },
+            {
+                "id": "3",
+                "text": "54"
+            },
+            {
+                "id": "4",
+                "text": "52"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "71",
+        "text": "NMRQ, NDZG, NUHW, NLPM, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "NQRC"
+            },
+            {
+                "id": "2",
+                "text": "NCXC"
+            },
+            {
+                "id": "3",
+                "text": "NHMH"
+            },
+            {
+                "id": "4",
+                "text": "MQRQ"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "72",
+        "text": "DMT, JOB, PQJ, VSR, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "BZY"
+            },
+            {
+                "id": "2",
+                "text": "ZYM"
+            },
+            {
+                "id": "3",
+                "text": "BUZ"
+            },
+            {
+                "id": "4",
+                "text": "BZM"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "73",
+        "text": "DW, FU, GT, IR, JQ, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "LN"
+            },
+            {
+                "id": "2",
+                "text": "LO"
+            },
+            {
+                "id": "3",
+                "text": "MO"
+            },
+            {
+                "id": "4",
+                "text": "LP"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "74",
+        "text": "345, 356, 368, 381, 395, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "409"
+            },
+            {
+                "id": "2",
+                "text": "408"
+            },
+            {
+                "id": "3",
+                "text": "406"
+            },
+            {
+                "id": "4",
+                "text": "410"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "75",
+        "text": "NMQR, NQYD, NUGP, NYOB, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "NQRC"
+            },
+            {
+                "id": "2",
+                "text": "NMWN"
+            },
+            {
+                "id": "3",
+                "text": "NCWN"
+            },
+            {
+                "id": "4",
+                "text": "NWRQ"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "76",
+        "text": "111, 222, 444, ?, 1776, 3552",
+        "options": [
+            {
+                "id": "1",
+                "text": "999"
+            },
+            {
+                "id": "2",
+                "text": "888"
+            },
+            {
+                "id": "3",
+                "text": "1780"
+            },
+            {
+                "id": "4",
+                "text": "1770"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "77",
+        "text": "PK, GT, XC, OL, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "GT"
+            },
+            {
+                "id": "2",
+                "text": "HS"
+            },
+            {
+                "id": "3",
+                "text": "EV"
+            },
+            {
+                "id": "4",
+                "text": "FU"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "78",
+        "text": "382, 322, 272, 232, 202, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "168"
+            },
+            {
+                "id": "2",
+                "text": "150"
+            },
+            {
+                "id": "3",
+                "text": "182"
+            },
+            {
+                "id": "4",
+                "text": "132"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "79",
+        "text": "31, ?, 40, 49, 61, 76",
+        "options": [
+            {
+                "id": "1",
+                "text": "36"
+            },
+            {
+                "id": "2",
+                "text": "34"
+            },
+            {
+                "id": "3",
+                "text": "35"
+            },
+            {
+                "id": "4",
+                "text": "37"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "80",
+        "text": "ABCD, CTFZ, ELIV, GDLR, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "ITOQ"
+            },
+            {
+                "id": "2",
+                "text": "QMQR"
+            },
+            {
+                "id": "3",
+                "text": "IMOQ"
+            },
+            {
+                "id": "4",
+                "text": "IVON"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "81",
+        "text": "In a certain code language, FUEL is coded as 50, and JEER is coded as 44. How will FARE be coded in that language?",
+        "options": [
+            {
+                "id": "1",
+                "text": "38"
+            },
+            {
+                "id": "2",
+                "text": "34"
+            },
+            {
+                "id": "3",
+                "text": "40"
+            },
+            {
+                "id": "4",
+                "text": "36"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "82",
+        "text": "In a certain code language, 'BYE' is coded as '245' and 'OLA' is coded as '265'. How will 'CAR' be coded in that language?",
+        "options": [
+            {
+                "id": "1",
+                "text": "280"
+            },
+            {
+                "id": "2",
+                "text": "285"
+            },
+            {
+                "id": "3",
+                "text": "295"
+            },
+            {
+                "id": "4",
+                "text": "300"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "83",
+        "text": "In a certain code language, ADVANCE is written as VDAAECN and BABYSIT is written as BABYTIS. How will AFFABLE be written in that language?",
+        "options": [
+            {
+                "id": "1",
+                "text": "FFAALEB"
+            },
+            {
+                "id": "2",
+                "text": "FFAAELB"
+            },
+            {
+                "id": "3",
+                "text": "FFAAEBL"
+            },
+            {
+                "id": "4",
+                "text": "AAFFELB"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "84",
+        "text": "In a certain code language, \u2018NUMERICAL' is written as 'ICALRNUME' and 'SCATTERED' is written as \u2018EREDTSCAT\u2019. How will \u2018EXPLOSION' be written in that language?",
+        "options": [
+            {
+                "id": "1",
+                "text": "SIONOXEPL"
+            },
+            {
+                "id": "2",
+                "text": "SIONOEXPL"
+            },
+            {
+                "id": "3",
+                "text": "SIONOXELP"
+            },
+            {
+                "id": "4",
+                "text": "SIONOEXLP"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "85",
+        "text": "In a certain code language, HYPOCRISY is written as YPHOCIRYS, and IMPORTANT is written as MPIORATTN. How will INTEGRITY be written in that language?",
+        "options": [
+            {
+                "id": "1",
+                "text": "NTIEGIRYT"
+            },
+            {
+                "id": "2",
+                "text": "NTIEGRIYT"
+            },
+            {
+                "id": "3",
+                "text": "NTIGEIRYT"
+            },
+            {
+                "id": "4",
+                "text": "NITEGIRYT"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "86",
+        "text": "In a certain code language, CRUST is written as 201921183 and BLAME is written as 5131122. How will PLASTIC be written in that language?",
+        "options": [
+            {
+                "id": "1",
+                "text": "18204165138"
+            },
+            {
+                "id": "2",
+                "text": "73110209325"
+            },
+            {
+                "id": "3",
+                "text": "71642578102"
+            },
+            {
+                "id": "4",
+                "text": "39201911216"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "87",
+        "text": "In a certain code language, \u2018PSYCHIC' is written as \u2018YSPCCIH' and \u2018CITIZEN' is written as 'TICINEZ'. How will \u2018MAHATMA' be written in that language?",
+        "options": [
+            {
+                "id": "1",
+                "text": "HAMAATM"
+            },
+            {
+                "id": "2",
+                "text": "AHMAAMT"
+            },
+            {
+                "id": "3",
+                "text": "HAMAAMT"
+            },
+            {
+                "id": "4",
+                "text": "HAMAMAT"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "88",
+        "text": "In a certain code language, BEHOLD is written as BDEHLO, and INDEED is written as DDEEIN. How will COURSE be written in that language?",
+        "options": [
+            {
+                "id": "1",
+                "text": "CEROSU"
+            },
+            {
+                "id": "2",
+                "text": "CEROSU"
+            },
+            {
+                "id": "3",
+                "text": "CEOSUR"
+            },
+            {
+                "id": "4",
+                "text": "CEORSU"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "89",
+        "text": "There are five girls R, S, T, P, and Q sitting in a row facing north. T is sitting exactly in the middle of the row. Q is sitting to the immediate right and immediate left of P and T, respectively. S is not sitting at the extreme end. Who is sitting third to the left of R?",
+        "options": [
+            {
+                "id": "1",
+                "text": "P"
+            },
+            {
+                "id": "2",
+                "text": "Q"
+            },
+            {
+                "id": "3",
+                "text": "S"
+            },
+            {
+                "id": "4",
+                "text": "T"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "90",
+        "text": "P, Q, R and S are playing a game of carrom. P, R and S, Q are partners. S is to the right of R. If R is facing West, then Q is facing which direction?",
+        "options": [
+            {
+                "id": "1",
+                "text": "North"
+            },
+            {
+                "id": "2",
+                "text": "South"
+            },
+            {
+                "id": "3",
+                "text": "East"
+            },
+            {
+                "id": "4",
+                "text": "West"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "1"
+    }
+]

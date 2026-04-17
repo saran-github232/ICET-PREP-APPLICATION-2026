@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "What is the code for INFOSYS?",
+        "options": [
+            {
+                "id": "1",
+                "text": "OMDURXR"
+            },
+            {
+                "id": "2",
+                "text": "EOCOTX T"
+            },
+            {
+                "id": "3",
+                "text": "OMCOVYV"
+            },
+            {
+                "id": "4",
+                "text": "EIDAZUZ"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and Decoding",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "2",
+        "text": "What is the code for 'MOBILE'?",
+        "options": [
+            {
+                "id": "1",
+                "text": "NAYUMD"
+            },
+            {
+                "id": "2",
+                "text": "LUZOKI"
+            },
+            {
+                "id": "3",
+                "text": "LIXANO"
+            },
+            {
+                "id": "4",
+                "text": "NETBLI"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding and Decoding",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "3",
+        "text": "In a certain code 'WATCH' is coded as 'VBSDG', then in the same code the code for 'BRING' is?",
+        "options": [
+            {
+                "id": "1",
+                "text": "ASHQF"
+            },
+            {
+                "id": "2",
+                "text": "CQJMH"
+            },
+            {
+                "id": "3",
+                "text": "AQHMF"
+            },
+            {
+                "id": "4",
+                "text": "CSJOH"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and Decoding",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "4",
+        "text": "If the word 'MIST' is coded as 75 and 'NODE' is coded as 54, then in the same code language 'PARK' is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "50"
+            },
+            {
+                "id": "2",
+                "text": "55"
+            },
+            {
+                "id": "3",
+                "text": "60"
+            },
+            {
+                "id": "4",
+                "text": "65"
+            }
+        ],
+        "correct": 3,
+        "section": "Coding and Decoding",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "5",
+        "text": "If the word 'PENCIL' is coded as 'RHRHOS', then in the same code language 'RATING' is",
+        "options": [
+            {
+                "id": "1",
+                "text": "TCXMRK"
+            },
+            {
+                "id": "2",
+                "text": "TCXNRN"
+            },
+            {
+                "id": "3",
+                "text": "TDVOQP"
+            },
+            {
+                "id": "4",
+                "text": "TDXNTN"
+            }
+        ],
+        "correct": 3,
+        "section": "Coding and Decoding",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "6",
+        "text": "'CLASS' is coded as 'DMBITT', then code for the word 'FREEDOM' is",
+        "options": [
+            {
+                "id": "1",
+                "text": "SGDDEQM"
+            },
+            {
+                "id": "2",
+                "text": "GRCCDRO"
+            },
+            {
+                "id": "3",
+                "text": "GSFFEPN"
+            },
+            {
+                "id": "4",
+                "text": "SQEEFMR"
+            }
+        ],
+        "correct": 2,
+        "section": "Coding and Decoding",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "7",
+        "text": "1234526 is 'ENGLAND' and 785291 'FRANCE', then 381191 will be",
+        "options": [
+            {
+                "id": "1",
+                "text": "GEORGE"
+            },
+            {
+                "id": "2",
+                "text": "RUSSIA"
+            },
+            {
+                "id": "3",
+                "text": "GERMAN"
+            },
+            {
+                "id": "4",
+                "text": "GREECE"
+            }
+        ],
+        "correct": 3,
+        "section": "Coding and Decoding",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "8",
+        "text": "The day on 17th July 2016 was",
+        "options": [
+            {
+                "id": "1",
+                "text": "Wednesday"
+            },
+            {
+                "id": "2",
+                "text": "Thursday"
+            },
+            {
+                "id": "3",
+                "text": "Sunday"
+            },
+            {
+                "id": "4",
+                "text": "Saturday"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "9",
+        "text": "The time between 5:30 AM and 6:10 AM, the two hands of the clock will be at right angles is",
+        "options": [
+            {
+                "id": "1",
+                "text": "5.57 3/11 A.M"
+            },
+            {
+                "id": "2",
+                "text": "5.53 7/11 A.M"
+            },
+            {
+                "id": "3",
+                "text": "5.47 3/11 A. M"
+            },
+            {
+                "id": "4",
+                "text": "5.43 7/11 A.M"
+            }
+        ],
+        "correct": 3,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "10",
+        "text": "The smallest angle between the two hands of a clock when the time is 10:25 AM is",
+        "options": [
+            {
+                "id": "1",
+                "text": "157 1/2"
+            },
+            {
+                "id": "2",
+                "text": "162 1/2"
+            },
+            {
+                "id": "3",
+                "text": "167 1/2"
+            },
+            {
+                "id": "4",
+                "text": "172 1/2"
+            }
+        ],
+        "correct": 1,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "11",
+        "text": "Miss A, who is daughter of daughter of Mr. B, said to Miss C that \u201cyour mother D is the elder sister of my father who is second child of Mr. E\u201d. Then E is related to C as",
+        "options": [
+            {
+                "id": "1",
+                "text": "Paternal Uncle"
+            },
+            {
+                "id": "2",
+                "text": "Grand daughter"
+            },
+            {
+                "id": "3",
+                "text": "Grand father"
+            },
+            {
+                "id": "4",
+                "text": "Maternal Uncle"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "12",
+        "text": "Friends A, B, C, D, E, F sit around a table facing the centre, F is between A and B and D is between C and E. If B is at immediate left to C, then the neighbours of E are",
+        "options": [
+            {
+                "id": "1",
+                "text": "A, E"
+            },
+            {
+                "id": "2",
+                "text": "B, E"
+            },
+            {
+                "id": "3",
+                "text": "B, D"
+            },
+            {
+                "id": "4",
+                "text": "A, D"
+            }
+        ],
+        "correct": 3,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "13",
+        "text": "The difference of times of arrival of two buses A and B at Vijayawada bus stand is 43 minutes. A came to the bus stand 32 minutes later than its scheduled time. After that B arrived to the bus stand 20 minutes before its scheduled time 10.42 A.M. Then the scheduled time of arrival of bus A at the bus stand is",
+        "options": [
+            {
+                "id": "1",
+                "text": "11.05 A.M"
+            },
+            {
+                "id": "2",
+                "text": "10.54 A.M"
+            },
+            {
+                "id": "3",
+                "text": "9.07 A.M"
+            },
+            {
+                "id": "4",
+                "text": "9.39A.M"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "14",
+        "text": "When I arrived at a local station, I saw in the notice board that the next train will come at 14.35 hrs with a late of 30 minutes, then the scheduled departure of the previous train is",
+        "options": [
+            {
+                "id": "1",
+                "text": "13.45 hrs"
+            },
+            {
+                "id": "2",
+                "text": "13.53 hrs"
+            },
+            {
+                "id": "3",
+                "text": "13.30 hrs"
+            },
+            {
+                "id": "4",
+                "text": "14.53 hrs"
+            }
+        ],
+        "correct": 1,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "15",
+        "text": "If A, M, D, S denote Addition, Multiplication, Division and Subtraction respectively, then [20S{(6M4)D4}A7] =?",
+        "options": [
+            {
+                "id": "1",
+                "text": "16"
+            },
+            {
+                "id": "2",
+                "text": "18"
+            },
+            {
+                "id": "3",
+                "text": "20"
+            },
+            {
+                "id": "4",
+                "text": "21"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "16",
+        "text": "If xy \u2260 0 and x * y = 1 + 1/xy, then \u2211 a (2020) x a = ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "2020 x 1011"
+            },
+            {
+                "id": "2",
+                "text": "2021 x 1011"
+            },
+            {
+                "id": "3",
+                "text": "2023 x 1010"
+            },
+            {
+                "id": "4",
+                "text": "2021 x 1010"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "17",
+        "text": "a = 1/2, b = 1/3, x = \u2211 a^n from n=0 to \u221e, y = \u2211 b^n from n=0 to \u221e, then x+y/x-y = ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "14/3"
+            },
+            {
+                "id": "2",
+                "text": "7"
+            },
+            {
+                "id": "3",
+                "text": "7 1/2"
+            },
+            {
+                "id": "4",
+                "text": "7 1/3"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "18",
+        "text": "1 / (x^a-b + x^a-c + 1) + 1 / (x^b-c + x^b-a + 1) + 1 / (x^c-a + x^c-b + 1) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "0"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "19",
+        "text": "If x, y, z are real numbers and not all zero and x + y + z = 0, then (x\u00b2+y\u00b2+z\u00b2)/((y-z)\u00b2+(z-x)\u00b2+(x-y)\u00b2) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "1/3"
+            },
+            {
+                "id": "3",
+                "text": "0"
+            },
+            {
+                "id": "4",
+                "text": "1/2"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "20",
+        "text": "Rs. 6,624 is divided among P, Q and R so that the ratio of P's to Q's share is 2:1 and that of Q's to R's share is 6:5. Then the share (in rupees) of Q is",
+        "options": [
+            {
+                "id": "1",
+                "text": "3756"
+            },
+            {
+                "id": "2",
+                "text": "1440"
+            },
+            {
+                "id": "3",
+                "text": "1728"
+            },
+            {
+                "id": "4",
+                "text": "2728"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "21",
+        "text": "At a certain function the ratio of gents and ladies was 1:2. But when 2 gents and 2 ladies left the function, the ratio became 1:3. How many people were present at the function in the beginning?",
+        "options": [
+            {
+                "id": "1",
+                "text": "18"
+            },
+            {
+                "id": "2",
+                "text": "15"
+            },
+            {
+                "id": "3",
+                "text": "16"
+            },
+            {
+                "id": "4",
+                "text": "12"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "22",
+        "text": "If a = \u221a2 + \u221a3 then a\u00b3 + 1/a\u00b3 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "18\u221a3"
+            },
+            {
+                "id": "2",
+                "text": "16\u221a2"
+            },
+            {
+                "id": "3",
+                "text": "10\u221a3"
+            },
+            {
+                "id": "4",
+                "text": "9\u221a3"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "23",
+        "text": "\u221a10 + 2\u221a6 - 2\u221a10 - 2\u221a15 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "\u221a2 - \u221a3 + \u221a5"
+            },
+            {
+                "id": "2",
+                "text": "\u221a2 + \u221a3 + \u221a5"
+            },
+            {
+                "id": "3",
+                "text": "\u221a2 + \u221a3 - \u221a5"
+            },
+            {
+                "id": "4",
+                "text": "\u221a3 - \u221a2 + \u221a5"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "24",
+        "text": "The sum of all odd numbers from 1 to 300 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "22650"
+            },
+            {
+                "id": "2",
+                "text": "27500"
+            },
+            {
+                "id": "3",
+                "text": "22500"
+            },
+            {
+                "id": "4",
+                "text": "22350"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "25",
+        "text": "The least value of x such that 98756x943 is divisible by 9 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "5"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "26",
+        "text": "The least positive integer which when divided by 2, 3, 4, 5 and 6 leaves remainder 1 in each case a remainder 1, but when divided by 7 leaves no remainder is",
+        "options": [
+            {
+                "id": "1",
+                "text": "361"
+            },
+            {
+                "id": "2",
+                "text": "481"
+            },
+            {
+                "id": "3",
+                "text": "287"
+            },
+            {
+                "id": "4",
+                "text": "301"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "27",
+        "text": "The largest 4 digit number that leaves same remainder 5 when divided by 8, 15, 12, 25 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "9905"
+            },
+            {
+                "id": "2",
+                "text": "9805"
+            },
+            {
+                "id": "3",
+                "text": "9705"
+            },
+            {
+                "id": "4",
+                "text": "9605"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "28",
+        "text": "The least fraction that should be added to 3 2/3 + 6 7/12 + 4 9/36 + 6 + 7 1/12 to make the sum a whole number is",
+        "options": [
+            {
+                "id": "1",
+                "text": "17/36"
+            },
+            {
+                "id": "2",
+                "text": "5/12"
+            },
+            {
+                "id": "3",
+                "text": "1/12"
+            },
+            {
+                "id": "4",
+                "text": "5/36"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "29",
+        "text": "[ (1 + 1/3)(1 + 1/4)(1 + 1/5) ] [ (1 - 1/3)(1 - 1/4)(1 - 1/5) ] =",
+        "options": [
+            {
+                "id": "1",
+                "text": "3/5"
+            },
+            {
+                "id": "2",
+                "text": "7/9"
+            },
+            {
+                "id": "3",
+                "text": "9/11"
+            },
+            {
+                "id": "4",
+                "text": "11/5"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "30",
+        "text": "The increasing order of the fractions 6/7, 7/8, 5/6 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "7/8 < 6/7 < 5/6"
+            },
+            {
+                "id": "2",
+                "text": "4/5 < 5/6 < 6/7"
+            },
+            {
+                "id": "3",
+                "text": "7/8 < 5/6 < 6/7"
+            },
+            {
+                "id": "4",
+                "text": "4/5 < 6/7 < 7/8"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "31",
+        "text": "If x \u2264 y \u2264 z \u2264 t \u2264 w \u2264 x and y = 23, then w =",
+        "options": [
+            {
+                "id": "1",
+                "text": "28"
+            },
+            {
+                "id": "2",
+                "text": "27"
+            },
+            {
+                "id": "3",
+                "text": "25"
+            },
+            {
+                "id": "4",
+                "text": "23"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "32",
+        "text": "When the tax on a commodity is diminished by 15%, then its consumption is increased by 10%. What is the effect on the revenue derived from it?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Decrease by 7.5%"
+            },
+            {
+                "id": "2",
+                "text": "Increase by 4.5%"
+            },
+            {
+                "id": "3",
+                "text": "Increase by 6.5%"
+            },
+            {
+                "id": "4",
+                "text": "Decrease by 6.5%"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "33",
+        "text": "The radius of a circle is increased by 10%. How much percent does its area increase?",
+        "options": [
+            {
+                "id": "1",
+                "text": "23%"
+            },
+            {
+                "id": "2",
+                "text": "21%"
+            },
+            {
+                "id": "3",
+                "text": "20%"
+            },
+            {
+                "id": "4",
+                "text": "22%"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "34",
+        "text": "By selling an article for Rs. 5700, a trader would lose 5%. At what price (in Rs.) must he sell it, to gain 5%?",
+        "options": [
+            {
+                "id": "1",
+                "text": "6300"
+            },
+            {
+                "id": "2",
+                "text": "6200"
+            },
+            {
+                "id": "3",
+                "text": "5900"
+            },
+            {
+                "id": "4",
+                "text": "6100"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "35",
+        "text": "The cost price of 15 books is equal to the selling price of 18 books. What is the percentage of profit or loss?",
+        "options": [
+            {
+                "id": "1",
+                "text": "16 2/3 % Profit"
+            },
+            {
+                "id": "2",
+                "text": "16 2/3 % Loss"
+            },
+            {
+                "id": "3",
+                "text": "100/3 % Profit"
+            },
+            {
+                "id": "4",
+                "text": "100/3 % Loss"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "36",
+        "text": "P and Q entered into a partnership investment of Rs. 24000 and Rs. 30000 respectively. After 6 months P withdraws Rs. 4000. What is the share (in Rs.) of Q in the annual profit of Rs. 10,400?",
+        "options": [
+            {
+                "id": "1",
+                "text": "4000"
+            },
+            {
+                "id": "2",
+                "text": "6400"
+            },
+            {
+                "id": "3",
+                "text": "4400"
+            },
+            {
+                "id": "4",
+                "text": "6000"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "37",
+        "text": "P, Q, R enter into a partnership, P subscribes 1/3 of the capital, Q subscribes 1/4, R subscribes 1/4 of the capital, Q subscribes 1/4, R subscribes 1/4 of the capital, and S subscribes the rest. Then the share (in Rs.) of S out of a profit of Rs. 6000 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1400"
+            },
+            {
+                "id": "2",
+                "text": "1200"
+            },
+            {
+                "id": "3",
+                "text": "1000"
+            },
+            {
+                "id": "4",
+                "text": "1100"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "38",
+        "text": "Two pipes P and Q will fill a cistern in 37 1/2 min. and 45 min. respectively. If both pipes are opened at a time, after what time (in min.) the second pipe Q must be turned off, so that the cistern is filled in half an hour?",
+        "options": [
+            {
+                "id": "1",
+                "text": "9"
+            },
+            {
+                "id": "2",
+                "text": "10"
+            },
+            {
+                "id": "3",
+                "text": "8"
+            },
+            {
+                "id": "4",
+                "text": "12"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "39",
+        "text": "Two pipes P and Q can fill a cistern in 4 min. and 6 min. respectively. If these pipes are opened on alternatively starting with P for one minute each, how long (in min.) will it take to fill the cistern?",
+        "options": [
+            {
+                "id": "1",
+                "text": "4 1/3"
+            },
+            {
+                "id": "2",
+                "text": "4 2/3"
+            },
+            {
+                "id": "3",
+                "text": "5 1/4"
+            },
+            {
+                "id": "4",
+                "text": "5 1/3"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "40",
+        "text": "A car does a journey in 10 hours during the first half at 42 kmph and in the next half at 48 kmph. Then what is the total distance travelled by the car (in kilometers)?",
+        "options": [
+            {
+                "id": "1",
+                "text": "428"
+            },
+            {
+                "id": "2",
+                "text": "378"
+            },
+            {
+                "id": "3",
+                "text": "448"
+            },
+            {
+                "id": "4",
+                "text": "468"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "41",
+        "text": "A train travelling at a speed of 80 kmph reaches its destination 1 1/2 hrs earlier than it would have taken at a speed of 60 kmph, for the same distance. Then the distance travelled by the train (in kms) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "120"
+            },
+            {
+                "id": "2",
+                "text": "240"
+            },
+            {
+                "id": "3",
+                "text": "360"
+            },
+            {
+                "id": "4",
+                "text": "480"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "42",
+        "text": "P works twice as much as Q. If both of them together finish a work in 12 days, in how many days P alone can complete the same work?",
+        "options": [
+            {
+                "id": "1",
+                "text": "17"
+            },
+            {
+                "id": "2",
+                "text": "20"
+            },
+            {
+                "id": "3",
+                "text": "16"
+            },
+            {
+                "id": "4",
+                "text": "18"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "43",
+        "text": "P alone can complete a work in 6 days. Q alone in 8 days and R alone in 12 days. After Q and R together worked for 2 days, then R left the work and P replaced him. In how many days will the remaining work be completed?",
+        "options": [
+            {
+                "id": "1",
+                "text": "5"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "44",
+        "text": "The length and height of a hall are 22m and 6.5 m respectively. If the area of the four walls of the hall is 442 sq.m, what is the breadth of the hall in meters?",
+        "options": [
+            {
+                "id": "1",
+                "text": "14"
+            },
+            {
+                "id": "2",
+                "text": "13"
+            },
+            {
+                "id": "3",
+                "text": "11"
+            },
+            {
+                "id": "4",
+                "text": "12"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "45",
+        "text": "The area (in sq.meters) of the path of 2m wide around a rectangular field of dimensions 60m x 40m is",
+        "options": [
+            {
+                "id": "1",
+                "text": "416"
+            },
+            {
+                "id": "2",
+                "text": "328"
+            },
+            {
+                "id": "3",
+                "text": "288"
+            },
+            {
+                "id": "4",
+                "text": "204"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "46",
+        "text": "The volume of a right circular cylinder of height 20cm is equal to the volume of a sphere of radius 15 cm. Then the base radius of the cylinder (in centimeters) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "5"
+            },
+            {
+                "id": "2",
+                "text": "10"
+            },
+            {
+                "id": "3",
+                "text": "15"
+            },
+            {
+                "id": "4",
+                "text": "20"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "47",
+        "text": "How many solid spherical bullets of 1.5 cm in diameter can be made out of a solid lead cylinder 20cm in height and 6cm radius?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1280"
+            },
+            {
+                "id": "2",
+                "text": "2560"
+            },
+            {
+                "id": "3",
+                "text": "1920"
+            },
+            {
+                "id": "4",
+                "text": "640"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "48",
+        "text": "The ratio of the area of a square to that of the square drawn on its diagonal is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1 : 3:4"
+            },
+            {
+                "id": "2",
+                "text": "2 : 3"
+            },
+            {
+                "id": "3",
+                "text": "1:2"
+            },
+            {
+                "id": "4",
+                "text": "3 : 5"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "49",
+        "text": "A window is in the shape of a square surmounted by a semi circle. If the length of the side of the square is 56 cm, then the area (in sq.cm) of that window is (Take \u03c0 = 22/7)",
+        "options": [
+            {
+                "id": "1",
+                "text": "4368"
+            },
+            {
+                "id": "2",
+                "text": "5600"
+            },
+            {
+                "id": "3",
+                "text": "6832"
+            },
+            {
+                "id": "4",
+                "text": "8064"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "50",
+        "text": "The area of a semicircle is 1925 sq.cm. Then its perimeter (in cms) is approximately",
+        "options": [
+            {
+                "id": "1",
+                "text": "110"
+            },
+            {
+                "id": "2",
+                "text": "180"
+            },
+            {
+                "id": "3",
+                "text": "290"
+            },
+            {
+                "id": "4",
+                "text": "220"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "51",
+        "text": "If 11011(2) = x(7) then, x =",
+        "options": [
+            {
+                "id": "1",
+                "text": "101"
+            },
+            {
+                "id": "2",
+                "text": "12"
+            },
+            {
+                "id": "3",
+                "text": "23"
+            },
+            {
+                "id": "4",
+                "text": "36"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "52",
+        "text": "If 149 \u2261 x(mod 13) and 0 \u2264 x \u2264 12, then the remainder when x\u00b2+ 7 is divided by 9, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "8"
+            },
+            {
+                "id": "2",
+                "text": "7"
+            },
+            {
+                "id": "3",
+                "text": "6"
+            },
+            {
+                "id": "4",
+                "text": "5"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "53",
+        "text": "Which one of the following statements is true?",
+        "options": [
+            {
+                "id": "1",
+                "text": "(2+3) \u2227 (4 \u00d7 2) = 6"
+            },
+            {
+                "id": "2",
+                "text": "(2+3) \u2228 (5 \u00d7 6) = 30"
+            },
+            {
+                "id": "3",
+                "text": "(2+3) \u2227 (2 \u00d7 4) = 7"
+            },
+            {
+                "id": "4",
+                "text": "(2+3) \u2228 (3 \u00d7 3) = 6"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "54",
+        "text": "Which one of the following statements is a tautology?",
+        "options": [
+            {
+                "id": "1",
+                "text": "(\u00acp \u2227 q) \u2228 (\u00acp \u2227 \u00acq)"
+            },
+            {
+                "id": "2",
+                "text": "(p \u2228 \u00acq) \u2227 (q \u2228 (\u00acp \u2228 q))"
+            },
+            {
+                "id": "3",
+                "text": "(p \u2227 q) \u2228 (\u00acp \u2228 \u00acq)"
+            },
+            {
+                "id": "4",
+                "text": "(\u00acp \u2227 q) \u2228 (\u00acq \u2228 \u00acp)"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "55",
+        "text": "At a party in which each person drinks either coffee or tea, 60 persons drink tea, 50 drink coffee and 20 drink both coffee and tea. How many persons are there in the party?",
+        "options": [
+            {
+                "id": "1",
+                "text": "70"
+            },
+            {
+                "id": "2",
+                "text": "85"
+            },
+            {
+                "id": "3",
+                "text": "80"
+            },
+            {
+                "id": "4",
+                "text": "90"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "56",
+        "text": "The number of bijective functions from the set {1,2,3} onto the set {a, b, c, d} is",
+        "options": [
+            {
+                "id": "1",
+                "text": "3\u2074"
+            },
+            {
+                "id": "2",
+                "text": "0"
+            },
+            {
+                "id": "3",
+                "text": "4\u00b3"
+            },
+            {
+                "id": "4",
+                "text": "7"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "57",
+        "text": "The domain of the function f(x) = \u221alog\u2081\u2080(x\u00b2 \u2013 5x + 7) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "[2,3]"
+            },
+            {
+                "id": "2",
+                "text": "\u211d - [2,3]"
+            },
+            {
+                "id": "3",
+                "text": "\u211d - (2,3)"
+            },
+            {
+                "id": "4",
+                "text": "(2,3)"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "58",
+        "text": "The sum of the squares of the length of the intercepts made by the straight line 13x \u2013 15y \u2013 195 = 0 on the coordinate axes is",
+        "options": [
+            {
+                "id": "1",
+                "text": "394"
+            },
+            {
+                "id": "2",
+                "text": "274"
+            },
+            {
+                "id": "3",
+                "text": "58"
+            },
+            {
+                "id": "4",
+                "text": "29"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "59",
+        "text": "The line L passes through the point (2, 3) and makes an angle 45\u00b0 with x-axis. Then the equation of the line passing through the point (1, 2) and perpendicular to the line L, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "x + 2y \u2013 5 = 0"
+            },
+            {
+                "id": "2",
+                "text": "3x \u2013 2y + 1 = 0"
+            },
+            {
+                "id": "3",
+                "text": "2x \u2013 y = 0"
+            },
+            {
+                "id": "4",
+                "text": "x + y \u2013 3 = 0"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "60",
+        "text": "tan 960\u00b0 + cos 510\u00b0 + sec 750\u00b0 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "7-\u221a3 / 2\u221a3"
+            },
+            {
+                "id": "2",
+                "text": "10-\u221a3 / 2\u221a3"
+            },
+            {
+                "id": "3",
+                "text": "7 / 2\u221a3"
+            },
+            {
+                "id": "4",
+                "text": "13 / 2\u221a3"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "61",
+        "text": "tan(\u03c0/24) . tan(5\u03c0/24) . tan(5\u03c0/24) . tan(7\u03c0/24) . tan(8\u03c0/24) . tan(9\u03c0/24) . tan(11\u03c0/24) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "1/\u221a3"
+            },
+            {
+                "id": "3",
+                "text": "\u221a3"
+            },
+            {
+                "id": "4",
+                "text": "2 + \u221a3"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "62",
+        "text": "If x = tan \u03b8 + sin \u03b8 and y = tan \u03b8 - sin \u03b8 then (x\u00b2 \u2013 y\u00b2) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "4xy"
+            },
+            {
+                "id": "2",
+                "text": "8xy"
+            },
+            {
+                "id": "3",
+                "text": "16xy"
+            },
+            {
+                "id": "4",
+                "text": "32xy"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "63",
+        "text": "On the top of a tower there is a flag staff. At a point 200m from the foot of the tower, the angles of elevation of the top and bottom of the flag staff are respectively 60\u00b0 and 45\u00b0. Then the length of the flag staff (in mts) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "200\u221a3"
+            },
+            {
+                "id": "2",
+                "text": "200(\u221a3 \u2013 1)"
+            },
+            {
+                "id": "3",
+                "text": "100\u221a3"
+            },
+            {
+                "id": "4",
+                "text": "200(\u221a3 + 1)"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "64",
+        "text": "If x + y = 8, then x\u00b3 + y\u00b3 \u2013 x\u00b2 \u2013 y\u00b2 + 22xy =",
+        "options": [
+            {
+                "id": "1",
+                "text": "448"
+            },
+            {
+                "id": "2",
+                "text": "256"
+            },
+            {
+                "id": "3",
+                "text": "128"
+            },
+            {
+                "id": "4",
+                "text": "64"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "65",
+        "text": "If m, n are integers such that x\u2074 + 4x\u00b3 + mx + n is a perfect square, then 2m \u2013 3n =",
+        "options": [
+            {
+                "id": "1",
+                "text": "0"
+            },
+            {
+                "id": "2",
+                "text": "-6"
+            },
+            {
+                "id": "3",
+                "text": "-12"
+            },
+            {
+                "id": "4",
+                "text": "-24"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "66",
+        "text": "If x\u00b3 + 2x\u00b2 + ax + b has factors x + 1 and x \u2013 1, then (a, b) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "(-1, 2)"
+            },
+            {
+                "id": "2",
+                "text": "(-1, -2)"
+            },
+            {
+                "id": "3",
+                "text": "(1, -2)"
+            },
+            {
+                "id": "4",
+                "text": "(-2, -1)"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "67",
+        "text": "If ax\u00b2 + bx + 6 is divided by x \u2013 3 and x + 4 respectively, then 7a + 14b =",
+        "options": [
+            {
+                "id": "1",
+                "text": "9/2"
+            },
+            {
+                "id": "2",
+                "text": "17/4"
+            },
+            {
+                "id": "3",
+                "text": "27/4"
+            },
+            {
+                "id": "4",
+                "text": "11/2"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "68",
+        "text": "If the system of equations 4x + 6y = 11, 2x + ay = 7 has no solution, then the value of a is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "69",
+        "text": "The sum of a given two digit number N and the number obtained by interchanging the two digits is 110. If the digits of that number N differ by 2, then that number N is =",
+        "options": [
+            {
+                "id": "1",
+                "text": "86 or 68"
+            },
+            {
+                "id": "2",
+                "text": "75 or 57"
+            },
+            {
+                "id": "3",
+                "text": "53 or 35"
+            },
+            {
+                "id": "4",
+                "text": "64 or 46"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "70",
+        "text": "The sum of multiples of 5 between 28 and 102 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "975"
+            },
+            {
+                "id": "2",
+                "text": "985"
+            },
+            {
+                "id": "3",
+                "text": "895"
+            },
+            {
+                "id": "4",
+                "text": "945"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "71",
+        "text": "The 7th term of the series -3, -1, -1/3, -1/9, ... is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/243"
+            },
+            {
+                "id": "2",
+                "text": "1/81"
+            },
+            {
+                "id": "3",
+                "text": "-1/243"
+            },
+            {
+                "id": "4",
+                "text": "1/729"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "72",
+        "text": "If (2x + 3)\u00b9\u2070 = a\u2080 + a\u2081x + ... + a\u2081\u2080x\u00b9\u2070, then a\u2080 + a\u2082 + a\u2084 + ... + a\u2081\u2080 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "5\u00b9\u2070/2"
+            },
+            {
+                "id": "2",
+                "text": "(5\u00b9\u2070 - 1)/2"
+            },
+            {
+                "id": "3",
+                "text": "(5\u00b9\u2070 + 1)/2"
+            },
+            {
+                "id": "4",
+                "text": "1/2"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "73",
+        "text": "If the coefficients of the second, third and fourth terms in the binomial expression of (1 + x)\u207f are in arithmetical progression, then a value of n =",
+        "options": [
+            {
+                "id": "1",
+                "text": "8"
+            },
+            {
+                "id": "2",
+                "text": "6"
+            },
+            {
+                "id": "3",
+                "text": "7"
+            },
+            {
+                "id": "4",
+                "text": "9"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "74",
+        "text": "If A = [[1, 2, 3], [0, 1, 2], [0, 0, 1]], B = [[x], [y], [z]] and AB = [[6], [1], [1]], then x + y + z =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "4"
+            },
+            {
+                "id": "4",
+                "text": "3"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "75",
+        "text": "If A = [7 8 | 6 | -4] [5 6 | 2 |-3] is a 2 x 2 matrix such that A = [[7, 8], [6, -4]] [[5, 6], [2, -3]], then trace of A =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/2"
+            },
+            {
+                "id": "2",
+                "text": "75/2"
+            },
+            {
+                "id": "3",
+                "text": "75/2"
+            },
+            {
+                "id": "4",
+                "text": "75/2"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "76",
+        "text": "lim (n\u2192\u221e) [1/(5.9) + 1/(9.13) + ... + 1/((4n+1)(4n+5))] =",
+        "options": [
+            {
+                "id": "1",
+                "text": "0"
+            },
+            {
+                "id": "2",
+                "text": "1/5"
+            },
+            {
+                "id": "3",
+                "text": "1/20"
+            },
+            {
+                "id": "4",
+                "text": "1/36"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "77",
+        "text": "The value of d/dx (x^x) at x = 1/e, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "e^(1/e)"
+            },
+            {
+                "id": "2",
+                "text": "e^(1/e) * e"
+            },
+            {
+                "id": "3",
+                "text": "0"
+            },
+            {
+                "id": "4",
+                "text": "1"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "78",
+        "text": "Two triangles have equal area. If their bases are in the ratio 3:4, then the ratio of altitudes drawn to their bases, in the same order is",
+        "options": [
+            {
+                "id": "1",
+                "text": "4:3"
+            },
+            {
+                "id": "2",
+                "text": "3:4"
+            },
+            {
+                "id": "3",
+                "text": "16:9"
+            },
+            {
+                "id": "4",
+                "text": "9:16"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "79",
+        "text": "If the lengths of the diagonals of a Rhombus are 9cm and 12cm, then its perimeter (in centimeters) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "30"
+            },
+            {
+                "id": "2",
+                "text": "15"
+            },
+            {
+                "id": "3",
+                "text": "60"
+            },
+            {
+                "id": "4",
+                "text": "15/2"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "80",
+        "text": "The maximum number of common tangents that can be drawn to two circles which touch each other is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "81",
+        "text": "If the distance between the point (3, 0) and a point P is 5, then P cannot be",
+        "options": [
+            {
+                "id": "1",
+                "text": "(8, 0)"
+            },
+            {
+                "id": "2",
+                "text": "(3, 5)"
+            },
+            {
+                "id": "3",
+                "text": "(0, 6)"
+            },
+            {
+                "id": "4",
+                "text": "(3, -5)"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "82",
+        "text": "Which one of the following points is nearest to the origin?",
+        "options": [
+            {
+                "id": "1",
+                "text": "(1, 3)"
+            },
+            {
+                "id": "2",
+                "text": "(2, -1)"
+            },
+            {
+                "id": "3",
+                "text": "(2, -3)"
+            },
+            {
+                "id": "4",
+                "text": "(5, 0)"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "83",
+        "text": "The mean of the marks scored by a student in the first five papers is 72. If the marks scored in the sixth paper are also included, then the mean decreases by 7. Then the marks obtained by that student in the sixth paper is",
+        "options": [
+            {
+                "id": "1",
+                "text": "30"
+            },
+            {
+                "id": "2",
+                "text": "45"
+            },
+            {
+                "id": "3",
+                "text": "60"
+            },
+            {
+                "id": "4",
+                "text": "75"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "84",
+        "text": "The median of 7, 8, 11, 10, 9, 6, 12, 13, 5, 14 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "9"
+            },
+            {
+                "id": "2",
+                "text": "9.5"
+            },
+            {
+                "id": "3",
+                "text": "10"
+            },
+            {
+                "id": "4",
+                "text": "10.5"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "85",
+        "text": "If 76 and 72 are the mode and median of a data respectively, then the mean of the data is",
+        "options": [
+            {
+                "id": "1",
+                "text": "68"
+            },
+            {
+                "id": "2",
+                "text": "69"
+            },
+            {
+                "id": "3",
+                "text": "70"
+            },
+            {
+                "id": "4",
+                "text": "71"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "86",
+        "text": "The standard deviation of 12, 13, 14 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "\u221a2 / 3"
+            },
+            {
+                "id": "2",
+                "text": "\u221a2 / 3"
+            },
+            {
+                "id": "3",
+                "text": "2/\u221a3"
+            },
+            {
+                "id": "4",
+                "text": "2/3"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "87",
+        "text": "If the variance of x\u2081, x\u2082, ..., x\u2085\u2080 is 7, then the variance of 4x\u2081 + 5, 4x\u2082 + 5, ..., 4x\u2085\u2080 + 5 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "7"
+            },
+            {
+                "id": "2",
+                "text": "28"
+            },
+            {
+                "id": "3",
+                "text": "56"
+            },
+            {
+                "id": "4",
+                "text": "112"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "88",
+        "text": "If (x\u1d62, y\u1d62), i = 1, 2, ..., 10 are the ranks of the variables X and Y respectively such that \u2211(x\u1d62 - y\u1d62)\u00b2 = 30, then the rank correlation between the two variables is",
+        "options": [
+            {
+                "id": "1",
+                "text": "9/11"
+            },
+            {
+                "id": "2",
+                "text": "10/11"
+            },
+            {
+                "id": "3",
+                "text": "9/10"
+            },
+            {
+                "id": "4",
+                "text": "8/10"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "89",
+        "text": "A coin is tossed and die is cast. What is the probability of getting tail on the coin and at least 3 on the die?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/5"
+            },
+            {
+                "id": "2",
+                "text": "1/4"
+            },
+            {
+                "id": "3",
+                "text": "1/3"
+            },
+            {
+                "id": "4",
+                "text": "1/2"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "90",
+        "text": "A and B are two sets such that n(A) = 3 and n(B) = 2. If a relation from A to B is selected at random, what is the probability that the relation will be a function?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/2"
+            },
+            {
+                "id": "2",
+                "text": "1/4"
+            },
+            {
+                "id": "3",
+                "text": "1/16"
+            },
+            {
+                "id": "4",
+                "text": "1/8"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    }
+]

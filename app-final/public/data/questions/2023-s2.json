@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "How many more people are involved in transportation than in trade?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1680"
+            },
+            {
+                "id": "2",
+                "text": "1750"
+            },
+            {
+                "id": "3",
+                "text": "1800"
+            },
+            {
+                "id": "4",
+                "text": "1600"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Analysis",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "2",
+        "text": "The ratio between the number of people in trade and that in transportation is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2:3"
+            },
+            {
+                "id": "2",
+                "text": "3:4"
+            },
+            {
+                "id": "3",
+                "text": "1:2"
+            },
+            {
+                "id": "4",
+                "text": "2:1"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Analysis",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "3",
+        "text": "The total number of people in Employment, Transportation and trade is",
+        "options": [
+            {
+                "id": "1",
+                "text": "10400"
+            },
+            {
+                "id": "2",
+                "text": "16400"
+            },
+            {
+                "id": "3",
+                "text": "15800"
+            },
+            {
+                "id": "4",
+                "text": "14800"
+            }
+        ],
+        "correct": 1,
+        "section": "Data Analysis",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "4",
+        "text": "What is the sectorial angle made by the people involved in employment in the given pie-chart?",
+        "options": [
+            {
+                "id": "1",
+                "text": "84.8\u00b0"
+            },
+            {
+                "id": "2",
+                "text": "86\u00b0"
+            },
+            {
+                "id": "3",
+                "text": "84\u00b0"
+            },
+            {
+                "id": "4",
+                "text": "86.4\u00b0"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Analysis",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "5",
+        "text": "What is the average amount of interest per year for which the company has to pay during this period?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Rs.32.43 lakhs"
+            },
+            {
+                "id": "2",
+                "text": "Rs.33.72 lakhs"
+            },
+            {
+                "id": "3",
+                "text": "Rs.34.18 lakhs"
+            },
+            {
+                "id": "4",
+                "text": "Rs.38.46 lakhs"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Analysis",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "6",
+        "text": "The total amount of bonus paid by the company during the given period is approximately what per cent of the total amount of salary paid during this period?",
+        "options": [
+            {
+                "id": "1",
+                "text": "0.1%"
+            },
+            {
+                "id": "2",
+                "text": "0.5%"
+            },
+            {
+                "id": "3",
+                "text": "1%"
+            },
+            {
+                "id": "4",
+                "text": "1.25%"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Analysis",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "7",
+        "text": "Total expenditure on all items in 1998 was approximately what per cent of the total expenditure in 2002?",
+        "options": [
+            {
+                "id": "1",
+                "text": "62%"
+            },
+            {
+                "id": "2",
+                "text": "66%"
+            },
+            {
+                "id": "3",
+                "text": "86.139%"
+            },
+            {
+                "id": "4",
+                "text": "71%"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Analysis",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "8",
+        "text": "The total expenditure of the company over the items during year 2000 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "Rs.544.44 lakhs"
+            },
+            {
+                "id": "2",
+                "text": "Rs.501.11 lakhs"
+            },
+            {
+                "id": "3",
+                "text": "Rs.446.46 lakhs"
+            },
+            {
+                "id": "4",
+                "text": "Rs.478.87 lakhs"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Analysis",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "9",
+        "text": "The ratio between the total expenditure on taxes for all the years and total expenditure on fuel and transport for all the years, respectively is approximately",
+        "options": [
+            {
+                "id": "1",
+                "text": "4:7"
+            },
+            {
+                "id": "2",
+                "text": "10:13"
+            },
+            {
+                "id": "3",
+                "text": "15:18"
+            },
+            {
+                "id": "4",
+                "text": "5:8"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Analysis",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "10",
+        "text": "Who has the Tortoise as a Pet?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Naga"
+            },
+            {
+                "id": "2",
+                "text": "Akhil"
+            },
+            {
+                "id": "3",
+                "text": "Amala"
+            },
+            {
+                "id": "4",
+                "text": "Somu"
+            }
+        ],
+        "correct": 0,
+        "section": "Date, Time and Arrangement problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "11",
+        "text": "How many number of odd days in first 400 years?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "0"
+            }
+        ],
+        "correct": 3,
+        "section": "Date, Time and Arrangement problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "12",
+        "text": "A student came to his school 40 minutes late at 10:55 am on Friday. Next day he started early and reached his school 25 minutes before the scheduled time. Then the time of his arrival at school on Saturday is ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "9.50 am"
+            },
+            {
+                "id": "2",
+                "text": "10 am"
+            },
+            {
+                "id": "3",
+                "text": "9.45 am"
+            },
+            {
+                "id": "4",
+                "text": "10.10 am"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and Arrangement problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "13",
+        "text": "Two buses arrived at a bus station at 12.15 p.m. and 12.48 p.m. with a late of 30 minutes and 50 minutes respectively. The difference of time (in minutes) between their scheduled arrivals at the bus station is.",
+        "options": [
+            {
+                "id": "1",
+                "text": "14"
+            },
+            {
+                "id": "2",
+                "text": "13"
+            },
+            {
+                "id": "3",
+                "text": "16"
+            },
+            {
+                "id": "4",
+                "text": "19"
+            }
+        ],
+        "correct": 1,
+        "section": "Date, Time and Arrangement problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "14",
+        "text": "Number of hours and minutes from 6: 14 am to 8:02 pm on the same days is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2 h and 12 min"
+            },
+            {
+                "id": "2",
+                "text": "12 h and 16 min"
+            },
+            {
+                "id": "3",
+                "text": "13 h and 48 min"
+            },
+            {
+                "id": "4",
+                "text": "14 h and 16 min"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and Arrangement problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "15",
+        "text": "Today is Monday. What will be the day after 64 days?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Saturday"
+            },
+            {
+                "id": "2",
+                "text": "Friday"
+            },
+            {
+                "id": "3",
+                "text": "Thursday"
+            },
+            {
+                "id": "4",
+                "text": "Tuesday"
+            }
+        ],
+        "correct": 3,
+        "section": "Date, Time and Arrangement problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "16",
+        "text": "A girl introduced a boy as the son of the daughter of the father of her uncle. The boy is girl's",
+        "options": [
+            {
+                "id": "1",
+                "text": "Brother"
+            },
+            {
+                "id": "2",
+                "text": "Son"
+            },
+            {
+                "id": "3",
+                "text": "Uncle"
+            },
+            {
+                "id": "4",
+                "text": "Son-in-Law"
+            }
+        ],
+        "correct": 0,
+        "section": "Date, Time and Arrangement problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "17",
+        "text": "If '+' means 'x', 'x' means '-', '-'means '\u00f7', '+' means '+', Then find the value of 18-3+2x8\u00f72?",
+        "options": [
+            {
+                "id": "1",
+                "text": "6"
+            },
+            {
+                "id": "2",
+                "text": "3"
+            },
+            {
+                "id": "3",
+                "text": "4"
+            },
+            {
+                "id": "4",
+                "text": "5"
+            }
+        ],
+        "correct": 0,
+        "section": "Date, Time and Arrangement problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "18",
+        "text": "A father is twice as old as his daughter. If 20 years ago, the age of the father was 10 times than the age of the daughter, what is the present age of the father?",
+        "options": [
+            {
+                "id": "1",
+                "text": "40 years"
+            },
+            {
+                "id": "2",
+                "text": "32 years"
+            },
+            {
+                "id": "3",
+                "text": "33 years"
+            },
+            {
+                "id": "4",
+                "text": "45 years"
+            }
+        ],
+        "correct": 3,
+        "section": "Date, Time and Arrangement problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "19",
+        "text": "There are five friends A, B, D and E. Among them B is taller than A. B is just as tall as D, but taller than E. Then who is the shortest among them?",
+        "options": [
+            {
+                "id": "1",
+                "text": "E"
+            },
+            {
+                "id": "2",
+                "text": "A"
+            },
+            {
+                "id": "3",
+                "text": "D"
+            },
+            {
+                "id": "4",
+                "text": "B"
+            }
+        ],
+        "correct": 1,
+        "section": "Date, Time and Arrangement problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "20",
+        "text": "Fill in the blank with appropriate word: The flight was cancelled owing to ______ weather.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Clear"
+            },
+            {
+                "id": "2",
+                "text": "Salubrious"
+            },
+            {
+                "id": "3",
+                "text": "Fine"
+            },
+            {
+                "id": "4",
+                "text": "Inclement"
+            }
+        ],
+        "correct": 3,
+        "section": "English Language",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "21",
+        "text": "Fill in the blank with appropriate word: They met with many ups and ______ in their long career.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Downs"
+            },
+            {
+                "id": "2",
+                "text": "Curves"
+            },
+            {
+                "id": "3",
+                "text": "Blows"
+            },
+            {
+                "id": "4",
+                "text": "Taunts"
+            }
+        ],
+        "correct": 0,
+        "section": "English Language",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "22",
+        "text": "Fill in the blank with appropriate word: They say that there is always a slip between the cup and the ______.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Dip"
+            },
+            {
+                "id": "2",
+                "text": "Hip"
+            },
+            {
+                "id": "3",
+                "text": "Slip"
+            },
+            {
+                "id": "4",
+                "text": "Lip"
+            }
+        ],
+        "correct": 2,
+        "section": "English Language",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "23",
+        "text": "Fill in the blank with appropriate word: To make both ______ meet is a task as prices grow up.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Trends"
+            },
+            {
+                "id": "2",
+                "text": "Kinds"
+            },
+            {
+                "id": "3",
+                "text": "Stands"
+            },
+            {
+                "id": "4",
+                "text": "Ends"
+            }
+        ],
+        "correct": 3,
+        "section": "English Language",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "24",
+        "text": "Choose the correct meaning: Abhorrent",
+        "options": [
+            {
+                "id": "1",
+                "text": "Agreeable"
+            },
+            {
+                "id": "2",
+                "text": "Beautiful"
+            },
+            {
+                "id": "3",
+                "text": "Disgusting"
+            },
+            {
+                "id": "4",
+                "text": "Manageable"
+            }
+        ],
+        "correct": 2,
+        "section": "Vocabulary",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "25",
+        "text": "Choose the correct meaning Acclimatization",
+        "options": [
+            {
+                "id": "1",
+                "text": "Discomfort"
+            },
+            {
+                "id": "2",
+                "text": "Adjustment"
+            },
+            {
+                "id": "3",
+                "text": "Rejection"
+            },
+            {
+                "id": "4",
+                "text": "Resistance"
+            }
+        ],
+        "correct": 1,
+        "section": "Vocabulary",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "26",
+        "text": "Choose the correct meaning: Emancipation",
+        "options": [
+            {
+                "id": "1",
+                "text": "Freedom"
+            },
+            {
+                "id": "2",
+                "text": "Arrest"
+            },
+            {
+                "id": "3",
+                "text": "Elimination"
+            },
+            {
+                "id": "4",
+                "text": "Safety"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "27",
+        "text": "Choose the correct meaning Mutation:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Negation"
+            },
+            {
+                "id": "2",
+                "text": "Probe"
+            },
+            {
+                "id": "3",
+                "text": "Change"
+            },
+            {
+                "id": "4",
+                "text": "Grade"
+            }
+        ],
+        "correct": 2,
+        "section": "Vocabulary",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "28",
+        "text": "Choose the correct meaning: Malignant",
+        "options": [
+            {
+                "id": "1",
+                "text": "Kind"
+            },
+            {
+                "id": "2",
+                "text": "Generous"
+            },
+            {
+                "id": "3",
+                "text": "Deceptive"
+            },
+            {
+                "id": "4",
+                "text": "Dangerous"
+            }
+        ],
+        "correct": 3,
+        "section": "Vocabulary",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "29",
+        "text": "Choose the correct meaning: Delinquent",
+        "options": [
+            {
+                "id": "1",
+                "text": "Responsible"
+            },
+            {
+                "id": "2",
+                "text": "Negligent"
+            },
+            {
+                "id": "3",
+                "text": "Obedient"
+            },
+            {
+                "id": "4",
+                "text": "Offensive"
+            }
+        ],
+        "correct": 1,
+        "section": "Vocabulary",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "30",
+        "text": "Choose the correct meaning: Ostentatious",
+        "options": [
+            {
+                "id": "1",
+                "text": "Pushing off"
+            },
+            {
+                "id": "2",
+                "text": "Showing off"
+            },
+            {
+                "id": "3",
+                "text": "Pleasant"
+            },
+            {
+                "id": "4",
+                "text": "Stable"
+            }
+        ],
+        "correct": 1,
+        "section": "Vocabulary",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "31",
+        "text": "Choose the antonym: Narrow",
+        "options": [
+            {
+                "id": "1",
+                "text": "Broad"
+            },
+            {
+                "id": "2",
+                "text": "Constricted"
+            },
+            {
+                "id": "3",
+                "text": "Controlled"
+            },
+            {
+                "id": "4",
+                "text": "Restricted"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "32",
+        "text": "Choose the antonym: Pleasant",
+        "options": [
+            {
+                "id": "1",
+                "text": "Sickening"
+            },
+            {
+                "id": "2",
+                "text": "Encouraging"
+            },
+            {
+                "id": "3",
+                "text": "Alluring"
+            },
+            {
+                "id": "4",
+                "text": "Sweet"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "33",
+        "text": "Choose the synonym: Infancy",
+        "options": [
+            {
+                "id": "1",
+                "text": "Childhood"
+            },
+            {
+                "id": "2",
+                "text": "Middle aged"
+            },
+            {
+                "id": "3",
+                "text": "Old age"
+            },
+            {
+                "id": "4",
+                "text": "Adulthood"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "34",
+        "text": "Choose the synonym: Passionate",
+        "options": [
+            {
+                "id": "1",
+                "text": "Involved"
+            },
+            {
+                "id": "2",
+                "text": "Impatient"
+            },
+            {
+                "id": "3",
+                "text": "Indifferent"
+            },
+            {
+                "id": "4",
+                "text": "Insensitive"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "35",
+        "text": "Choose the correct answer: If it were not for buffers, computers would run ______.",
+        "options": [
+            {
+                "id": "1",
+                "text": "More efficiently"
+            },
+            {
+                "id": "2",
+                "text": "With narrow screen space"
+            },
+            {
+                "id": "3",
+                "text": "Less efficiently"
+            },
+            {
+                "id": "4",
+                "text": "With innumerable pop ups"
+            }
+        ],
+        "correct": 2,
+        "section": "Computer Awareness",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "36",
+        "text": "Choose the correct answer: What happens when you burn a disc?",
+        "options": [
+            {
+                "id": "1",
+                "text": "You erase data"
+            },
+            {
+                "id": "2",
+                "text": "You write data"
+            },
+            {
+                "id": "3",
+                "text": "You delete data"
+            },
+            {
+                "id": "4",
+                "text": "You change the format of the existing data"
+            }
+        ],
+        "correct": 0,
+        "section": "Computer Awareness",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "37",
+        "text": "Choose the correct answer: Cookies are to",
+        "options": [
+            {
+                "id": "1",
+                "text": "Identify you when you visit a new website"
+            },
+            {
+                "id": "2",
+                "text": "Disqualify you from using that particular website"
+            },
+            {
+                "id": "3",
+                "text": "Cause system crash"
+            },
+            {
+                "id": "4",
+                "text": "Install malware"
+            }
+        ],
+        "correct": 0,
+        "section": "Computer Awareness",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "38",
+        "text": "Choose the correct answer: Trojan horses in computer context are",
+        "options": [
+            {
+                "id": "1",
+                "text": "From Greek mythology"
+            },
+            {
+                "id": "2",
+                "text": "Famous for horse power"
+            },
+            {
+                "id": "3",
+                "text": "Malware that mislead users"
+            },
+            {
+                "id": "4",
+                "text": "Used in the game of chess"
+            }
+        ],
+        "correct": 2,
+        "section": "Computer Awareness",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "39",
+        "text": "Choose the correct answer: 'Freemium'is a/an ______ to attract customers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Free content"
+            },
+            {
+                "id": "2",
+                "text": "Fake content"
+            },
+            {
+                "id": "3",
+                "text": "Funny content"
+            },
+            {
+                "id": "4",
+                "text": "Funded content"
+            }
+        ],
+        "correct": 0,
+        "section": "Computer Awareness",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "40",
+        "text": "Choose the correct answer: A message for workers with updates is called as",
+        "options": [
+            {
+                "id": "1",
+                "text": "Ping"
+            },
+            {
+                "id": "2",
+                "text": "Sling"
+            },
+            {
+                "id": "3",
+                "text": "King"
+            },
+            {
+                "id": "4",
+                "text": "Tang"
+            }
+        ],
+        "correct": 0,
+        "section": "Computer Awareness",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "41",
+        "text": "Choose the correct answer: 'Boil the ocean' in business terminology has come to mean as",
+        "options": [
+            {
+                "id": "1",
+                "text": "Waste of time"
+            },
+            {
+                "id": "2",
+                "text": "Proper use of time"
+            },
+            {
+                "id": "3",
+                "text": "Perfect time management"
+            },
+            {
+                "id": "4",
+                "text": "Discussions on time management"
+            }
+        ],
+        "correct": 0,
+        "section": "Business Terminology",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "42",
+        "text": "Choose the correct answer: Infographic makes",
+        "options": [
+            {
+                "id": "1",
+                "text": "Visual representation"
+            },
+            {
+                "id": "2",
+                "text": "Artistic presentation"
+            },
+            {
+                "id": "3",
+                "text": "Makes information complex"
+            },
+            {
+                "id": "4",
+                "text": "Makes information totally understandable"
+            }
+        ],
+        "correct": 0,
+        "section": "General Knowledge",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "43",
+        "text": "Choose the correct answer: Liabilities along with owner's equity go by the name of",
+        "options": [
+            {
+                "id": "1",
+                "text": "Income statement"
+            },
+            {
+                "id": "2",
+                "text": "Assets"
+            },
+            {
+                "id": "3",
+                "text": "Revenue"
+            },
+            {
+                "id": "4",
+                "text": "Net loss statement"
+            }
+        ],
+        "correct": 1,
+        "section": "Accounting",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "44",
+        "text": "Choose the correct answer: Synergy refers to",
+        "options": [
+            {
+                "id": "1",
+                "text": "Working separately"
+            },
+            {
+                "id": "2",
+                "text": "Working together"
+            },
+            {
+                "id": "3",
+                "text": "Working irregularly"
+            },
+            {
+                "id": "4",
+                "text": "Not working at all"
+            }
+        ],
+        "correct": 1,
+        "section": "Business Management",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "45",
+        "text": "Choose the correct answer: Deep dive in business is nothing but ______ issues.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Brainstorming"
+            },
+            {
+                "id": "2",
+                "text": "Sleeping over"
+            },
+            {
+                "id": "3",
+                "text": "Postponing"
+            },
+            {
+                "id": "4",
+                "text": "Cancelling"
+            }
+        ],
+        "correct": 0,
+        "section": "Business Management",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "46",
+        "text": "Choose the correct answer: A server can be connected via a/an",
+        "options": [
+            {
+                "id": "1",
+                "text": "Modem"
+            },
+            {
+                "id": "2",
+                "text": "Data Base"
+            },
+            {
+                "id": "3",
+                "text": "Network"
+            },
+            {
+                "id": "4",
+                "text": "Floppy Disc"
+            }
+        ],
+        "correct": 2,
+        "section": "Computer Awareness",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "47",
+        "text": "Choose the correct answer: GUI stands for",
+        "options": [
+            {
+                "id": "1",
+                "text": "Graphical User Interface"
+            },
+            {
+                "id": "2",
+                "text": "Graphical Utility Interface"
+            },
+            {
+                "id": "3",
+                "text": "Graphical Unity Interface"
+            },
+            {
+                "id": "4",
+                "text": "Graded Unity Interface"
+            }
+        ],
+        "correct": 0,
+        "section": "Computer Awareness",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "48",
+        "text": "Choose the correct answer: The keyboard and the mouse are",
+        "options": [
+            {
+                "id": "1",
+                "text": "Input devices"
+            },
+            {
+                "id": "2",
+                "text": "Output devices"
+            },
+            {
+                "id": "3",
+                "text": "Conversion devices"
+            },
+            {
+                "id": "4",
+                "text": "Punch card readers"
+            }
+        ],
+        "correct": 0,
+        "section": "Computer Hardware",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "49",
+        "text": "Choose the correct answer: Integrated circuit is a/an",
+        "options": [
+            {
+                "id": "1",
+                "text": "Bandwidth"
+            },
+            {
+                "id": "2",
+                "text": "Cursor"
+            },
+            {
+                "id": "3",
+                "text": "Microchip"
+            },
+            {
+                "id": "4",
+                "text": "Surf"
+            }
+        ],
+        "correct": 2,
+        "section": "Computer Hardware",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "50",
+        "text": "Fill in the blank with the correct word: The armed forces of the enemy had to lay ______ their arms.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Down"
+            },
+            {
+                "id": "2",
+                "text": "Up"
+            },
+            {
+                "id": "3",
+                "text": "Above"
+            },
+            {
+                "id": "4",
+                "text": "Of"
+            }
+        ],
+        "correct": 0,
+        "section": "English Language",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "51",
+        "text": "Fill in the blank with the correct word: Their success in the ______ of strong opposition was really commendable.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Belt"
+            },
+            {
+                "id": "2",
+                "text": "Face"
+            },
+            {
+                "id": "3",
+                "text": "Nose"
+            },
+            {
+                "id": "4",
+                "text": "Leg"
+            }
+        ],
+        "correct": 1,
+        "section": "English Language",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "52",
+        "text": "Fill in the blank with the correct word: But for her timely intervention, we ______ in trouble.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Would have"
+            },
+            {
+                "id": "2",
+                "text": "Would have been"
+            },
+            {
+                "id": "3",
+                "text": "Would been"
+            },
+            {
+                "id": "4",
+                "text": "Would have be"
+            }
+        ],
+        "correct": 1,
+        "section": "English Language",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "53",
+        "text": "Fill in the blank with the correct word: Not many trees are as tall ______ the Norwegian pine.",
+        "options": [
+            {
+                "id": "1",
+                "text": "As"
+            },
+            {
+                "id": "2",
+                "text": "to"
+            },
+            {
+                "id": "3",
+                "text": "by"
+            },
+            {
+                "id": "4",
+                "text": "at"
+            }
+        ],
+        "correct": 0,
+        "section": "English Language",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "54",
+        "text": "Fill in the blank by choosing appropriate preposition: We were impatient ______ the unexpected delay.",
+        "options": [
+            {
+                "id": "1",
+                "text": "For"
+            },
+            {
+                "id": "2",
+                "text": "At"
+            },
+            {
+                "id": "3",
+                "text": "With"
+            },
+            {
+                "id": "4",
+                "text": "To"
+            }
+        ],
+        "correct": 2,
+        "section": "English Language",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "55",
+        "text": "Choose the appropriate answer: I've never loved anyone ______ you.",
+        "options": [
+            {
+                "id": "1",
+                "text": "From"
+            },
+            {
+                "id": "2",
+                "text": "Besides"
+            },
+            {
+                "id": "3",
+                "text": "Beside"
+            },
+            {
+                "id": "4",
+                "text": "Beyond"
+            }
+        ],
+        "correct": 1,
+        "section": "English Language",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "56",
+        "text": "Put a question tag. She likes dancing, ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "Doesn't she?"
+            },
+            {
+                "id": "2",
+                "text": "Is she?"
+            },
+            {
+                "id": "3",
+                "text": "Hasn't she?"
+            },
+            {
+                "id": "4",
+                "text": "Does she?"
+            }
+        ],
+        "correct": 0,
+        "section": "English Language",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "57",
+        "text": "Fill in the blank by choosing the appropriate answer: He always ______ at the Gate Way Hotel when he is in the city.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Steps in"
+            },
+            {
+                "id": "2",
+                "text": "Puts up"
+            },
+            {
+                "id": "3",
+                "text": "Takes on"
+            },
+            {
+                "id": "4",
+                "text": "Get into"
+            }
+        ],
+        "correct": 1,
+        "section": "English Language",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "58",
+        "text": "Fill in the blank by choosing the appropriate answer: I am not familiar ______ the works of William Shakespeare.",
+        "options": [
+            {
+                "id": "1",
+                "text": "To"
+            },
+            {
+                "id": "2",
+                "text": "With"
+            },
+            {
+                "id": "3",
+                "text": "Towards"
+            },
+            {
+                "id": "4",
+                "text": "Of"
+            }
+        ],
+        "correct": 1,
+        "section": "English Language",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "59",
+        "text": "Fill in the blank by choosing the appropriate answer: This table is made ______ good solid teak",
+        "options": [
+            {
+                "id": "1",
+                "text": "Of"
+            },
+            {
+                "id": "2",
+                "text": "From"
+            },
+            {
+                "id": "3",
+                "text": "With"
+            },
+            {
+                "id": "4",
+                "text": "Off"
+            }
+        ],
+        "correct": 0,
+        "section": "English Language",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "60",
+        "text": "Fill in the blank by choosing the appropriate answer: I was completely ignorant ______ his intentions.",
+        "options": [
+            {
+                "id": "1",
+                "text": "With"
+            },
+            {
+                "id": "2",
+                "text": "To"
+            },
+            {
+                "id": "3",
+                "text": "Of"
+            },
+            {
+                "id": "4",
+                "text": "By"
+            }
+        ],
+        "correct": 2,
+        "section": "English Language",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "61",
+        "text": "Fill in the blank by choosing the appropriate answer: He was renowned ----------his knowledge of Greek philosophy.",
+        "options": [
+            {
+                "id": "1",
+                "text": "By"
+            },
+            {
+                "id": "2",
+                "text": "For"
+            },
+            {
+                "id": "3",
+                "text": "With"
+            },
+            {
+                "id": "4",
+                "text": "Of"
+            }
+        ],
+        "correct": 1,
+        "section": "English Language",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "62",
+        "text": "Fill in the blank by choosing the appropriate preposition: I am not liable ---------my son's debts.",
+        "options": [
+            {
+                "id": "1",
+                "text": "For"
+            },
+            {
+                "id": "2",
+                "text": "Of"
+            },
+            {
+                "id": "3",
+                "text": "To"
+            },
+            {
+                "id": "4",
+                "text": "About"
+            }
+        ],
+        "correct": 0,
+        "section": "English Language",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "63",
+        "text": "Fill in the blank by choosing the appropriate preposition: The company has decided to dispense ______ his services.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Of"
+            },
+            {
+                "id": "2",
+                "text": "By"
+            },
+            {
+                "id": "3",
+                "text": "For"
+            },
+            {
+                "id": "4",
+                "text": "With"
+            }
+        ],
+        "correct": 3,
+        "section": "English Language",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "64",
+        "text": "Fill in the blank by choosing the appropriate preposition: He betrayed the confidence reposed ______ him",
+        "options": [
+            {
+                "id": "1",
+                "text": "On"
+            },
+            {
+                "id": "2",
+                "text": "In"
+            },
+            {
+                "id": "3",
+                "text": "Of"
+            },
+            {
+                "id": "4",
+                "text": "At"
+            }
+        ],
+        "correct": 1,
+        "section": "English Language",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "65",
+        "text": "Fill in the blank by choosing the appropriate preposition: In past centuries most young soldiers were zealous---------fame and honour",
+        "options": [
+            {
+                "id": "1",
+                "text": "Of"
+            },
+            {
+                "id": "2",
+                "text": "For"
+            },
+            {
+                "id": "3",
+                "text": "Off"
+            },
+            {
+                "id": "4",
+                "text": "With"
+            }
+        ],
+        "correct": 1,
+        "section": "English Language",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "66",
+        "text": "Fill in the blank by choosing the appropriate answer: Wise men welcome advice, ______ fools scorn it.",
+        "options": [
+            {
+                "id": "1",
+                "text": "So That"
+            },
+            {
+                "id": "2",
+                "text": "When"
+            },
+            {
+                "id": "3",
+                "text": "That"
+            },
+            {
+                "id": "4",
+                "text": "Where as"
+            }
+        ],
+        "correct": 3,
+        "section": "English Language",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "67",
+        "text": "Fill in the blank by choosing the appropriate answer: The earth moves______the sun",
+        "options": [
+            {
+                "id": "1",
+                "text": "Round"
+            },
+            {
+                "id": "2",
+                "text": "Around"
+            },
+            {
+                "id": "3",
+                "text": "Along"
+            },
+            {
+                "id": "4",
+                "text": "Across"
+            }
+        ],
+        "correct": 1,
+        "section": "English Language",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "68",
+        "text": "Change the voice: She congratulated him on his success in the examination",
+        "options": [
+            {
+                "id": "1",
+                "text": "He was congratulated her on his success in the examination"
+            },
+            {
+                "id": "2",
+                "text": "He was congratulate on his success in the examination by her"
+            },
+            {
+                "id": "3",
+                "text": "He was congratulated on his success in the examination by her"
+            },
+            {
+                "id": "4",
+                "text": "He was congratulated at his success in the examination by her"
+            }
+        ],
+        "correct": 2,
+        "section": "English Grammar",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "69",
+        "text": "Change into indirect speech: The manager said to the clerk, \"Don't do any mistake while counting currency.\"",
+        "options": [
+            {
+                "id": "1",
+                "text": "The manager ordered the clerk that not to do any mistake while counting the currency."
+            },
+            {
+                "id": "2",
+                "text": "The manager ordered the clerk not to do any mistake while counting the currency."
+            },
+            {
+                "id": "3",
+                "text": "The manager orders the clerk that not to do any mistake while counting the currency."
+            },
+            {
+                "id": "4",
+                "text": "The manager ordered not to do any mistake while counting the currency."
+            }
+        ],
+        "correct": 1,
+        "section": "English Grammar",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "70",
+        "text": "The ignorant young man was",
+        "options": [
+            {
+                "id": "1",
+                "text": "Triumphant"
+            },
+            {
+                "id": "2",
+                "text": "Contented"
+            },
+            {
+                "id": "3",
+                "text": "Sorry"
+            },
+            {
+                "id": "4",
+                "text": "Happy"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "71",
+        "text": "The young man's confidence in the author's knowledge ______ the latter.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Shocked"
+            },
+            {
+                "id": "2",
+                "text": "Pleased"
+            },
+            {
+                "id": "3",
+                "text": "Flattered"
+            },
+            {
+                "id": "4",
+                "text": "Convinced"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "72",
+        "text": "The author's knowledge was as ______ as a molehill.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Large"
+            },
+            {
+                "id": "2",
+                "text": "Small"
+            },
+            {
+                "id": "3",
+                "text": "Massive"
+            },
+            {
+                "id": "4",
+                "text": "Confused"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "73",
+        "text": "The author takes his ______ for granted.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Ignorance"
+            },
+            {
+                "id": "2",
+                "text": "Knowledge"
+            },
+            {
+                "id": "3",
+                "text": "Competence"
+            },
+            {
+                "id": "4",
+                "text": "Skill"
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "74",
+        "text": "'Undeveloped estates' in the passage implies branches of knowledge with which the author is",
+        "options": [
+            {
+                "id": "1",
+                "text": "Familiar"
+            },
+            {
+                "id": "2",
+                "text": "Unacquainted"
+            },
+            {
+                "id": "3",
+                "text": "Comfortable"
+            },
+            {
+                "id": "4",
+                "text": "Friendly"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "75",
+        "text": "Why does the author say the modern office looks like a public celebration?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Some are involved in completing their projects"
+            },
+            {
+                "id": "2",
+                "text": "The office paging system intermittently calls out messages"
+            },
+            {
+                "id": "3",
+                "text": "People keep swinging"
+            },
+            {
+                "id": "4",
+                "text": "All round distraction"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "76",
+        "text": "How much time do the employees require to recover from all the distractions?",
+        "options": [
+            {
+                "id": "1",
+                "text": "11 minutes per hour"
+            },
+            {
+                "id": "2",
+                "text": "A third of working hours"
+            },
+            {
+                "id": "3",
+                "text": "They continue to work, hence there is no need of recovery time"
+            },
+            {
+                "id": "4",
+                "text": "Half of the office time"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "77",
+        "text": "What do you mean by the word \"scam\"?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Bargain"
+            },
+            {
+                "id": "2",
+                "text": "Sincerity in dealings"
+            },
+            {
+                "id": "3",
+                "text": "Donations"
+            },
+            {
+                "id": "4",
+                "text": "A deceptive scheme"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "78",
+        "text": "What is multitasking according to Buddhists?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Ability to do lots of things at the same time"
+            },
+            {
+                "id": "2",
+                "text": "Monkey Mind"
+            },
+            {
+                "id": "3",
+                "text": "Concentrating on a single task"
+            },
+            {
+                "id": "4",
+                "text": "Confidence to meet deadlines"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "79",
+        "text": "Explain the expression \"driving ourselves bananas\".",
+        "options": [
+            {
+                "id": "1",
+                "text": "Going to banana plantation"
+            },
+            {
+                "id": "2",
+                "text": "Mastering our minds"
+            },
+            {
+                "id": "3",
+                "text": "Driving ourselves crazy"
+            },
+            {
+                "id": "4",
+                "text": "Taking counseling for stress relief"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "80",
+        "text": "The monkeys were running through the forest because",
+        "options": [
+            {
+                "id": "1",
+                "text": "They were in search of food."
+            },
+            {
+                "id": "2",
+                "text": "Monkeys like running about."
+            },
+            {
+                "id": "3",
+                "text": "They were in search of warmth."
+            },
+            {
+                "id": "4",
+                "text": "They wanted to kill birds and eat them away."
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "81",
+        "text": "Why were the monkeys angry?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The birds spoke to the monkeys rudely."
+            },
+            {
+                "id": "2",
+                "text": "The monkeys did not like the advice of the bird."
+            },
+            {
+                "id": "3",
+                "text": "The monkeys were egoistic."
+            },
+            {
+                "id": "4",
+                "text": "It was very cold and they could not find a warm place."
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "82",
+        "text": "What happened finally to the bird?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The bird flew away from the tree."
+            },
+            {
+                "id": "2",
+                "text": "The bird was killed by the monkey."
+            },
+            {
+                "id": "3",
+                "text": "The bird managed to escape from monkey's hold."
+            },
+            {
+                "id": "4",
+                "text": "The bird was pulled out of its nest"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "83",
+        "text": "Which of the following is not true in the context of the passage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The night was cold and dark"
+            },
+            {
+                "id": "2",
+                "text": "The bird had a kind heart"
+            },
+            {
+                "id": "3",
+                "text": "Fireflies have a light in their tails."
+            },
+            {
+                "id": "4",
+                "text": "Most of the monkeys were in search of food."
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "84",
+        "text": "What did the monkeys see in the jungle?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The monkeys saw the bird in a tree."
+            },
+            {
+                "id": "2",
+                "text": "The monkeys saw fire in the wood."
+            },
+            {
+                "id": "3",
+                "text": "The monkeys saw some warm place to rest in the jungle."
+            },
+            {
+                "id": "4",
+                "text": "The monkeys saw fireflies in the jungle."
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "85",
+        "text": "What is the goal of science?",
+        "options": [
+            {
+                "id": "1",
+                "text": "It speaks about the world."
+            },
+            {
+                "id": "2",
+                "text": "It investigates the relation between the man and the world."
+            },
+            {
+                "id": "3",
+                "text": "It probes the regularities and relations between the man and the world."
+            },
+            {
+                "id": "4",
+                "text": "It probes how does world work in relation to living organisms, the human society and the universe."
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "86",
+        "text": "What is intuition?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Ability"
+            },
+            {
+                "id": "2",
+                "text": "Understanding without reason"
+            },
+            {
+                "id": "3",
+                "text": "Reason"
+            },
+            {
+                "id": "4",
+                "text": "Irrationality"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "87",
+        "text": "Our perceptions may be distorted because",
+        "options": [
+            {
+                "id": "1",
+                "text": "Of understanding"
+            },
+            {
+                "id": "2",
+                "text": "Of broad thinking"
+            },
+            {
+                "id": "3",
+                "text": "of lack of training"
+            },
+            {
+                "id": "4",
+                "text": "Of infinite wisdom"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "88",
+        "text": "Aristotle's declaration that a pound of lead falls faster than a feather, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "Incorrect"
+            },
+            {
+                "id": "2",
+                "text": "True"
+            },
+            {
+                "id": "3",
+                "text": "Possible"
+            },
+            {
+                "id": "4",
+                "text": "Scientific"
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "89",
+        "text": "Science sometimes requires courage because...",
+        "options": [
+            {
+                "id": "1",
+                "text": "Experiments may be wrong"
+            },
+            {
+                "id": "2",
+                "text": "It overthrows the established dogmas"
+            },
+            {
+                "id": "3",
+                "text": "It questions the existence of God"
+            },
+            {
+                "id": "4",
+                "text": "It questions the perception of man."
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "90",
+        "text": "3^x - 3^(x-1) = 18, \u21d2 x = ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "3"
+            },
+            {
+                "id": "2",
+                "text": "8"
+            },
+            {
+                "id": "3",
+                "text": "27"
+            },
+            {
+                "id": "4",
+                "text": "216"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    }
+]

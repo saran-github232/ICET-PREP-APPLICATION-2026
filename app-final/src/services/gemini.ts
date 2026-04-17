@@ -55,24 +55,47 @@ class GeminiService {
 
   async getExplanation(question: string, options: string[], answer: string): Promise<string> {
     this.init();
-    if (!this.genAI) return "Please provide a Gemini API key to see AI-powered explanations.";
+    if (!this.genAI) return "⚠️ API Key not detected. Please add your Gemini API Key in Settings to enable AI explanations.";
 
     try {
       const model = this.genAI.getGenerativeModel({ model: "gemini-1.5-flash-latest" });
-      const prompt = `Solve this question step by step for an AP ICET aspirant.
-Question: ${question}
-Options: ${options.join(", ")}
-Correct Answer: ${answer}
+      const prompt = `You are a professional AP ICET (Integrated Common Entrance Test) Tutor.
+Analyze this question and provide a structured explanation:
 
-Provide a clear, concise explanation focusing on the logical or mathematical process.`;
+---
+QUESTION: ${question}
+OPTIONS: ${options.join(", ")}
+CORRECT OPTION: ${answer}
+---
+
+Structure your response exactly as follows:
+### 💡 Core Concept
+One sentence explaining the topic.
+
+### 🔢 Step-by-Step Logic
+Break down the steps clearly.
+
+### ✅ Conclusion
+Why the selected option is correct.`;
       
       const result = await model.generateContent(prompt);
       return result.response.text();
     } catch (error: any) {
-      if (error?.message?.includes('429')) {
-        return "Daily AI limit reached. Please try again tomorrow or provide your own API key in Settings.";
-      }
-      return "Unable to fetch explanation at this time. Please check your API key.";
+      console.error("Gemini Explanation Error:", error);
+      if (error?.message?.includes('429')) return "Daily AI Quota reached. Try again later.";
+      if (error?.message?.includes('403')) return "Invalid API Key. Please check your key in Settings.";
+      return "AI connection lost. Please verify your internet and API key.";
+    }
+  }
+
+  async testConnection(key: string): Promise<boolean> {
+    try {
+      const tempAI = new GoogleGenerativeAI(key);
+      const model = tempAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+      const result = await model.generateContent("echo ok");
+      return result.response.text().toLowerCase().includes("ok");
+    } catch (e) {
+      return false;
     }
   }
 

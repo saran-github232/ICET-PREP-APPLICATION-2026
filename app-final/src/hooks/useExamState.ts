@@ -12,15 +12,22 @@ export const useExamState = (testId: string, questions: Question[]) => {
 
     const saved = localStorage.getItem(`${STORAGE_KEY_PREFIX}${testId}`);
     if (saved) {
-      setState(JSON.parse(saved));
+      const parsed = JSON.parse(saved);
+      // Force reset if the question count has changed (cache busting for old format)
+      if (parsed.questions.length !== questions.length) {
+        localStorage.removeItem(`${STORAGE_KEY_PREFIX}${testId}`);
+        window.location.reload(); // Refresh to trigger initialState
+        return;
+      }
+      setState(parsed);
     } else {
       const initialState: ExamState = {
         testId,
-        testName: "ICET Mock Test", // This can be passed in
+        testName: "ICET Practice Arena",
         questions,
         userAnswers: {},
         status: {},
-        timeLeft: 90 * 60, // 90 minutes standard
+        timeLeft: 120 * 60, // 120 minutes standard
         startTime: Date.now(),
         isPaused: false,
       };

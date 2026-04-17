@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "Is a > b? a > b ? I) a^16 < b^16 II) a^21 < b^21",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "2",
+        "text": "If x and y are integers, is \u221ax\u00b2 + y\u00b2 an integer? x, y \u221a x 2 + y\u00b2 ? I) 8x\u00b2 - y\u00b2 = 0 II) x\u00b2 + y\u00b2 is an integer x\u00b2 + y\u00b2",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "3",
+        "text": "What is the value of 3a+2b? 3a + 26 ? I) a/b = 2/3 II) 2a - 3b = 10",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "4",
+        "text": "How many sons does A have? A ? I) B is D's brother and son of A. B D A II) D's father has three children. D",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "5",
+        "text": "What is the distance between the cities P and Q P Q ? I) City A is 60 km from city Q Q A 60 . II) City P is 80 km form city A A P 80 .",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "6",
+        "text": "What is the GCD of positive integers a and b? a, b . . ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "a and b differ by 1. a, b 1"
+            },
+            {
+                "id": "2",
+                "text": "a > b"
+            },
+            {
+                "id": "3",
+                "text": ""
+            },
+            {
+                "id": "4",
+                "text": ""
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "7",
+        "text": "What is the value of |x|? |x| ? I) x\u2074 - 4x\u00b2 + 4 = 0 II) x is even x",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "8",
+        "text": "What is the value of the middle term of the sequence of positive integers a\u2081, a\u2082, ..., a\u2081\u2081 if their sum is 1380? A 1, A\u2082,........., A11 1380 ? I) The average of first six terms is 100 100 II) The average of last six terms is 150 150",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "9",
+        "text": "Is x > y? x > y ? I) |x| < 3 II) |y| > 3",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "10",
+        "text": "How many positive integral multiples of 5 are there up to n? n 5 ? I) 500 is the largest multiple of 10 that is \u2264 n. 10 n 500 II) 1005 is the largest multiple of 5 that is not greater than n. n 5 1005",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "11",
+        "text": "What is the LCM of the positive integers m, n? m, n . . ? I) GCD of m, n is 9. m, n . . 9 II) m + n = 108",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "12",
+        "text": "Is the positive integer n, a prime? n ? I) n is an odd integer greater than 3 3 n. II) n is an even integer greater than 2 2 n",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "13",
+        "text": "If p, q and r are real numbers; are the roots of the quadratic equation px\u00b2 + qx + r = 0 real? p, q, r px\u00b2 + qx + r = 0 ? I) r - 25p = 0 II) q + 9p = 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "14",
+        "text": "In how many points do the two circles intersect? ? I) The radii of the circles are 12 cm and 5 cm. 12 . ., 5 . II) The distance between their centres is 25 cm. 25 .",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "15",
+        "text": "In how many days P alone can complete the work: P . I) P and Q together can complete that work in 12 days. P, Q 12 . II) Q alone can complete the work in 36 days. Q 36 .",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "16",
+        "text": "How many girls are taller than Sarath in his class? ? I) When students in Sarath's class are ranked in the descending order of heights, Sarath is 17th from the top among all the students and 12th among boys. , 17 12 II) Sarath's rank from the bottom on the basis of height among boys is 18th and among all the students is 29th. 18 29",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "17",
+        "text": "If p and q are positive integers, is p multiple of q? p, q q p ? I) Every prime factor of q is also a prime factor of p. q p II) Every factor of q is also a factor of p. q p",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "18",
+        "text": "Is a > b? I) a^16 < b^16 II) a^21 < b^21",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "19",
+        "text": "If x and y are integers, is \u221ax\u00b2 + y\u00b2 an integer? I) 8x\u00b2 - y\u00b2 = 0 II) x\u00b2 + y\u00b2 is an integer",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "20",
+        "text": "What is the value of 3a+2b? I) a/b = 2/3 II) 2a - 3b = 10",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "21",
+        "text": "How many sons does A have? I) B is D's brother and son of A. II) D's father has three children.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "22",
+        "text": "What is the distance between the cities P and Q I) City A is 60 km from city Q II) City P is 80 km form city A",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "23",
+        "text": "What is the GCD of positive integers a and b?",
+        "options": [
+            {
+                "id": "1",
+                "text": "a and b differ by 1."
+            },
+            {
+                "id": "2",
+                "text": "a > b"
+            },
+            {
+                "id": "3",
+                "text": ""
+            },
+            {
+                "id": "4",
+                "text": ""
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "24",
+        "text": "What is the value of |x|? I) x\u2074 - 4x\u00b2 + 4 = 0 II) x is even",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "25",
+        "text": "What is the value of the middle term of the sequence of positive integers a\u2081, a\u2082, ..., a\u2081\u2081 if their sum is 1380? I) The average of first six terms is 100 II) The average of last six terms is 150",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "26",
+        "text": "Is x > y? I) |x| < 3 II) |y| > 3",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "27",
+        "text": "How many positive integral multiples of 5 are there up to n? I) 500 is the largest multiple of 10 that is \u2264 n. II) 1005 is the largest multiple of 5 that is not greater than n.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "28",
+        "text": "What is the LCM of the positive integers m, n? I) GCD of m, n is 9. II) m + n = 108",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "29",
+        "text": "Is the positive integer n, a prime? I) n is an odd integer greater than 3 II) n is an even integer greater than 2",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "30",
+        "text": "If p, q and r are real numbers; are the roots of the quadratic equation px\u00b2 + qx + r = 0 real? I) r - 25p = 0 II) q + 9p = 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "31",
+        "text": "In how many points do the two circles intersect? I) The radii of the circles are 12 cm and 5 cm. II) The distance between their centres is 25 cm.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "32",
+        "text": "In how many days P alone can complete the work: I) P and Q together can complete that work in 12 days. II) Q alone can complete the work in 36 days.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "33",
+        "text": "How many girls are taller than Sarath in his class? I) When students in Sarath's class are ranked in the descending order of heights, Sarath is 17th from the top among all the students and 12th among boys. II) Sarath's rank from the bottom on the basis of height among boys is 18th and among all the students is 29th.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "34",
+        "text": "If p and q are positive integers, is p multiple of q? I) Every prime factor of q is also a prime factor of p. II) Every factor of q is also a factor of p.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "35",
+        "text": "7 : 342 :: 11 :",
+        "options": [
+            {
+                "id": "1",
+                "text": "1331"
+            },
+            {
+                "id": "2",
+                "text": "1221"
+            },
+            {
+                "id": "3",
+                "text": "1220"
+            },
+            {
+                "id": "4",
+                "text": "1330"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "36",
+        "text": "15 : 224 :: 17 :",
+        "options": [
+            {
+                "id": "1",
+                "text": "289"
+            },
+            {
+                "id": "2",
+                "text": "298"
+            },
+            {
+                "id": "3",
+                "text": "288"
+            },
+            {
+                "id": "4",
+                "text": "278"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "37",
+        "text": "17 : 306 :: 19 :",
+        "options": [
+            {
+                "id": "1",
+                "text": "389"
+            },
+            {
+                "id": "2",
+                "text": "380"
+            },
+            {
+                "id": "3",
+                "text": "298"
+            },
+            {
+                "id": "4",
+                "text": "289"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "38",
+        "text": "7 : 77 :: 13 :",
+        "options": [
+            {
+                "id": "1",
+                "text": "221"
+            },
+            {
+                "id": "2",
+                "text": "231"
+            },
+            {
+                "id": "3",
+                "text": "321"
+            },
+            {
+                "id": "4",
+                "text": "322"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "39",
+        "text": "Foot : Inch :: Year :",
+        "options": [
+            {
+                "id": "1",
+                "text": "week"
+            },
+            {
+                "id": "2",
+                "text": "day"
+            },
+            {
+                "id": "3",
+                "text": "month"
+            },
+            {
+                "id": "4",
+                "text": "fortnight"
+            }
+        ],
+        "correct": 0,
+        "section": "Analogy",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "40",
+        "text": "6, 15, 35, 77, 143, __",
+        "options": [
+            {
+                "id": "1",
+                "text": "221"
+            },
+            {
+                "id": "2",
+                "text": "195"
+            },
+            {
+                "id": "3",
+                "text": "165"
+            },
+            {
+                "id": "4",
+                "text": "207"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "41",
+        "text": "ABC, BDF, CFI, DHL, __",
+        "options": [
+            {
+                "id": "1",
+                "text": "EIN"
+            },
+            {
+                "id": "2",
+                "text": "EJP"
+            },
+            {
+                "id": "3",
+                "text": "EIO"
+            },
+            {
+                "id": "4",
+                "text": "EJO"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "42",
+        "text": "D3B, H7F, L11J, P15N, __",
+        "options": [
+            {
+                "id": "1",
+                "text": "R19T"
+            },
+            {
+                "id": "2",
+                "text": "Q19S"
+            },
+            {
+                "id": "3",
+                "text": "T19R"
+            },
+            {
+                "id": "4",
+                "text": "S19Q"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "43",
+        "text": "5, 12, 24, 36, 52",
+        "options": [
+            {
+                "id": "1",
+                "text": "1023 / 64"
+            },
+            {
+                "id": "2",
+                "text": "1147 / 68"
+            },
+            {
+                "id": "3",
+                "text": "1155 / 68"
+            },
+            {
+                "id": "4",
+                "text": "1085 / 66"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "44",
+        "text": "MILK : 54 :: CURD : __",
+        "options": [
+            {
+                "id": "1",
+                "text": "56"
+            },
+            {
+                "id": "2",
+                "text": "63"
+            },
+            {
+                "id": "3",
+                "text": "61"
+            },
+            {
+                "id": "4",
+                "text": "67"
+            }
+        ],
+        "correct": 0,
+        "section": "Analogy",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "45",
+        "text": "In the Following questions pick the odd thing out.",
+        "options": [
+            {
+                "id": "1",
+                "text": "RIVER"
+            },
+            {
+                "id": "2",
+                "text": "LAKE"
+            },
+            {
+                "id": "3",
+                "text": "DAM"
+            },
+            {
+                "id": "4",
+                "text": "POND"
+            }
+        ],
+        "correct": 0,
+        "section": "Odd One Out",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "46",
+        "text": "In the Following questions pick the odd thing out.",
+        "options": [
+            {
+                "id": "1",
+                "text": "(14,3,4)"
+            },
+            {
+                "id": "2",
+                "text": "(26,4,6)"
+            },
+            {
+                "id": "3",
+                "text": "(37,5,7)"
+            },
+            {
+                "id": "4",
+                "text": "(70,8,9)"
+            }
+        ],
+        "correct": 0,
+        "section": "Odd One Out",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "47",
+        "text": "In the Following questions pick the odd thing out.",
+        "options": [
+            {
+                "id": "1",
+                "text": "143"
+            },
+            {
+                "id": "2",
+                "text": "899"
+            },
+            {
+                "id": "3",
+                "text": "323"
+            },
+            {
+                "id": "4",
+                "text": "221"
+            }
+        ],
+        "correct": 0,
+        "section": "Odd One Out",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "48",
+        "text": "In the Following questions pick the odd thing out.",
+        "options": [
+            {
+                "id": "1",
+                "text": "10 / 28"
+            },
+            {
+                "id": "2",
+                "text": "17 / 65"
+            },
+            {
+                "id": "3",
+                "text": "26 / 126"
+            },
+            {
+                "id": "4",
+                "text": "37 / 218"
+            }
+        ],
+        "correct": 0,
+        "section": "Odd One Out",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "49",
+        "text": "In the Following questions pick the odd thing out.",
+        "options": [
+            {
+                "id": "1",
+                "text": "17 GA"
+            },
+            {
+                "id": "2",
+                "text": "29 IB"
+            },
+            {
+                "id": "3",
+                "text": "73 CG"
+            },
+            {
+                "id": "4",
+                "text": "53 CF"
+            }
+        ],
+        "correct": 0,
+        "section": "Odd One Out",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "50",
+        "text": "BZE, DYH, HWN, __",
+        "options": [
+            {
+                "id": "1",
+                "text": "MTW"
+            },
+            {
+                "id": "2",
+                "text": "MTV"
+            },
+            {
+                "id": "3",
+                "text": "NTW"
+            },
+            {
+                "id": "4",
+                "text": "NUW"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "51",
+        "text": "7, 10, 16, 28, __, 100",
+        "options": [
+            {
+                "id": "1",
+                "text": "52"
+            },
+            {
+                "id": "2",
+                "text": "54"
+            },
+            {
+                "id": "3",
+                "text": "56"
+            },
+            {
+                "id": "4",
+                "text": "58"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "52",
+        "text": "4T, 16W, 52U, __, 484V",
+        "options": [
+            {
+                "id": "1",
+                "text": "156Z"
+            },
+            {
+                "id": "2",
+                "text": "184Y"
+            },
+            {
+                "id": "3",
+                "text": "160X"
+            },
+            {
+                "id": "4",
+                "text": "160V"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "53",
+        "text": "E3V, I4R, G12T, K45P, __",
+        "options": [
+            {
+                "id": "1",
+                "text": "N135T"
+            },
+            {
+                "id": "2",
+                "text": "I196R"
+            },
+            {
+                "id": "3",
+                "text": "I68S"
+            },
+            {
+                "id": "4",
+                "text": "P144R"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "54",
+        "text": "3, 4, 12, 39, 103, __",
+        "options": [
+            {
+                "id": "1",
+                "text": "196"
+            },
+            {
+                "id": "2",
+                "text": "220"
+            },
+            {
+                "id": "3",
+                "text": "228"
+            },
+            {
+                "id": "4",
+                "text": "236"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "55",
+        "text": "6, 24, 60, 120, __",
+        "options": [
+            {
+                "id": "1",
+                "text": "180"
+            },
+            {
+                "id": "2",
+                "text": "210"
+            },
+            {
+                "id": "3",
+                "text": "240"
+            },
+            {
+                "id": "4",
+                "text": "270"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "56",
+        "text": "75, 79, 72, 80, 69, 81, __",
+        "options": [
+            {
+                "id": "1",
+                "text": "71"
+            },
+            {
+                "id": "2",
+                "text": "72"
+            },
+            {
+                "id": "3",
+                "text": "66"
+            },
+            {
+                "id": "4",
+                "text": "67"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "57",
+        "text": "1, 2, 6, 22, 86, __",
+        "options": [
+            {
+                "id": "1",
+                "text": "342"
+            },
+            {
+                "id": "2",
+                "text": "318"
+            },
+            {
+                "id": "3",
+                "text": "256"
+            },
+            {
+                "id": "4",
+                "text": "244"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "58",
+        "text": "0, 6, 24, 60, __, 210",
+        "options": [
+            {
+                "id": "1",
+                "text": "180"
+            },
+            {
+                "id": "2",
+                "text": "160"
+            },
+            {
+                "id": "3",
+                "text": "144"
+            },
+            {
+                "id": "4",
+                "text": "120"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "59",
+        "text": "1/4 13 / 2*3'5",
+        "options": [
+            {
+                "id": "1",
+                "text": "39"
+            },
+            {
+                "id": "2",
+                "text": "8"
+            },
+            {
+                "id": "3",
+                "text": "40/7"
+            },
+            {
+                "id": "4",
+                "text": "81/7"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "60",
+        "text": "What percentage of seats did party y get in 1990?",
+        "options": [
+            {
+                "id": "1",
+                "text": "70"
+            },
+            {
+                "id": "2",
+                "text": "64"
+            },
+            {
+                "id": "3",
+                "text": "68"
+            },
+            {
+                "id": "4",
+                "text": "62"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Interpretation",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "61",
+        "text": "what percentage of growth did the party A gain 1995 over the previous election?",
+        "options": [
+            {
+                "id": "1",
+                "text": "40"
+            },
+            {
+                "id": "2",
+                "text": "42"
+            },
+            {
+                "id": "3",
+                "text": "44"
+            },
+            {
+                "id": "4",
+                "text": "46"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Interpretation",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "62",
+        "text": "How many more seats did the party A get over the party B in all elections put together?",
+        "options": [
+            {
+                "id": "1",
+                "text": "76"
+            },
+            {
+                "id": "2",
+                "text": "86"
+            },
+            {
+                "id": "3",
+                "text": "40"
+            },
+            {
+                "id": "4",
+                "text": "65"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Interpretation",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "63",
+        "text": "If the amount spent on the head D is Rs. 43,320, then the amount in rupees that he has spent on the head E is D 43,320 E",
+        "options": [
+            {
+                "id": "1",
+                "text": "52,984"
+            },
+            {
+                "id": "2",
+                "text": "51,984"
+            },
+            {
+                "id": "3",
+                "text": "48,984"
+            },
+            {
+                "id": "4",
+                "text": "53,984"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Interpretation",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "64",
+        "text": "The percentage of his monthly income spent on the head D corrected to two decimals, is D ? ( )",
+        "options": [
+            {
+                "id": "1",
+                "text": "6.14"
+            },
+            {
+                "id": "2",
+                "text": "6.34"
+            },
+            {
+                "id": "3",
+                "text": "6.74"
+            },
+            {
+                "id": "4",
+                "text": "6.94"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Interpretation",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "65",
+        "text": "If the income of the person in that month is Rs.93, 240, then the amount in rupees that he spent on the head B in that month is .93,240 B",
+        "options": [
+            {
+                "id": "1",
+                "text": "18,340"
+            },
+            {
+                "id": "2",
+                "text": "18,420"
+            },
+            {
+                "id": "3",
+                "text": "18,130"
+            },
+            {
+                "id": "4",
+                "text": "18,080"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Interpretation",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "66",
+        "text": "If the amount spent on the heads A and C together in that month is Rs 60,450 then the amount he spent on the head B in that month in rupees is A, C Rs. 60, 450 B ,",
+        "options": [
+            {
+                "id": "1",
+                "text": "21,700"
+            },
+            {
+                "id": "2",
+                "text": "12,400"
+            },
+            {
+                "id": "3",
+                "text": "29,450"
+            },
+            {
+                "id": "4",
+                "text": "18,360"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Interpretation",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "67",
+        "text": "If the person spent on the head E is Rs. 11,520 in a month, then the amount spent on the head C in that month in rupees is E 11.520 C",
+        "options": [
+            {
+                "id": "1",
+                "text": "34,600"
+            },
+            {
+                "id": "2",
+                "text": "35,720"
+            },
+            {
+                "id": "3",
+                "text": "36,480"
+            },
+            {
+                "id": "4",
+                "text": "37,260"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Interpretation",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "68",
+        "text": "How many watched only one programme?",
+        "options": [
+            {
+                "id": "1",
+                "text": "16"
+            },
+            {
+                "id": "2",
+                "text": "12"
+            },
+            {
+                "id": "3",
+                "text": "18"
+            },
+            {
+                "id": "4",
+                "text": "25"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Interpretation",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "69",
+        "text": "How many watched exactly two programmes?",
+        "options": [
+            {
+                "id": "1",
+                "text": "22"
+            },
+            {
+                "id": "2",
+                "text": "18"
+            },
+            {
+                "id": "3",
+                "text": "28"
+            },
+            {
+                "id": "4",
+                "text": "32"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Interpretation",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "70",
+        "text": "what is the code for the word 'ATTACK'?",
+        "options": [
+            {
+                "id": "1",
+                "text": "LDDLMU"
+            },
+            {
+                "id": "2",
+                "text": "KDDKNU"
+            },
+            {
+                "id": "3",
+                "text": "KDDKMU"
+            },
+            {
+                "id": "4",
+                "text": "KDDKMV"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and Decoding",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "71",
+        "text": "The code for 'APICET' is",
+        "options": [
+            {
+                "id": "1",
+                "text": "KZSMOC"
+            },
+            {
+                "id": "2",
+                "text": "KZTNOD"
+            },
+            {
+                "id": "3",
+                "text": "KZSNOD"
+            },
+            {
+                "id": "4",
+                "text": "KZSMOD"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and Decoding",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "72",
+        "text": "'SYSTEM' is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "DIDEOW"
+            },
+            {
+                "id": "2",
+                "text": "CICDOW"
+            },
+            {
+                "id": "3",
+                "text": "BIBDOW"
+            },
+            {
+                "id": "4",
+                "text": "CICDOV"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and Decoding",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "73",
+        "text": "'USVV' is decoded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "KILL"
+            },
+            {
+                "id": "2",
+                "text": "MILL"
+            },
+            {
+                "id": "3",
+                "text": "BILL"
+            },
+            {
+                "id": "4",
+                "text": "KISS"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and Decoding",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "74",
+        "text": "'BKREV' is decoded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "BAHUL"
+            },
+            {
+                "id": "2",
+                "text": "RAHUM"
+            },
+            {
+                "id": "3",
+                "text": "RAHUL"
+            },
+            {
+                "id": "4",
+                "text": "RAHIM"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and Decoding",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "75",
+        "text": "If 'BEAT' is coded as 'EHDW', the code for 'ROAD' is",
+        "options": [
+            {
+                "id": "1",
+                "text": "URDH"
+            },
+            {
+                "id": "2",
+                "text": "UREG"
+            },
+            {
+                "id": "3",
+                "text": "URDF"
+            },
+            {
+                "id": "4",
+                "text": "URDG"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and Decoding",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "76",
+        "text": "If 'SAFE' is coded as 'OWBA', then what is the code for 'CROW'?",
+        "options": [
+            {
+                "id": "1",
+                "text": "YNKR"
+            },
+            {
+                "id": "2",
+                "text": "YNKT"
+            },
+            {
+                "id": "3",
+                "text": "YNKS"
+            },
+            {
+                "id": "4",
+                "text": "YNLS"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and Decoding",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "77",
+        "text": "In a certain code language if the word 'TOKEN' is coded as 'YTPJS', then in the same code language the word 'CLOSED' is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "HQTYJI"
+            },
+            {
+                "id": "2",
+                "text": "HQTXJI"
+            },
+            {
+                "id": "3",
+                "text": "HQTXKI"
+            },
+            {
+                "id": "4",
+                "text": "HQTXJH"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and Decoding",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "78",
+        "text": "In a certain code 'BEST' and 'PORT' are coded as 51 and 84 respectively, then in the same code 'WORD' is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "60"
+            },
+            {
+                "id": "2",
+                "text": "65"
+            },
+            {
+                "id": "3",
+                "text": "75"
+            },
+            {
+                "id": "4",
+                "text": "85"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and Decoding",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "79",
+        "text": "In a certain code the word 'RAMBO' and 'BRING' are coded as 114 and 109 respectively, then in the same code 'BLIND' is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "91"
+            },
+            {
+                "id": "2",
+                "text": "82"
+            },
+            {
+                "id": "3",
+                "text": "73"
+            },
+            {
+                "id": "4",
+                "text": "41"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and Decoding",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "80",
+        "text": "The number of leap years in between the years 2018 and 2126 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "24"
+            },
+            {
+                "id": "2",
+                "text": "25"
+            },
+            {
+                "id": "3",
+                "text": "26"
+            },
+            {
+                "id": "4",
+                "text": "27"
+            }
+        ],
+        "correct": 0,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "81",
+        "text": "The angel between hour hand and the minute hand of a clock when the time is 5.40 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "770"
+            },
+            {
+                "id": "2",
+                "text": "720"
+            },
+            {
+                "id": "3",
+                "text": "700"
+            },
+            {
+                "id": "4",
+                "text": "650"
+            }
+        ],
+        "correct": 0,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "82",
+        "text": "If two hands of a clock coincide (are together) every 64 minutes, the time gained, in minutes, by that clock in a day is",
+        "options": [
+            {
+                "id": "1",
+                "text": "34"
+            },
+            {
+                "id": "2",
+                "text": "33 3/11"
+            },
+            {
+                "id": "3",
+                "text": "32 8/11"
+            },
+            {
+                "id": "4",
+                "text": "32 2/11"
+            }
+        ],
+        "correct": 0,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "83",
+        "text": "If P is the wife of the grandson of the father of father of Mr R and R's father is the only child of his father, then P is related to R as",
+        "options": [
+            {
+                "id": "1",
+                "text": "Sister"
+            },
+            {
+                "id": "2",
+                "text": "Aunt"
+            },
+            {
+                "id": "3",
+                "text": "Daughter-in-law"
+            },
+            {
+                "id": "4",
+                "text": "Sister-in-law"
+            }
+        ],
+        "correct": 0,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "84",
+        "text": "A bus for Tirupati leaves every two hours from Bangalore bus station. An announcement was made at the Bangalore bus station that the bus for Tirupati had left 40 minutes ago and the next bus will leave at 4.00 pm. At what time the announcement was made?",
+        "options": [
+            {
+                "id": "1",
+                "text": "2.20 p.m"
+            },
+            {
+                "id": "2",
+                "text": "2.00 p.m"
+            },
+            {
+                "id": "3",
+                "text": "2.40 p.m"
+            },
+            {
+                "id": "4",
+                "text": "2.30 p.m"
+            }
+        ],
+        "correct": 0,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "85",
+        "text": "A person came to his office 40 minutes late at 10.55 am on Friday. Next day he started early and reached his office 25 minutes before the scheduled time. Then the time of his arrival at office on Saturday is",
+        "options": [
+            {
+                "id": "1",
+                "text": "9.50 a.m"
+            },
+            {
+                "id": "2",
+                "text": "9.55 a.m"
+            },
+            {
+                "id": "3",
+                "text": "10.00 a.m"
+            },
+            {
+                "id": "4",
+                "text": "10.05 am"
+            }
+        ],
+        "correct": 0,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "86",
+        "text": "5 persons A, B, C, D and E are sitting around a circle facing its center. B sits between A and E, C is sitting on immediate right side of the E. Then the person on the immediate left of D is",
+        "options": [
+            {
+                "id": "1",
+                "text": "A"
+            },
+            {
+                "id": "2",
+                "text": "C"
+            },
+            {
+                "id": "3",
+                "text": "B"
+            },
+            {
+                "id": "4",
+                "text": "E"
+            }
+        ],
+        "correct": 0,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "87",
+        "text": "If A denotes multiplication, * denotes subtraction, V denotes addition and \u2295 denotes division then 10\u229578^2 * 5\u22953 =?",
+        "options": [
+            {
+                "id": "1",
+                "text": "12"
+            },
+            {
+                "id": "2",
+                "text": "-6"
+            },
+            {
+                "id": "3",
+                "text": "27"
+            },
+            {
+                "id": "4",
+                "text": "-1"
+            }
+        ],
+        "correct": 0,
+        "section": "Logical Reasoning",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "88",
+        "text": "If x * y = 1/x + 1/y for all x, y \u2208 R-{0} then (4*5)* (3*2) = ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "77/60"
+            },
+            {
+                "id": "2",
+                "text": "33/20"
+            },
+            {
+                "id": "3",
+                "text": "154/45"
+            },
+            {
+                "id": "4",
+                "text": "121/54"
+            }
+        ],
+        "correct": 0,
+        "section": "Logical Reasoning",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "89",
+        "text": "For m, n \u2208 R, define m * n = m + n - 2 and m\u2295n = mn/2 then (3*5)\u2295(9*7) = ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "48"
+            },
+            {
+                "id": "2",
+                "text": "42"
+            },
+            {
+                "id": "3",
+                "text": "56"
+            },
+            {
+                "id": "4",
+                "text": "58"
+            }
+        ],
+        "correct": 0,
+        "section": "Logical Reasoning",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "90",
+        "text": "(3^(2x+4) \u00d7 9^(4x+2)) \u00f7 (9^(x+4)\u00d73^(2x+2)) = 9^5 \u21d2 x =?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    }
+]

@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "Sum of the first 8 terms of the sequence 1\u00b2, 3\u00b2, 5\u00b2, 7\u00b2, ..... is",
+        "options": [
+            {
+                "id": "1",
+                "text": "969"
+            },
+            {
+                "id": "2",
+                "text": "680"
+            },
+            {
+                "id": "3",
+                "text": "455"
+            },
+            {
+                "id": "4",
+                "text": "286"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "2",
+        "text": "If A = [[2, 2], [-3, 2]] and B = [[0, -1], [1, 0]] then (B\u207b\u00b9A\u207b\u00b9) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "[[2, -2], [2, 3]]"
+            },
+            {
+                "id": "2",
+                "text": "[[3, -2], [2, 2]]"
+            },
+            {
+                "id": "3",
+                "text": "1/10 [[2, 2], [-2, 3]]"
+            },
+            {
+                "id": "4",
+                "text": "[[1, 3], [10, -2, 2]]"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "3",
+        "text": "The midpoint of a line segment is (-4, -2). If the point at one end of that line segment is (-6, .4). then the square of the length of that line segment is",
+        "options": [
+            {
+                "id": "1",
+                "text": "160"
+            },
+            {
+                "id": "2",
+                "text": "240"
+            },
+            {
+                "id": "3",
+                "text": "80"
+            },
+            {
+                "id": "4",
+                "text": "40"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "4",
+        "text": "A fair die is rolled 60 times and the frequency distribution of the digits appeared on its face is given below",
+        "options": [
+            {
+                "id": "1",
+                "text": "3.25"
+            },
+            {
+                "id": "2",
+                "text": "3.55"
+            },
+            {
+                "id": "3",
+                "text": "3.5"
+            },
+            {
+                "id": "4",
+                "text": "3.35"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "5",
+        "text": "The median of the numbers 1, 2, 2\u00b2, ..., 2^(n-1) when n = 2021 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2\u00b2\u2070\u00b9\u2079"
+            },
+            {
+                "id": "2",
+                "text": "2\u00b9\u2070\u00b2\u2070"
+            },
+            {
+                "id": "3",
+                "text": "2\u00b2\u2070\u00b9\u2070"
+            },
+            {
+                "id": "4",
+                "text": "(2021) (2022)"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "6",
+        "text": "For a given data, if the arithmetic mean is 39 and median is 37.5, then its mode is",
+        "options": [
+            {
+                "id": "1",
+                "text": "38"
+            },
+            {
+                "id": "2",
+                "text": "38.5"
+            },
+            {
+                "id": "3",
+                "text": "34.5"
+            },
+            {
+                "id": "4",
+                "text": "30.5"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "7",
+        "text": "The variance of the first n odd natural numbers is",
+        "options": [
+            {
+                "id": "1",
+                "text": "(n\u00b2 - 1) / 12"
+            },
+            {
+                "id": "2",
+                "text": "(n\u00b2 - 1) / 6"
+            },
+            {
+                "id": "3",
+                "text": "(n\u00b2 + 1) / 3"
+            },
+            {
+                "id": "4",
+                "text": "(n\u00b2 + 1) / 6"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "8",
+        "text": "The standard deviation of 168, 170, 172, 174, 176, 178, corrected to two decimal places is",
+        "options": [
+            {
+                "id": "1",
+                "text": "12.34"
+            },
+            {
+                "id": "2",
+                "text": "11.67"
+            },
+            {
+                "id": "3",
+                "text": "3.12"
+            },
+            {
+                "id": "4",
+                "text": "3.42"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "9",
+        "text": "If the correlation coefficient of the 4 pairs of observations (x\u2081, y\u2081), (x\u2082, y\u2082), (x\u2083, y\u2083), (x\u2084, y\u2084) of a data is 1/6, then \u03a3 (x\u1d62 - y\u1d62)\u00b2 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "50"
+            },
+            {
+                "id": "2",
+                "text": "25/3"
+            },
+            {
+                "id": "3",
+                "text": "50/3"
+            },
+            {
+                "id": "4",
+                "text": "25"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "10",
+        "text": "If two cards are drawn at random from a pack of 52 cards simultaneously, then the probability of getting one club and one spade card is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/4"
+            },
+            {
+                "id": "2",
+                "text": "1/13"
+            },
+            {
+                "id": "3",
+                "text": "13/221"
+            },
+            {
+                "id": "4",
+                "text": "13/102"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "11",
+        "text": "Two dice are rolled simultaneously. Then the probability of getting an even number on one die and a prime number on another die is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/3"
+            },
+            {
+                "id": "2",
+                "text": "1/4"
+            },
+            {
+                "id": "3",
+                "text": "1/6"
+            },
+            {
+                "id": "4",
+                "text": "1/12"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "12",
+        "text": "If 3 fair dice are rolled, then the probability that the sum of the numbers appearing on them is greater than 15 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "17/216"
+            },
+            {
+                "id": "2",
+                "text": "7/108"
+            },
+            {
+                "id": "3",
+                "text": "11/216"
+            },
+            {
+                "id": "4",
+                "text": "5/108"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "13",
+        "text": "If a 4 digit number is formed at random, without repetition using the digits 0, 1, 2, 4, 5 then the probability that the number thus formed is not divisible by 3 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/4"
+            },
+            {
+                "id": "2",
+                "text": "3/4"
+            },
+            {
+                "id": "3",
+                "text": "1/5"
+            },
+            {
+                "id": "4",
+                "text": "4/5"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "14",
+        "text": "What is remainder when a number \u2018x\u2019 is divided by 9 ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytics Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "15",
+        "text": "What is the distance between the points \u2018A\u2019 and \u2018B\u2019 ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytics Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "16",
+        "text": "What is the present age of Anil?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Analytics Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "17",
+        "text": "What is that two digit number?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 3,
+        "section": "Analytics Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "18",
+        "text": "What is the profit earned on selling the article \u2018x\u2019?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytics Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "19",
+        "text": "A, B, C, D, E and F are sitting around a circle facing its centre. Who is sitting at the immediate right of B?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytics Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "20",
+        "text": "Among six persons A, B, C, D, E, F who is the tallest ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytics Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "21",
+        "text": "What is the rate of interest \u2018R\u2019?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytics Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "22",
+        "text": "What is Nitin's rank from the top, in a class of 40 students?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytics Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "23",
+        "text": "How many toys were sold on Monday?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Analytics Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "24",
+        "text": "What was his average speed?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 3,
+        "section": "Analytics Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "25",
+        "text": "What is the arithmetic mean of the real numbers p , q , r , s ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytics Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "26",
+        "text": "What percent of 45 is 'x'?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytics Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "27",
+        "text": "PQRS is a square with sides of length 6 and point 'A' is on the side QR. What is the area of the triangle PAQ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytics Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "28",
+        "text": "What is the age of 'P'?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 3,
+        "section": "Analytics Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "29",
+        "text": "Is the integer \u2018n\u2019 divisible by 35?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytics Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "30",
+        "text": "What is the cost price of a chair?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 3,
+        "section": "Analytics Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "31",
+        "text": "Ganesh and Gopal each caught some fish in a fish tank. Who caught more fish?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytics Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "32",
+        "text": "What is the sum of the two positive integers?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Analytics Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "33",
+        "text": "What is the 3rd number of eight consecutive integers?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Analytics Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "34",
+        "text": "BCE : EGK :: KMQ : _____",
+        "options": [
+            {
+                "id": "1",
+                "text": "QSU"
+            },
+            {
+                "id": "2",
+                "text": "QSW"
+            },
+            {
+                "id": "3",
+                "text": "QST"
+            },
+            {
+                "id": "4",
+                "text": "QSR"
+            }
+        ],
+        "correct": 1,
+        "section": "Problem solving",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "35",
+        "text": "1000 : 512 :: 343 : _____",
+        "options": [
+            {
+                "id": "1",
+                "text": "1331"
+            },
+            {
+                "id": "2",
+                "text": "729"
+            },
+            {
+                "id": "3",
+                "text": "739"
+            },
+            {
+                "id": "4",
+                "text": "829"
+            }
+        ],
+        "correct": 1,
+        "section": "Problem solving",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "36",
+        "text": "10 : 99 :: 9 : _____",
+        "options": [
+            {
+                "id": "1",
+                "text": "84"
+            },
+            {
+                "id": "2",
+                "text": "83"
+            },
+            {
+                "id": "3",
+                "text": "82"
+            },
+            {
+                "id": "4",
+                "text": "80"
+            }
+        ],
+        "correct": 3,
+        "section": "Problem solving",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "37",
+        "text": "AFR : ZEQ :: EMG : ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "FNH"
+            },
+            {
+                "id": "2",
+                "text": "DLF"
+            },
+            {
+                "id": "3",
+                "text": "FLH"
+            },
+            {
+                "id": "4",
+                "text": "DNF"
+            }
+        ],
+        "correct": 1,
+        "section": "Problem solving",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "38",
+        "text": "8 : 81 :: 9 : ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "92"
+            },
+            {
+                "id": "2",
+                "text": "102"
+            },
+            {
+                "id": "3",
+                "text": "101"
+            },
+            {
+                "id": "4",
+                "text": "64"
+            }
+        ],
+        "correct": 3,
+        "section": "Problem solving",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "39",
+        "text": "LOSE : OSVI :: GAIN : ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "IELQ"
+            },
+            {
+                "id": "2",
+                "text": "JDLP"
+            },
+            {
+                "id": "3",
+                "text": "IDMP"
+            },
+            {
+                "id": "4",
+                "text": "JELR"
+            }
+        ],
+        "correct": 3,
+        "section": "Problem solving",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "40",
+        "text": "HARD : DONZ :: SOFT : ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "PEBQ"
+            },
+            {
+                "id": "2",
+                "text": "PECR"
+            },
+            {
+                "id": "3",
+                "text": "PIBQ"
+            },
+            {
+                "id": "4",
+                "text": "PICR"
+            }
+        ],
+        "correct": 0,
+        "section": "Problem solving",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "41",
+        "text": "78 : 225 :: 69 : ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "225"
+            },
+            {
+                "id": "2",
+                "text": "241"
+            },
+            {
+                "id": "3",
+                "text": "147"
+            },
+            {
+                "id": "4",
+                "text": "117"
+            }
+        ],
+        "correct": 0,
+        "section": "Problem solving",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "42",
+        "text": "54 : 96 :: 63 : ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "108"
+            },
+            {
+                "id": "2",
+                "text": "229"
+            },
+            {
+                "id": "3",
+                "text": "483"
+            },
+            {
+                "id": "4",
+                "text": "714"
+            }
+        ],
+        "correct": 0,
+        "section": "Problem solving",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "43",
+        "text": "34 : 1849 :: 23 : ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "925"
+            },
+            {
+                "id": "2",
+                "text": "1024"
+            },
+            {
+                "id": "3",
+                "text": "1369"
+            },
+            {
+                "id": "4",
+                "text": "1516"
+            }
+        ],
+        "correct": 1,
+        "section": "Problem solving",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "44",
+        "text": "Pick the odd thing out in the following.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Bad"
+            },
+            {
+                "id": "2",
+                "text": "Bright"
+            },
+            {
+                "id": "3",
+                "text": "White"
+            },
+            {
+                "id": "4",
+                "text": "Good"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "45",
+        "text": "Pick the odd thing out in the following.",
+        "options": [
+            {
+                "id": "1",
+                "text": "NOVEL"
+            },
+            {
+                "id": "2",
+                "text": "COMPEL"
+            },
+            {
+                "id": "3",
+                "text": "POWDER"
+            },
+            {
+                "id": "4",
+                "text": "LABOUR"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "46",
+        "text": "Pick the odd thing out in the following.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Tape"
+            },
+            {
+                "id": "2",
+                "text": "Scissor"
+            },
+            {
+                "id": "3",
+                "text": "Bobbin"
+            },
+            {
+                "id": "4",
+                "text": "Blouse"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "47",
+        "text": "Pick the odd thing out in the following.",
+        "options": [
+            {
+                "id": "1",
+                "text": "GRUNT"
+            },
+            {
+                "id": "2",
+                "text": "SHOUT"
+            },
+            {
+                "id": "3",
+                "text": "HOWL"
+            },
+            {
+                "id": "4",
+                "text": "BARK"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "48",
+        "text": "Pick the odd thing out in the following.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Belief"
+            },
+            {
+                "id": "2",
+                "text": "Shield"
+            },
+            {
+                "id": "3",
+                "text": "Brief"
+            },
+            {
+                "id": "4",
+                "text": "Deceit"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "49",
+        "text": "39, 155, 399, 1463, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "2379"
+            },
+            {
+                "id": "2",
+                "text": "2157"
+            },
+            {
+                "id": "3",
+                "text": "1935"
+            },
+            {
+                "id": "4",
+                "text": "1723"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "50",
+        "text": "AB5, CD25, EF61, GH113, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "IJ151"
+            },
+            {
+                "id": "2",
+                "text": "IJ181"
+            },
+            {
+                "id": "3",
+                "text": "IJ213"
+            },
+            {
+                "id": "4",
+                "text": "IJ247"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "51",
+        "text": "24, 120, 336, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "1731"
+            },
+            {
+                "id": "2",
+                "text": "1950"
+            },
+            {
+                "id": "3",
+                "text": "2184"
+            },
+            {
+                "id": "4",
+                "text": "2379"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "52",
+        "text": "6, 15, 35, 77, 143, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "221"
+            },
+            {
+                "id": "2",
+                "text": "191"
+            },
+            {
+                "id": "3",
+                "text": "161"
+            },
+            {
+                "id": "4",
+                "text": "201"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "53",
+        "text": "CW, EU, GS, KO, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "LP"
+            },
+            {
+                "id": "2",
+                "text": "MQ"
+            },
+            {
+                "id": "3",
+                "text": "LK"
+            },
+            {
+                "id": "4",
+                "text": "MM"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "54",
+        "text": "(8, 24), (48, 120), (168, 288), (360, 528), ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "(630, 748)"
+            },
+            {
+                "id": "2",
+                "text": "(840, 960)"
+            },
+            {
+                "id": "3",
+                "text": "(759, 870)"
+            },
+            {
+                "id": "4",
+                "text": "(893, 971)"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "55",
+        "text": "3D5, 5F7, 7I11, 11L13, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "13M15"
+            },
+            {
+                "id": "2",
+                "text": "13N15"
+            },
+            {
+                "id": "3",
+                "text": "13\u2019O\u201917"
+            },
+            {
+                "id": "4",
+                "text": "13P17"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "56",
+        "text": "6, 35, 143, 323, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "575"
+            },
+            {
+                "id": "2",
+                "text": "483"
+            },
+            {
+                "id": "3",
+                "text": "675"
+            },
+            {
+                "id": "4",
+                "text": "667"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "57",
+        "text": "ACE, CFI, EIM, GLQ, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "IOU"
+            },
+            {
+                "id": "2",
+                "text": "HOU"
+            },
+            {
+                "id": "3",
+                "text": "INT"
+            },
+            {
+                "id": "4",
+                "text": "HNT"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "58",
+        "text": "E, H, L, R, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "T"
+            },
+            {
+                "id": "2",
+                "text": "Y"
+            },
+            {
+                "id": "3",
+                "text": "X"
+            },
+            {
+                "id": "4",
+                "text": "U"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "59",
+        "text": "What was the approximate percentage of increase in the manufacture of type 'S' toys from 2016 to 2020?",
+        "options": [
+            {
+                "id": "1",
+                "text": "29"
+            },
+            {
+                "id": "2",
+                "text": "25"
+            },
+            {
+                "id": "3",
+                "text": "28"
+            },
+            {
+                "id": "4",
+                "text": "26"
+            }
+        ],
+        "correct": 3,
+        "section": "Data analysis",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "60",
+        "text": "The type of toy which recorded continuous growth in the manufacture during the given period is",
+        "options": [
+            {
+                "id": "1",
+                "text": "Q"
+            },
+            {
+                "id": "2",
+                "text": "R"
+            },
+            {
+                "id": "3",
+                "text": "S"
+            },
+            {
+                "id": "4",
+                "text": "K"
+            }
+        ],
+        "correct": 2,
+        "section": "Data analysis",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "61",
+        "text": "The approximate percentage of increase in the manufacture of all toys from 2016 to 2020",
+        "options": [
+            {
+                "id": "1",
+                "text": "18"
+            },
+            {
+                "id": "2",
+                "text": "16"
+            },
+            {
+                "id": "3",
+                "text": "13"
+            },
+            {
+                "id": "4",
+                "text": "14"
+            }
+        ],
+        "correct": 1,
+        "section": "Data analysis",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "62",
+        "text": "What is the approximate percentage of allocation by the family 'A' on recreation",
+        "options": [
+            {
+                "id": "1",
+                "text": "32 1/3"
+            },
+            {
+                "id": "2",
+                "text": "32"
+            },
+            {
+                "id": "3",
+                "text": "34"
+            },
+            {
+                "id": "4",
+                "text": "33 1/3"
+            }
+        ],
+        "correct": 3,
+        "section": "Data analysis",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "63",
+        "text": "The ratio of the allocations by the family 'B' on travel to that on other items is",
+        "options": [
+            {
+                "id": "1",
+                "text": "8 : 9"
+            },
+            {
+                "id": "2",
+                "text": "9 : 10"
+            },
+            {
+                "id": "3",
+                "text": "12 : 13"
+            },
+            {
+                "id": "4",
+                "text": "7 : 8"
+            }
+        ],
+        "correct": 1,
+        "section": "Data analysis",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "64",
+        "text": "What is the ratio of the allocation on travel to that on recreation by the family 'A'",
+        "options": [
+            {
+                "id": "1",
+                "text": "1 : 12"
+            },
+            {
+                "id": "2",
+                "text": "2 : 31"
+            },
+            {
+                "id": "3",
+                "text": "5 : 24"
+            },
+            {
+                "id": "4",
+                "text": "4 : 9"
+            }
+        ],
+        "correct": 2,
+        "section": "Data analysis",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "65",
+        "text": "What is the percentage of allocation made by the family 'B' on Food?",
+        "options": [
+            {
+                "id": "1",
+                "text": "40"
+            },
+            {
+                "id": "2",
+                "text": "35"
+            },
+            {
+                "id": "3",
+                "text": "36"
+            },
+            {
+                "id": "4",
+                "text": "42"
+            }
+        ],
+        "correct": 0,
+        "section": "Data analysis",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "66",
+        "text": "What is the ratio of allocation on food to that on travel by the family 'B'",
+        "options": [
+            {
+                "id": "1",
+                "text": "14 : 5"
+            },
+            {
+                "id": "2",
+                "text": "5 : 2"
+            },
+            {
+                "id": "3",
+                "text": "3 : 2"
+            },
+            {
+                "id": "4",
+                "text": "16 : 5"
+            }
+        ],
+        "correct": 3,
+        "section": "Data analysis",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "67",
+        "text": "The number of students who did not participate in any of the 3 events 'A', 'B, and 'C' is",
+        "options": [
+            {
+                "id": "1",
+                "text": "4"
+            },
+            {
+                "id": "2",
+                "text": "8"
+            },
+            {
+                "id": "3",
+                "text": "24"
+            },
+            {
+                "id": "4",
+                "text": "12"
+            }
+        ],
+        "correct": 1,
+        "section": "Data analysis",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "68",
+        "text": "The number of students who participated either in the event 'A' or in the event 'C' but not in the event 'B', is",
+        "options": [
+            {
+                "id": "1",
+                "text": "48"
+            },
+            {
+                "id": "2",
+                "text": "52"
+            },
+            {
+                "id": "3",
+                "text": "68"
+            },
+            {
+                "id": "4",
+                "text": "62"
+            }
+        ],
+        "correct": 1,
+        "section": "Data analysis",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "69",
+        "text": "In a code the word 'PERSON' is coded as 214 and the word 'MASTER' is coded as 164, then in the same code the word 'BENGAL' is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "94"
+            },
+            {
+                "id": "2",
+                "text": "104"
+            },
+            {
+                "id": "3",
+                "text": "124"
+            },
+            {
+                "id": "4",
+                "text": "144"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "70",
+        "text": "In a certain code the word 'PRINCE' is coded as 'DFJOQS' and the word 'MASTER' is coded as 'FSTUNB' then in the same code the word 'SOCIAL' is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "JTPBMO"
+            },
+            {
+                "id": "2",
+                "text": "BMDJTP"
+            },
+            {
+                "id": "3",
+                "text": "TPDJBM"
+            },
+            {
+                "id": "4",
+                "text": "JBMTPD"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "71",
+        "text": "In a certain code the word 'MANGO' is coded as 'JDKJL', then in the same code the word 'GRAPE' is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "ETYRC"
+            },
+            {
+                "id": "2",
+                "text": "EUYSC"
+            },
+            {
+                "id": "3",
+                "text": "DUXSB"
+            },
+            {
+                "id": "4",
+                "text": "DTXPB"
+            }
+        ],
+        "correct": 2,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "72",
+        "text": "In a certain code, the word 'BRAIN' is coded as 'PKCTD', then in the same code the word 'HEART' is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "VQCIJ"
+            },
+            {
+                "id": "2",
+                "text": "VTCGJ"
+            },
+            {
+                "id": "3",
+                "text": "UTCGJ"
+            },
+            {
+                "id": "4",
+                "text": "UQCGI"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "73",
+        "text": "In a certain code the word 'TEACHER' is coded as 'VULGOUX', then in the same code 'STUDENT' is coded as,",
+        "options": [
+            {
+                "id": "1",
+                "text": "XRUGEXV"
+            },
+            {
+                "id": "2",
+                "text": "XSUHIXW"
+            },
+            {
+                "id": "3",
+                "text": "XSUGEXV"
+            },
+            {
+                "id": "4",
+                "text": "XRUHIXW"
+            }
+        ],
+        "correct": 3,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "74",
+        "text": "If 'PROFIT' is coded as 'RTQHKV', then in the same code 'EIGHT' is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "GJIJV"
+            },
+            {
+                "id": "2",
+                "text": "GKILV"
+            },
+            {
+                "id": "3",
+                "text": "GKIJV"
+            },
+            {
+                "id": "4",
+                "text": "GKHIJV"
+            }
+        ],
+        "correct": 2,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "75",
+        "text": "If 'FAVOUR' is coded as 'ROUVAE' and 'PAPER' is coded as 'REPAP', then in the same code 'CERTAIN' is coded as,",
+        "options": [
+            {
+                "id": "1",
+                "text": "NAITREC"
+            },
+            {
+                "id": "2",
+                "text": "NIBSREC"
+            },
+            {
+                "id": "3",
+                "text": "NAITERC"
+            },
+            {
+                "id": "4",
+                "text": "NIATREC"
+            }
+        ],
+        "correct": 3,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "76",
+        "text": "If 'RANGER' is coded as 'ARGNRE', then in the same code 'CHAIRS' is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "CHIASR"
+            },
+            {
+                "id": "2",
+                "text": "HCIASR"
+            },
+            {
+                "id": "3",
+                "text": "HCIARS"
+            },
+            {
+                "id": "4",
+                "text": "CHAISR"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "77",
+        "text": "If 'ROAD' is coded as 'GDRU', then in the same code 'BEAT', is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "WDHE"
+            },
+            {
+                "id": "2",
+                "text": "WDGE"
+            },
+            {
+                "id": "3",
+                "text": "WDHF"
+            },
+            {
+                "id": "4",
+                "text": "WCHE"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "78",
+        "text": "If 'SWEET' is coded as 'QUCCR', then in the same code, 'MEALS' is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "KCZJQ"
+            },
+            {
+                "id": "2",
+                "text": "KDYJQ"
+            },
+            {
+                "id": "3",
+                "text": "KCYIQ"
+            },
+            {
+                "id": "4",
+                "text": "KCYYJQ"
+            }
+        ],
+        "correct": 3,
+        "section": "Coding and decoding problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "79",
+        "text": "If 9th February 2012 was Thursday, the day of February 19, 2016 was",
+        "options": [
+            {
+                "id": "1",
+                "text": "Tuesday"
+            },
+            {
+                "id": "2",
+                "text": "Wednesday"
+            },
+            {
+                "id": "3",
+                "text": "Friday"
+            },
+            {
+                "id": "4",
+                "text": "Saturday"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "80",
+        "text": "The time between 2 and 3 O'clock at which the minute hand and the hour hand in a clock are in the same straight line but in opposite directions, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "42 3/11 minutes past 2 o'clock"
+            },
+            {
+                "id": "2",
+                "text": "42 7/11 minutes past 2 o'clock"
+            },
+            {
+                "id": "3",
+                "text": "43 7/11 minutes past 2 o'clock"
+            },
+            {
+                "id": "4",
+                "text": "44 2/11 minutes past 2 o'clock"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "81",
+        "text": "A clock is set right at 8.00 am on 1-1-2018. The clock gains 15 min in 24 hours. The time(nearly) on the clock when the actual time is 10.00 am on 04-01-2018 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "10.42 am"
+            },
+            {
+                "id": "2",
+                "text": "10.46 am"
+            },
+            {
+                "id": "3",
+                "text": "11.00 am"
+            },
+            {
+                "id": "4",
+                "text": "11.05 am"
+            }
+        ],
+        "correct": 1,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "82",
+        "text": "'X' is the father of 'Y' and 'Z' is the son of 'W'. 'R' is the brother of 'X' and 'Y' is the sister of 'Z'. Then 'W' is related to 'R' as",
+        "options": [
+            {
+                "id": "1",
+                "text": "Sister"
+            },
+            {
+                "id": "2",
+                "text": "Niece"
+            },
+            {
+                "id": "3",
+                "text": "Sister-in-law"
+            },
+            {
+                "id": "4",
+                "text": "Brother-in-law"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "83",
+        "text": "The distance between stations 'Y' and 'Z' is 400 km and the speed of train from 'Y' to 'Z' is 4/5 th of the maximum speed allowed. A car departs from the station 'Y' at 2.00 pm and arrived the station 'Z' at 7.30 pm. A train departs from station 'Y' at 2.00 pm and arrived the station 'Z' at 10.00 pm. By how much the car's speed is more than the maximum allowed speed of the train, if the car was stopped 30 minutes for lunch break?",
+        "options": [
+            {
+                "id": "1",
+                "text": "40 Km/hr"
+            },
+            {
+                "id": "2",
+                "text": "24 Km/hr"
+            },
+            {
+                "id": "3",
+                "text": "17.5 Km/hr"
+            },
+            {
+                "id": "4",
+                "text": "16.5 Km/hr"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "84",
+        "text": "Anil started from his house for school 't' minutes later than his normal time and travelled with 4/7 of the usual speed to arrive at the school 't' minutes early. Next day if he started 't' minutes earlier than the previous day and travelled with his usual speed, then he would have reached his school",
+        "options": [
+            {
+                "id": "1",
+                "text": "'t' minutes late"
+            },
+            {
+                "id": "2",
+                "text": "Exactly on time"
+            },
+            {
+                "id": "3",
+                "text": "3t/7 minutes late"
+            },
+            {
+                "id": "4",
+                "text": "t/10 minutes late"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "85",
+        "text": "In a group of boys sitting in a row, Ramesh is 8th from the left and Mohan is 11th from the right. If Ramesh is fourteenth from the left when they interchange their places, then the position of Mohan now from the right is",
+        "options": [
+            {
+                "id": "1",
+                "text": "15"
+            },
+            {
+                "id": "2",
+                "text": "16"
+            },
+            {
+                "id": "3",
+                "text": "17"
+            },
+            {
+                "id": "4",
+                "text": "18"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "86",
+        "text": "In a code language if '+' means 'x', '-' means '-', '-' means '+' and '+' means '-', then 2 + 4 + 8 - 16 x 32 + 64 + 128 + 256 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "20"
+            },
+            {
+                "id": "2",
+                "text": "27"
+            },
+            {
+                "id": "3",
+                "text": "64"
+            },
+            {
+                "id": "4",
+                "text": "164"
+            }
+        ],
+        "correct": 3,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "87",
+        "text": "If 3 * 1 = 20, 6 * 1 = 50 and 2 * 6 = -40 then 5 * 8 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "-50"
+            },
+            {
+                "id": "2",
+                "text": "-30"
+            },
+            {
+                "id": "3",
+                "text": "30"
+            },
+            {
+                "id": "4",
+                "text": "100"
+            }
+        ],
+        "correct": 1,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "88",
+        "text": "'X', 'Y', 'Z' are real numbers, 'p' is B. 'q' is C. 'r' is D, 's' is E, 't' is F. If B stands for '>', 'C' stands for 's', 'D' stands for 'E', 'F' stands for 'z', 'F' stands for '<' and 'X', 'Y' and 'Z' are real numbers, then (4x F 51) and (51 E 3z) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "4x D 3z"
+            },
+            {
+                "id": "2",
+                "text": "4x C 3z"
+            },
+            {
+                "id": "3",
+                "text": "4x B 3z"
+            },
+            {
+                "id": "4",
+                "text": "4x F 3z"
+            }
+        ],
+        "correct": 3,
+        "section": "Date, Time and arrangement problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "89",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "empathetic"
+            },
+            {
+                "id": "2",
+                "text": "pessimistic"
+            },
+            {
+                "id": "3",
+                "text": "incongruous"
+            },
+            {
+                "id": "4",
+                "text": "agile"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "90",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "plead"
+            },
+            {
+                "id": "2",
+                "text": "praise"
+            },
+            {
+                "id": "3",
+                "text": "refuse"
+            },
+            {
+                "id": "4",
+                "text": "resonate"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    }
+]

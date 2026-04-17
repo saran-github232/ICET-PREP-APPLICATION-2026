@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "demand"
+            },
+            {
+                "id": "2",
+                "text": "assure"
+            },
+            {
+                "id": "3",
+                "text": "plead"
+            },
+            {
+                "id": "4",
+                "text": "look inside"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "2",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "cover"
+            },
+            {
+                "id": "2",
+                "text": "conceal"
+            },
+            {
+                "id": "3",
+                "text": "disguise"
+            },
+            {
+                "id": "4",
+                "text": "reveal"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "3",
+        "text": "Fill in the blank by choosing the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "lose"
+            },
+            {
+                "id": "2",
+                "text": "identify"
+            },
+            {
+                "id": "3",
+                "text": "reject"
+            },
+            {
+                "id": "4",
+                "text": "to acquire enough"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "4",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "very important"
+            },
+            {
+                "id": "2",
+                "text": "risky"
+            },
+            {
+                "id": "3",
+                "text": "momentary"
+            },
+            {
+                "id": "4",
+                "text": "sacred"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "5",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "inedible"
+            },
+            {
+                "id": "2",
+                "text": "inaudible"
+            },
+            {
+                "id": "3",
+                "text": "incurable"
+            },
+            {
+                "id": "4",
+                "text": "inevitable"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "6",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "finicky"
+            },
+            {
+                "id": "2",
+                "text": "carefully considered"
+            },
+            {
+                "id": "3",
+                "text": "jovial"
+            },
+            {
+                "id": "4",
+                "text": "narrow"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "7",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "mathematic"
+            },
+            {
+                "id": "2",
+                "text": "numismatic"
+            },
+            {
+                "id": "3",
+                "text": "self-evident"
+            },
+            {
+                "id": "4",
+                "text": "aromatic"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "8",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "gun"
+            },
+            {
+                "id": "2",
+                "text": "paraffin"
+            },
+            {
+                "id": "3",
+                "text": "model"
+            },
+            {
+                "id": "4",
+                "text": "paradox"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "9",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "antidote"
+            },
+            {
+                "id": "2",
+                "text": "antiseptic"
+            },
+            {
+                "id": "3",
+                "text": "antiquary"
+            },
+            {
+                "id": "4",
+                "text": "aviary"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "10",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "regress"
+            },
+            {
+                "id": "2",
+                "text": "ingress"
+            },
+            {
+                "id": "3",
+                "text": "progress"
+            },
+            {
+                "id": "4",
+                "text": "digress"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "11",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "anecdote"
+            },
+            {
+                "id": "2",
+                "text": "antidote"
+            },
+            {
+                "id": "3",
+                "text": "antipodes"
+            },
+            {
+                "id": "4",
+                "text": "antibody"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "12",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "hidden"
+            },
+            {
+                "id": "2",
+                "text": "recent"
+            },
+            {
+                "id": "3",
+                "text": "rational"
+            },
+            {
+                "id": "4",
+                "text": "progressive"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "13",
+        "text": "Fill in the blank by choosing the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "criticized"
+            },
+            {
+                "id": "2",
+                "text": "lionized"
+            },
+            {
+                "id": "3",
+                "text": "showered"
+            },
+            {
+                "id": "4",
+                "text": "downplayed"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "14",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Discarded Cash Flow"
+            },
+            {
+                "id": "2",
+                "text": "Discounted Cash Flow"
+            },
+            {
+                "id": "3",
+                "text": "Discarded Cash Fund"
+            },
+            {
+                "id": "4",
+                "text": "Discounted Cash Fund"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "15",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "bossism"
+            },
+            {
+                "id": "2",
+                "text": "funding"
+            },
+            {
+                "id": "3",
+                "text": "environment"
+            },
+            {
+                "id": "4",
+                "text": "manpower"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "16",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Integrated Sectional Digital Network"
+            },
+            {
+                "id": "2",
+                "text": "Improved Services Digital Network"
+            },
+            {
+                "id": "3",
+                "text": "Integrated Services Digital Network"
+            },
+            {
+                "id": "4",
+                "text": "Integrated Server Digitalized Network"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "17",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "fuzzy logic"
+            },
+            {
+                "id": "2",
+                "text": "fox message"
+            },
+            {
+                "id": "3",
+                "text": "full duplex"
+            },
+            {
+                "id": "4",
+                "text": "flow charge"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "18",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Human greed"
+            },
+            {
+                "id": "2",
+                "text": "Capacity limitations"
+            },
+            {
+                "id": "3",
+                "text": "Price war"
+            },
+            {
+                "id": "4",
+                "text": "The policy of make hay while the sun shines"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "19",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "kilo bits per second"
+            },
+            {
+                "id": "2",
+                "text": "kilo bites per second"
+            },
+            {
+                "id": "3",
+                "text": "kilo bels per second"
+            },
+            {
+                "id": "4",
+                "text": "kilo boots per second"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "20",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "at the desk in an office"
+            },
+            {
+                "id": "2",
+                "text": "with one's hands"
+            },
+            {
+                "id": "3",
+                "text": "late at night"
+            },
+            {
+                "id": "4",
+                "text": "continuously for 24 hours"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "21",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "to stop reading"
+            },
+            {
+                "id": "2",
+                "text": "to agree"
+            },
+            {
+                "id": "3",
+                "text": "to disagree"
+            },
+            {
+                "id": "4",
+                "text": "to lose interest in reading"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "22",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "insurance bond"
+            },
+            {
+                "id": "2",
+                "text": "promissory note"
+            },
+            {
+                "id": "3",
+                "text": "hundred rupee note"
+            },
+            {
+                "id": "4",
+                "text": "affidavit"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "23",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "GST"
+            },
+            {
+                "id": "2",
+                "text": "Sale tax"
+            },
+            {
+                "id": "3",
+                "text": "Income tax"
+            },
+            {
+                "id": "4",
+                "text": "Excise"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "24",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "inflation"
+            },
+            {
+                "id": "2",
+                "text": "deflation"
+            },
+            {
+                "id": "3",
+                "text": "demonitization"
+            },
+            {
+                "id": "4",
+                "text": "world bank policy"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "25",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "money laundering"
+            },
+            {
+                "id": "2",
+                "text": "skimming"
+            },
+            {
+                "id": "3",
+                "text": "block chain system"
+            },
+            {
+                "id": "4",
+                "text": "Nostro account"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "26",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "LIBOR"
+            },
+            {
+                "id": "2",
+                "text": "MIBOR"
+            },
+            {
+                "id": "3",
+                "text": "banking ombudsman"
+            },
+            {
+                "id": "4",
+                "text": "public credit registry"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "27",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Merchant activity of a company"
+            },
+            {
+                "id": "2",
+                "text": "Products or goods bought or sold by a company"
+            },
+            {
+                "id": "3",
+                "text": "Merchants association related to a company"
+            },
+            {
+                "id": "4",
+                "text": "The business profit of a company"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "28",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Day-to-day to costs of running a company"
+            },
+            {
+                "id": "2",
+                "text": "Over-ruled expenditure of a company"
+            },
+            {
+                "id": "3",
+                "text": "Costs different from operating costs of a business"
+            },
+            {
+                "id": "4",
+                "text": "Costs or expenditure that are slighted by the accountant"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "29",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "on"
+            },
+            {
+                "id": "2",
+                "text": "of"
+            },
+            {
+                "id": "3",
+                "text": "off"
+            },
+            {
+                "id": "4",
+                "text": "with"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "30",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "in"
+            },
+            {
+                "id": "2",
+                "text": "for"
+            },
+            {
+                "id": "3",
+                "text": "since"
+            },
+            {
+                "id": "4",
+                "text": "by"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "31",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "with"
+            },
+            {
+                "id": "2",
+                "text": "for"
+            },
+            {
+                "id": "3",
+                "text": "at"
+            },
+            {
+                "id": "4",
+                "text": "by"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "32",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "on"
+            },
+            {
+                "id": "2",
+                "text": "by"
+            },
+            {
+                "id": "3",
+                "text": "at"
+            },
+            {
+                "id": "4",
+                "text": "in"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "33",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "had stopped"
+            },
+            {
+                "id": "2",
+                "text": "was stopping"
+            },
+            {
+                "id": "3",
+                "text": "will stop"
+            },
+            {
+                "id": "4",
+                "text": "stopped"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "34",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "lazily"
+            },
+            {
+                "id": "2",
+                "text": "heavily"
+            },
+            {
+                "id": "3",
+                "text": "practically"
+            },
+            {
+                "id": "4",
+                "text": "periodically"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "35",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "have"
+            },
+            {
+                "id": "2",
+                "text": "has"
+            },
+            {
+                "id": "3",
+                "text": "were"
+            },
+            {
+                "id": "4",
+                "text": "did"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "36",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "upon"
+            },
+            {
+                "id": "2",
+                "text": "about"
+            },
+            {
+                "id": "3",
+                "text": "toward"
+            },
+            {
+                "id": "4",
+                "text": "at"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "37",
+        "text": "The streets were flooded when the pipeline bursted. Identify the error",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "38",
+        "text": "He broke a antique and expensive vase. Identify the error",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "39",
+        "text": "Choose the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "wasn't it?"
+            },
+            {
+                "id": "2",
+                "text": "was it?"
+            },
+            {
+                "id": "3",
+                "text": "isn't it?"
+            },
+            {
+                "id": "4",
+                "text": "is it?"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "40",
+        "text": "We are committed _______ learning grammar.",
+        "options": [
+            {
+                "id": "1",
+                "text": "with"
+            },
+            {
+                "id": "2",
+                "text": "about"
+            },
+            {
+                "id": "3",
+                "text": "to"
+            },
+            {
+                "id": "4",
+                "text": "for"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "41",
+        "text": "Change the sentence into passive voice 'Read the story carefully'.",
+        "options": [
+            {
+                "id": "1",
+                "text": "You read the story carefully"
+            },
+            {
+                "id": "2",
+                "text": "Let the story read carefully"
+            },
+            {
+                "id": "3",
+                "text": "Let the story be read carefully"
+            },
+            {
+                "id": "4",
+                "text": "The story is read carefully"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "42",
+        "text": "The teacher said, \u201cHave you done your homework?\u201d Change into indirect speech.",
+        "options": [
+            {
+                "id": "1",
+                "text": "The teacher gave homework"
+            },
+            {
+                "id": "2",
+                "text": "The teacher told do homework"
+            },
+            {
+                "id": "3",
+                "text": "The teacher asked if I had done my homework"
+            },
+            {
+                "id": "4",
+                "text": "The teacher said if you had done homework"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "43",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "than"
+            },
+            {
+                "id": "2",
+                "text": "to"
+            },
+            {
+                "id": "3",
+                "text": "but"
+            },
+            {
+                "id": "4",
+                "text": "also"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "44",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "set up"
+            },
+            {
+                "id": "2",
+                "text": "step up"
+            },
+            {
+                "id": "3",
+                "text": "set aside"
+            },
+            {
+                "id": "4",
+                "text": "look through"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "45",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "are"
+            },
+            {
+                "id": "2",
+                "text": "were"
+            },
+            {
+                "id": "3",
+                "text": "is"
+            },
+            {
+                "id": "4",
+                "text": "aren't"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "46",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "a task master"
+            },
+            {
+                "id": "2",
+                "text": "the courage of lion"
+            },
+            {
+                "id": "3",
+                "text": "hard job"
+            },
+            {
+                "id": "4",
+                "text": "boastful talk"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "47",
+        "text": "Fill in the blank by choosing the appropriate answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "of"
+            },
+            {
+                "id": "2",
+                "text": "on"
+            },
+            {
+                "id": "3",
+                "text": "for"
+            },
+            {
+                "id": "4",
+                "text": "from"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "48",
+        "text": "Fill in the blanks by choosing the appropriate answers:",
+        "options": [
+            {
+                "id": "1",
+                "text": "like, with"
+            },
+            {
+                "id": "2",
+                "text": "prefer, to"
+            },
+            {
+                "id": "3",
+                "text": "prefer, for"
+            },
+            {
+                "id": "4",
+                "text": "prefer, with"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "49",
+        "text": "Light with wave length shorter than that of violet is called",
+        "options": [
+            {
+                "id": "1",
+                "text": "infrared"
+            },
+            {
+                "id": "2",
+                "text": "green"
+            },
+            {
+                "id": "3",
+                "text": "ultraviolet"
+            },
+            {
+                "id": "4",
+                "text": "blue"
+            }
+        ],
+        "correct": 2,
+        "section": "Science",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "50",
+        "text": "How are carbohydrates synthesized?",
+        "options": [
+            {
+                "id": "1",
+                "text": "By the energy radiated from the sun"
+            },
+            {
+                "id": "2",
+                "text": "From carbon dioxide and water"
+            },
+            {
+                "id": "3",
+                "text": "By the green leaves of the plants"
+            },
+            {
+                "id": "4",
+                "text": "By the process of oxidation"
+            }
+        ],
+        "correct": 1,
+        "section": "Science",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "51",
+        "text": "What is fusion reaction?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The process of combining two gases"
+            },
+            {
+                "id": "2",
+                "text": "The reaction in which hydrogen is converted to helium in the sun"
+            },
+            {
+                "id": "3",
+                "text": "The basis of nuclear reaction in the sun"
+            },
+            {
+                "id": "4",
+                "text": "The process of deuterium colliding with the hydrogen"
+            }
+        ],
+        "correct": 1,
+        "section": "Science",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "52",
+        "text": "What is the main idea of the first paragraph?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The sun is at the centre of our solar system"
+            },
+            {
+                "id": "2",
+                "text": "There is tremendous activity at the core of the sun"
+            },
+            {
+                "id": "3",
+                "text": "The sun sustains all life in our plane"
+            },
+            {
+                "id": "4",
+                "text": "The sun radiates lights of all wavelengths"
+            }
+        ],
+        "correct": 1,
+        "section": "Science",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "53",
+        "text": "What is deuterium?",
+        "options": [
+            {
+                "id": "1",
+                "text": "A particle found in the sun"
+            },
+            {
+                "id": "2",
+                "text": "An isotope of helium"
+            },
+            {
+                "id": "3",
+                "text": "Catalyst for nuclear reaction"
+            },
+            {
+                "id": "4",
+                "text": "A heavier isotope of hydrogen"
+            }
+        ],
+        "correct": 3,
+        "section": "Science",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "54",
+        "text": "What is the meaning of the word ridiculous?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Stupid"
+            },
+            {
+                "id": "2",
+                "text": "Super"
+            },
+            {
+                "id": "3",
+                "text": "Dangerous"
+            },
+            {
+                "id": "4",
+                "text": "Contemporary"
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "55",
+        "text": "What is not a walk of life?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Arts"
+            },
+            {
+                "id": "2",
+                "text": "Science"
+            },
+            {
+                "id": "3",
+                "text": "Engineering"
+            },
+            {
+                "id": "4",
+                "text": "Ill-educated"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "56",
+        "text": "What leads to dangerous consequences?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Ring of universal truth"
+            },
+            {
+                "id": "2",
+                "text": "Incomplete and superficial knowledge"
+            },
+            {
+                "id": "3",
+                "text": "Different walks of life"
+            },
+            {
+                "id": "4",
+                "text": "Ocean of knowledge"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "57",
+        "text": "Who will misguide?",
+        "options": [
+            {
+                "id": "1",
+                "text": "A professional"
+            },
+            {
+                "id": "2",
+                "text": "An ill-trained person"
+            },
+            {
+                "id": "3",
+                "text": "A child gathering pebbles"
+            },
+            {
+                "id": "4",
+                "text": "A trained person"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "58",
+        "text": "Who is a mere child gathering pebbles on the shore of the ocean of knowledge?",
+        "options": [
+            {
+                "id": "1",
+                "text": "A man of little learning"
+            },
+            {
+                "id": "2",
+                "text": "A really learned person"
+            },
+            {
+                "id": "3",
+                "text": "A conceited man"
+            },
+            {
+                "id": "4",
+                "text": "A person who is not proficient in his subject"
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "59",
+        "text": "Aristotle belonged to which country?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Istanbul"
+            },
+            {
+                "id": "2",
+                "text": "Greece"
+            },
+            {
+                "id": "3",
+                "text": "Egypt"
+            },
+            {
+                "id": "4",
+                "text": "Turkey"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "60",
+        "text": "What does put forward mean?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Propound"
+            },
+            {
+                "id": "2",
+                "text": "Profound"
+            },
+            {
+                "id": "3",
+                "text": "Discover"
+            },
+            {
+                "id": "4",
+                "text": "Deny"
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "61",
+        "text": "The Greeks found that the North star appeared lower in the sky ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "when viewed from the North pole"
+            },
+            {
+                "id": "2",
+                "text": "when they travelled"
+            },
+            {
+                "id": "3",
+                "text": "when viewed in the South"
+            },
+            {
+                "id": "4",
+                "text": "from the book \"on the heavens\""
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "62",
+        "text": "The North star appears to be directly above an observer ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "at the North pole"
+            },
+            {
+                "id": "2",
+                "text": "at the Equator"
+            },
+            {
+                "id": "3",
+                "text": "on the Horizon"
+            },
+            {
+                "id": "4",
+                "text": "at the South pole"
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "63",
+        "text": "The meaning of the word elongated is",
+        "options": [
+            {
+                "id": "1",
+                "text": "short and rectangular"
+            },
+            {
+                "id": "2",
+                "text": "square"
+            },
+            {
+                "id": "3",
+                "text": "long and thin"
+            },
+            {
+                "id": "4",
+                "text": "spherical"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "64",
+        "text": "Which of the following is not true about Hyperloop?",
+        "options": [
+            {
+                "id": "1",
+                "text": "It is lacking in investment"
+            },
+            {
+                "id": "2",
+                "text": "It is considerably faster than current rail or air travel"
+            },
+            {
+                "id": "3",
+                "text": "It is an open-source concept"
+            },
+            {
+                "id": "4",
+                "text": "It is a proposed mode of passenger and freight transportation"
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "65",
+        "text": "The Hyperloop Alpha concept proposed",
+        "options": [
+            {
+                "id": "1",
+                "text": "an open-source concept"
+            },
+            {
+                "id": "2",
+                "text": "the Hyperloop pod competition at SpaceX"
+            },
+            {
+                "id": "3",
+                "text": "that the Hyperloop would be several billion dollars over budget"
+            },
+            {
+                "id": "4",
+                "text": "a route running from the Los Angeles region to the San Francisco Bay Area"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "66",
+        "text": "Choose the in-correct sentence.",
+        "options": [
+            {
+                "id": "1",
+                "text": "The Hyperloop concept has been explicitly \"open-sourced\" by Musk and SpaceX"
+            },
+            {
+                "id": "2",
+                "text": "The Hyperloop Alpha concept was first published in August 2015"
+            },
+            {
+                "id": "3",
+                "text": "TUM Hyperloop set the world record of 463 km/h (288 mph) in July 2019"
+            },
+            {
+                "id": "4",
+                "text": "The Hyperloop is a proposed mode of passenger and freight transportation"
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "67",
+        "text": "\"Open-sourced\" implies that",
+        "options": [
+            {
+                "id": "1",
+                "text": "considerably faster than current rail or air travel"
+            },
+            {
+                "id": "2",
+                "text": "others are encouraged to take the ideas and further develop them"
+            },
+            {
+                "id": "3",
+                "text": "several billion dollars over budget"
+            },
+            {
+                "id": "4",
+                "text": "None of the above"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "68",
+        "text": "What did Virgin Hyperloop do in November 2020?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Won the pod competition at SpaceX"
+            },
+            {
+                "id": "2",
+                "text": "Set the world record of 463 km/h (288 mph)"
+            },
+            {
+                "id": "3",
+                "text": "Built an approximately 1-kilometer-long (0.62 mi) subscale track for its pod design"
+            },
+            {
+                "id": "4",
+                "text": "Conducted the first human trial"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "69",
+        "text": "If m = n^2 = 1 and 2n^2 = (2^n)^2 then 'm' in terms of 'n' is",
+        "options": [
+            {
+                "id": "1",
+                "text": "(n^2-1)^2"
+            },
+            {
+                "id": "2",
+                "text": "n^(2n-1)"
+            },
+            {
+                "id": "3",
+                "text": "n(1/n^2-1)"
+            },
+            {
+                "id": "4",
+                "text": "n^2(1/n^2-1)"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "70",
+        "text": "If 2^x = 4^y = 16^z and xyz = 1728, then 5x + 3y + 2z =",
+        "options": [
+            {
+                "id": "1",
+                "text": "84"
+            },
+            {
+                "id": "2",
+                "text": "168"
+            },
+            {
+                "id": "3",
+                "text": "47"
+            },
+            {
+                "id": "4",
+                "text": "94"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "71",
+        "text": "In a mixture of 48 litres of milk and water the ratio of milk and water is 5: 3. If 2 more litres of water is added to this mixture, then the ratio of milk to water in this new mixture is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2 : 1"
+            },
+            {
+                "id": "2",
+                "text": "4 : 3"
+            },
+            {
+                "id": "3",
+                "text": "5 : 4"
+            },
+            {
+                "id": "4",
+                "text": "3 : 2"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "72",
+        "text": "A bag with 200 coins consists of 10 rupee, 5 rupee and 2 rupee coins whose values are in the ratio 10 : 15 : 8. Then number of 5 rupees coins in the bag is",
+        "options": [
+            {
+                "id": "1",
+                "text": "75"
+            },
+            {
+                "id": "2",
+                "text": "80"
+            },
+            {
+                "id": "3",
+                "text": "84"
+            },
+            {
+                "id": "4",
+                "text": "74"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "73",
+        "text": "If Rs. 19,200 is divided between 'P', 'Q' and 'R' in such that for every rupee that 'P' has, 'Q' has 20 paise; and for every rupee that 'Q' has, 'R' has 40 paise, then the share of 'R' in rupees is",
+        "options": [
+            {
+                "id": "1",
+                "text": "720"
+            },
+            {
+                "id": "2",
+                "text": "1200"
+            },
+            {
+                "id": "3",
+                "text": "1620"
+            },
+            {
+                "id": "4",
+                "text": "6200"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "74",
+        "text": "sqrt(49 + sqrt(16 + 5)) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "sqrt(11)"
+            },
+            {
+                "id": "2",
+                "text": "sqrt(18)"
+            },
+            {
+                "id": "3",
+                "text": "sqrt(15)"
+            },
+            {
+                "id": "4",
+                "text": "sqrt(16)"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "75",
+        "text": "sqrt(2^2 + sqrt(10^2 + 625))",
+        "options": [
+            {
+                "id": "1",
+                "text": "sqrt(35)"
+            },
+            {
+                "id": "2",
+                "text": "sqrt(17)"
+            },
+            {
+                "id": "3",
+                "text": "sqrt(19)"
+            },
+            {
+                "id": "4",
+                "text": "sqrt(19)"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "76",
+        "text": "If x=sqrt(9) + sqrt(25) and y = sqrt(121) + sqrt(4), then",
+        "options": [
+            {
+                "id": "1",
+                "text": "x < y"
+            },
+            {
+                "id": "2",
+                "text": "x > y"
+            },
+            {
+                "id": "3",
+                "text": "x = y"
+            },
+            {
+                "id": "4",
+                "text": "x = 2y"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "77",
+        "text": "The number of zeros required to write the integers 1 to 200 (both inclusive) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "40"
+            },
+            {
+                "id": "2",
+                "text": "41"
+            },
+            {
+                "id": "3",
+                "text": "32"
+            },
+            {
+                "id": "4",
+                "text": "31"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "78",
+        "text": "The least 5 digit number that leaves the remainder 17 when divisible by 18, 24, 30 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "10035"
+            },
+            {
+                "id": "2",
+                "text": "10067"
+            },
+            {
+                "id": "3",
+                "text": "10075"
+            },
+            {
+                "id": "4",
+                "text": "10097"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "79",
+        "text": "A person spent 2/9 th of his salary on house rent, 2/5 th of the remaining amount on food, 1/3 rd of the remaining amount on miscellaneous and rest saved. If the amount spent on miscellaneous is Rs.13,300, then the amount he spent on house rent, in rupees is",
+        "options": [
+            {
+                "id": "1",
+                "text": "8500"
+            },
+            {
+                "id": "2",
+                "text": "9500"
+            },
+            {
+                "id": "3",
+                "text": "10500"
+            },
+            {
+                "id": "4",
+                "text": "11500"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "80",
+        "text": "If x : y : z = 3 : 4 : 5, then x/yz : y/zx : z/xy is",
+        "options": [
+            {
+                "id": "1",
+                "text": "12 : 20 : 15"
+            },
+            {
+                "id": "2",
+                "text": "20 : 15 : 12"
+            },
+            {
+                "id": "3",
+                "text": "9 : 16 : 25"
+            },
+            {
+                "id": "4",
+                "text": "25 : 16 : 9"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "81",
+        "text": "16[42-{35-(17-4-7)-5}-2] =",
+        "options": [
+            {
+                "id": "1",
+                "text": "320"
+            },
+            {
+                "id": "2",
+                "text": "400"
+            },
+            {
+                "id": "3",
+                "text": "480"
+            },
+            {
+                "id": "4",
+                "text": "496"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "82",
+        "text": "The ascending order of the fractions 97/103, 99/105, 101/108, 103/110 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "103/105 < 101/108 < 97/103 < 99/110"
+            },
+            {
+                "id": "2",
+                "text": "101/108 < 97/103 < 99/110 < 103/105"
+            },
+            {
+                "id": "3",
+                "text": "97/103 < 101/108 < 103/110 < 99/105"
+            },
+            {
+                "id": "4",
+                "text": "99/105 < 103/110 < 97/103 < 101/108"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "83",
+        "text": "If 33 1/3% of 'x' is 357, then x =",
+        "options": [
+            {
+                "id": "1",
+                "text": "15000 / 7"
+            },
+            {
+                "id": "2",
+                "text": "20000 / 7"
+            },
+            {
+                "id": "3",
+                "text": "25600 / 7"
+            },
+            {
+                "id": "4",
+                "text": "30000 / 7"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "84",
+        "text": "In an election between two candidates, one got 68% of votes and won by a difference of 3240 votes. If there are no invalid votes, then the total number of votes polled is",
+        "options": [
+            {
+                "id": "1",
+                "text": "9400"
+            },
+            {
+                "id": "2",
+                "text": "9000"
+            },
+            {
+                "id": "3",
+                "text": "8600"
+            },
+            {
+                "id": "4",
+                "text": "8800"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "85",
+        "text": "A man lost 12 1/2 % of his money in a business. After spending 70% of the remaining money, if he is left with Rs. 210, then the amount of money (in Rs.) he invested in that business is",
+        "options": [
+            {
+                "id": "1",
+                "text": "840"
+            },
+            {
+                "id": "2",
+                "text": "780"
+            },
+            {
+                "id": "3",
+                "text": "800"
+            },
+            {
+                "id": "4",
+                "text": "820"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "86",
+        "text": "By selling two articles for a sum of Rs 17,700 a dealer makes a profit of 15% on the first article and a loss of 15% on the second. On the whole if he gets a net loss of Rs. 300, then the cost price of the first article (in rupees) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "18,000"
+            },
+            {
+                "id": "2",
+                "text": "14,000"
+            },
+            {
+                "id": "3",
+                "text": "10,000"
+            },
+            {
+                "id": "4",
+                "text": "8,000"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "87",
+        "text": "Two successive profits of 10% and 5% are equal to a single profit of",
+        "options": [
+            {
+                "id": "1",
+                "text": "16 1/2 %"
+            },
+            {
+                "id": "2",
+                "text": "16%"
+            },
+            {
+                "id": "3",
+                "text": "15%"
+            },
+            {
+                "id": "4",
+                "text": "15 1/2 %"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "88",
+        "text": "A trader marks his goods at 25% above his cost price and allows a discount of 12.5%. Then the percentage of profit he makes is",
+        "options": [
+            {
+                "id": "1",
+                "text": "9 3/8 %"
+            },
+            {
+                "id": "2",
+                "text": "9 3/8 %"
+            },
+            {
+                "id": "3",
+                "text": "9 1/4 %"
+            },
+            {
+                "id": "4",
+                "text": "9 5/8 %"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "89",
+        "text": "Four persons 'P', 'Q', 'R', and 'S' entered into a partnership. 'P' subscribed 1/3 of the capital for 4 months, 'Q' subscribed 1/4 of the capital for 6 months, 'R' subscribed 1/6 of the capital for 8 months and 'S' the rest for 3 months. Then the share of 'S' out of a total profit of Rs. 1,18,000 at the end of the year (in Rs.) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "Rs. 12,000"
+            },
+            {
+                "id": "2",
+                "text": "Rs. 18,000"
+            },
+            {
+                "id": "3",
+                "text": "Rs. 15,000"
+            },
+            {
+                "id": "4",
+                "text": "Rs. 11,000"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "90",
+        "text": "'P' and 'Q' entered into a partnership with Rs. 20,00,000 and Rs 40,00,000 respectively. After four months, they invested Rs. 1,00,000 each in it. If the annual profit is Rs. 18,40,000, the difference between the shares of profits of 'P' and 'Q' (is Rs.) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "5,60,000"
+            },
+            {
+                "id": "2",
+                "text": "6,50,000"
+            },
+            {
+                "id": "3",
+                "text": "6,00,000"
+            },
+            {
+                "id": "4",
+                "text": "5,80,000"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    }
+]

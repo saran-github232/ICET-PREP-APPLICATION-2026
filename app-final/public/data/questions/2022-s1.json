@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "Find the value of (10)^200 \u00f7 (10)^196",
+        "options": [
+            {
+                "id": "1",
+                "text": "10000"
+            },
+            {
+                "id": "2",
+                "text": "1000"
+            },
+            {
+                "id": "3",
+                "text": "100"
+            },
+            {
+                "id": "4",
+                "text": "100000"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "2",
+        "text": "If a\u02e3 =b, b\u02b8 =c and xyz =1, then what is the value of c\u1dbb?",
+        "options": [
+            {
+                "id": "1",
+                "text": "a"
+            },
+            {
+                "id": "2",
+                "text": "b"
+            },
+            {
+                "id": "3",
+                "text": "ab"
+            },
+            {
+                "id": "4",
+                "text": "a/b"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "3",
+        "text": "If a:b=3: 5 and b: c = 4:7, then a : c = ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "11:35"
+            },
+            {
+                "id": "2",
+                "text": "35:11"
+            },
+            {
+                "id": "3",
+                "text": "35:12"
+            },
+            {
+                "id": "4",
+                "text": "12:35"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "4",
+        "text": "0.8a = 0.09b, \u21d2 a: b =?",
+        "options": [
+            {
+                "id": "1",
+                "text": "9:80"
+            },
+            {
+                "id": "2",
+                "text": "3:80"
+            },
+            {
+                "id": "3",
+                "text": "80:9"
+            },
+            {
+                "id": "4",
+                "text": "7:80"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "5",
+        "text": "A certain distance is covered at a certain speed. If half of this distance is covered in double the time, the ratio of the two speeds is",
+        "options": [
+            {
+                "id": "1",
+                "text": "4:1"
+            },
+            {
+                "id": "2",
+                "text": "1:4"
+            },
+            {
+                "id": "3",
+                "text": "2:1"
+            },
+            {
+                "id": "4",
+                "text": "1:2"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "6",
+        "text": "In a school, the ratio of boys and girls is 4:5. When 100 girls leave the school, the ratio becomes 6:7. How many boys are there in the school?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1800"
+            },
+            {
+                "id": "2",
+                "text": "1200"
+            },
+            {
+                "id": "3",
+                "text": "1000"
+            },
+            {
+                "id": "4",
+                "text": "1500"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "7",
+        "text": "The difference of two numbers is 1/9 of their sum. Their sum is 45. Find the LCM",
+        "options": [
+            {
+                "id": "1",
+                "text": "225"
+            },
+            {
+                "id": "2",
+                "text": "100"
+            },
+            {
+                "id": "3",
+                "text": "150"
+            },
+            {
+                "id": "4",
+                "text": "200"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "8",
+        "text": "Three bells chime at intervals of 48, 60 and 90 min, respectively. If all the three bells chime together at 10:00 am, at what time will all the three chime together again that day?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1:00pm"
+            },
+            {
+                "id": "2",
+                "text": "2:00pm"
+            },
+            {
+                "id": "3",
+                "text": "8:00pm"
+            },
+            {
+                "id": "4",
+                "text": "10:00pm"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "9",
+        "text": "If income of Radhika is 25% more than that of Aarthi, then income of Aarthi is how much percent less than that of Radhika?",
+        "options": [
+            {
+                "id": "1",
+                "text": "18%"
+            },
+            {
+                "id": "2",
+                "text": "21%"
+            },
+            {
+                "id": "3",
+                "text": "20%"
+            },
+            {
+                "id": "4",
+                "text": "24%"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "10",
+        "text": "The difference between 78% of a number and 59% of the same number is 323. What is 62% of that number?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1054"
+            },
+            {
+                "id": "2",
+                "text": "1178"
+            },
+            {
+                "id": "3",
+                "text": "1037"
+            },
+            {
+                "id": "4",
+                "text": "1159"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "11",
+        "text": "In an office, 40% of the staff is female. 40% of the female and 60% of the male voted for me. The percentage of votes I got was",
+        "options": [
+            {
+                "id": "1",
+                "text": "24%"
+            },
+            {
+                "id": "2",
+                "text": "42%"
+            },
+            {
+                "id": "3",
+                "text": "50%"
+            },
+            {
+                "id": "4",
+                "text": "52%"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "12",
+        "text": "If the cost price of 20 articles is equal to the selling price of 15 articles, find the profit percentage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "33 1/2%"
+            },
+            {
+                "id": "2",
+                "text": "33 1/3%"
+            },
+            {
+                "id": "3",
+                "text": "33 1/5%"
+            },
+            {
+                "id": "4",
+                "text": "33 1/7%"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "13",
+        "text": "In a basket of fruits, 60% are mangoes and remaining are apples. In that, 25% of the apples are green and the rest are red. Of the mangoes, 80% are red and the rest of the mangoes are green. What percentage of green fruits are green mangoes?",
+        "options": [
+            {
+                "id": "1",
+                "text": "54.5%"
+            },
+            {
+                "id": "2",
+                "text": "52.7%"
+            },
+            {
+                "id": "3",
+                "text": "55.9%"
+            },
+            {
+                "id": "4",
+                "text": "60%"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "14",
+        "text": "The sum of the digits of a two-digit number is 14 and the difference between the two digits of the number is 2. What is the product of the two digits of the two-digit number?",
+        "options": [
+            {
+                "id": "1",
+                "text": "56"
+            },
+            {
+                "id": "2",
+                "text": "48"
+            },
+            {
+                "id": "3",
+                "text": "45"
+            },
+            {
+                "id": "4",
+                "text": "58"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "15",
+        "text": "Which one of the following numbers is divisible by 11?",
+        "options": [
+            {
+                "id": "1",
+                "text": "45678940"
+            },
+            {
+                "id": "2",
+                "text": "54857266"
+            },
+            {
+                "id": "3",
+                "text": "87524398"
+            },
+            {
+                "id": "4",
+                "text": "93455120"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "16",
+        "text": "X and Y make a partnership. X invests Rs.8000 for 8 months and Y remains in the business for 4 months. Out of the total profit, Y claims 2/7 of the profit. How much money was contributed by Y?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Rs.5000"
+            },
+            {
+                "id": "2",
+                "text": "Rs.5400"
+            },
+            {
+                "id": "3",
+                "text": "Rs.7400"
+            },
+            {
+                "id": "4",
+                "text": "Rs.6400"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "17",
+        "text": "A and B together start a business by investing in the ratio of 4:3. If 9% of the total profit goes to charity and A's share is Rs. 1196, find the total profit.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Rs.2300"
+            },
+            {
+                "id": "2",
+                "text": "Rs.4435"
+            },
+            {
+                "id": "3",
+                "text": "Rs.2093"
+            },
+            {
+                "id": "4",
+                "text": "Rs.2700"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "18",
+        "text": "A certain number of men can do a piece of work in 80 days. If there were 10 men less, it could be finished in 20 days more. How many men are there in the starting?",
+        "options": [
+            {
+                "id": "1",
+                "text": "45"
+            },
+            {
+                "id": "2",
+                "text": "50"
+            },
+            {
+                "id": "3",
+                "text": "40"
+            },
+            {
+                "id": "4",
+                "text": "60"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "19",
+        "text": "A and B together can do a piece of work in 12 days, while B alone can complete it in 30 days. In how many days A alone can complete the work?",
+        "options": [
+            {
+                "id": "1",
+                "text": "15 days"
+            },
+            {
+                "id": "2",
+                "text": "18 days"
+            },
+            {
+                "id": "3",
+                "text": "20 days"
+            },
+            {
+                "id": "4",
+                "text": "22 days"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "20",
+        "text": "Two pipes A and B are opened together to fill a tank. Both the pipes fill the tank in time 't'. If A separately takes 4 minutes more time than 't' to fill the tank and B takes 64 minutes more time than t to fill the tank, find the value of 't'?",
+        "options": [
+            {
+                "id": "1",
+                "text": "16"
+            },
+            {
+                "id": "2",
+                "text": "20"
+            },
+            {
+                "id": "3",
+                "text": "24"
+            },
+            {
+                "id": "4",
+                "text": "28"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "21",
+        "text": "A full tank gets emptied in 6 minutes due to presence of a hole in it. On opening a tap which can fill the tank at the rate of 8 L/min, the tank gets emptied in 10 minutes. Find the capacity of tank?",
+        "options": [
+            {
+                "id": "1",
+                "text": "100 L"
+            },
+            {
+                "id": "2",
+                "text": "120 L"
+            },
+            {
+                "id": "3",
+                "text": "130 L"
+            },
+            {
+                "id": "4",
+                "text": "150 L"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "22",
+        "text": "A bus is running with a uniform speed of 37 km/h. what distance will be covered by bus in 8 hours?",
+        "options": [
+            {
+                "id": "1",
+                "text": "246 km"
+            },
+            {
+                "id": "2",
+                "text": "289 km"
+            },
+            {
+                "id": "3",
+                "text": "296 km"
+            },
+            {
+                "id": "4",
+                "text": "276 km"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "23",
+        "text": "Two persons are moving in the directions opposite to each other. The speeds of both the persons are 5 km/h and 3 km/h, respectively. Find the relative speed of the two persons in respect of each other?",
+        "options": [
+            {
+                "id": "1",
+                "text": "8 km/h"
+            },
+            {
+                "id": "2",
+                "text": "10 km/h"
+            },
+            {
+                "id": "3",
+                "text": "18 km/h"
+            },
+            {
+                "id": "4",
+                "text": "2 km/h"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "24",
+        "text": "The surface area of a cuboid with 10 m long, 5 m broad and 3 m high is",
+        "options": [
+            {
+                "id": "1",
+                "text": "105 sq m"
+            },
+            {
+                "id": "2",
+                "text": "104 sq m"
+            },
+            {
+                "id": "3",
+                "text": "170 sq m"
+            },
+            {
+                "id": "4",
+                "text": "190 sq m"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "25",
+        "text": "What is the height of a solid cylinder of radius 5 cm and total surface area is 660 sq cm?",
+        "options": [
+            {
+                "id": "1",
+                "text": "10 cm"
+            },
+            {
+                "id": "2",
+                "text": "12 cm"
+            },
+            {
+                "id": "3",
+                "text": "15 cm"
+            },
+            {
+                "id": "4",
+                "text": "16 cm"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "26",
+        "text": "Shantanu's cap is in the form of a right circular cone of base radius 7 cm and height 24 cm. Find the area of the cloth required to make a 5 such caps?",
+        "options": [
+            {
+                "id": "1",
+                "text": "5000 Sq. Cm."
+            },
+            {
+                "id": "2",
+                "text": "2750 Sq. Cm."
+            },
+            {
+                "id": "3",
+                "text": "3000 Sq. Cm."
+            },
+            {
+                "id": "4",
+                "text": "2700 Sq. Cm."
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "27",
+        "text": "Find the area of a square inscribed in a circle of radius 4 cm?",
+        "options": [
+            {
+                "id": "1",
+                "text": "32 sq cm"
+            },
+            {
+                "id": "2",
+                "text": "18 sq cm"
+            },
+            {
+                "id": "3",
+                "text": "56 sq cm"
+            },
+            {
+                "id": "4",
+                "text": "25 sq cm"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "28",
+        "text": "The sum of the squares of the sides of a rhombus is 1600 cm\u00b2. What is the side of the rhombus?",
+        "options": [
+            {
+                "id": "1",
+                "text": "30 cm"
+            },
+            {
+                "id": "2",
+                "text": "20 cm"
+            },
+            {
+                "id": "3",
+                "text": "40 cm"
+            },
+            {
+                "id": "4",
+                "text": "25 cm"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "29",
+        "text": "The average of five consecutive even numbers is 28. Which is the biggest of those five numbers?",
+        "options": [
+            {
+                "id": "1",
+                "text": "28"
+            },
+            {
+                "id": "2",
+                "text": "26"
+            },
+            {
+                "id": "3",
+                "text": "32"
+            },
+            {
+                "id": "4",
+                "text": "30"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "30",
+        "text": "Naseer spends 15% of his salary on clothes, 30% on food and 10% on transport. After this, if he is left with Rs.900, what is his salary?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Rs. 2000"
+            },
+            {
+                "id": "2",
+                "text": "Rs. 1500"
+            },
+            {
+                "id": "3",
+                "text": "Rs.1700"
+            },
+            {
+                "id": "4",
+                "text": "Rs. 1635"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "31",
+        "text": "49% of 490 + 490% of 49 =?",
+        "options": [
+            {
+                "id": "1",
+                "text": "2641.1"
+            },
+            {
+                "id": "2",
+                "text": "240.1"
+            },
+            {
+                "id": "3",
+                "text": "2401"
+            },
+            {
+                "id": "4",
+                "text": "480.2"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "32",
+        "text": "\u221a0.0049 + (0.02)\u00b2 = ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "0.07"
+            },
+            {
+                "id": "2",
+                "text": "0.0704"
+            },
+            {
+                "id": "3",
+                "text": "0.0074"
+            },
+            {
+                "id": "4",
+                "text": "0.07045"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "33",
+        "text": "In a school, all the students can stand in a row, so that each row has 5, 9 or 10 students. Find the least number of students in the school",
+        "options": [
+            {
+                "id": "1",
+                "text": "90"
+            },
+            {
+                "id": "2",
+                "text": "95"
+            },
+            {
+                "id": "3",
+                "text": "85"
+            },
+            {
+                "id": "4",
+                "text": "100"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "34",
+        "text": "\u221a80+ 3\u221a245 - \u221a125=?",
+        "options": [
+            {
+                "id": "1",
+                "text": "20\u221a5"
+            },
+            {
+                "id": "2",
+                "text": "3\u221a24"
+            },
+            {
+                "id": "3",
+                "text": "4\u221a27"
+            },
+            {
+                "id": "4",
+                "text": "3\u221a45"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "35",
+        "text": "Which of the following represents tautology ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "~p \u21d2 ~q"
+            },
+            {
+                "id": "2",
+                "text": "p\u039b(~p\u039bq)"
+            },
+            {
+                "id": "3",
+                "text": "(p \u21d2 q)\u039b(p \u21d2 q)"
+            },
+            {
+                "id": "4",
+                "text": "[p\u039b(p \u21d2 q)] \u21d2 q"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebra and Geometry",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "36",
+        "text": "The point of intersection of the line 5x+3y-7=0 and 3x-2y-8=0 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "(-2,1)"
+            },
+            {
+                "id": "2",
+                "text": "(2,-1)"
+            },
+            {
+                "id": "3",
+                "text": "(2,1)"
+            },
+            {
+                "id": "4",
+                "text": "(-2,-1)"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebra and Geometry",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "37",
+        "text": "If tan\u03b8 + cot\u03b8 = 2, then tan\u2074\u03b8 + cot\u2074\u03b8 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "4"
+            },
+            {
+                "id": "2",
+                "text": "16"
+            },
+            {
+                "id": "3",
+                "text": "8"
+            },
+            {
+                "id": "4",
+                "text": "2"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebra and Geometry",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "38",
+        "text": "A pole is 100\u221a3 m tall. Two boys who are on either sides of the pole observed the top of the pole with angles of elevation of 30\u00b0 and 60\u00b0 respectively. What is the distance between the boys (in meters)?",
+        "options": [
+            {
+                "id": "1",
+                "text": "300"
+            },
+            {
+                "id": "2",
+                "text": "400"
+            },
+            {
+                "id": "3",
+                "text": "100"
+            },
+            {
+                "id": "4",
+                "text": "200"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebra and Geometry",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "39",
+        "text": "if A=[[1, k], [0, 1]], then A* =",
+        "options": [
+            {
+                "id": "1",
+                "text": "[[1, k*], [0, 1]]"
+            },
+            {
+                "id": "2",
+                "text": "[[1, k\u00b2], [0, 1]]"
+            },
+            {
+                "id": "3",
+                "text": "[[1, 2k], [0, 1]]"
+            },
+            {
+                "id": "4",
+                "text": "[[1, k], [0, 1]]"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebra and Geometry",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "40",
+        "text": "If nC\u2084=nC\u2083, then, 3nC\u2082=",
+        "options": [
+            {
+                "id": "1",
+                "text": "681"
+            },
+            {
+                "id": "2",
+                "text": "781"
+            },
+            {
+                "id": "3",
+                "text": "641"
+            },
+            {
+                "id": "4",
+                "text": "741"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebra and Geometry",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "41",
+        "text": "Let tn denotes the nth term of an arithmetic progression. If 15t15=10t10, then t25=?",
+        "options": [
+            {
+                "id": "1",
+                "text": "12"
+            },
+            {
+                "id": "2",
+                "text": "5"
+            },
+            {
+                "id": "3",
+                "text": "18"
+            },
+            {
+                "id": "4",
+                "text": "0"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebra and Geometry",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "42",
+        "text": "The ratio of radii of the bases of two cylinders is 3:5 and the ratio of their volumes is 6:25. What is the ratio of their heights?",
+        "options": [
+            {
+                "id": "1",
+                "text": "2:3"
+            },
+            {
+                "id": "2",
+                "text": "3:4"
+            },
+            {
+                "id": "3",
+                "text": "3:2"
+            },
+            {
+                "id": "4",
+                "text": "4:3"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebra and Geometry",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "43",
+        "text": "R\u2081 and R\u2082 are two equivalence relations defined on set A, then what is R\u2081 U R\u2082?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Reflexive, symmetric but not transitive"
+            },
+            {
+                "id": "2",
+                "text": "Reflexive, transitive but not symmetric"
+            },
+            {
+                "id": "3",
+                "text": "Transitive, symmetric but not reflexive"
+            },
+            {
+                "id": "4",
+                "text": "Reflexive, symmetric and transitive"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebra and Geometry",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "44",
+        "text": "lim (2x - \u221a4x\u00b2 + x) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "-4"
+            },
+            {
+                "id": "2",
+                "text": "-1/4"
+            },
+            {
+                "id": "3",
+                "text": "1/4"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Calculus",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "45",
+        "text": "If the average of 3, 5, 15, 18, x, and 25 is 12, then x=",
+        "options": [
+            {
+                "id": "1",
+                "text": "5"
+            },
+            {
+                "id": "2",
+                "text": "7"
+            },
+            {
+                "id": "3",
+                "text": "6"
+            },
+            {
+                "id": "4",
+                "text": "8"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "46",
+        "text": "The standard deviation of P\u2081, P\u2082,.......P\u2099 is a, then the standard deviation of -5p\u2081, -5p\u2082, -5p\u2099 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "- 5a"
+            },
+            {
+                "id": "2",
+                "text": "a-5"
+            },
+            {
+                "id": "3",
+                "text": "5+a"
+            },
+            {
+                "id": "4",
+                "text": "5a"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "47",
+        "text": "The median of 2, 3, 7, 8, 15, 18, 20 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "7"
+            },
+            {
+                "id": "2",
+                "text": "8"
+            },
+            {
+                "id": "3",
+                "text": "15"
+            },
+            {
+                "id": "4",
+                "text": "10"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "48",
+        "text": "Find the mean deviation of 22, 28, 31, 35, 44 from their mean?",
+        "options": [
+            {
+                "id": "1",
+                "text": "5.5"
+            },
+            {
+                "id": "2",
+                "text": "6.2"
+            },
+            {
+                "id": "3",
+                "text": "6"
+            },
+            {
+                "id": "4",
+                "text": "5"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "49",
+        "text": "The arithmetic mean and the geometric mean of two numbers are 100 and 60 respectively. Find the harmonic mean of the two numbers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "24"
+            },
+            {
+                "id": "2",
+                "text": "28"
+            },
+            {
+                "id": "3",
+                "text": "36"
+            },
+            {
+                "id": "4",
+                "text": "32"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "50",
+        "text": "The variance of 28, 24, 20, 16, 12 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "32"
+            },
+            {
+                "id": "2",
+                "text": "24"
+            },
+            {
+                "id": "3",
+                "text": "16\u221a2"
+            },
+            {
+                "id": "4",
+                "text": "30"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "51",
+        "text": "Two unbiased dice are rolled simultaneously. The probability of getting the sum is a multiple of 4 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/2"
+            },
+            {
+                "id": "2",
+                "text": "1/4"
+            },
+            {
+                "id": "3",
+                "text": "2/9"
+            },
+            {
+                "id": "4",
+                "text": "3/8"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "52",
+        "text": "What is the probability that a ball drawn at random from a box having 6 blue, 3 brown and 5 white balls is either brown or white?",
+        "options": [
+            {
+                "id": "1",
+                "text": "4/7"
+            },
+            {
+                "id": "2",
+                "text": "3/4"
+            },
+            {
+                "id": "3",
+                "text": "5/8"
+            },
+            {
+                "id": "4",
+                "text": "1/2"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "53",
+        "text": "A number is chosen at random from natural numbers 1 to 50. The probability of getting a non composite number is",
+        "options": [
+            {
+                "id": "1",
+                "text": "3/5"
+            },
+            {
+                "id": "2",
+                "text": "3/10"
+            },
+            {
+                "id": "3",
+                "text": "2/5"
+            },
+            {
+                "id": "4",
+                "text": "8/25"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "54",
+        "text": "When three dice are rolled, the probability of getting a sum of 5 or more than 5 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "57/58"
+            },
+            {
+                "id": "2",
+                "text": "53/54"
+            },
+            {
+                "id": "3",
+                "text": "42/49"
+            },
+            {
+                "id": "4",
+                "text": "22/29"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "55",
+        "text": "What is the length of the train A?",
+        "options": [
+            {
+                "id": "1",
+                "text": "A passes a pole in 10 sec."
+            },
+            {
+                "id": "2",
+                "text": "A passes a man standing on a platform in 1/6 of a minute."
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 4,
+        "section": "Data Sufficiency",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "56",
+        "text": "What is the ratio a : b : c ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "A2+b2 = 4ab"
+            },
+            {
+                "id": "2",
+                "text": "a2+5b2+4c2 = 4b(a+c)"
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 4,
+        "section": "Data Sufficiency",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "57",
+        "text": "Is x a prime number?",
+        "options": [
+            {
+                "id": "1",
+                "text": "x leaves remainder 2 when divided by 4."
+            },
+            {
+                "id": "2",
+                "text": "x leaves remainder 3 when divided by 5."
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 4,
+        "section": "Data Sufficiency",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "58",
+        "text": "What is the area of the circle?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The circle passes through 4 vertices of a square."
+            },
+            {
+                "id": "2",
+                "text": "The circle is inscribed in a square of side 10 cm."
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 3,
+        "section": "Data Sufficiency",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "59",
+        "text": "Who is more efficient among two persons A and B?",
+        "options": [
+            {
+                "id": "1",
+                "text": "A and B together can complete a job in 10 days."
+            },
+            {
+                "id": "2",
+                "text": "A alone can complete the job in 15 days."
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 3,
+        "section": "Data Sufficiency",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "60",
+        "text": "If x, y, z \u2208 R and z \u2260 0, then, what is the value of xy/z^2?",
+        "options": [
+            {
+                "id": "1",
+                "text": "x = y"
+            },
+            {
+                "id": "2",
+                "text": "x^2 + y^2 = 0"
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 4,
+        "section": "Data Sufficiency",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "61",
+        "text": "15 men can plough a field of 36 acres in 6 days. What is the area that can be ploughed by 25 men?",
+        "options": [
+            {
+                "id": "1",
+                "text": "25 men work for 12 days"
+            },
+            {
+                "id": "2",
+                "text": "Each man works for 8 hours in a day."
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 4,
+        "section": "Data Sufficiency",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "62",
+        "text": "What is the smallest number that should be subtracted from N to make it perfect square?",
+        "options": [
+            {
+                "id": "1",
+                "text": "4000 < N < 5000"
+            },
+            {
+                "id": "2",
+                "text": "N = 4628"
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 4,
+        "section": "Data Sufficiency",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "63",
+        "text": "What is the area of the circle?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The circle passes through 4 vertices of a square."
+            },
+            {
+                "id": "2",
+                "text": "The circle is inscribed in a square of side 10 cm."
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 3,
+        "section": "Data Sufficiency",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "64",
+        "text": "What is the area of the circle?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The circle passes through 4 vertices of a square."
+            },
+            {
+                "id": "2",
+                "text": "The circle is inscribed in a square of side 10 cm."
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 3,
+        "section": "Data Sufficiency",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "65",
+        "text": "Among the real numbers a and b, is a greater than b?",
+        "options": [
+            {
+                "id": "1",
+                "text": "a^2 > b^2"
+            },
+            {
+                "id": "2",
+                "text": "a/b = 3/5"
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 4,
+        "section": "Data Sufficiency",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "66",
+        "text": "Is the integer 'a' even?",
+        "options": [
+            {
+                "id": "1",
+                "text": "8a is an even integer."
+            },
+            {
+                "id": "2",
+                "text": "9a is an odd integer."
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 4,
+        "section": "Data Sufficiency",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "67",
+        "text": "What is the slope of the straight line?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The straight line passes through the origin and the point (3,2)"
+            },
+            {
+                "id": "2",
+                "text": "The straight line passes through (-3, -2)."
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 4,
+        "section": "Data Sufficiency",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "68",
+        "text": "How many items are sold in the shop?",
+        "options": [
+            {
+                "id": "1",
+                "text": "A shop keeper sells each of the items at Rs. 50/-."
+            },
+            {
+                "id": "2",
+                "text": "The shop keeper gets a profit of Rs.1000/- for his investment of Rs.4000/-."
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 4,
+        "section": "Data Sufficiency",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "69",
+        "text": "Is x = 0 ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The arithmetic mean of x, y, z, t is 6."
+            },
+            {
+                "id": "2",
+                "text": "The arithmetic mean of y, z, t is 8."
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 4,
+        "section": "Data Sufficiency",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "70",
+        "text": "Is n divisible by 720?",
+        "options": [
+            {
+                "id": "1",
+                "text": "n is divisible by 48 and 15."
+            },
+            {
+                "id": "2",
+                "text": "n=b(b+1)(b+2)(b+3)(b+4)(b+5) for some positive integer b."
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 4,
+        "section": "Data Sufficiency",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "71",
+        "text": "What is the total depreciation in the cost of the house at the end of 4 years?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Rate of depreciation of the house is 10% per annum."
+            },
+            {
+                "id": "2",
+                "text": "Area of the house is 1000 sq.m."
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 4,
+        "section": "Data Sufficiency",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "72",
+        "text": "What are the three numbers in geometric progression?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Product of numbers = 1000"
+            },
+            {
+                "id": "2",
+                "text": "The three numbers are even."
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 4,
+        "section": "Data Sufficiency",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "73",
+        "text": "What is the remainder obtained when n is divided by 10?",
+        "options": [
+            {
+                "id": "1",
+                "text": "n=6^k, k is an integer >= 1."
+            },
+            {
+                "id": "2",
+                "text": "n=6^k, k is a real number."
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 4,
+        "section": "Data Sufficiency",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "74",
+        "text": "What is the number of divisors of n?",
+        "options": [
+            {
+                "id": "1",
+                "text": "n = p^5 . q^4, p,q are distinct primes."
+            },
+            {
+                "id": "2",
+                "text": "n is divisible by only two distinct primes."
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 4,
+        "section": "Data Sufficiency",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "75",
+        "text": "What is the area of the circle?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Circumference of the circle is a*pi units and the area of the circle is b*pi sq.units."
+            },
+            {
+                "id": "2",
+                "text": "a = b"
+            },
+            {
+                "id": "3",
+                "text": "Both statements I and II together are sufficient to answer the question."
+            },
+            {
+                "id": "4",
+                "text": "Both statements I and II together are not sufficient to answer the question."
+            }
+        ],
+        "correct": 4,
+        "section": "Data Sufficiency",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "76",
+        "text": "DRUM : IWZR :: : GQNSi",
+        "options": [
+            {
+                "id": "1",
+                "text": "BLIND"
+            },
+            {
+                "id": "2",
+                "text": "BLINK"
+            },
+            {
+                "id": "3",
+                "text": "BRAVE"
+            },
+            {
+                "id": "4",
+                "text": "BRAKE"
+            }
+        ],
+        "correct": 1,
+        "section": "Analogies",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "77",
+        "text": "ARC : DOF :: ALI : ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "DOL"
+            },
+            {
+                "id": "2",
+                "text": "DIF"
+            },
+            {
+                "id": "3",
+                "text": "DOF"
+            },
+            {
+                "id": "4",
+                "text": "DIL"
+            }
+        ],
+        "correct": 4,
+        "section": "Analogies",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "78",
+        "text": "Tiger : Goat :: ______ : Herbivore",
+        "options": [
+            {
+                "id": "1",
+                "text": "Carnivore"
+            },
+            {
+                "id": "2",
+                "text": "Omnivore"
+            },
+            {
+                "id": "3",
+                "text": "Parasite"
+            },
+            {
+                "id": "4",
+                "text": "Insectivore"
+            }
+        ],
+        "correct": 1,
+        "section": "Analogies",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "79",
+        "text": "I : 18 :: : 13",
+        "options": [
+            {
+                "id": "1",
+                "text": "L"
+            },
+            {
+                "id": "2",
+                "text": "N"
+            },
+            {
+                "id": "3",
+                "text": "M"
+            },
+            {
+                "id": "4",
+                "text": "O"
+            }
+        ],
+        "correct": 2,
+        "section": "Missing Numbers/Terms",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "80",
+        "text": "12 : 1728 :: ____ : 2744",
+        "options": [
+            {
+                "id": "1",
+                "text": "13"
+            },
+            {
+                "id": "2",
+                "text": "15"
+            },
+            {
+                "id": "3",
+                "text": "14"
+            },
+            {
+                "id": "4",
+                "text": "16"
+            }
+        ],
+        "correct": 3,
+        "section": "Missing Numbers/Terms",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "81",
+        "text": "Pick up the odd thing out in the following options and mark its number as your answer for the question:",
+        "options": [
+            {
+                "id": "1",
+                "text": "30"
+            },
+            {
+                "id": "2",
+                "text": "60"
+            },
+            {
+                "id": "3",
+                "text": "90"
+            },
+            {
+                "id": "4",
+                "text": "150"
+            }
+        ],
+        "correct": 4,
+        "section": "Odd thing out",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "82",
+        "text": "Pick up the odd thing out in the following options and mark its number as your answer for the question:",
+        "options": [
+            {
+                "id": "1",
+                "text": "PELICAN"
+            },
+            {
+                "id": "2",
+                "text": "PENGUIN"
+            },
+            {
+                "id": "3",
+                "text": "SEAGULL"
+            },
+            {
+                "id": "4",
+                "text": "HUMMING BIRD"
+            }
+        ],
+        "correct": 4,
+        "section": "Odd thing out",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "83",
+        "text": "Pick up the odd thing out in the following options and mark its number as your answer for the question:",
+        "options": [
+            {
+                "id": "1",
+                "text": "x^2+y^2+xy"
+            },
+            {
+                "id": "2",
+                "text": "x^3+y^3+x^2y"
+            },
+            {
+                "id": "3",
+                "text": "x^2+y^2+x"
+            },
+            {
+                "id": "4",
+                "text": "x^4+y^4+x^2y^2"
+            }
+        ],
+        "correct": 3,
+        "section": "Odd thing out",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "84",
+        "text": "Pick up the odd thing out in the following options and mark its number as your answer for the question:",
+        "options": [
+            {
+                "id": "1",
+                "text": "1427"
+            },
+            {
+                "id": "2",
+                "text": "97"
+            },
+            {
+                "id": "3",
+                "text": "1649"
+            },
+            {
+                "id": "4",
+                "text": "67"
+            }
+        ],
+        "correct": 3,
+        "section": "Odd thing out",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "85",
+        "text": "(3,4,5), (5,12,13), (6,8,10), (7,24,25), (17,144,145), (48,55,73), ____, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "(20, 27, 28)"
+            },
+            {
+                "id": "2",
+                "text": "(20, 99, 101)"
+            },
+            {
+                "id": "3",
+                "text": "(20, 25, 29)"
+            },
+            {
+                "id": "4",
+                "text": "(20, 30, 40)"
+            }
+        ],
+        "correct": 2,
+        "section": "Missing Numbers/Terms",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "86",
+        "text": "(0,0), (pi/6, sqrt(3)/3), (pi/3, sqrt(3)/2), (pi/2, infinity), (2pi/3, -sqrt(3)/), ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "(5pi/6, -1/sqrt(3))"
+            },
+            {
+                "id": "2",
+                "text": "(5pi/6, -sqrt(3))"
+            },
+            {
+                "id": "3",
+                "text": "(5pi/6, -sqrt(2))"
+            },
+            {
+                "id": "4",
+                "text": "(5pi/6, 1/sqrt(2))"
+            }
+        ],
+        "correct": 1,
+        "section": "Missing Numbers/Terms",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "87",
+        "text": "2, 26, 242, ______, 19682",
+        "options": [
+            {
+                "id": "1",
+                "text": "2186"
+            },
+            {
+                "id": "2",
+                "text": "1266"
+            },
+            {
+                "id": "3",
+                "text": "986"
+            },
+            {
+                "id": "4",
+                "text": "1356"
+            }
+        ],
+        "correct": 1,
+        "section": "Missing Numbers/Terms",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "88",
+        "text": "2, 10, 30, 68, 130, ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "226"
+            },
+            {
+                "id": "2",
+                "text": "196"
+            },
+            {
+                "id": "3",
+                "text": "222"
+            },
+            {
+                "id": "4",
+                "text": "210"
+            }
+        ],
+        "correct": 3,
+        "section": "Missing Numbers/Terms",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "89",
+        "text": "35, 106, 319, 958, ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "2845"
+            },
+            {
+                "id": "2",
+                "text": "2855"
+            },
+            {
+                "id": "3",
+                "text": "2865"
+            },
+            {
+                "id": "4",
+                "text": "2875"
+            }
+        ],
+        "correct": 4,
+        "section": "Missing Numbers/Terms",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "90",
+        "text": "42, 56, 72, 90, 110, ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "110"
+            },
+            {
+                "id": "2",
+                "text": "120"
+            },
+            {
+                "id": "3",
+                "text": "132"
+            },
+            {
+                "id": "4",
+                "text": "140"
+            }
+        ],
+        "correct": 3,
+        "section": "Missing Numbers/Terms",
+        "correctAnswer": "4"
+    }
+]

@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "2, 3, 5, 10, 18, 33, ____, 112, 206, 379",
+        "options": [
+            {
+                "id": "1",
+                "text": "60"
+            },
+            {
+                "id": "2",
+                "text": "61"
+            },
+            {
+                "id": "3",
+                "text": "62"
+            },
+            {
+                "id": "4",
+                "text": "63"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "2",
+        "text": "1, 5, 14, 30, 55, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "80"
+            },
+            {
+                "id": "2",
+                "text": "85"
+            },
+            {
+                "id": "3",
+                "text": "90"
+            },
+            {
+                "id": "4",
+                "text": "91"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "3",
+        "text": "105, 115, 130, 150, ____, 175",
+        "options": [
+            {
+                "id": "1",
+                "text": "190"
+            },
+            {
+                "id": "2",
+                "text": "195"
+            },
+            {
+                "id": "3",
+                "text": "200"
+            },
+            {
+                "id": "4",
+                "text": "205"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "4",
+        "text": "8, 24, 12, 36, 18, 54, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "108"
+            },
+            {
+                "id": "2",
+                "text": "162"
+            },
+            {
+                "id": "3",
+                "text": "27"
+            },
+            {
+                "id": "4",
+                "text": "81"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "5",
+        "text": "64, 512, 4096, ____, 262144",
+        "options": [
+            {
+                "id": "1",
+                "text": "32766"
+            },
+            {
+                "id": "2",
+                "text": "32864"
+            },
+            {
+                "id": "3",
+                "text": "32768"
+            },
+            {
+                "id": "4",
+                "text": "32782"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "6",
+        "text": "101, 103, 107, 109, ____, 127, 131, 137",
+        "options": [
+            {
+                "id": "1",
+                "text": "113"
+            },
+            {
+                "id": "2",
+                "text": "117"
+            },
+            {
+                "id": "3",
+                "text": "119"
+            },
+            {
+                "id": "4",
+                "text": "123"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "7",
+        "text": "1, 9, 36, 100, ____, 441, 784",
+        "options": [
+            {
+                "id": "1",
+                "text": "121"
+            },
+            {
+                "id": "2",
+                "text": "144"
+            },
+            {
+                "id": "3",
+                "text": "169"
+            },
+            {
+                "id": "4",
+                "text": "225"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "8",
+        "text": "(\u03c0 1 \u221a3 / 6 2 2) * (\u03c0 \u221a3 1 / 3 2 2) * (\u03c0 / 2, 1, 0) ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "(2\u03c0 - \u221a3 - 1 / 3, 2, 2)"
+            },
+            {
+                "id": "2",
+                "text": "(2\u03c0 - 1 - \u221a3 / 3, 2, 2)"
+            },
+            {
+                "id": "3",
+                "text": "(2\u03c0 \u221a3 1 / 3, 2, 2)"
+            },
+            {
+                "id": "4",
+                "text": "(2\u03c0 \u221a3 - 1 / 3, 2, 2)"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "9",
+        "text": "(4, 3), (7, 2), (10, 4), (13, 2), ____, (19, 2)",
+        "options": [
+            {
+                "id": "1",
+                "text": "(16, 3)"
+            },
+            {
+                "id": "2",
+                "text": "(16, 2)"
+            },
+            {
+                "id": "3",
+                "text": "(16, 4)"
+            },
+            {
+                "id": "4",
+                "text": "(16, 5)"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "10",
+        "text": "6, 10, 8, 12, 10, 14, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "16"
+            },
+            {
+                "id": "2",
+                "text": "12"
+            },
+            {
+                "id": "3",
+                "text": "14"
+            },
+            {
+                "id": "4",
+                "text": "10"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "11",
+        "text": "6/9, 11/14, 27/30, ____, 123/126, 171/174",
+        "options": [
+            {
+                "id": "1",
+                "text": "83/86"
+            },
+            {
+                "id": "2",
+                "text": "102/105"
+            },
+            {
+                "id": "3",
+                "text": "38/41"
+            },
+            {
+                "id": "4",
+                "text": "51/54"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "12",
+        "text": "2, 3, 5, 10, 18, 33, ____, 112, 206, 379",
+        "options": [
+            {
+                "id": "1",
+                "text": "60"
+            },
+            {
+                "id": "2",
+                "text": "61"
+            },
+            {
+                "id": "3",
+                "text": "62"
+            },
+            {
+                "id": "4",
+                "text": "63"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "13",
+        "text": "1, 5, 14, 30, 55, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "80"
+            },
+            {
+                "id": "2",
+                "text": "85"
+            },
+            {
+                "id": "3",
+                "text": "90"
+            },
+            {
+                "id": "4",
+                "text": "91"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "14",
+        "text": "105, 115, 130, 150, ____, 175",
+        "options": [
+            {
+                "id": "1",
+                "text": "190"
+            },
+            {
+                "id": "2",
+                "text": "195"
+            },
+            {
+                "id": "3",
+                "text": "200"
+            },
+            {
+                "id": "4",
+                "text": "205"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "15",
+        "text": "8, 24, 12, 36, 18, 54, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "108"
+            },
+            {
+                "id": "2",
+                "text": "162"
+            },
+            {
+                "id": "3",
+                "text": "27"
+            },
+            {
+                "id": "4",
+                "text": "81"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "16",
+        "text": "64, 512, 4096, ____, 262144",
+        "options": [
+            {
+                "id": "1",
+                "text": "32766"
+            },
+            {
+                "id": "2",
+                "text": "32864"
+            },
+            {
+                "id": "3",
+                "text": "32768"
+            },
+            {
+                "id": "4",
+                "text": "32782"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "17",
+        "text": "101, 103, 107, 109, ____, 127, 131, 137",
+        "options": [
+            {
+                "id": "1",
+                "text": "113"
+            },
+            {
+                "id": "2",
+                "text": "117"
+            },
+            {
+                "id": "3",
+                "text": "119"
+            },
+            {
+                "id": "4",
+                "text": "123"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "18",
+        "text": "1, 9, 36, 100, ____, 441, 784",
+        "options": [
+            {
+                "id": "1",
+                "text": "121"
+            },
+            {
+                "id": "2",
+                "text": "144"
+            },
+            {
+                "id": "3",
+                "text": "169"
+            },
+            {
+                "id": "4",
+                "text": "225"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "19",
+        "text": "The percentage increase in wheat production of China in the year 2021 when compared to 2019 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "30"
+            },
+            {
+                "id": "2",
+                "text": "25"
+            },
+            {
+                "id": "3",
+                "text": "35"
+            },
+            {
+                "id": "4",
+                "text": "32"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Analysis",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "20",
+        "text": "Which country has minimum average of wheat production from 2017 to 2021?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Indonesia"
+            },
+            {
+                "id": "2",
+                "text": "Cambodia"
+            },
+            {
+                "id": "3",
+                "text": "China"
+            },
+            {
+                "id": "4",
+                "text": "Japan"
+            }
+        ],
+        "correct": 1,
+        "section": "Data Analysis",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "21",
+        "text": "The ratio of average wheat production of India and China from 2017 to 2021 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "245/199"
+            },
+            {
+                "id": "2",
+                "text": "246/199"
+            },
+            {
+                "id": "3",
+                "text": "246/197"
+            },
+            {
+                "id": "4",
+                "text": "245/196"
+            }
+        ],
+        "correct": 1,
+        "section": "Data Analysis",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "22",
+        "text": "The percentage of vehicles which run on battery is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1 1/3"
+            },
+            {
+                "id": "2",
+                "text": "3"
+            },
+            {
+                "id": "3",
+                "text": "2"
+            },
+            {
+                "id": "4",
+                "text": "3 4/5"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Analysis",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "23",
+        "text": "The total number of vehicles run on battery is 3600, then the number of vehicles which run on diesel is",
+        "options": [
+            {
+                "id": "1",
+                "text": "72000"
+            },
+            {
+                "id": "2",
+                "text": "60000"
+            },
+            {
+                "id": "3",
+                "text": "54000"
+            },
+            {
+                "id": "4",
+                "text": "65000"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Analysis",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "24",
+        "text": "If the CNG vehicles are 5400 in number, then the number of petrol vehicles is",
+        "options": [
+            {
+                "id": "1",
+                "text": "42000"
+            },
+            {
+                "id": "2",
+                "text": "45000"
+            },
+            {
+                "id": "3",
+                "text": "48000"
+            },
+            {
+                "id": "4",
+                "text": "54000"
+            }
+        ],
+        "correct": 1,
+        "section": "Data Analysis",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "25",
+        "text": "How many families subscribe exactly to none of the papers?",
+        "options": [
+            {
+                "id": "1",
+                "text": "7"
+            },
+            {
+                "id": "2",
+                "text": "8"
+            },
+            {
+                "id": "3",
+                "text": "9"
+            },
+            {
+                "id": "4",
+                "text": "10"
+            }
+        ],
+        "correct": 2,
+        "section": "Venn diagram or Passage",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "26",
+        "text": "The total number of families who subscribe to either E or T or both but not to S is",
+        "options": [
+            {
+                "id": "1",
+                "text": "19"
+            },
+            {
+                "id": "2",
+                "text": "18"
+            },
+            {
+                "id": "3",
+                "text": "16"
+            },
+            {
+                "id": "4",
+                "text": "15"
+            }
+        ],
+        "correct": 0,
+        "section": "Venn diagram or Passage",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "27",
+        "text": "The number of families who subscribe to S is",
+        "options": [
+            {
+                "id": "1",
+                "text": "10"
+            },
+            {
+                "id": "2",
+                "text": "11"
+            },
+            {
+                "id": "3",
+                "text": "12"
+            },
+            {
+                "id": "4",
+                "text": "13"
+            }
+        ],
+        "correct": 2,
+        "section": "Venn diagram or Passage",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "28",
+        "text": "Number of families subscribing to S or T or both is",
+        "options": [
+            {
+                "id": "1",
+                "text": "21"
+            },
+            {
+                "id": "2",
+                "text": "16"
+            },
+            {
+                "id": "3",
+                "text": "24"
+            },
+            {
+                "id": "4",
+                "text": "19"
+            }
+        ],
+        "correct": 2,
+        "section": "Venn diagram or Passage",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "29",
+        "text": "If 'OCTOBER' is coded as 'REBOTCO' then what is the code for 'RACECAR'?",
+        "options": [
+            {
+                "id": "1",
+                "text": "CARRACE"
+            },
+            {
+                "id": "2",
+                "text": "RACECAR"
+            },
+            {
+                "id": "3",
+                "text": "ACERCAR"
+            },
+            {
+                "id": "4",
+                "text": "CERACAR"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding and Decoding Problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "30",
+        "text": "If 'INDIGO' is coded as 'RMWTRL', then the word that is coded as 'KFIKOV'",
+        "options": [
+            {
+                "id": "1",
+                "text": "MAROON"
+            },
+            {
+                "id": "2",
+                "text": "PURPLE"
+            },
+            {
+                "id": "3",
+                "text": "VIOLET"
+            },
+            {
+                "id": "4",
+                "text": "SILVER"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding and Decoding Problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "31",
+        "text": "If 'SACHIN' is coded as 'OJI\u00d0BT', then the code for 'DHONI' is",
+        "options": [
+            {
+                "id": "1",
+                "text": "JPOEI"
+            },
+            {
+                "id": "2",
+                "text": "JOPEI"
+            },
+            {
+                "id": "3",
+                "text": "JOPIE"
+            },
+            {
+                "id": "4",
+                "text": "JPOIE"
+            }
+        ],
+        "correct": 2,
+        "section": "Coding and Decoding Problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "32",
+        "text": "In a code 'TANK' is written as 'SZOL' and 'FRIEND' is written as 'EQHFOE'. Then the code for 'RING' is",
+        "options": [
+            {
+                "id": "1",
+                "text": "QHOG"
+            },
+            {
+                "id": "2",
+                "text": "QHOH"
+            },
+            {
+                "id": "3",
+                "text": "QHME"
+            },
+            {
+                "id": "4",
+                "text": "PHON"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding and Decoding Problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "33",
+        "text": "If 'RANK' is coded as 18 1 14 11, then the possible number of letter strings obtained when 21345 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2"
+            },
+            {
+                "id": "2",
+                "text": "3"
+            },
+            {
+                "id": "3",
+                "text": "4"
+            },
+            {
+                "id": "4",
+                "text": "5"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding and Decoding Problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "34",
+        "text": "Indian Republic day falls in the month of",
+        "options": [
+            {
+                "id": "1",
+                "text": "August"
+            },
+            {
+                "id": "2",
+                "text": "December"
+            },
+            {
+                "id": "3",
+                "text": "January"
+            },
+            {
+                "id": "4",
+                "text": "February"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding and Decoding Problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "35",
+        "text": "In this code language the 4th month of the year is",
+        "options": [
+            {
+                "id": "1",
+                "text": "May"
+            },
+            {
+                "id": "2",
+                "text": "April"
+            },
+            {
+                "id": "3",
+                "text": "October"
+            },
+            {
+                "id": "4",
+                "text": "January"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding and Decoding Problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "36",
+        "text": "The teachers day is celebrated in the month of",
+        "options": [
+            {
+                "id": "1",
+                "text": "March"
+            },
+            {
+                "id": "2",
+                "text": "September"
+            },
+            {
+                "id": "3",
+                "text": "August"
+            },
+            {
+                "id": "4",
+                "text": "June"
+            }
+        ],
+        "correct": 3,
+        "section": "Coding and Decoding Problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "37",
+        "text": "In the code language July comes after the month of",
+        "options": [
+            {
+                "id": "1",
+                "text": "June"
+            },
+            {
+                "id": "2",
+                "text": "May"
+            },
+            {
+                "id": "3",
+                "text": "March"
+            },
+            {
+                "id": "4",
+                "text": "September"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and Decoding Problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "38",
+        "text": "The month coded as November",
+        "options": [
+            {
+                "id": "1",
+                "text": "May"
+            },
+            {
+                "id": "2",
+                "text": "June"
+            },
+            {
+                "id": "3",
+                "text": "February"
+            },
+            {
+                "id": "4",
+                "text": "October"
+            }
+        ],
+        "correct": 3,
+        "section": "Coding and Decoding Problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "39",
+        "text": "If the first day of a month is a Saturday, then the date of the Monday that comes after the second Sunday of the month is",
+        "options": [
+            {
+                "id": "1",
+                "text": "8"
+            },
+            {
+                "id": "2",
+                "text": "9"
+            },
+            {
+                "id": "3",
+                "text": "10"
+            },
+            {
+                "id": "4",
+                "text": "16"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and Arrangement Problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "40",
+        "text": "The angle between the two hands of a clock when the time shows is 12 minutes past 5 o'clock",
+        "options": [
+            {
+                "id": "1",
+                "text": "78\u00b0"
+            },
+            {
+                "id": "2",
+                "text": "80\u00b0"
+            },
+            {
+                "id": "3",
+                "text": "84\u00b0"
+            },
+            {
+                "id": "4",
+                "text": "86\u00b0"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and Arrangement Problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "41",
+        "text": "The time between 7pm and 8 pm at which the angle between the hands of the clock be 180\u00b0 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "7 hrs 2 5/11 minutes"
+            },
+            {
+                "id": "2",
+                "text": "7 hrs 4 6/11 minutes"
+            },
+            {
+                "id": "3",
+                "text": "7 hrs 3 5/12 minutes"
+            },
+            {
+                "id": "4",
+                "text": "7 hrs 5 5/11 minutes"
+            }
+        ],
+        "correct": 3,
+        "section": "Date, Time and Arrangement Problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "42",
+        "text": "Pointing to a woman, a man said \"the son of her only brother is the brother of my wife\", then the woman related to the man is",
+        "options": [
+            {
+                "id": "1",
+                "text": "Mother"
+            },
+            {
+                "id": "2",
+                "text": "Sister"
+            },
+            {
+                "id": "3",
+                "text": "Mother-in-law"
+            },
+            {
+                "id": "4",
+                "text": "Sister of father-in-law"
+            }
+        ],
+        "correct": 3,
+        "section": "Date, Time and Arrangement Problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "43",
+        "text": "A train starts at scheduled time from Visakhapatnam and is scheduled to reach Secunderabad at 6.30 AM next day. That train arrived 13 minutes late to Rajahmundry and it is late by another 42 minutes when it came to Vijayawada. Again it arrived another 37 minutes late at Khammam. Finally, if it covers 27 minutes of the late. The time of arrival at Secunderabad station on the next day is",
+        "options": [
+            {
+                "id": "1",
+                "text": "6.45 AM"
+            },
+            {
+                "id": "2",
+                "text": "7.00 AM"
+            },
+            {
+                "id": "3",
+                "text": "7.35 AM"
+            },
+            {
+                "id": "4",
+                "text": "8.05 AM"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and Arrangement Problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "44",
+        "text": "Buses for Hyderabad leave every 45 minutes from Vijayawada. An announcement was made at Vijayawada bus station that, bus-A to Hyderabad left 10 minutes late and the next bus-B will leave, on time, at 5.10 PM. The time at which the bus-A left Vijayawada is",
+        "options": [
+            {
+                "id": "1",
+                "text": "4.20 PM"
+            },
+            {
+                "id": "2",
+                "text": "4.30 PM"
+            },
+            {
+                "id": "3",
+                "text": "4.35 PM"
+            },
+            {
+                "id": "4",
+                "text": "4.25 PM"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and Arrangement Problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "45",
+        "text": "5 persons A, B, C, D, E sit around a table facing the centre. A sits to the left of E. A and C sit on either side of D, then the person to the right of B is",
+        "options": [
+            {
+                "id": "1",
+                "text": "A"
+            },
+            {
+                "id": "2",
+                "text": "C"
+            },
+            {
+                "id": "3",
+                "text": "D"
+            },
+            {
+                "id": "4",
+                "text": "E"
+            }
+        ],
+        "correct": 1,
+        "section": "Date, Time and Arrangement Problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "46",
+        "text": "If `\u03b1` denotes '-', `\u03b2` denotes 'x', `\u03b3` denotes '+', `\u03b4` denotes '\u00f7', then 7\u03b38\u03b16\u03b22\u03b4(8\u03b14) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "8"
+            },
+            {
+                "id": "2",
+                "text": "5"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "6"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and Arrangement Problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "47",
+        "text": "For x,y \u2208 R, define x*y = x+y+xy and x \u03b2 y = (x+y) / (x-y), then (7 \u03b2 5) * (13 \u03b2 11) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "18"
+            },
+            {
+                "id": "2",
+                "text": "72"
+            },
+            {
+                "id": "3",
+                "text": "90"
+            },
+            {
+                "id": "4",
+                "text": "112"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and Arrangement Problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "48",
+        "text": "For integers a, b define a \u2295 b = r and a \u2299 b = s, where r and s are the remainders, respectively when a + b and a . b are divided by 7. Then, 19 \u2295 (25 \u2299 40) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "2"
+            },
+            {
+                "id": "2",
+                "text": "4"
+            },
+            {
+                "id": "3",
+                "text": "6"
+            },
+            {
+                "id": "4",
+                "text": "3"
+            }
+        ],
+        "correct": 1,
+        "section": "Date, Time and Arrangement Problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "49",
+        "text": "Choose the correct meaning of the word given Autonomous",
+        "options": [
+            {
+                "id": "1",
+                "text": "Anarchic"
+            },
+            {
+                "id": "2",
+                "text": "Venomous"
+            },
+            {
+                "id": "3",
+                "text": "Self-governing"
+            },
+            {
+                "id": "4",
+                "text": "Dangerous"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "50",
+        "text": "Choose the correct meaning of the word given Hone",
+        "options": [
+            {
+                "id": "1",
+                "text": "Perfect"
+            },
+            {
+                "id": "2",
+                "text": "Honor"
+            },
+            {
+                "id": "3",
+                "text": "Sharpen"
+            },
+            {
+                "id": "4",
+                "text": "Deceive"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "51",
+        "text": "Choose the correct meaning of the word given Ingenious",
+        "options": [
+            {
+                "id": "1",
+                "text": "Ingenious"
+            },
+            {
+                "id": "2",
+                "text": "Naive"
+            },
+            {
+                "id": "3",
+                "text": "Inconvenient"
+            },
+            {
+                "id": "4",
+                "text": "Irritating"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "52",
+        "text": "Choose the correct meaning of the word given Denigrate",
+        "options": [
+            {
+                "id": "1",
+                "text": "Denoting"
+            },
+            {
+                "id": "2",
+                "text": "Didactic"
+            },
+            {
+                "id": "3",
+                "text": "Degrade"
+            },
+            {
+                "id": "4",
+                "text": "Demanding"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "53",
+        "text": "Choose the correct meaning of the word given Travesty",
+        "options": [
+            {
+                "id": "1",
+                "text": "Mockery"
+            },
+            {
+                "id": "2",
+                "text": "Derivative"
+            },
+            {
+                "id": "3",
+                "text": "Apt"
+            },
+            {
+                "id": "4",
+                "text": "Authentic"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "54",
+        "text": "Choose the correct meaning of the word given Embezzlement",
+        "options": [
+            {
+                "id": "1",
+                "text": "Buzzling"
+            },
+            {
+                "id": "2",
+                "text": "Auctioning"
+            },
+            {
+                "id": "3",
+                "text": "Expending"
+            },
+            {
+                "id": "4",
+                "text": "Misappropriation"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "55",
+        "text": "Choose the correct meaning of the word given Cajole",
+        "options": [
+            {
+                "id": "1",
+                "text": "Coax"
+            },
+            {
+                "id": "2",
+                "text": "Cox"
+            },
+            {
+                "id": "3",
+                "text": "Cordial"
+            },
+            {
+                "id": "4",
+                "text": "Cunning"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "56",
+        "text": "Trying to analyze something by way of comparison is called a/an",
+        "options": [
+            {
+                "id": "1",
+                "text": "apology"
+            },
+            {
+                "id": "2",
+                "text": "eulogy"
+            },
+            {
+                "id": "3",
+                "text": "elegy"
+            },
+            {
+                "id": "4",
+                "text": "analogy"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "57",
+        "text": "Choose the correct meaning of the word given Fiasco",
+        "options": [
+            {
+                "id": "1",
+                "text": "Drama"
+            },
+            {
+                "id": "2",
+                "text": "Failure"
+            },
+            {
+                "id": "3",
+                "text": "Fraud"
+            },
+            {
+                "id": "4",
+                "text": "Stupidity"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "58",
+        "text": "Choose the correct meaning of the word given His popularity was such that his election turned out to be",
+        "options": [
+            {
+                "id": "1",
+                "text": "anonymous"
+            },
+            {
+                "id": "2",
+                "text": "unanimous"
+            },
+            {
+                "id": "3",
+                "text": "innocuous"
+            },
+            {
+                "id": "4",
+                "text": "ridiculous"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "59",
+        "text": "Select the correct meaning of the idiom given Go the whole hog",
+        "options": [
+            {
+                "id": "1",
+                "text": "Eat a lot"
+            },
+            {
+                "id": "2",
+                "text": "Behave very badly"
+            },
+            {
+                "id": "3",
+                "text": "Enjoy one's self a lot"
+            },
+            {
+                "id": "4",
+                "text": "Do something completely"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "60",
+        "text": "Fill in the blank by choosing the correct word given After their dispute the two partners launched ____ attacks against each other.",
+        "options": [
+            {
+                "id": "1",
+                "text": "vituperative"
+            },
+            {
+                "id": "2",
+                "text": "laudatory"
+            },
+            {
+                "id": "3",
+                "text": "sycophantic"
+            },
+            {
+                "id": "4",
+                "text": "ingratiating"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "61",
+        "text": "Choose the correct meaning of the word given Depose",
+        "options": [
+            {
+                "id": "1",
+                "text": "Overthrow"
+            },
+            {
+                "id": "2",
+                "text": "Deposit"
+            },
+            {
+                "id": "3",
+                "text": "Upgrade"
+            },
+            {
+                "id": "4",
+                "text": "Deprive"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "62",
+        "text": "Fill in the blank by choosing the correct word given Lalith was given to ____ that the job was his.",
+        "options": [
+            {
+                "id": "1",
+                "text": "understand"
+            },
+            {
+                "id": "2",
+                "text": "apprehend"
+            },
+            {
+                "id": "3",
+                "text": "think"
+            },
+            {
+                "id": "4",
+                "text": "imagine"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "63",
+        "text": "Fill in the blank by choosing the correct word given The young man was ____ being the only male in the play.",
+        "options": [
+            {
+                "id": "1",
+                "text": "discredited"
+            },
+            {
+                "id": "2",
+                "text": "discomfited"
+            },
+            {
+                "id": "3",
+                "text": "adulterated"
+            },
+            {
+                "id": "4",
+                "text": "abdicated"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "64",
+        "text": "Choose the appropriate answer Any external device attached to a computer to enhance its operation is called a/an",
+        "options": [
+            {
+                "id": "1",
+                "text": "peripheral"
+            },
+            {
+                "id": "2",
+                "text": "platform"
+            },
+            {
+                "id": "3",
+                "text": "output"
+            },
+            {
+                "id": "4",
+                "text": "input"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "65",
+        "text": "Choose the appropriate answer Which of the following is not an operating system?",
+        "options": [
+            {
+                "id": "1",
+                "text": "MS-WORD"
+            },
+            {
+                "id": "2",
+                "text": "LINUX"
+            },
+            {
+                "id": "3",
+                "text": "IOS"
+            },
+            {
+                "id": "4",
+                "text": "ANDROID"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "66",
+        "text": "Fill in the blank by choosing an appropriate answer The liability of shareholders of a company is limited to the ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "paid up value of shares"
+            },
+            {
+                "id": "2",
+                "text": "nominal value of shares"
+            },
+            {
+                "id": "3",
+                "text": "extent of their private assets"
+            },
+            {
+                "id": "4",
+                "text": "accounts called up"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "67",
+        "text": "Fill in the blank by choosing an appropriate answer A device that can convert digital signal to analog signal is called ______.",
+        "options": [
+            {
+                "id": "1",
+                "text": "a packet"
+            },
+            {
+                "id": "2",
+                "text": "modem"
+            },
+            {
+                "id": "3",
+                "text": "switch"
+            },
+            {
+                "id": "4",
+                "text": "cursor"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "68",
+        "text": "Choose the appropriate answer Which of the following is not a browser?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Google Drone"
+            },
+            {
+                "id": "2",
+                "text": "Google Chrome"
+            },
+            {
+                "id": "3",
+                "text": "Mozilla Firefox"
+            },
+            {
+                "id": "4",
+                "text": "Microsoft Edge"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "69",
+        "text": "Choose the appropriate answer What is the expansion of the acronym NASDAQ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Net Asset Securities Drawn Against Quotations"
+            },
+            {
+                "id": "2",
+                "text": "National Association of Securities Dealers Automated Quotations"
+            },
+            {
+                "id": "3",
+                "text": "New Association of Securities Dealers and Quality"
+            },
+            {
+                "id": "4",
+                "text": "National Account of Security Deposit Asset Quality"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "70",
+        "text": "Choose the appropriate answer Stylus is a/an",
+        "options": [
+            {
+                "id": "1",
+                "text": "computer language"
+            },
+            {
+                "id": "2",
+                "text": "computer code"
+            },
+            {
+                "id": "3",
+                "text": "output device"
+            },
+            {
+                "id": "4",
+                "text": "input device"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "71",
+        "text": "Fill in the blank by choosing the correct answer A storage medium that retains its contents even in the absence of power is referred to as ____.",
+        "options": [
+            {
+                "id": "1",
+                "text": "volatile storage"
+            },
+            {
+                "id": "2",
+                "text": "non-volatile storage"
+            },
+            {
+                "id": "3",
+                "text": "RAM"
+            },
+            {
+                "id": "4",
+                "text": "Cache memory"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "72",
+        "text": "Choose the appropriate answer A piece of data from a website, stored within a web browser to be used at a later time is called",
+        "options": [
+            {
+                "id": "1",
+                "text": "cookies"
+            },
+            {
+                "id": "2",
+                "text": "alerts"
+            },
+            {
+                "id": "3",
+                "text": "messages"
+            },
+            {
+                "id": "4",
+                "text": "mails"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "73",
+        "text": "Choose the appropriate answer The process of identifying and removing errors from Computer Hardware is called",
+        "options": [
+            {
+                "id": "1",
+                "text": "debunking"
+            },
+            {
+                "id": "2",
+                "text": "debugging"
+            },
+            {
+                "id": "3",
+                "text": "detracting"
+            },
+            {
+                "id": "4",
+                "text": "browsing"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "74",
+        "text": "Fill in the blank by choosing the correct answer A reward beyond basic pay is called a/an ____ benefit.",
+        "options": [
+            {
+                "id": "1",
+                "text": "fridge"
+            },
+            {
+                "id": "2",
+                "text": "fringe"
+            },
+            {
+                "id": "3",
+                "text": "avoidable benefit"
+            },
+            {
+                "id": "4",
+                "text": "undesirable"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "75",
+        "text": "Fill in the blank by choosing an appropriate answer ____ is not an economic activity.",
+        "options": [
+            {
+                "id": "1",
+                "text": "A student playing cricket"
+            },
+            {
+                "id": "2",
+                "text": "A lawyer practicing law"
+            },
+            {
+                "id": "3",
+                "text": "A practicing doctor"
+            },
+            {
+                "id": "4",
+                "text": "A professional cricketer playing cricket"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "76",
+        "text": "Choose the appropriate answer A mouse is connected to",
+        "options": [
+            {
+                "id": "1",
+                "text": "the serial port"
+            },
+            {
+                "id": "2",
+                "text": "LPT1 port"
+            },
+            {
+                "id": "3",
+                "text": "LPT2 port"
+            },
+            {
+                "id": "4",
+                "text": "the key board"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "77",
+        "text": "Choose the appropriate answer Which of the following is an extractive industry?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Forest cultivation"
+            },
+            {
+                "id": "2",
+                "text": "Cattle breeding"
+            },
+            {
+                "id": "3",
+                "text": "Hunting"
+            },
+            {
+                "id": "4",
+                "text": "Flour mills"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "78",
+        "text": "Choose the appropriate answer \"Cache\" means",
+        "options": [
+            {
+                "id": "1",
+                "text": "Cash-data storage area in a computer"
+            },
+            {
+                "id": "2",
+                "text": "A small data-memory storage area in a computer"
+            },
+            {
+                "id": "3",
+                "text": "Hard drive"
+            },
+            {
+                "id": "4",
+                "text": "Website"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "79",
+        "text": "Fill in the blank by choosing the correct answer It is necessary to ____ that standards are maintained.",
+        "options": [
+            {
+                "id": "1",
+                "text": "insure"
+            },
+            {
+                "id": "2",
+                "text": "influence"
+            },
+            {
+                "id": "3",
+                "text": "ensure"
+            },
+            {
+                "id": "4",
+                "text": "scold"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "80",
+        "text": "Fill in the blank by choosing the correct answer The budget is likely to be presented on February 26, two days ahead of the ____ date.",
+        "options": [
+            {
+                "id": "1",
+                "text": "critical"
+            },
+            {
+                "id": "2",
+                "text": "conventional"
+            },
+            {
+                "id": "3",
+                "text": "suitable"
+            },
+            {
+                "id": "4",
+                "text": "convenient"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "81",
+        "text": "Fill in the blank by choosing the correct answer ____ pollution control measures are expensive, many industries hesitate to adopt them.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Although"
+            },
+            {
+                "id": "2",
+                "text": "However"
+            },
+            {
+                "id": "3",
+                "text": "As"
+            },
+            {
+                "id": "4",
+                "text": "Despite"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "82",
+        "text": "Fill in the blank by choosing the correct answer 'One who neither does the work nor allows others to do it' is often described as a dog ____ the manger.",
+        "options": [
+            {
+                "id": "1",
+                "text": "by"
+            },
+            {
+                "id": "2",
+                "text": "of"
+            },
+            {
+                "id": "3",
+                "text": "with"
+            },
+            {
+                "id": "4",
+                "text": "in"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "83",
+        "text": "Fill in the blank by choosing the correct answer When I entered the room, the actor smiled ____ me as if she knew me.",
+        "options": [
+            {
+                "id": "1",
+                "text": "at"
+            },
+            {
+                "id": "2",
+                "text": "to"
+            },
+            {
+                "id": "3",
+                "text": "on"
+            },
+            {
+                "id": "4",
+                "text": "by"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "84",
+        "text": "Choose the correct option that is passive form of the given sentence. The tennis ball hit Neeraj on the head.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Neeraj was being hit on the head by the tennis ball."
+            },
+            {
+                "id": "2",
+                "text": "Neeraj was hit on the head by the tennis ball."
+            },
+            {
+                "id": "3",
+                "text": "The tennis ball was being hit by Neeraj."
+            },
+            {
+                "id": "4",
+                "text": "Neeraj had been hit on the head by the tennis ball."
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "85",
+        "text": "Fill in the blank by choosing the correct answer By now, they must have been fairly reconciled ____ their lot.",
+        "options": [
+            {
+                "id": "1",
+                "text": "by"
+            },
+            {
+                "id": "2",
+                "text": "on"
+            },
+            {
+                "id": "3",
+                "text": "to"
+            },
+            {
+                "id": "4",
+                "text": "upon"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "86",
+        "text": "Fill in the blank by choosing the correct answer In order to share the work, we agreed to carry the snacks for the picnic ____ my friend offered to bring the food items.",
+        "options": [
+            {
+                "id": "1",
+                "text": "although"
+            },
+            {
+                "id": "2",
+                "text": "and"
+            },
+            {
+                "id": "3",
+                "text": "however"
+            },
+            {
+                "id": "4",
+                "text": "in spite"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "87",
+        "text": "Choose the option that is passive form of the given sentence. Someone broke the window pane.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Someone broken the window pane."
+            },
+            {
+                "id": "2",
+                "text": "The window pane had been broke by someone."
+            },
+            {
+                "id": "3",
+                "text": "The window pane is broken by someone."
+            },
+            {
+                "id": "4",
+                "text": "The window pane was broken by someone."
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "88",
+        "text": "Fill in the blank by choosing the correct answer Last Sunday we saw a five ____ elephant in the zoo.",
+        "options": [
+            {
+                "id": "1",
+                "text": "years"
+            },
+            {
+                "id": "2",
+                "text": "year old"
+            },
+            {
+                "id": "3",
+                "text": "year"
+            },
+            {
+                "id": "4",
+                "text": "years old"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "89",
+        "text": "Fill in the blank by choosing the correct answer The corrupt official, together with his subordinates ____ arrested.",
+        "options": [
+            {
+                "id": "1",
+                "text": "were"
+            },
+            {
+                "id": "2",
+                "text": "was"
+            },
+            {
+                "id": "3",
+                "text": "have"
+            },
+            {
+                "id": "4",
+                "text": "have been"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "90",
+        "text": "Fill in the blank by choosing the correct answer Although both Ravi and Latha have the same qualifications, Ravi commands ____ salary.",
+        "options": [
+            {
+                "id": "1",
+                "text": "the highest"
+            },
+            {
+                "id": "2",
+                "text": "high"
+            },
+            {
+                "id": "3",
+                "text": "more high"
+            },
+            {
+                "id": "4",
+                "text": "a higher"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    }
+]

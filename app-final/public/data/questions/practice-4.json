@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "What kinds of diseases are caused by air pollution?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Diabetes, obesity, depression"
+            },
+            {
+                "id": "2",
+                "text": "Allergies, asthma, bronchitis"
+            },
+            {
+                "id": "3",
+                "text": "Hair fall, loss of appetite, weight loss"
+            },
+            {
+                "id": "4",
+                "text": "Only A and B"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "2",
+        "text": "Which of the following statements is false according to the passage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Two-thirds of the rising disease graphs worldwide are found in South Asia."
+            },
+            {
+                "id": "2",
+                "text": "A study of lung cancer amongst non-smokers had shown a 60 per cent increase caused by air pollution."
+            },
+            {
+                "id": "3",
+                "text": "The 2010 GBD was produced by a rigorous scientific process involving 150 global experts."
+            },
+            {
+                "id": "4",
+                "text": "The head of oncology department confirmed getting thousands of new cases of lung cancer every year."
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "3",
+        "text": "Choose the word that is closest in meaning to the word given in bold in the passage 'substantial?'",
+        "options": [
+            {
+                "id": "1",
+                "text": "Significant"
+            },
+            {
+                "id": "2",
+                "text": "Inconsiderable"
+            },
+            {
+                "id": "3",
+                "text": "Unreal"
+            },
+            {
+                "id": "4",
+                "text": "Dissatisfying"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "4",
+        "text": "Choose the word that is closest in meaning to the word given in bold in the passage, 'Emerged?'",
+        "options": [
+            {
+                "id": "1",
+                "text": "Hid"
+            },
+            {
+                "id": "2",
+                "text": "Camouflaged"
+            },
+            {
+                "id": "3",
+                "text": "Came forth"
+            },
+            {
+                "id": "4",
+                "text": "Underneath"
+            }
+        ],
+        "correct": 2,
+        "section": "Vocabulary",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "5",
+        "text": "What was the reason the old man flattered Srinivas's wife?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Because it is an example of good manners."
+            },
+            {
+                "id": "2",
+                "text": "Because he wanted to be welcomed."
+            },
+            {
+                "id": "3",
+                "text": "Because he had met her for the first time."
+            },
+            {
+                "id": "4",
+                "text": "both 1 and 2 ."
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "6",
+        "text": "Read the following statements and answer the following. (a) Srinivas's wife treated the old man very well. (b) The old man enjoyed his food.",
+        "options": [
+            {
+                "id": "1",
+                "text": "(a) is right and (b) is wrong."
+            },
+            {
+                "id": "2",
+                "text": "(b) is right and (a) is wrong."
+            },
+            {
+                "id": "3",
+                "text": "Both (a) and (b) are right."
+            },
+            {
+                "id": "4",
+                "text": "Both (a) and (b) are wrong."
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "7",
+        "text": "Which is the closest meaning to word \"affably?\"",
+        "options": [
+            {
+                "id": "1",
+                "text": "Dangerous"
+            },
+            {
+                "id": "2",
+                "text": "Friendly"
+            },
+            {
+                "id": "3",
+                "text": "Reluctant"
+            },
+            {
+                "id": "4",
+                "text": "Opposite"
+            }
+        ],
+        "correct": 1,
+        "section": "Vocabulary",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "8",
+        "text": "Which kind of organism was cloned successfully for the first time and what was it named?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Dolly the rat"
+            },
+            {
+                "id": "2",
+                "text": "Dolly the sheep"
+            },
+            {
+                "id": "3",
+                "text": "Dolly the snake"
+            },
+            {
+                "id": "4",
+                "text": "Dolly the elephant"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "9",
+        "text": "Choose the correct meaning of the word \"triad' as given in the passage.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Bisexual"
+            },
+            {
+                "id": "2",
+                "text": "Pentagonal"
+            },
+            {
+                "id": "3",
+                "text": "a group of three related things"
+            },
+            {
+                "id": "4",
+                "text": "Bifocal"
+            }
+        ],
+        "correct": 2,
+        "section": "Vocabulary",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "10",
+        "text": "In the above passage which element can be referred to the third element of the 'triad'",
+        "options": [
+            {
+                "id": "1",
+                "text": "Involvement of Society."
+            },
+            {
+                "id": "2",
+                "text": "primary research"
+            },
+            {
+                "id": "3",
+                "text": "Technological advancement"
+            },
+            {
+                "id": "4",
+                "text": "Governmental regulations"
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "11",
+        "text": "Pick the correct statement that reflects why the author is not making any comparison between concept driven research and tool driven research?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The given statemnt is a fallacy as the author clearly endorses the distinction between concept driven research and tool driven research."
+            },
+            {
+                "id": "2",
+                "text": "The author has not been supported by different tools in his research."
+            },
+            {
+                "id": "3",
+                "text": "The author has found that basic concept-driven research supported by tool-driven technological developments contribute the most to advancement in human civilization."
+            },
+            {
+                "id": "4",
+                "text": "Since Dolly the sheep could not be cloned without proper technology, the author does not distinguish between concept driven research and tool driven research."
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "12",
+        "text": "What is the central idea of the passage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "war between Science and technology."
+            },
+            {
+                "id": "2",
+                "text": "Science and technology together can lead to advancement of human civilization."
+            },
+            {
+                "id": "3",
+                "text": "Importance of societal acceptance for betterment of human civilization."
+            },
+            {
+                "id": "4",
+                "text": "Primary research can't be completed without technological development."
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "13",
+        "text": "Select the correct indirect form of the given sentence. You said to me, \u201cWill you dance with me?\u201d",
+        "options": [
+            {
+                "id": "1",
+                "text": "You asked me that if I would dance with you."
+            },
+            {
+                "id": "2",
+                "text": "You asked me will you dance with me."
+            },
+            {
+                "id": "3",
+                "text": "You asked me if I will dance with you."
+            },
+            {
+                "id": "4",
+                "text": "You asked me if I would dance with you."
+            }
+        ],
+        "correct": 3,
+        "section": "Grammar",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "14",
+        "text": "Select the correct direct form of the given sentence. The secretary assures the audience that he/she is going to help them.",
+        "options": [
+            {
+                "id": "1",
+                "text": "The secretary said to the audience, \u201cI am going to help you.\u201d"
+            },
+            {
+                "id": "2",
+                "text": "The secretary says to the audience, \u201cI am going to help you.\u201d"
+            },
+            {
+                "id": "3",
+                "text": "The secretary says to the audience, \u201cI was going to help you.\u201d"
+            },
+            {
+                "id": "4",
+                "text": "The secretary says to the audience, \u201cI will be going to help you.\u201d"
+            }
+        ],
+        "correct": 1,
+        "section": "Grammar",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "15",
+        "text": "Mandatory vaccinations should be enforced to prevent the spread of infectious diseases. Argument: Vaccinations create herd immunity, protecting vulnerable populations such as infants and individuals with compromised immune systems.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Both the statement and the argument are true, and the argument is the valid explanation of the statement."
+            },
+            {
+                "id": "2",
+                "text": "The statement is true, but the argument is not a valid explanation of the statement."
+            },
+            {
+                "id": "3",
+                "text": "The statement is false, but the argument is true."
+            },
+            {
+                "id": "4",
+                "text": "Both the statement and the argument are false."
+            }
+        ],
+        "correct": 0,
+        "section": "Logical Reasoning",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "16",
+        "text": "What is the purpose of using clear and concise subject lines in email communication?",
+        "options": [
+            {
+                "id": "1",
+                "text": "To confuse recipients"
+            },
+            {
+                "id": "2",
+                "text": "To prioritize and understand the email's purpose quickly"
+            },
+            {
+                "id": "3",
+                "text": "To increase the length of the email"
+            },
+            {
+                "id": "4",
+                "text": "To disregard the content of the email"
+            }
+        ],
+        "correct": 1,
+        "section": "Professional Communication",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "17",
+        "text": "Which of the following numbers will replace the question mark (?) in the following series? 105, 107, 103, ?, 101, 111",
+        "options": [
+            {
+                "id": "1",
+                "text": "102"
+            },
+            {
+                "id": "2",
+                "text": "97"
+            },
+            {
+                "id": "3",
+                "text": "113"
+            },
+            {
+                "id": "4",
+                "text": "109"
+            }
+        ],
+        "correct": 3,
+        "section": "Number Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "18",
+        "text": "Which number will replace the question mark (?) in the following series 17, 51, 58, 116, 123, 123, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "150"
+            },
+            {
+                "id": "2",
+                "text": "130"
+            },
+            {
+                "id": "3",
+                "text": "140"
+            },
+            {
+                "id": "4",
+                "text": "120"
+            }
+        ],
+        "correct": 1,
+        "section": "Number Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "19",
+        "text": "Which number will replace the question mark (?) in the following series? 112, ?, 83, 70, 58, 47, 37",
+        "options": [
+            {
+                "id": "1",
+                "text": "94"
+            },
+            {
+                "id": "2",
+                "text": "97"
+            },
+            {
+                "id": "3",
+                "text": "100"
+            },
+            {
+                "id": "4",
+                "text": "104"
+            }
+        ],
+        "correct": 1,
+        "section": "Number Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "20",
+        "text": "Which number will replace the question mark (?) in the following series? 37, ?, 61, 78, 97, 120, 149",
+        "options": [
+            {
+                "id": "1",
+                "text": "48"
+            },
+            {
+                "id": "2",
+                "text": "42"
+            },
+            {
+                "id": "3",
+                "text": "51"
+            },
+            {
+                "id": "4",
+                "text": "60"
+            }
+        ],
+        "correct": 0,
+        "section": "Number Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "21",
+        "text": "Which number will replace the question mark (?) in the following series? 17, 37, 77, 157, 317, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "637"
+            },
+            {
+                "id": "2",
+                "text": "683"
+            },
+            {
+                "id": "3",
+                "text": "649"
+            },
+            {
+                "id": "4",
+                "text": "634"
+            }
+        ],
+        "correct": 0,
+        "section": "Number Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "22",
+        "text": "Select the option that is correct for the bracketed numbers with respect to their inclusion in the given series. 4, 11, 30, (67), 128, 219, (346), 515",
+        "options": [
+            {
+                "id": "1",
+                "text": "The first bracketed number is incorrect and the second bracketed number is correct"
+            },
+            {
+                "id": "2",
+                "text": "Both the bracketed numbers are correct"
+            },
+            {
+                "id": "3",
+                "text": "Both the bracketed numbers are incorrect"
+            },
+            {
+                "id": "4",
+                "text": "The first bracketed number is correct and the second bracketed number is incorrect"
+            }
+        ],
+        "correct": 1,
+        "section": "Number Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "23",
+        "text": "Select the number that can replace the question mark (?) in the following series. 105, 107, 103, ?, 101, 111",
+        "options": [
+            {
+                "id": "1",
+                "text": "102"
+            },
+            {
+                "id": "2",
+                "text": "97"
+            },
+            {
+                "id": "3",
+                "text": "113"
+            },
+            {
+                "id": "4",
+                "text": "109"
+            }
+        ],
+        "correct": 3,
+        "section": "Number Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "24",
+        "text": "Two statements are given followed by two conclusions numbered I and II. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements Statements: All goods are services. No service is a delivery. Conclusions: I. No good is a delivery. II. Some goods are deliveries.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Neither conclusion I nor II follows"
+            },
+            {
+                "id": "2",
+                "text": "Both conclusions I and II follow"
+            },
+            {
+                "id": "3",
+                "text": "Only conclusion II follows"
+            },
+            {
+                "id": "4",
+                "text": "Only conclusion I follows"
+            }
+        ],
+        "correct": 3,
+        "section": "Logical Reasoning",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "25",
+        "text": "Three statements are given followed by three conclusions numbered I, II, and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements. Statements: All valleys are mountains. No sea is a mountain. Some plains are seas. Conclusions: I. Some valleys are plains. II. No plain is a mountain. III. No sea is a valley.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Only conclusion II follows"
+            },
+            {
+                "id": "2",
+                "text": "Only conclusion III follows"
+            },
+            {
+                "id": "3",
+                "text": "Only conclusion I follows"
+            },
+            {
+                "id": "4",
+                "text": "Both conclusions I and II follow"
+            }
+        ],
+        "correct": 1,
+        "section": "Logical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "26",
+        "text": "Four number-pairs are given out of which three are alike in a certain way and one is different. Select the number-pair that is different from the rest. 1) 5 : 7",
+        "options": [
+            {
+                "id": "1",
+                "text": "5 : 7"
+            },
+            {
+                "id": "2",
+                "text": "17 : 23"
+            },
+            {
+                "id": "3",
+                "text": "13 : 19"
+            },
+            {
+                "id": "4",
+                "text": "31 : 41"
+            }
+        ],
+        "correct": 0,
+        "section": "Number Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "27",
+        "text": "Four number pairs are given out of which three are alike in a certain way and one is different. Select the number-pair that is different from the rest.",
+        "options": [
+            {
+                "id": "1",
+                "text": "16 : 64"
+            },
+            {
+                "id": "2",
+                "text": "34 : 289"
+            },
+            {
+                "id": "3",
+                "text": "24 : 142"
+            },
+            {
+                "id": "4",
+                "text": "14 : 49"
+            }
+        ],
+        "correct": 2,
+        "section": "Number Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "28",
+        "text": "Four number-pairs have been given, out of which three are alike in some manner and one is different. Select the number-pair that is different from the rest.",
+        "options": [
+            {
+                "id": "1",
+                "text": "34 : 3"
+            },
+            {
+                "id": "2",
+                "text": "17 : 6"
+            },
+            {
+                "id": "3",
+                "text": "24 : 4"
+            },
+            {
+                "id": "4",
+                "text": "2 : 51"
+            }
+        ],
+        "correct": 2,
+        "section": "Number Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "29",
+        "text": "The workers are hell bent at getting what is due to them.",
+        "options": [
+            {
+                "id": "1",
+                "text": "hell bent on getting"
+            },
+            {
+                "id": "2",
+                "text": "hell bent for getting"
+            },
+            {
+                "id": "3",
+                "text": "hell bent upon getting"
+            },
+            {
+                "id": "4",
+                "text": "No Improvement"
+            }
+        ],
+        "correct": 0,
+        "section": "Grammar",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "30",
+        "text": "Few countries can ____ India in variety, colour and richness of dance forms.",
+        "options": [
+            {
+                "id": "1",
+                "text": "compare"
+            },
+            {
+                "id": "2",
+                "text": "rival"
+            },
+            {
+                "id": "3",
+                "text": "perform"
+            },
+            {
+                "id": "4",
+                "text": "prevail"
+            }
+        ],
+        "correct": 1,
+        "section": "Vocabulary",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "31",
+        "text": "Do your best and we'll back you____.",
+        "options": [
+            {
+                "id": "1",
+                "text": "on"
+            },
+            {
+                "id": "2",
+                "text": "in"
+            },
+            {
+                "id": "3",
+                "text": "out"
+            },
+            {
+                "id": "4",
+                "text": "up"
+            }
+        ],
+        "correct": 3,
+        "section": "Vocabulary",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "32",
+        "text": "The doctor has been ____ to attend to an urgent case.",
+        "options": [
+            {
+                "id": "1",
+                "text": "called"
+            },
+            {
+                "id": "2",
+                "text": "called in"
+            },
+            {
+                "id": "3",
+                "text": "called by"
+            },
+            {
+                "id": "4",
+                "text": "call over"
+            }
+        ],
+        "correct": 1,
+        "section": "Vocabulary",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "33",
+        "text": "Are you __ stamp collecting?",
+        "options": [
+            {
+                "id": "1",
+                "text": "interested by"
+            },
+            {
+                "id": "2",
+                "text": "interested in"
+            },
+            {
+                "id": "3",
+                "text": "interested at"
+            },
+            {
+                "id": "4",
+                "text": "interested about"
+            }
+        ],
+        "correct": 1,
+        "section": "Grammar",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "34",
+        "text": "Moving to the city was eye _____ for the straitlaced country girl.",
+        "options": [
+            {
+                "id": "1",
+                "text": "clearing"
+            },
+            {
+                "id": "2",
+                "text": "freeing"
+            },
+            {
+                "id": "3",
+                "text": "saving"
+            },
+            {
+                "id": "4",
+                "text": "opening"
+            }
+        ],
+        "correct": 3,
+        "section": "Vocabulary",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "35",
+        "text": "The bank decided to _____ them the money as they were reliable clients.",
+        "options": [
+            {
+                "id": "1",
+                "text": "let"
+            },
+            {
+                "id": "2",
+                "text": "lend"
+            },
+            {
+                "id": "3",
+                "text": "borrow"
+            },
+            {
+                "id": "4",
+                "text": "lease"
+            }
+        ],
+        "correct": 1,
+        "section": "Vocabulary",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "36",
+        "text": "With a blood test, a physician was able to _____ the woman's pregnancy.",
+        "options": [
+            {
+                "id": "1",
+                "text": "term"
+            },
+            {
+                "id": "2",
+                "text": "confirm"
+            },
+            {
+                "id": "3",
+                "text": "firm"
+            },
+            {
+                "id": "4",
+                "text": "confer"
+            }
+        ],
+        "correct": 1,
+        "section": "Vocabulary",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "37",
+        "text": "Do not ____ your own personal views upon the reader.",
+        "options": [
+            {
+                "id": "1",
+                "text": "expose"
+            },
+            {
+                "id": "2",
+                "text": "interpose"
+            },
+            {
+                "id": "3",
+                "text": "express"
+            },
+            {
+                "id": "4",
+                "text": "impose"
+            }
+        ],
+        "correct": 3,
+        "section": "Vocabulary",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "38",
+        "text": "Legislation was passed to punish brokers who____ their client's funds.",
+        "options": [
+            {
+                "id": "1",
+                "text": "devastate"
+            },
+            {
+                "id": "2",
+                "text": "devour"
+            },
+            {
+                "id": "3",
+                "text": "defalcate"
+            },
+            {
+                "id": "4",
+                "text": "dawdle"
+            }
+        ],
+        "correct": 2,
+        "section": "Vocabulary",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "39",
+        "text": "He ___ to the problem of air pollution in his speech.",
+        "options": [
+            {
+                "id": "1",
+                "text": "averted"
+            },
+            {
+                "id": "2",
+                "text": "adverted"
+            },
+            {
+                "id": "3",
+                "text": "exclaimed"
+            },
+            {
+                "id": "4",
+                "text": "mentioned"
+            }
+        ],
+        "correct": 1,
+        "section": "Vocabulary",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "40",
+        "text": "Rohan is so magnanimous that everyone is always ___ to help himin his project.",
+        "options": [
+            {
+                "id": "1",
+                "text": "eager"
+            },
+            {
+                "id": "2",
+                "text": "enthusiastic"
+            },
+            {
+                "id": "3",
+                "text": "reluctant"
+            },
+            {
+                "id": "4",
+                "text": "ignorant"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "41",
+        "text": "The mother looked _________ as her child began to walk much before the month prescribed by the doctors.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Astonishingly"
+            },
+            {
+                "id": "2",
+                "text": "Predictably"
+            },
+            {
+                "id": "3",
+                "text": "Irately"
+            },
+            {
+                "id": "4",
+                "text": "Menacingly"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "42",
+        "text": "Many important projects have reached the final stage of _________.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Accomplishment"
+            },
+            {
+                "id": "2",
+                "text": "Initiation"
+            },
+            {
+                "id": "3",
+                "text": "Resolution"
+            },
+            {
+                "id": "4",
+                "text": "Implementation"
+            }
+        ],
+        "correct": 2,
+        "section": "Vocabulary",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "43",
+        "text": "He was sworn ___ as the Prime Minister of our country.",
+        "options": [
+            {
+                "id": "1",
+                "text": "in"
+            },
+            {
+                "id": "2",
+                "text": "off"
+            },
+            {
+                "id": "3",
+                "text": "about"
+            },
+            {
+                "id": "4",
+                "text": "out"
+            }
+        ],
+        "correct": 0,
+        "section": "Grammar",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "44",
+        "text": "The elephant stampeded and tore _____ the streets.",
+        "options": [
+            {
+                "id": "1",
+                "text": "on"
+            },
+            {
+                "id": "2",
+                "text": "out"
+            },
+            {
+                "id": "3",
+                "text": "off"
+            },
+            {
+                "id": "4",
+                "text": "down"
+            }
+        ],
+        "correct": 3,
+        "section": "Grammar",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "45",
+        "text": "Please switch of the fan.",
+        "options": [
+            {
+                "id": "1",
+                "text": "switch off"
+            },
+            {
+                "id": "2",
+                "text": "switch in"
+            },
+            {
+                "id": "3",
+                "text": "switch out"
+            },
+            {
+                "id": "4",
+                "text": "No Improvement"
+            }
+        ],
+        "correct": 0,
+        "section": "Grammar",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "46",
+        "text": "The doctor _______two tablets per day.",
+        "options": [
+            {
+                "id": "1",
+                "text": "prescribed"
+            },
+            {
+                "id": "2",
+                "text": "advised"
+            },
+            {
+                "id": "3",
+                "text": "ordered"
+            },
+            {
+                "id": "4",
+                "text": "proposed"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "47",
+        "text": "The new book written by Vikram Seth has become very populous.",
+        "options": [
+            {
+                "id": "1",
+                "text": "populist"
+            },
+            {
+                "id": "2",
+                "text": "popular"
+            },
+            {
+                "id": "3",
+                "text": "populace"
+            },
+            {
+                "id": "4",
+                "text": "No Improvement"
+            }
+        ],
+        "correct": 1,
+        "section": "Vocabulary",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "48",
+        "text": "She has no pen to write.",
+        "options": [
+            {
+                "id": "1",
+                "text": "write with"
+            },
+            {
+                "id": "2",
+                "text": "write at"
+            },
+            {
+                "id": "3",
+                "text": "write in"
+            },
+            {
+                "id": "4",
+                "text": "No Improvement"
+            }
+        ],
+        "correct": 0,
+        "section": "Grammar",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "49",
+        "text": "I was (1) / laying down (2) / when the door bell rang. (3) / No Error (4)",
+        "options": [
+            {
+                "id": "1",
+                "text": "(1)"
+            },
+            {
+                "id": "2",
+                "text": "(2)"
+            },
+            {
+                "id": "3",
+                "text": "(3)"
+            },
+            {
+                "id": "4",
+                "text": "(4)"
+            }
+        ],
+        "correct": 1,
+        "section": "Grammar",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "50",
+        "text": "Aristotle said that some persons are fit to rule, while others are fit to be ruled ____.",
+        "options": [
+            {
+                "id": "1",
+                "text": "over"
+            },
+            {
+                "id": "2",
+                "text": "of"
+            },
+            {
+                "id": "3",
+                "text": "on"
+            },
+            {
+                "id": "4",
+                "text": "at"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "51",
+        "text": "Tea prices in the domestic market continue to rule high in the (1) _____ year despite the expectation of higher production as compared to the previous year. According to a preliminary assessment (2) _____ on the weather (3) _____ in recent months, tea output in the next year may reach 800 tonnes as (4) _____ 780 tonnes last year. During the past three months, tea prices have shown an (5) _____. Unlike last year, when tea prices were dramatically low, this year, prices seem to have stabilised at rather high levels. Select the most appropriate option to fill in the blank number 2.",
+        "options": [
+            {
+                "id": "1",
+                "text": "shared"
+            },
+            {
+                "id": "2",
+                "text": "based"
+            },
+            {
+                "id": "3",
+                "text": "flown"
+            },
+            {
+                "id": "4",
+                "text": "carried"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "52",
+        "text": "Human migration may be traced all the way back to the (1)________ of time, and humans have been on the move ever since. Climate change, war and displacement, economic considerations, living conditions, family and clan (2)________, and, more recently, educational possibilities are all reasons for migration. Because there are several reasons for migration, migration patterns are (3)_________. Potential migrants will not only (4)_________whether or not to migrate, but also where they will go. Individuals with (5) ________ observed and unobserved features will make diverse decisions and self-select into specific areas. Select the most appropriate option to fill in the blank number 3.",
+        "options": [
+            {
+                "id": "1",
+                "text": "assorted"
+            },
+            {
+                "id": "2",
+                "text": "uniform"
+            },
+            {
+                "id": "3",
+                "text": "diverse"
+            },
+            {
+                "id": "4",
+                "text": "constant"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "53",
+        "text": "Human migration may be traced all the way back to the (1)________ of time, and humans have been on the move ever since. Climate change, war and displacement, economic considerations, living conditions, family and clan (2)________, and, more recently, educational possibilities are all reasons for migration. Because there are several reasons for migration, migration patterns are (3)_________. Potential migrants will not only (4)_________whether or not to migrate, but also where they will go. Individuals with (5) ________ observed and unobserved features will make diverse decisions and self-select into specific areas. Select the most appropriate option to fill in the blank number 5.",
+        "options": [
+            {
+                "id": "1",
+                "text": "considering"
+            },
+            {
+                "id": "2",
+                "text": "varying"
+            },
+            {
+                "id": "3",
+                "text": "convincing"
+            },
+            {
+                "id": "4",
+                "text": "experiencing"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "54",
+        "text": "According to the Integrated Taxonomic Information System (ITIS), there are more than 60 (1)______ of rat, which means they come in all sizes. They are (2)_____ 5 inches (12 centimeters), or longer, according to Encyclopedia Britannica. The largest species is the Bosavi woolly rat, which was (3)_____ in 2009 in the rainforest of Papua New Guinea (and doesn't have a scientific name yet). It is (4)______ the size of a cat \u2014 32.2 inches (82 cm) from nose to tail and (5)______ around 3.3 lbs. (1.5 kilograms), according to CNN. Select the most appropriate option to fill in the blank number 4.",
+        "options": [
+            {
+                "id": "1",
+                "text": "a lot"
+            },
+            {
+                "id": "2",
+                "text": "of"
+            },
+            {
+                "id": "3",
+                "text": "about"
+            },
+            {
+                "id": "4",
+                "text": "some"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "55",
+        "text": "Comics have (1) ________ many superheroes. Bantul, the great, was (2) ________ in the year 1965, in the backdrop of the Indo-Pak war. Indrajal comics was set up in 1964, and (3) __________ Aabid Surti, who gave birth to a character called Bhadur in 1976, wearing kurta and jeans. Raj comics too (4) ________ into this sphere with their (5) ________ toons Nagraj, Tiranga, and Shakti together called Brahman Rakshak (protectors of the universe). Select the most appropriate option to fill in the blank number 5.",
+        "options": [
+            {
+                "id": "1",
+                "text": "noted"
+            },
+            {
+                "id": "2",
+                "text": "influential"
+            },
+            {
+                "id": "3",
+                "text": "famous"
+            },
+            {
+                "id": "4",
+                "text": "good"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "56",
+        "text": "Comics have (1) ________ many superheroes. Bantul, the great, was (2) ________ in the year 1965, in the backdrop of the Indo-Pak war. Indrajal comics was set up in 1964, and (3) __________ Aabid Surti, who gave birth to a character called Bhadur in 1976, wearing kurta and jeans. Raj comics too (4) ________ into this sphere with their (5) ________ toons Nagraj, Tiranga, and Shakti together called Brahman Rakshak (protectors of the universe). Select the most appropriate option to fill in the blank number 4.",
+        "options": [
+            {
+                "id": "1",
+                "text": "invaded"
+            },
+            {
+                "id": "2",
+                "text": "penetrated"
+            },
+            {
+                "id": "3",
+                "text": "entered"
+            },
+            {
+                "id": "4",
+                "text": "pierced"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "57",
+        "text": "You think you're really hard, ___?",
+        "options": [
+            {
+                "id": "1",
+                "text": "doesn't you"
+            },
+            {
+                "id": "2",
+                "text": "do you"
+            },
+            {
+                "id": "3",
+                "text": "didn't you"
+            },
+            {
+                "id": "4",
+                "text": "don't you"
+            }
+        ],
+        "correct": 3,
+        "section": "Grammar",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "58",
+        "text": "There were so many _______ points in his speech that the audience _______ to get the message.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Superficial, listened"
+            },
+            {
+                "id": "2",
+                "text": "Interesting, tried"
+            },
+            {
+                "id": "3",
+                "text": "Irrelevant, failed"
+            },
+            {
+                "id": "4",
+                "text": "Relevant, hastened"
+            }
+        ],
+        "correct": 2,
+        "section": "Grammar",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "59",
+        "text": "I am allowed to take photographs inside the church, ______?",
+        "options": [
+            {
+                "id": "1",
+                "text": "shall I"
+            },
+            {
+                "id": "2",
+                "text": "aren\u2019t I"
+            },
+            {
+                "id": "3",
+                "text": "am I"
+            },
+            {
+                "id": "4",
+                "text": "can\u2019t I"
+            }
+        ],
+        "correct": 1,
+        "section": "Grammar",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "60",
+        "text": "You have memorised your speech, ______ you?",
+        "options": [
+            {
+                "id": "1",
+                "text": "hasn\u2019t"
+            },
+            {
+                "id": "2",
+                "text": "couldn\u2019t"
+            },
+            {
+                "id": "3",
+                "text": "didn\u2019t"
+            },
+            {
+                "id": "4",
+                "text": "haven\u2019t"
+            }
+        ],
+        "correct": 3,
+        "section": "Grammar",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "61",
+        "text": "The travel agency has sent the hotel reservation details for_______ holiday.",
+        "options": [
+            {
+                "id": "1",
+                "text": "ourselves"
+            },
+            {
+                "id": "2",
+                "text": "ours"
+            },
+            {
+                "id": "3",
+                "text": "our"
+            },
+            {
+                "id": "4",
+                "text": "us"
+            }
+        ],
+        "correct": 2,
+        "section": "Grammar",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "62",
+        "text": "This tree no longer bears______ fruit.",
+        "options": [
+            {
+                "id": "1",
+                "text": "many"
+            },
+            {
+                "id": "2",
+                "text": "some"
+            },
+            {
+                "id": "3",
+                "text": "any"
+            },
+            {
+                "id": "4",
+                "text": "few"
+            }
+        ],
+        "correct": 2,
+        "section": "Grammar",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "63",
+        "text": "If your dream is to be a police officer, then you must work on your quick-temper and stop being so ______.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Truculent"
+            },
+            {
+                "id": "2",
+                "text": "Ubiquitous"
+            },
+            {
+                "id": "3",
+                "text": "Indeterminate"
+            },
+            {
+                "id": "4",
+                "text": "Incorrigible"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "64",
+        "text": "The killer\u2019s wife begged the judge to give her husband _______ so he would be out of prison before she died.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Cognisance"
+            },
+            {
+                "id": "2",
+                "text": "Cessation"
+            },
+            {
+                "id": "3",
+                "text": "Clemency"
+            },
+            {
+                "id": "4",
+                "text": "Aversion"
+            }
+        ],
+        "correct": 2,
+        "section": "Vocabulary",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "65",
+        "text": "A great fire (1)______ in London in 1666, which (2)____ the city and made around 1,00,000 people homeless. This fire is said to have begun in a pudding lane. It (3)____ through the crowded streets and wooden houses. However, after the fire, London was (4)___ with wider streets and improved water supplies. New buildings were (5)___ using bricks instead of wood. Select the most appropriate option to fill in the blank no. 1.",
+        "options": [
+            {
+                "id": "1",
+                "text": "broke for"
+            },
+            {
+                "id": "2",
+                "text": "broke in"
+            },
+            {
+                "id": "3",
+                "text": "broke out"
+            },
+            {
+                "id": "4",
+                "text": "broke at"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "66",
+        "text": "A great fire (1)______ in London in 1666, which (2)____ the city and made around 1,00,000 people homeless. This fire is said to have begun in a pudding lane. It (3)____ through the crowded streets and wooden houses. However, after the fire, London was (4)___ with wider streets and improved water supplies. New buildings were (5)___ using bricks instead of wood. Select the most appropriate option to fill in the blank no. 2.",
+        "options": [
+            {
+                "id": "1",
+                "text": "destroyed"
+            },
+            {
+                "id": "2",
+                "text": "smashed"
+            },
+            {
+                "id": "3",
+                "text": "shattered"
+            },
+            {
+                "id": "4",
+                "text": "demolished"
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "67",
+        "text": "A great fire (1)______ in London in 1666, which (2)____ the city and made around 1,00,000 people homeless. This fire is said to have begun in a pudding lane. It (3)____ through the crowded streets and wooden houses. However, after the fire, London was (4)___ with wider streets and improved water supplies. New buildings were (5)___ using bricks instead of wood. Select the most appropriate option to fill in the blank no. 3.",
+        "options": [
+            {
+                "id": "1",
+                "text": "glided"
+            },
+            {
+                "id": "2",
+                "text": "carried"
+            },
+            {
+                "id": "3",
+                "text": "swept"
+            },
+            {
+                "id": "4",
+                "text": "pulled"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "68",
+        "text": "A great fire (1)______ in London in 1666, which (2)____ the city and made around 1,00,000 people homeless. This fire is said to have begun in a pudding lane. It (3)____ through the crowded streets and wooden houses. However, after the fire, London was (4)___ with wider streets and improved water supplies. New buildings were (5)___ using bricks instead of wood. Select the most appropriate option to fill in blank no. 4.",
+        "options": [
+            {
+                "id": "1",
+                "text": "rebuilt"
+            },
+            {
+                "id": "2",
+                "text": "innovated"
+            },
+            {
+                "id": "3",
+                "text": "modelled"
+            },
+            {
+                "id": "4",
+                "text": "restored"
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "69",
+        "text": "There are so many myths about the (1) ______ impacts of milk on health. Changing how much milk you drink because of (2) ______ myths may mean you are unnecessarily restricting this (3) ______ nutritious drink. Australians often restrict dairy foods when they try to (4) ______ weight believing them to be fattening. While dairy products naturally contain fat there are many reduced fat products (5) ______. Select the most appropriate option to fill in the blank number 1.",
+        "options": [
+            {
+                "id": "1",
+                "text": "kind"
+            },
+            {
+                "id": "2",
+                "text": "welcoming"
+            },
+            {
+                "id": "3",
+                "text": "impolite"
+            },
+            {
+                "id": "4",
+                "text": "negative"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "70",
+        "text": "There are so many myths about the (1) ______ impacts of milk on health. Changing how much milk you drink because of (2) ______ myths may mean you are unnecessarily restricting this (3) ______ nutritious drink. Australians often restrict dairy foods when they try to (4) ______ weight believing them to be fattening. While dairy products naturally contain fat there are many reduced fat products (5) ______. Select the most appropriate option to fill in the blank number 2.",
+        "options": [
+            {
+                "id": "1",
+                "text": "those"
+            },
+            {
+                "id": "2",
+                "text": "thus"
+            },
+            {
+                "id": "3",
+                "text": "these"
+            },
+            {
+                "id": "4",
+                "text": "this"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "71",
+        "text": "There are so many myths about the (1) ______ impacts of milk on health. Changing how much milk you drink because of (2) ______ myths may mean you are unnecessarily restricting this (3) ______ nutritious drink. Australians often restrict dairy foods when they try to (4) ______ weight believing them to be fattening. While dairy products naturally contain fat there are many reduced fat products (5) ______. Select the most appropriate option to fill in the blank number 5.",
+        "options": [
+            {
+                "id": "1",
+                "text": "inoperable"
+            },
+            {
+                "id": "2",
+                "text": "deficient"
+            },
+            {
+                "id": "3",
+                "text": "durable"
+            },
+            {
+                "id": "4",
+                "text": "available"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "72",
+        "text": "India is one of the largest producers of tea in the world. The industry is (1)________ recognised as technically very well (2) ________. The Indian tea industry is a (3) ________one traditionally. Tea has been used in India for (4) ________ purposes as well as for (5) ________. Select the most appropriate option to fill in the blank number 1.",
+        "options": [
+            {
+                "id": "1",
+                "text": "globally"
+            },
+            {
+                "id": "2",
+                "text": "tediously"
+            },
+            {
+                "id": "3",
+                "text": "industrially"
+            },
+            {
+                "id": "4",
+                "text": "mutually"
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "73",
+        "text": "Air pollution has jumped to number five spot amongst the top killers in India. Releasing India-specific data, the Global Burden of Disease (GBD) warned that outdoor air pollution caused 8,27,000 deaths and 17.7 million healthy years of life in 2010 Worldwide, outdoor air pollution caused 3.2 million premature deaths and over 74 million years of healthy life in 2010 A substantial rise in cardiovascular diseases, strokes and chronic obstructive pulmonary diseases in India in 2010 are directly attributed to the rising levels of particulate matter pollution. Two-thirds of the rising disease graphs worldwide are found in South Asia. What does the 60% rise in lung cancer cases in non-smokers indicate?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Non-smokers are careless about their health."
+            },
+            {
+                "id": "2",
+                "text": "Non-smokers are secretly smoking."
+            },
+            {
+                "id": "3",
+                "text": "Air pollution has become a major cause of lung cancer."
+            },
+            {
+                "id": "4",
+                "text": "The data collected on the rise in lung cancer is inaccurate."
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "74",
+        "text": "Why is ozone a dangerous new-generation pollutant? A. It is a major constituent of urban smog. B. It is responsible for a four per cent increase is mortality rates. C. It is highly toxic.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Only A"
+            },
+            {
+                "id": "2",
+                "text": "Only B"
+            },
+            {
+                "id": "3",
+                "text": "Only C"
+            },
+            {
+                "id": "4",
+                "text": "Only A and B"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "75",
+        "text": "Which of the following is the opposite of the word 'chronic' given in bold in the above passage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Prolonged"
+            },
+            {
+                "id": "2",
+                "text": "Enduring"
+            },
+            {
+                "id": "3",
+                "text": "Long lasting"
+            },
+            {
+                "id": "4",
+                "text": "Fleeting"
+            }
+        ],
+        "correct": 3,
+        "section": "Vocabulary",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "76",
+        "text": "Which of the following sentence/s is true about women in the Gujjar community? A. They use biomass for cooking. B. They are highly prone to cancer because of indoor air pollution. C. They are concerned about the pollution caused by biomass.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Only A"
+            },
+            {
+                "id": "2",
+                "text": "Only A and B"
+            },
+            {
+                "id": "3",
+                "text": "Only B"
+            },
+            {
+                "id": "4",
+                "text": "Only C"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "77",
+        "text": "What kinds of diseases are caused by air pollution? A. Diabetes, obesity, depression B. Allergies, asthma, bronchitis C. Hair fall, loss of appetite, weight loss",
+        "options": [
+            {
+                "id": "1",
+                "text": "Only A"
+            },
+            {
+                "id": "2",
+                "text": "Only B"
+            },
+            {
+                "id": "3",
+                "text": "Only C"
+            },
+            {
+                "id": "4",
+                "text": "Only A and B"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "78",
+        "text": "Which of the following statements is false according to the passage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Two-thirds of the rising disease graphs worldwide are found in South Asia."
+            },
+            {
+                "id": "2",
+                "text": "A study of lung cancer amongst non-smokers had shown a 60 per cent increase caused by air pollution."
+            },
+            {
+                "id": "3",
+                "text": "The 2010 GBD was produced by a rigorous scientific process involving 150 global experts."
+            },
+            {
+                "id": "4",
+                "text": "The head of oncology department confirmed getting thousands of new cases of lung cancer every year."
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "79",
+        "text": "Choose the word that is closest in meaning to the word given in bold in the passage 'substantial?'",
+        "options": [
+            {
+                "id": "1",
+                "text": "Significant"
+            },
+            {
+                "id": "2",
+                "text": "Inconsiderable"
+            },
+            {
+                "id": "3",
+                "text": "Unreal"
+            },
+            {
+                "id": "4",
+                "text": "Dissatisfying"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "80",
+        "text": "Choose the word that is closest in meaning to the word given in bold in the passage, 'Emerged?'",
+        "options": [
+            {
+                "id": "1",
+                "text": "Hid"
+            },
+            {
+                "id": "2",
+                "text": "Camouflaged"
+            },
+            {
+                "id": "3",
+                "text": "Came forth"
+            },
+            {
+                "id": "4",
+                "text": "Underneath"
+            }
+        ],
+        "correct": 2,
+        "section": "Vocabulary",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "81",
+        "text": "Q98. Read the passage given below and answer the questions/complete the statements that follow by choosing the correct options out of the given ones. What was the reason the old man flattered Srinivas's wife?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Because it is an example of good manners."
+            },
+            {
+                "id": "2",
+                "text": "Because he wanted to be welcomed."
+            },
+            {
+                "id": "3",
+                "text": "Because he had met her for the first time."
+            },
+            {
+                "id": "4",
+                "text": "both 1 and 2 ."
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "82",
+        "text": "Read the following statements and answer the following. (a) Srinivas's wife treated the old man very well. (b) The old man enjoyed his food.",
+        "options": [
+            {
+                "id": "1",
+                "text": "(a) is right and (b) is wrong."
+            },
+            {
+                "id": "2",
+                "text": "(b) is right and (a) is wrong."
+            },
+            {
+                "id": "3",
+                "text": "Both (a) and (b) are right."
+            },
+            {
+                "id": "4",
+                "text": "Both (a) and (b) are wrong."
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "83",
+        "text": "Why was the old man felt overjoyed on receiving the invitation?",
+        "options": [
+            {
+                "id": "1",
+                "text": "The old man was very hungry."
+            },
+            {
+                "id": "2",
+                "text": "The meal was prepared by an experienced cook."
+            },
+            {
+                "id": "3",
+                "text": "Srinivas would not have accepted no as an answer."
+            },
+            {
+                "id": "4",
+                "text": "A rich aroma of food was coming out of the kitchen."
+            }
+        ],
+        "correct": 0,
+        "section": "Reading Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "84",
+        "text": "Which is the closest meaning to word \"affably?\"",
+        "options": [
+            {
+                "id": "1",
+                "text": "Dangerous"
+            },
+            {
+                "id": "2",
+                "text": "Friendly"
+            },
+            {
+                "id": "3",
+                "text": "Reluctant"
+            },
+            {
+                "id": "4",
+                "text": "Opposite"
+            }
+        ],
+        "correct": 1,
+        "section": "Vocabulary",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "85",
+        "text": "What is the central idea of the passage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "war between Science and technology."
+            },
+            {
+                "id": "2",
+                "text": "Science and technology together can lead to advancement of human civilization."
+            },
+            {
+                "id": "3",
+                "text": "Importance of societal acceptance for betterment of human civilization."
+            },
+            {
+                "id": "4",
+                "text": "Primary research can't be completed without technological development."
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "86",
+        "text": "Select the correct indirect form of the given sentence. You said to me, \u201cWill you dance with me?\u201d",
+        "options": [
+            {
+                "id": "1",
+                "text": "You asked me that if I would dance with you."
+            },
+            {
+                "id": "2",
+                "text": "You asked me will you dance with me."
+            },
+            {
+                "id": "3",
+                "text": "You asked me if I will dance with you."
+            },
+            {
+                "id": "4",
+                "text": "You asked me if I would dance with you."
+            }
+        ],
+        "correct": 3,
+        "section": "Grammar",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "87",
+        "text": "Select the correct direct form of the given sentence. The secretary assures the audience that he/she is going to help them.",
+        "options": [
+            {
+                "id": "1",
+                "text": "The secretary said to the audience, \u201cI am going to help you.\u201d"
+            },
+            {
+                "id": "2",
+                "text": "The secretary says to the audience, \u201cI am going to help you.\u201d"
+            },
+            {
+                "id": "3",
+                "text": "The secretary says to the audience, \u201cI was going to help you.\u201d"
+            },
+            {
+                "id": "4",
+                "text": "The secretary says to the audience, \u201cI will be going to help you.\u201d"
+            }
+        ],
+        "correct": 1,
+        "section": "Grammar",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "88",
+        "text": "Q110. Choose the correct answer. Statement: Mandatory vaccinations should be enforced to prevent the spread of infectious diseases. Argument: Vaccinations create herd immunity, protecting vulnerable populations such as infants and individuals with compromised immune systems.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Both the statement and the argument are true, and the argument is the valid explanation of the statement."
+            },
+            {
+                "id": "2",
+                "text": "The statement is true, but the argument is not a valid explanation of the statement."
+            },
+            {
+                "id": "3",
+                "text": "The statement is false, but the argument is true."
+            },
+            {
+                "id": "4",
+                "text": "Both the statement and the argument are false."
+            }
+        ],
+        "correct": 0,
+        "section": "Logical Reasoning",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "89",
+        "text": "What is the purpose of using clear and concise subject lines in email communication?",
+        "options": [
+            {
+                "id": "1",
+                "text": "To confuse recipients"
+            },
+            {
+                "id": "2",
+                "text": "To prioritize and understand the email's purpose quickly"
+            },
+            {
+                "id": "3",
+                "text": "To increase the length of the email"
+            },
+            {
+                "id": "4",
+                "text": "To disregard the content of the email"
+            }
+        ],
+        "correct": 1,
+        "section": "Professional Communication",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "90",
+        "text": "Q112. Which acronym represents a specialized processor for rendering graphics and images?",
+        "options": [
+            {
+                "id": "1",
+                "text": "OS"
+            },
+            {
+                "id": "2",
+                "text": "GPU"
+            },
+            {
+                "id": "3",
+                "text": "SSD"
+            },
+            {
+                "id": "4",
+                "text": "DNS"
+            }
+        ],
+        "correct": 1,
+        "section": "Computer Basics",
+        "correctAnswer": "2"
+    }
+]

@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "What is the main purpose of an HDD?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Temporary data storage"
+            },
+            {
+                "id": "2",
+                "text": "Graphics rendering"
+            },
+            {
+                "id": "3",
+                "text": "Long-term data retention"
+            },
+            {
+                "id": "4",
+                "text": "Network communication"
+            }
+        ],
+        "correct": 2,
+        "section": "COMPUTER TERMINOLOGY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "2",
+        "text": "Which protocol is used for secure data transfer over the internet?",
+        "options": [
+            {
+                "id": "1",
+                "text": "HTTP"
+            },
+            {
+                "id": "2",
+                "text": "HTTPS"
+            },
+            {
+                "id": "3",
+                "text": "DNS"
+            },
+            {
+                "id": "4",
+                "text": "FTP"
+            }
+        ],
+        "correct": 1,
+        "section": "COMPUTER TERMINOLOGY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "3",
+        "text": "What does API stand for in the field of software development?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Application Processing Interface"
+            },
+            {
+                "id": "2",
+                "text": "Advanced Programming Interface"
+            },
+            {
+                "id": "3",
+                "text": "Artificial Programming Interface"
+            },
+            {
+                "id": "4",
+                "text": "Application Programming Interface"
+            }
+        ],
+        "correct": 3,
+        "section": "COMPUTER TERMINOLOGY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "4",
+        "text": "In the context of databases, what does CRUD stand for?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Create, Read, Update, Delete"
+            },
+            {
+                "id": "2",
+                "text": "Control, Retrieve, Update, Deliver"
+            },
+            {
+                "id": "3",
+                "text": "Compute, Remove, Update, Deploy"
+            },
+            {
+                "id": "4",
+                "text": "Centralize, Retrieve, Update, Distribute"
+            }
+        ],
+        "correct": 0,
+        "section": "COMPUTER TERMINOLOGY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "5",
+        "text": "The value of tan\u00b2 \u03b8 + cot\u00b2 \u03b8 - sec\u00b2 \u03b8 cosec\u00b2 \u03b8 is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "2"
+            },
+            {
+                "id": "2",
+                "text": "-2"
+            },
+            {
+                "id": "3",
+                "text": "0"
+            },
+            {
+                "id": "4",
+                "text": "1/2"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-C: MATHEMATICAL ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "6",
+        "text": "A coconut tree swings with the wind in such a manner that the angle covered by its trunk is 18\u00b0. If the topmost portion of the tree covers a distance of 44 metres, find the length of the tree. ( tan 18\u00b0 = 0.3249).",
+        "options": [
+            {
+                "id": "1",
+                "text": "120 metres"
+            },
+            {
+                "id": "2",
+                "text": "210 metres"
+            },
+            {
+                "id": "3",
+                "text": "140 metres"
+            },
+            {
+                "id": "4",
+                "text": "70 metres"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-C: MATHEMATICAL ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "7",
+        "text": "Two numbers are in the ratio of 6 : 5. If their HCF is 3, then what is the LCM of the two numbers?",
+        "options": [
+            {
+                "id": "1",
+                "text": "64"
+            },
+            {
+                "id": "2",
+                "text": "110"
+            },
+            {
+                "id": "3",
+                "text": "90"
+            },
+            {
+                "id": "4",
+                "text": "80"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-C: MATHEMATICAL ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "8",
+        "text": "What is the ratio between the HCF and LCM of the numbers whose LCM is 48 and the product of the numbers is 384?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1 : 4"
+            },
+            {
+                "id": "2",
+                "text": "1 : 6"
+            },
+            {
+                "id": "3",
+                "text": "1 : 3"
+            },
+            {
+                "id": "4",
+                "text": "2 : 5"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-C: MATHEMATICAL ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "9",
+        "text": "If a 7-digit number 54p3987 is divisible by 11, then p is equal to:",
+        "options": [
+            {
+                "id": "1",
+                "text": "5"
+            },
+            {
+                "id": "2",
+                "text": "9"
+            },
+            {
+                "id": "3",
+                "text": "4"
+            },
+            {
+                "id": "4",
+                "text": "1"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-C: MATHEMATICAL ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "10",
+        "text": "If the number 6788934a4 is divisible by 11, then find the smallest whole number in the place of a.",
+        "options": [
+            {
+                "id": "1",
+                "text": "3"
+            },
+            {
+                "id": "2",
+                "text": "4"
+            },
+            {
+                "id": "3",
+                "text": "5"
+            },
+            {
+                "id": "4",
+                "text": "2"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-C: MATHEMATICAL ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "11",
+        "text": "Find the smallest number that can be subtracted from 148109326 so that it becomes divisible by 8.",
+        "options": [
+            {
+                "id": "1",
+                "text": "4"
+            },
+            {
+                "id": "2",
+                "text": "8"
+            },
+            {
+                "id": "3",
+                "text": "6"
+            },
+            {
+                "id": "4",
+                "text": "10"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-C: MATHEMATICAL ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "12",
+        "text": "Find the value of 80.40 \u00f7 20 - (-4.02) + 2.06 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "9.8"
+            },
+            {
+                "id": "2",
+                "text": "10.2"
+            },
+            {
+                "id": "3",
+                "text": "10.1"
+            },
+            {
+                "id": "4",
+                "text": "8.2"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-C: MATHEMATICAL ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "13",
+        "text": "Simplify the following expression. 120 \u00f7 15 of 4 + [11 \u00d7 4 \u00f7 4 of {4 \u00d7 2 \u2013 (8 \u2013 11)}]",
+        "options": [
+            {
+                "id": "1",
+                "text": "120/61"
+            },
+            {
+                "id": "2",
+                "text": "61/120"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "-3"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-C: MATHEMATICAL ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "14",
+        "text": "Determine the LCM of two numbers if their HCF is 9 and their ratio is 14 : 19.",
+        "options": [
+            {
+                "id": "1",
+                "text": "2394"
+            },
+            {
+                "id": "2",
+                "text": "3990"
+            },
+            {
+                "id": "3",
+                "text": "1596"
+            },
+            {
+                "id": "4",
+                "text": "3192"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-C: MATHEMATICAL ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "15",
+        "text": "The HCF of three numbers 98, 175 and 210 will be:",
+        "options": [
+            {
+                "id": "1",
+                "text": "6"
+            },
+            {
+                "id": "2",
+                "text": "3"
+            },
+            {
+                "id": "3",
+                "text": "5"
+            },
+            {
+                "id": "4",
+                "text": "7"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-C: MATHEMATICAL ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "16",
+        "text": "The HCF of the two numbers is 21 and their LCM is 840. If one of the numbers is 49, then the other number is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "650"
+            },
+            {
+                "id": "2",
+                "text": "540"
+            },
+            {
+                "id": "3",
+                "text": "810"
+            },
+            {
+                "id": "4",
+                "text": "360"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-C: MATHEMATICAL ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "17",
+        "text": "The ratio of expenditure to savings of a woman is 5 : 1. If her income and expenditure are increased by 10% and 20%, respectively, then find the percentage change in her savings.",
+        "options": [
+            {
+                "id": "1",
+                "text": "55%"
+            },
+            {
+                "id": "2",
+                "text": "60%"
+            },
+            {
+                "id": "3",
+                "text": "50%"
+            },
+            {
+                "id": "4",
+                "text": "40%"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-C: MATHEMATICAL ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "18",
+        "text": "The length and breadth of a rectangle are increased by 8% and 5%, respectively. By how much percentage will the area of the rectangle increase?",
+        "options": [
+            {
+                "id": "1",
+                "text": "13.4%"
+            },
+            {
+                "id": "2",
+                "text": "15.4%"
+            },
+            {
+                "id": "3",
+                "text": "12.4%"
+            },
+            {
+                "id": "4",
+                "text": "16.4%"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-C: MATHEMATICAL ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "19",
+        "text": "The price of a scooter increases successively by10%, 5% and 15%. What is the total percentage increase in price of scooter?",
+        "options": [
+            {
+                "id": "1",
+                "text": "32 33/40%"
+            },
+            {
+                "id": "2",
+                "text": "34 21/40 %"
+            },
+            {
+                "id": "3",
+                "text": "30 11/40 %"
+            },
+            {
+                "id": "4",
+                "text": "36 31/40%"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-C: MATHEMATICAL ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "20",
+        "text": "The expenditure on the cost of living of a man and his family is 60% of his salary. He gets two increments of 30% and 60% of his salary. If his savings increase by 250% of his initial savings, then the new cost of living expenditure is what percentage (rounded off to the one digit after decimal) of the increased salary?",
+        "options": [
+            {
+                "id": "1",
+                "text": "32.7%"
+            },
+            {
+                "id": "2",
+                "text": "43.6%"
+            },
+            {
+                "id": "3",
+                "text": "29.5%"
+            },
+            {
+                "id": "4",
+                "text": "36.6%"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-C: MATHEMATICAL ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "21",
+        "text": "The sum of two numbers is 680. If the bigger number is decreased by 15% and the smaller number is increased by 15%, then the resultant numbers are equal. Find the smaller number.",
+        "options": [
+            {
+                "id": "1",
+                "text": "307"
+            },
+            {
+                "id": "2",
+                "text": "285"
+            },
+            {
+                "id": "3",
+                "text": "289"
+            },
+            {
+                "id": "4",
+                "text": "304"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-C: MATHEMATICAL ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "22",
+        "text": "Shiva's monthly salary is Rs.75,000. He spends Rs.12,000 on household items, Rs.14,000 on LIC and mutual funds, Rs.15,000 on his children's education, and keeps Rs.10,000 for miscellaneous expenses. His savings are Rs.21,000 per month and he donates the rest of the amount to an orphanage. The percentage of his income that he donates is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "3%"
+            },
+            {
+                "id": "2",
+                "text": "6%"
+            },
+            {
+                "id": "3",
+                "text": "8%"
+            },
+            {
+                "id": "4",
+                "text": "4%"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-C: MATHEMATICAL ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "23",
+        "text": "Riya could not decide between a discount of 30% or two successive discounts of 25% and 5%, both given on shopping of INR 3,840. What is the difference between both the discounts?",
+        "options": [
+            {
+                "id": "1",
+                "text": "INR 44"
+            },
+            {
+                "id": "2",
+                "text": "INR 48"
+            },
+            {
+                "id": "3",
+                "text": "INR 42"
+            },
+            {
+                "id": "4",
+                "text": "INR 46"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-C: MATHEMATICAL ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "24",
+        "text": "If 450 men can finish construction of an apartment in 20 days, then how many men are needed to complete the same work in 30 days?",
+        "options": [
+            {
+                "id": "1",
+                "text": "150"
+            },
+            {
+                "id": "2",
+                "text": "300"
+            },
+            {
+                "id": "3",
+                "text": "400"
+            },
+            {
+                "id": "4",
+                "text": "250"
+            }
+        ],
+        "correct": 1,
+        "section": "MATHEMATICS",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "25",
+        "text": "Two persons A and B working separately can sanitise a building in 6 hours and 10 hours, respectively. They work in stretches of one hour alternately. If A begins at 8 a.m., then when will the work be finished?",
+        "options": [
+            {
+                "id": "1",
+                "text": "9 and 1/3 hours."
+            },
+            {
+                "id": "2",
+                "text": "7 and 1/3 hours."
+            },
+            {
+                "id": "3",
+                "text": "6 and 1/3 hours."
+            },
+            {
+                "id": "4",
+                "text": "8 and 1/3 hours."
+            }
+        ],
+        "correct": 1,
+        "section": "MATHEMATICS",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "26",
+        "text": "A policeman sees a chain snatcher at a distance of 500 m. He starts chasing the chain snatcher who is running at a speed of 5 m/s, while the policemen are chasing him at a speed of 15 m/s. When the chain snatcher is caught by the policemen, what distance will the chain snatcher have covered?",
+        "options": [
+            {
+                "id": "1",
+                "text": "200 m"
+            },
+            {
+                "id": "2",
+                "text": "180 m"
+            },
+            {
+                "id": "3",
+                "text": "150 m"
+            },
+            {
+                "id": "4",
+                "text": "250 m"
+            }
+        ],
+        "correct": 3,
+        "section": "MATHEMATICS",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "27",
+        "text": "In a 1500 m race, Anil beats Bakul by 150 m, and in the same race, Bakul beats Charles by 75 m. By what distance does Anil beat Charles?",
+        "options": [
+            {
+                "id": "1",
+                "text": "217.50 m"
+            },
+            {
+                "id": "2",
+                "text": "200.15 m"
+            },
+            {
+                "id": "3",
+                "text": "293.50 m"
+            },
+            {
+                "id": "4",
+                "text": "313.75 m"
+            }
+        ],
+        "correct": 0,
+        "section": "MATHEMATICS",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "28",
+        "text": "A man rows a boat a certain distance downstream in 9 hours, while it takes 18 hours to row the same distance upstream. How many hours will it take him to row three-fifth of the same distance in still water?",
+        "options": [
+            {
+                "id": "1",
+                "text": "9.5"
+            },
+            {
+                "id": "2",
+                "text": "7.2"
+            },
+            {
+                "id": "3",
+                "text": "10"
+            },
+            {
+                "id": "4",
+                "text": "12"
+            }
+        ],
+        "correct": 1,
+        "section": "MATHEMATICS",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "29",
+        "text": "Two stations R and S are 400 km apart from each other. A train leaves from R to S and simultaneously another train leaves from S to R. Both trains meet after 10 hours. If the speed of the first train is 4 km/hr more than the second train, then what is the speed of the slower train?",
+        "options": [
+            {
+                "id": "1",
+                "text": "18 km/hr"
+            },
+            {
+                "id": "2",
+                "text": "26 km/hr"
+            },
+            {
+                "id": "3",
+                "text": "16 km/hr"
+            },
+            {
+                "id": "4",
+                "text": "22 km/hr"
+            }
+        ],
+        "correct": 0,
+        "section": "MATHEMATICS",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "30",
+        "text": "What is the ratio of the mean proportional between 1.6 and 3.6 and the third proportional of 5 and 8?",
+        "options": [
+            {
+                "id": "1",
+                "text": "2:15"
+            },
+            {
+                "id": "2",
+                "text": "5:16"
+            },
+            {
+                "id": "3",
+                "text": "3:16"
+            },
+            {
+                "id": "4",
+                "text": "4:15"
+            }
+        ],
+        "correct": 2,
+        "section": "MATHEMATICS",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "31",
+        "text": "The ratio of the present age of father to that of his son is 7 : 2. If after 10 years the ratio of their ages will become 9 : 4, then the present age of the father is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "43 years"
+            },
+            {
+                "id": "2",
+                "text": "35 years"
+            },
+            {
+                "id": "3",
+                "text": "37 years"
+            },
+            {
+                "id": "4",
+                "text": "40 years"
+            }
+        ],
+        "correct": 1,
+        "section": "MATHEMATICS",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "32",
+        "text": "A container contains 25 litre of milk. From this container, 5 litre of milk is taken out and replaced by water. This process is further repeated two times. How much milk is there in the container now?",
+        "options": [
+            {
+                "id": "1",
+                "text": "11.5 litre"
+            },
+            {
+                "id": "2",
+                "text": "14.8 litre"
+            },
+            {
+                "id": "3",
+                "text": "13.5 litre"
+            },
+            {
+                "id": "4",
+                "text": "12.8 litre"
+            }
+        ],
+        "correct": 3,
+        "section": "MATHEMATICS",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "33",
+        "text": "The batting average for 27 innings of a cricket player is 47 runs. His highest score in an innings exceeds his lowest score by 157 runs. If these two innings are excluded, the average score of the remaining 25 innings is 42 runs. Find his highest score in an innings.",
+        "options": [
+            {
+                "id": "1",
+                "text": "176"
+            },
+            {
+                "id": "2",
+                "text": "188"
+            },
+            {
+                "id": "3",
+                "text": "186"
+            },
+            {
+                "id": "4",
+                "text": "174"
+            }
+        ],
+        "correct": 1,
+        "section": "MATHEMATICS",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "34",
+        "text": "Ten men begin to do a work. But after some days, four of them left the job. As a result, the job that could have been completed in 40 days is completed in 50 days. How many days after the commencement of the work did the four men leave?",
+        "options": [
+            {
+                "id": "1",
+                "text": "30"
+            },
+            {
+                "id": "2",
+                "text": "20"
+            },
+            {
+                "id": "3",
+                "text": "35"
+            },
+            {
+                "id": "4",
+                "text": "25"
+            }
+        ],
+        "correct": 3,
+        "section": "MATHEMATICS",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "35",
+        "text": "A and B can complete a work in 10 and 16 days respectively. A begins to do the work and they work alternatively one at a time for one day each. The whole work will be completed in:",
+        "options": [
+            {
+                "id": "1",
+                "text": "12 1/4 days"
+            },
+            {
+                "id": "2",
+                "text": "13 1/4 days"
+            },
+            {
+                "id": "3",
+                "text": "15 1/4 days"
+            },
+            {
+                "id": "4",
+                "text": "14 1/4 days"
+            }
+        ],
+        "correct": 0,
+        "section": "MATHEMATICS",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "36",
+        "text": "The average of six numbers is 3.52. The average of two of them is 3.7, while the average of the other two is 2.5. What is the average of the remaining two?",
+        "options": [
+            {
+                "id": "1",
+                "text": "3.7"
+            },
+            {
+                "id": "2",
+                "text": "2.5"
+            },
+            {
+                "id": "3",
+                "text": "4.36"
+            },
+            {
+                "id": "4",
+                "text": "3.52"
+            }
+        ],
+        "correct": 2,
+        "section": "MATHEMATICS",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "37",
+        "text": "Ram, Shyam, Rohan, Reeta, and Mukesh are five members of a family who are weighed consecutively and their average weight is calculated after each member is weighed. If the average weight increases by 2 kg each time, how much heavier is Mukesh than Ram?",
+        "options": [
+            {
+                "id": "1",
+                "text": "14 kg"
+            },
+            {
+                "id": "2",
+                "text": "18 kg"
+            },
+            {
+                "id": "3",
+                "text": "16 kg"
+            },
+            {
+                "id": "4",
+                "text": "12 kg"
+            }
+        ],
+        "correct": 2,
+        "section": "MATHEMATICS",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "38",
+        "text": "A copper sphere of diameter 18 cm is drawn into a wire of diameter 6 mm. Find the length of the wire.",
+        "options": [
+            {
+                "id": "1",
+                "text": "143 m"
+            },
+            {
+                "id": "2",
+                "text": "108 m"
+            },
+            {
+                "id": "3",
+                "text": "324 m"
+            },
+            {
+                "id": "4",
+                "text": "234 m"
+            }
+        ],
+        "correct": 1,
+        "section": "MATHEMATICS",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "39",
+        "text": "A hemisphere of lead of radius 4 cm is cast into a right circular cone of height 72 cm. What is the radius of the base of the cone?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1.63 cm"
+            },
+            {
+                "id": "2",
+                "text": "1.35 cm"
+            },
+            {
+                "id": "3",
+                "text": "1.33 cm"
+            },
+            {
+                "id": "4",
+                "text": "1.45cm"
+            }
+        ],
+        "correct": 2,
+        "section": "MATHEMATICS",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "40",
+        "text": "A solid metallic sphere of radius 12 cm is melted and recast into a cone having a diameter of the base of 12 cm. What is the height of the cone?",
+        "options": [
+            {
+                "id": "1",
+                "text": "258 cm"
+            },
+            {
+                "id": "2",
+                "text": "192 cm"
+            },
+            {
+                "id": "3",
+                "text": "166 cm"
+            },
+            {
+                "id": "4",
+                "text": "224 cm"
+            }
+        ],
+        "correct": 1,
+        "section": "MATHEMATICS",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "41",
+        "text": "A conical vessel, whose internal radius is 20 cm and height is 27 cm, is full of water. If this water is poured into a cylindrical vessel with an internal radius of 15cm, what will be the height to which the water rises in it?",
+        "options": [
+            {
+                "id": "1",
+                "text": "16 cm"
+            },
+            {
+                "id": "2",
+                "text": "10 cm"
+            },
+            {
+                "id": "3",
+                "text": "12 cm"
+            },
+            {
+                "id": "4",
+                "text": "14 cm"
+            }
+        ],
+        "correct": 0,
+        "section": "MATHEMATICS",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "42",
+        "text": "A conical vessel (solid) is made of iron. Its base radius is 7 cm and its height is 15 cm. If the weight of the iron per cubic centimetre is 15 g, what is the weight of the vessel?",
+        "options": [
+            {
+                "id": "1",
+                "text": "13.55 kg"
+            },
+            {
+                "id": "2",
+                "text": "12.55 kg"
+            },
+            {
+                "id": "3",
+                "text": "14.55 kg"
+            },
+            {
+                "id": "4",
+                "text": "11.55 kg"
+            }
+        ],
+        "correct": 3,
+        "section": "MATHEMATICS",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "43",
+        "text": "The area of the floor of a cubical room is 64 m\u00b2. The length of the longest rod that can be kept in the room is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "16 \u221a3 m"
+            },
+            {
+                "id": "2",
+                "text": "4 \u221a3 m"
+            },
+            {
+                "id": "3",
+                "text": "12 \u221a3 m"
+            },
+            {
+                "id": "4",
+                "text": "8 \u221a3 m"
+            }
+        ],
+        "correct": 3,
+        "section": "MATHEMATICS",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "44",
+        "text": "A hollow sphere has an outer radius of 6 cm and inner radius of 3 cm. What is the volume of this hollow sphere?",
+        "options": [
+            {
+                "id": "1",
+                "text": "252\u03c0 cm\u00b3"
+            },
+            {
+                "id": "2",
+                "text": "356\u03c0 cm\u00b3"
+            },
+            {
+                "id": "3",
+                "text": "144\u03c0 cm\u00b3"
+            },
+            {
+                "id": "4",
+                "text": "175 cm\u00b3"
+            }
+        ],
+        "correct": 0,
+        "section": "MATHEMATICS",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "45",
+        "text": "How many four digit numbers can be made with the digits 1, 2, 3, 4, 5, 6, 7 which are divisible by 5 when none of the digits are repeated?",
+        "options": [
+            {
+                "id": "1",
+                "text": "120"
+            },
+            {
+                "id": "2",
+                "text": "24"
+            },
+            {
+                "id": "3",
+                "text": "35"
+            },
+            {
+                "id": "4",
+                "text": "720"
+            }
+        ],
+        "correct": 0,
+        "section": "MATHEMATICS",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "46",
+        "text": "Seven persons are to be seated in a row. The probability that two particular persons sit next to each other is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/3"
+            },
+            {
+                "id": "2",
+                "text": "1/6"
+            },
+            {
+                "id": "3",
+                "text": "2/7"
+            },
+            {
+                "id": "4",
+                "text": "1/2"
+            }
+        ],
+        "correct": 2,
+        "section": "PROBABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "47",
+        "text": "Three numbers are chosen from 1 to 20. Find the probability that they are not consecutive",
+        "options": [
+            {
+                "id": "1",
+                "text": "186/190"
+            },
+            {
+                "id": "2",
+                "text": "187/190"
+            },
+            {
+                "id": "3",
+                "text": "189/190"
+            },
+            {
+                "id": "4",
+                "text": "20 C3"
+            }
+        ],
+        "correct": 1,
+        "section": "PROBABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "48",
+        "text": "Determine the probability p, for the following event A king, 9 of hearts, or 3 of spades appears in drawing a single card from a well-shuffled ordinary deck of 52 cards.",
+        "options": [
+            {
+                "id": "1",
+                "text": "2/13"
+            },
+            {
+                "id": "2",
+                "text": "1/13"
+            },
+            {
+                "id": "3",
+                "text": "3/26"
+            },
+            {
+                "id": "4",
+                "text": "5/52"
+            }
+        ],
+        "correct": 2,
+        "section": "PROBABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "49",
+        "text": "In a population of 10,000 individuals, a rare disease affects 1 in every 1000 people. A diagnostic test for the disease has been developed, with a sensitivity of 98% and a specificity of 95%. If a randomly selected individual tests positive for the disease, what is the probability that they actually have the disease if they belong to a high-risk group with a disease prevalence of 5%?",
+        "options": [
+            {
+                "id": "1",
+                "text": "0.10%"
+            },
+            {
+                "id": "2",
+                "text": "0.49%"
+            },
+            {
+                "id": "3",
+                "text": "1.96%"
+            },
+            {
+                "id": "4",
+                "text": "9.80%"
+            }
+        ],
+        "correct": 1,
+        "section": "PROBABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "50",
+        "text": "The mean and standard deviation of the weights of 200 objects were found to be 75 kg and 9 kg, respectively. Later, it was discovered that a weight of 75 kg was wrongly recorded as 80 kg. What are the correct mean and standard deviation, respectively?",
+        "options": [
+            {
+                "id": "1",
+                "text": "74 kg and 9 kg"
+            },
+            {
+                "id": "2",
+                "text": "75 kg and 9 kg"
+            },
+            {
+                "id": "3",
+                "text": "75 kg and 8 kg"
+            },
+            {
+                "id": "4",
+                "text": "74 kg and 8 kg"
+            }
+        ],
+        "correct": 0,
+        "section": "STATISTICS",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "51",
+        "text": "The slope of the line passing through the points (2, -1) and (x, 5) is \u22121. Find x.",
+        "options": [
+            {
+                "id": "1",
+                "text": "4"
+            },
+            {
+                "id": "2",
+                "text": "-4"
+            },
+            {
+                "id": "3",
+                "text": "-8"
+            },
+            {
+                "id": "4",
+                "text": "8"
+            }
+        ],
+        "correct": 1,
+        "section": "MATHEMATICS",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "52",
+        "text": "lim x\u21920 sin^-1 x - tan^-1 x / x^3 is equal to",
+        "options": [
+            {
+                "id": "1",
+                "text": "2"
+            },
+            {
+                "id": "2",
+                "text": "1"
+            },
+            {
+                "id": "3",
+                "text": "-1"
+            },
+            {
+                "id": "4",
+                "text": "1/2"
+            }
+        ],
+        "correct": 3,
+        "section": "MATHEMATICS",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "53",
+        "text": "If A \u2229 B = {3, 4, 5, 6} and A \u2229 C= {5} then the value of set A \u2229 (B-C) is ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "{3, 4, 5, 6}"
+            },
+            {
+                "id": "2",
+                "text": "{3}"
+            },
+            {
+                "id": "3",
+                "text": "{3,4,6}"
+            },
+            {
+                "id": "4",
+                "text": "{3,5}"
+            }
+        ],
+        "correct": 2,
+        "section": "MATHEMATICS",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "54",
+        "text": "Find the domain of the function f(x) = |x|",
+        "options": [
+            {
+                "id": "1",
+                "text": "Positive integers"
+            },
+            {
+                "id": "2",
+                "text": "Negative integers"
+            },
+            {
+                "id": "3",
+                "text": "Both (a) and (b)"
+            },
+            {
+                "id": "4",
+                "text": "None of the above"
+            }
+        ],
+        "correct": 2,
+        "section": "MATHEMATICS",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "55",
+        "text": "A coconut tree swings with the wind in such a manner that the angle covered by its trunk is 18\u00b0. If the topmost portion of the tree covers a distance of 44 metres, find the length of the tree. (tan 18\u00b0 = 0.3249).",
+        "options": [
+            {
+                "id": "1",
+                "text": "120 metres"
+            },
+            {
+                "id": "2",
+                "text": "210 metres"
+            },
+            {
+                "id": "3",
+                "text": "140 metres"
+            },
+            {
+                "id": "4",
+                "text": "70 metres"
+            }
+        ],
+        "correct": 2,
+        "section": "MATHEMATICS",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "56",
+        "text": "Study the given triangle and find the length of BC.",
+        "options": [
+            {
+                "id": "1",
+                "text": "5/2"
+            },
+            {
+                "id": "2",
+                "text": "6"
+            },
+            {
+                "id": "3",
+                "text": "5"
+            },
+            {
+                "id": "4",
+                "text": "3"
+            }
+        ],
+        "correct": 2,
+        "section": "MATHEMATICS",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "57",
+        "text": "Which of the following is a FALSE statement?",
+        "options": [
+            {
+                "id": "1",
+                "text": "tan\u00b2 A = 1 - sec\u00b2 A"
+            },
+            {
+                "id": "2",
+                "text": "sin A = tan A x cos A"
+            },
+            {
+                "id": "3",
+                "text": "cosec\u00b2 A - 1 = cot\u00b2 A"
+            },
+            {
+                "id": "4",
+                "text": "cos A x sec A = 1"
+            }
+        ],
+        "correct": 0,
+        "section": "MATHEMATICS",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "58",
+        "text": "Calculate the mean from the following table.",
+        "options": [
+            {
+                "id": "1",
+                "text": "34.2"
+            },
+            {
+                "id": "2",
+                "text": "33.4"
+            },
+            {
+                "id": "3",
+                "text": "32.6"
+            },
+            {
+                "id": "4",
+                "text": "35.8"
+            }
+        ],
+        "correct": 1,
+        "section": "STATISTICS",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "59",
+        "text": "The average of 20 numbers is calculated as 35. It is discovered later on that while calculating the average, one number, 85, was misread as 45. The correct average is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "36"
+            },
+            {
+                "id": "2",
+                "text": "36.5"
+            },
+            {
+                "id": "3",
+                "text": "37"
+            },
+            {
+                "id": "4",
+                "text": "37.5"
+            }
+        ],
+        "correct": 2,
+        "section": "STATISTICS",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "60",
+        "text": "What is the interest after three years?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetic",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "61",
+        "text": "On which day of the week did Vasu leave for Singapore?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 1,
+        "section": "Logical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "62",
+        "text": "How many students in a class play football?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 3,
+        "section": "Logical Reasoning",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "63",
+        "text": "What is the area of the sector POQ",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematics",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "64",
+        "text": "What is the average daily wage of A, B and C?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetic",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "65",
+        "text": "What is the rate of interest percent per annum?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetic",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "66",
+        "text": "What is the sum of the natural numbers a and b?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 3,
+        "section": "Number Theory",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "67",
+        "text": "What is Nitin's rank from the top in a class of forty students?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 2,
+        "section": "Logical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "68",
+        "text": "On which day of the week was birthday of Sahil?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 2,
+        "section": "Logical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "69",
+        "text": "Among the partners P and Q, What is the profit made by P?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetic",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "70",
+        "text": "If each pen is either 15 rupees or 18 rupees, how many rupees pens did Anjali buy?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetic",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "71",
+        "text": "What is the measure of the angle A in the \u0394ABC ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematics",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "72",
+        "text": "What is the Annual Salary of Mr Hari?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetic",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "73",
+        "text": "What is the code for \u2018Comfort\u2019 in the code language?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 3,
+        "section": "Coding and Decoding",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "74",
+        "text": "How is PRODUCT written in that code language?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 2,
+        "section": "Coding and Decoding",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "75",
+        "text": "What is Gagan's age?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 2,
+        "section": "Logical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "76",
+        "text": "If a,b,c,d are positive integers, what is the value of a?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 2,
+        "section": "Number Theory",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "77",
+        "text": "If A = B = C = D",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebra",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "78",
+        "text": "What will be the age of P after 5 years from now?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 3,
+        "section": "Logical Reasoning",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "79",
+        "text": "How is T related to K?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 1"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 2"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 3"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 4"
+            }
+        ],
+        "correct": 2,
+        "section": "Logical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "80",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b\u200b\u200b 39"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b 26"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b\u200b\u200b 52"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b\u200b\u200b 65"
+            }
+        ],
+        "correct": 3,
+        "section": "Odd Man Out",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "81",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b\u200b SAT"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b\u200b GET"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b\u200b RAT"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b\u200b MAT"
+            }
+        ],
+        "correct": 1,
+        "section": "Odd Man Out",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "82",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Tesla \u200b"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Infosys \u200b"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Microsoft \u200b"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Apple Company \u200b"
+            }
+        ],
+        "correct": 0,
+        "section": "Odd Man Out",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "83",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Revenue - \u200b \u200b \u200b \u200b \u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Profit Margin - \u200b \u200b \u200b \u200b \u200b \u200b\u200b\u200b"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Earnings per share - \u200b \u200b \u200b \u200b \u200b \u200b\u200b\u200b"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Market share - \u200b \u200b \u200b \u200b \u200b \u200b\u200b\u200b"
+            }
+        ],
+        "correct": 3,
+        "section": "Odd Man Out",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "84",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 29000"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 9000"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 25000"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 4000"
+            }
+        ],
+        "correct": 0,
+        "section": "Odd Man Out",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "85",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Pluto - \u200b \u200b \u200b\u200b\u200b"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Neptune - \u200b \u200b \u200b\u200b\u200b"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Jupiter - \u200b \u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Saturn- \u200b \u200b\u200b\u200b"
+            }
+        ],
+        "correct": 0,
+        "section": "Odd Man Out",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "86",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Midfielder - \u200b \u200b \u200b\u200b\u200b"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Ace - \u200b \u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Pass - \u200b \u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Assist- \u200b \u200b\u200b\u200b"
+            }
+        ],
+        "correct": 1,
+        "section": "Odd Man Out",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "87",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Legislative Assembly-Lok Sabha - \u200b \u200b \u200b \u200b \u200b \u200b\u200b\u200b"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Governor-President - \u200b \u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b CM-PM - \u200b \u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Legislative council - Parliament - \u200b \u200b \u200b\u200b\u200b"
+            }
+        ],
+        "correct": 3,
+        "section": "Odd Man Out",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "88",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b December \u200b \u200b\u200b\u200b"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b October \u200b \u200b\u200b\u200b"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b September \u200b \u200b\u200b\u200b"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b April \u200b \u200b\u200b\u200b"
+            }
+        ],
+        "correct": 0,
+        "section": "Odd Man Out",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "89",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Plateau \u200b\u200b\u200b"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Star \u200b\u200b\u200b"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Mountain \u200b\u200b\u200b"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Forest \u200b\u200b\u200b"
+            }
+        ],
+        "correct": 1,
+        "section": "Odd Man Out",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "90",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 10"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 4"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 8"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 12"
+            }
+        ],
+        "correct": 2,
+        "section": "Number Series",
+        "correctAnswer": "3"
+    }
+]

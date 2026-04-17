@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "Q113. What does OS stand for in the context of computers?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Optical System"
+            },
+            {
+                "id": "2",
+                "text": "Operating System"
+            },
+            {
+                "id": "3",
+                "text": "Output Software"
+            },
+            {
+                "id": "4",
+                "text": "Online Service"
+            }
+        ],
+        "correct": 1,
+        "section": "Computer Basics",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "2",
+        "text": "Q114. Which protocol is used for secure data transfer over the internet?",
+        "options": [
+            {
+                "id": "1",
+                "text": "HTTP"
+            },
+            {
+                "id": "2",
+                "text": "HTTPS"
+            },
+            {
+                "id": "3",
+                "text": "DNS"
+            },
+            {
+                "id": "4",
+                "text": "FTP"
+            }
+        ],
+        "correct": 1,
+        "section": "Computer Basics",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "3",
+        "text": "Q115. What does API stand for in the field of software development?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Application Processing Interface"
+            },
+            {
+                "id": "2",
+                "text": "Advanced Programming Interface"
+            },
+            {
+                "id": "3",
+                "text": "Artificial Programming Interface"
+            },
+            {
+                "id": "4",
+                "text": "Application Programming Interface"
+            }
+        ],
+        "correct": 3,
+        "section": "Software Development",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "4",
+        "text": "Q116. In the context of databases, what does CRUD stand for?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Create, Read, Update, Delete"
+            },
+            {
+                "id": "2",
+                "text": "Control, Retrieve, Update, Deliver"
+            },
+            {
+                "id": "3",
+                "text": "Compute, Remove, Update, Deploy"
+            },
+            {
+                "id": "4",
+                "text": "Centralize, Retrieve, Update, Distribute"
+            }
+        ],
+        "correct": 0,
+        "section": "Databases",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "5",
+        "text": "Q117. Why is a timely response to emails considered important in professional communication?",
+        "options": [
+            {
+                "id": "1",
+                "text": "To procrastinate on tasks"
+            },
+            {
+                "id": "2",
+                "text": "To show disrespect for others' time"
+            },
+            {
+                "id": "3",
+                "text": "To acknowledge receipt and prioritize effective communication"
+            },
+            {
+                "id": "4",
+                "text": "To avoid acknowledging the receipt of emails"
+            }
+        ],
+        "correct": 2,
+        "section": "Professional Communication",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "6",
+        "text": "Q118. According to the Audience-Centered Approach, what is essential for tailoring presentations effectively?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Ignoring the audience's needs"
+            },
+            {
+                "id": "2",
+                "text": "Prioritizing the presenter's preferences"
+            },
+            {
+                "id": "3",
+                "text": "Understanding the audience's needs, preferences, and knowledge levels"
+            },
+            {
+                "id": "4",
+                "text": "Focusing only on the presenter's knowledge levels"
+            }
+        ],
+        "correct": 2,
+        "section": "Presentation Skills",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "7",
+        "text": "Q119. How does the Transactional Model of Communication relate to negotiation processes?",
+        "options": [
+            {
+                "id": "1",
+                "text": "It emphasizes one-way communication"
+            },
+            {
+                "id": "2",
+                "text": "It emphasizes the interactive and dynamic nature of communication during negotiations"
+            },
+            {
+                "id": "3",
+                "text": "It discourages communication during negotiations"
+            },
+            {
+                "id": "4",
+                "text": "It suggests a static communication process"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Models",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "8",
+        "text": "Q120. What does Symbolic Interactionism explain in the context of business terms?",
+        "options": [
+            {
+                "id": "1",
+                "text": "How to avoid assigning meanings to symbols"
+            },
+            {
+                "id": "2",
+                "text": "How individuals assign meanings to symbols, ensuring shared understanding and effective communication in the business context."
+            },
+            {
+                "id": "3",
+                "text": "The irrelevance of consistent definitions in effective communication"
+            },
+            {
+                "id": "4",
+                "text": "How to create confusion in communication"
+            }
+        ],
+        "correct": 1,
+        "section": "Business Communication",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "9",
+        "text": "Q121. Which theoretical model emphasizes the importance of clear and consistent conceptualization in business terminology?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Symbolic Interactionism"
+            },
+            {
+                "id": "2",
+                "text": "Language as a Social Construct"
+            },
+            {
+                "id": "3",
+                "text": "Conceptual Clarity"
+            },
+            {
+                "id": "4",
+                "text": "Financial Statements"
+            }
+        ],
+        "correct": 2,
+        "section": "Business Terminology",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "10",
+        "text": "Q122. What does CPU stand for?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Central Processing Unit"
+            },
+            {
+                "id": "2",
+                "text": "Central Peripheral Unit"
+            },
+            {
+                "id": "3",
+                "text": "Central Program Unit"
+            },
+            {
+                "id": "4",
+                "text": "Central Power Unit"
+            }
+        ],
+        "correct": 0,
+        "section": "Computer Hardware",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "11",
+        "text": "Q1. In a certain code language, PARK is written as 92 and WALK is written as 94. How is LOSS written in that code language?",
+        "options": [
+            {
+                "id": "1",
+                "text": "65"
+            },
+            {
+                "id": "2",
+                "text": "130"
+            },
+            {
+                "id": "3",
+                "text": "195"
+            },
+            {
+                "id": "4",
+                "text": "180"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding-Decoding",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "12",
+        "text": "Q2. If Red is called Tomato, Tomato is called Sweet, Sweet is called Good, and Good is called Clean, then what is the colour of blood?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Good"
+            },
+            {
+                "id": "2",
+                "text": "Clean"
+            },
+            {
+                "id": "3",
+                "text": "Tomato"
+            },
+            {
+                "id": "4",
+                "text": "Red"
+            }
+        ],
+        "correct": 2,
+        "section": "Coding-Decoding",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "13",
+        "text": "Q3. Directions: In a certain code language, PAINT is written as ODYTN, and BRUSH is written as CMMOZ. How will HOUSE be written in that language?",
+        "options": [
+            {
+                "id": "1",
+                "text": "WDNOS"
+            },
+            {
+                "id": "2",
+                "text": "WPMOC"
+            },
+            {
+                "id": "3",
+                "text": "PHYWS"
+            },
+            {
+                "id": "4",
+                "text": "PBOMS"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding-Decoding",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "14",
+        "text": "Q4. Directions: In a certain code language, FRIGHT is written as FOCQED, and SHREDS is written as OEPPAB. How will UPSETS be written in that language?",
+        "options": [
+            {
+                "id": "1",
+                "text": "PMRSQB"
+            },
+            {
+                "id": "2",
+                "text": "PMROQB"
+            },
+            {
+                "id": "3",
+                "text": "PMRPQB"
+            },
+            {
+                "id": "4",
+                "text": "PMSPQB"
+            }
+        ],
+        "correct": 2,
+        "section": "Coding-Decoding",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "15",
+        "text": "Q5. Directions: In a certain code language, COACH is coded as XAOHC, and BERTH is coded as WREHT. How will TRAIN be coded in the same language?",
+        "options": [
+            {
+                "id": "1",
+                "text": "OARNI"
+            },
+            {
+                "id": "2",
+                "text": "PARNI"
+            },
+            {
+                "id": "3",
+                "text": "PARIN"
+            },
+            {
+                "id": "4",
+                "text": "ONIAR"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding-Decoding",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "16",
+        "text": "Q6. Directions: In a certain code language, COURT is coded as OCRTR, and JUDGE is coded as UJAEG. How will ORDER be coded in the same language?",
+        "options": [
+            {
+                "id": "1",
+                "text": "LDRRE"
+            },
+            {
+                "id": "2",
+                "text": "ROARE"
+            },
+            {
+                "id": "3",
+                "text": "REARO"
+            },
+            {
+                "id": "4",
+                "text": "ROBRE"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding-Decoding",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "17",
+        "text": "Q7. Directions: In a certain code language, HAPREB is written as IEUQAW, and GBCDFA is written as HFHCBV. How will QRPLAC be written in that language?",
+        "options": [
+            {
+                "id": "1",
+                "text": "RVUKWX"
+            },
+            {
+                "id": "2",
+                "text": "RVUJWX"
+            },
+            {
+                "id": "3",
+                "text": "RVUJXW"
+            },
+            {
+                "id": "4",
+                "text": "RVUKXW"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding-Decoding",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "18",
+        "text": "Q8. Directions: In a code language, PLUM is written as KQOMFVNN. How will BIG be written in that language?",
+        "options": [
+            {
+                "id": "1",
+                "text": "YCRKTM"
+            },
+            {
+                "id": "2",
+                "text": "CYRJGT"
+            },
+            {
+                "id": "3",
+                "text": "XCSJTH"
+            },
+            {
+                "id": "4",
+                "text": "YCRJTH"
+            }
+        ],
+        "correct": 3,
+        "section": "Coding-Decoding",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "19",
+        "text": "Q9: A is the father of B, B is the daughter of C, D is the brother of B, and N is the sister of C. How is B related to N?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Daughter"
+            },
+            {
+                "id": "2",
+                "text": "Nieces"
+            },
+            {
+                "id": "3",
+                "text": "Mother"
+            },
+            {
+                "id": "4",
+                "text": "Sister"
+            }
+        ],
+        "correct": 1,
+        "section": "Blood Relations",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "20",
+        "text": "Q10: Ronita's only brother Vikram is the husband of Kritika's mother Sejal. How is Ronita's mother Chandini related to Kritika?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Paternal grandmother"
+            },
+            {
+                "id": "2",
+                "text": "Paternal aunt"
+            },
+            {
+                "id": "3",
+                "text": "Maternal grandmother"
+            },
+            {
+                "id": "4",
+                "text": "Mother-in-law"
+            }
+        ],
+        "correct": 0,
+        "section": "Blood Relations",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "21",
+        "text": "Q11: There are five girls R, S, T, P, and Q sitting in a row facing north. T is sitting exactly in the middle of the row. Q is sitting to the immediate right and immediate left of P and T, respectively. S is not sitting at the extreme end. Who is sitting third to the left of R?",
+        "options": [
+            {
+                "id": "1",
+                "text": "P"
+            },
+            {
+                "id": "2",
+                "text": "Q"
+            },
+            {
+                "id": "3",
+                "text": "S"
+            },
+            {
+                "id": "4",
+                "text": "T"
+            }
+        ],
+        "correct": 1,
+        "section": "Seating Arrangement",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "22",
+        "text": "Q12: Five students are standing one behind the other in the playground facing the instructor. Malini is behind Anjana but in front of Gayathri. Meena is in front of Shena but behind Gayathri. What is the position of Meena?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Second from last"
+            },
+            {
+                "id": "2",
+                "text": "Extreme first"
+            },
+            {
+                "id": "3",
+                "text": "Extreme last"
+            },
+            {
+                "id": "4",
+                "text": "Second from first"
+            }
+        ],
+        "correct": 0,
+        "section": "Ordering and Ranking",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "23",
+        "text": "Q13: Among seven girls Aanya, Bira, Cleo, Diana, Elle, Fathima, and Georgia, each has a different age. Fathima is older than only Cleo. Bira is younger than only Georgia. Diana is older than the four other girls. Aanya is younger than Elle. Who is the fourth oldest among the girls?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Elle"
+            },
+            {
+                "id": "2",
+                "text": "Bira"
+            },
+            {
+                "id": "3",
+                "text": "Diana"
+            },
+            {
+                "id": "4",
+                "text": "Fathima"
+            }
+        ],
+        "correct": 0,
+        "section": "Ordering and Ranking",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "24",
+        "text": "Q14: Five girls, A, B, C, D, and E, travel to only one of the following five cities: Mumbai, Delhi, Kolkata, Chennai, and Jaipur. E does not travel to Kolkata, Mumbai, or Chennai. D does not travel to Mumbai, Chennai, or Delhi. A travels to Jaipur. C does not travel to Mumbai. To which city does C travel?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Kolkata"
+            },
+            {
+                "id": "2",
+                "text": "Chennai"
+            },
+            {
+                "id": "3",
+                "text": "Jaipur"
+            },
+            {
+                "id": "4",
+                "text": "Delhi"
+            }
+        ],
+        "correct": 1,
+        "section": "Logical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "25",
+        "text": "Q15: Five friends K, L, M, N, and O play one of five different sports Cricket, Football, Hockey, Badminton, and Volleyball. Each friend plays only one sport. L and M do not play Hockey and Badminton. K plays Cricket. M does not play Volleyball. O does not play Badminton. Who plays Volleyball?",
+        "options": [
+            {
+                "id": "1",
+                "text": "L"
+            },
+            {
+                "id": "2",
+                "text": "Either L or O"
+            },
+            {
+                "id": "3",
+                "text": "N"
+            },
+            {
+                "id": "4",
+                "text": "Either L or N"
+            }
+        ],
+        "correct": 0,
+        "section": "Logical Reasoning",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "26",
+        "text": "Q16: Four students P, Q, R, and S learn one language each from among English, French, Spanish, and German. P and R do not learn Spanish. S learns French. If P does not learn German, then who learns English?",
+        "options": [
+            {
+                "id": "1",
+                "text": "R"
+            },
+            {
+                "id": "2",
+                "text": "Q"
+            },
+            {
+                "id": "3",
+                "text": "P"
+            },
+            {
+                "id": "4",
+                "text": "S"
+            }
+        ],
+        "correct": 2,
+        "section": "Logical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "27",
+        "text": "Q17: In the following question, select the related word from the given alternatives. Volcano : Earth :: Tsunami : ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Ocean"
+            },
+            {
+                "id": "2",
+                "text": "Death"
+            },
+            {
+                "id": "3",
+                "text": "Coast"
+            },
+            {
+                "id": "4",
+                "text": "Sand"
+            }
+        ],
+        "correct": 0,
+        "section": "Analogy",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "28",
+        "text": "Q18: Which set of letters when sequentially placed at the gaps in the given letter series shall complete it? cc_b_c_ba_ab",
+        "options": [
+            {
+                "id": "1",
+                "text": "ccac"
+            },
+            {
+                "id": "2",
+                "text": "cbaa"
+            },
+            {
+                "id": "3",
+                "text": "aabb"
+            },
+            {
+                "id": "4",
+                "text": "cdab"
+            }
+        ],
+        "correct": 0,
+        "section": "Letter Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "29",
+        "text": "Q19: In the following question, which one set of letters/numbers when sequentially placed at the gaps in the given letter series shall complete it? _cdb_ddb_db_c_d",
+        "options": [
+            {
+                "id": "1",
+                "text": "bbbcc"
+            },
+            {
+                "id": "2",
+                "text": "cccbc"
+            },
+            {
+                "id": "3",
+                "text": "bbcbb"
+            },
+            {
+                "id": "4",
+                "text": "ccbcc"
+            }
+        ],
+        "correct": 1,
+        "section": "Letter Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "30",
+        "text": "Q20: The following series has one term missing. Select the correct alternative from the options below to complete the series. A7F, E15J, I23N, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "R13M"
+            },
+            {
+                "id": "2",
+                "text": "M31R"
+            },
+            {
+                "id": "3",
+                "text": "R23M"
+            },
+            {
+                "id": "4",
+                "text": "R37S"
+            }
+        ],
+        "correct": 1,
+        "section": "Series Completion",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "31",
+        "text": "Q21: The following series has one number missing. Select the missing number from the given alternatives. 19, 9, 28, 37, 65, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "99"
+            },
+            {
+                "id": "2",
+                "text": "97"
+            },
+            {
+                "id": "3",
+                "text": "102"
+            },
+            {
+                "id": "4",
+                "text": "113"
+            }
+        ],
+        "correct": 2,
+        "section": "Number Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "32",
+        "text": "Q22: A series is given with one term missing. Select the correct alternative from the given ones that will complete the series. AK12, GV29, LF18, PO?",
+        "options": [
+            {
+                "id": "1",
+                "text": "34"
+            },
+            {
+                "id": "2",
+                "text": "31"
+            },
+            {
+                "id": "3",
+                "text": "42"
+            },
+            {
+                "id": "4",
+                "text": "40"
+            }
+        ],
+        "correct": 1,
+        "section": "Series Completion",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "33",
+        "text": "Q23: A series is given with one term missing. Select the correct alternative from the given ones to complete the series. Employ, Oyster, Error, Ornate, Tennis, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Neptune"
+            },
+            {
+                "id": "2",
+                "text": "Nature"
+            },
+            {
+                "id": "3",
+                "text": "Terminate"
+            },
+            {
+                "id": "4",
+                "text": "Isomer"
+            }
+        ],
+        "correct": 3,
+        "section": "Series Completion",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "34",
+        "text": "Q24: A series is given with one term missing. Select the correct alternative from the given ones that will complete the series. hello, lower, error, organ, analyse, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "night"
+            },
+            {
+                "id": "2",
+                "text": "rapture"
+            },
+            {
+                "id": "3",
+                "text": "senile"
+            },
+            {
+                "id": "4",
+                "text": "watch"
+            }
+        ],
+        "correct": 2,
+        "section": "Series Completion",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "35",
+        "text": "Q25: A series is given below with one term missing. Choose the correct alternative from the given ones that will complete the series. CEG, IKM, OQS, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "UWY"
+            },
+            {
+                "id": "2",
+                "text": "UYX"
+            },
+            {
+                "id": "3",
+                "text": "UVY"
+            },
+            {
+                "id": "4",
+                "text": "TWY"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "36",
+        "text": "Q26: A series is given with one term missing. Select the correct alternative from the given ones that will complete the series. Second, Minute, Hour, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Days"
+            },
+            {
+                "id": "2",
+                "text": "Night"
+            },
+            {
+                "id": "3",
+                "text": "Year"
+            },
+            {
+                "id": "4",
+                "text": "Month"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "37",
+        "text": "Q27: A series is given with one term missing. Choose the correct alternative from the given ones that will complete the series. ?, Hexane, Heptane, Octane",
+        "options": [
+            {
+                "id": "1",
+                "text": "Pentane"
+            },
+            {
+                "id": "2",
+                "text": "Benzene"
+            },
+            {
+                "id": "3",
+                "text": "Nonane"
+            },
+            {
+                "id": "4",
+                "text": "Methane"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "38",
+        "text": "Q28: A series is given with one term missing. Choose the correct alternative from the given ones that will complete the series. Mouth, Esophagus, Stomach, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Large Intestine"
+            },
+            {
+                "id": "2",
+                "text": "Small Intestine"
+            },
+            {
+                "id": "3",
+                "text": "Liver"
+            },
+            {
+                "id": "4",
+                "text": "Pancreas"
+            }
+        ],
+        "correct": 1,
+        "section": "Series Completion",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "39",
+        "text": "Q29: A series is given with one term missing. Choose the correct alternative from the given ones that will complete the series. Jaipur, Rajasthan, India, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Europe"
+            },
+            {
+                "id": "2",
+                "text": "Antarctica"
+            },
+            {
+                "id": "3",
+                "text": "Asia"
+            },
+            {
+                "id": "4",
+                "text": "Australia"
+            }
+        ],
+        "correct": 2,
+        "section": "Series Completion",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "40",
+        "text": "Q30: A series is given with one term missing. Choose the correct alternative from the given ones that will complete the series. ?, Lal Bahadur Shastri, Indira Gandhi, Morarji Desai, Chaudhary Charan Singh",
+        "options": [
+            {
+                "id": "1",
+                "text": "Jawaharlal Nehru"
+            },
+            {
+                "id": "2",
+                "text": "Rajiv Gandhi"
+            },
+            {
+                "id": "3",
+                "text": "Manmohan Singh"
+            },
+            {
+                "id": "4",
+                "text": "V. P. Singh"
+            }
+        ],
+        "correct": 0,
+        "section": "Series Completion",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "41",
+        "text": "Q31: A series is given with one term missing. Choose the correct alternative from the given ones that will complete the series. Asia, Africa, North America, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "China"
+            },
+            {
+                "id": "2",
+                "text": "Australia"
+            },
+            {
+                "id": "3",
+                "text": "Canada"
+            },
+            {
+                "id": "4",
+                "text": "Japan"
+            }
+        ],
+        "correct": 1,
+        "section": "Series Completion",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "42",
+        "text": "Q32: Which of the following numbers will replace the question mark (?) in the given series? 1024, 256, 64, ?, 4",
+        "options": [
+            {
+                "id": "1",
+                "text": "32"
+            },
+            {
+                "id": "2",
+                "text": "34"
+            },
+            {
+                "id": "3",
+                "text": "36"
+            },
+            {
+                "id": "4",
+                "text": "16"
+            }
+        ],
+        "correct": 3,
+        "section": "Number Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "43",
+        "text": "Q33: Which number will replace the question mark (?) in the following series 17, 51, 58, 116, 123, 123, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "150"
+            },
+            {
+                "id": "2",
+                "text": "130"
+            },
+            {
+                "id": "3",
+                "text": "140"
+            },
+            {
+                "id": "4",
+                "text": "120"
+            }
+        ],
+        "correct": 1,
+        "section": "Number Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "44",
+        "text": "Q34: Which number will replace the question mark (?) in the following series? 112, ?, 83, 70, 58, 47, 37",
+        "options": [
+            {
+                "id": "1",
+                "text": "94"
+            },
+            {
+                "id": "2",
+                "text": "97"
+            },
+            {
+                "id": "3",
+                "text": "100"
+            },
+            {
+                "id": "4",
+                "text": "104"
+            }
+        ],
+        "correct": 1,
+        "section": "Number Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "45",
+        "text": "Q35: Which number will replace the question mark (?) in the following series? 37, ?, 61, 78, 97, 120, 149",
+        "options": [
+            {
+                "id": "1",
+                "text": "48"
+            },
+            {
+                "id": "2",
+                "text": "42"
+            },
+            {
+                "id": "3",
+                "text": "51"
+            },
+            {
+                "id": "4",
+                "text": "60"
+            }
+        ],
+        "correct": 0,
+        "section": "Number Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "46",
+        "text": "Q36: Which number will replace the question mark (?) in the following series? 17, 37, 77, 157, 317, ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "637"
+            },
+            {
+                "id": "2",
+                "text": "683"
+            },
+            {
+                "id": "3",
+                "text": "649"
+            },
+            {
+                "id": "4",
+                "text": "634"
+            }
+        ],
+        "correct": 0,
+        "section": "Number Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "47",
+        "text": "Q37: Select the option that is correct for the bracketed numbers with respect to their inclusion in the given series. 4, 11, 30, (67), 128, 219, (346), 515",
+        "options": [
+            {
+                "id": "1",
+                "text": "The first bracketed number is incorrect and the second bracketed number is correct"
+            },
+            {
+                "id": "2",
+                "text": "Both the bracketed numbers are correct"
+            },
+            {
+                "id": "3",
+                "text": "Both the bracketed numbers are incorrect"
+            },
+            {
+                "id": "4",
+                "text": "The first bracketed number is correct and the second bracketed number is incorrect"
+            }
+        ],
+        "correct": 1,
+        "section": "Number Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "48",
+        "text": "Q38: Select the number that can replace the question mark (?) in the following series. 105, 107, 103, ?, 101, 111",
+        "options": [
+            {
+                "id": "1",
+                "text": "102"
+            },
+            {
+                "id": "2",
+                "text": "97"
+            },
+            {
+                "id": "3",
+                "text": "113"
+            },
+            {
+                "id": "4",
+                "text": "109"
+            }
+        ],
+        "correct": 3,
+        "section": "Number Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "49",
+        "text": "Q39: Two statements are given followed by two conclusions numbered I and II. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements Statements: All goods are services. No service is a delivery. Conclusions: I. No good is a delivery. II. Some goods are deliveries.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Neither conclusion I nor II follows"
+            },
+            {
+                "id": "2",
+                "text": "Both conclusions I and II follow"
+            },
+            {
+                "id": "3",
+                "text": "Only conclusion II follows"
+            },
+            {
+                "id": "4",
+                "text": "Only conclusion I follows"
+            }
+        ],
+        "correct": 3,
+        "section": "Logical Reasoning",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "50",
+        "text": "Q40: Three statements are given followed by three conclusions numbered I, II, and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements. Statements: All valleys are mountains. No sea is a mountain. Some plains are seas. Conclusions: I. Some valleys are plains. II. No plain is a mountain. III. No sea is a valley.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Only conclusion II follows"
+            },
+            {
+                "id": "2",
+                "text": "Only conclusion III follows"
+            },
+            {
+                "id": "3",
+                "text": "Only conclusion I follows"
+            },
+            {
+                "id": "4",
+                "text": "Both conclusions I and II follow"
+            }
+        ],
+        "correct": 1,
+        "section": "Logical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "51",
+        "text": "Q41: Four number-pairs are given out of which three are alike in a certain way and one is different. Select the number-pair that is different from the rest. 1) 5 : 7",
+        "options": [
+            {
+                "id": "1",
+                "text": "5 : 7"
+            },
+            {
+                "id": "2",
+                "text": "17 : 23"
+            },
+            {
+                "id": "3",
+                "text": "13 : 19"
+            },
+            {
+                "id": "4",
+                "text": "31 : 41"
+            }
+        ],
+        "correct": 0,
+        "section": "Number Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "52",
+        "text": "Q42: Four number pairs are given out of which three are alike in a certain way and one is different. Select the number-pair that is different from the rest.",
+        "options": [
+            {
+                "id": "1",
+                "text": "16 : 64"
+            },
+            {
+                "id": "2",
+                "text": "34 : 289"
+            },
+            {
+                "id": "3",
+                "text": "24 : 142"
+            },
+            {
+                "id": "4",
+                "text": "14 : 49"
+            }
+        ],
+        "correct": 2,
+        "section": "Number Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "53",
+        "text": "Q43: Four number-pairs have been given, out of which three are alike in some manner and one is different. Select the number-pair that is different from the rest.",
+        "options": [
+            {
+                "id": "1",
+                "text": "34 : 3"
+            },
+            {
+                "id": "2",
+                "text": "17 : 6"
+            },
+            {
+                "id": "3",
+                "text": "24 : 4"
+            },
+            {
+                "id": "4",
+                "text": "2 : 51"
+            }
+        ],
+        "correct": 2,
+        "section": "Number Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "54",
+        "text": "Q44: In the question, a part of the sentence is in bold. Below are given alternatives to the bold part at 1, 2 and 3 that may improve the sentence. Choose the correct alternative. In case no improvement is needed, your answer is (4). The workers are hell bent at getting what is due to them.",
+        "options": [
+            {
+                "id": "1",
+                "text": "hell bent on getting"
+            },
+            {
+                "id": "2",
+                "text": "hell bent for getting"
+            },
+            {
+                "id": "3",
+                "text": "hell bent upon getting"
+            },
+            {
+                "id": "4",
+                "text": "No Improvement"
+            }
+        ],
+        "correct": 0,
+        "section": "Grammar",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "55",
+        "text": "Q45: In the following question, a sentence is given with a blank that is to be filled in with an appropriate word. Four alternatives are suggested; choose the correct alternative out of them as your answer. Few countries can ____ India in variety, colour and richness of dance forms.",
+        "options": [
+            {
+                "id": "1",
+                "text": "compare"
+            },
+            {
+                "id": "2",
+                "text": "rival"
+            },
+            {
+                "id": "3",
+                "text": "perform"
+            },
+            {
+                "id": "4",
+                "text": "prevail"
+            }
+        ],
+        "correct": 1,
+        "section": "Vocabulary",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "56",
+        "text": "Q46: In the following question, a sentence is given with a blank that is to be filled in with an appropriate word. Four alternatives are suggested; choose the correct alternative out of them as your answer. Do your best and we'll back you____.",
+        "options": [
+            {
+                "id": "1",
+                "text": "on"
+            },
+            {
+                "id": "2",
+                "text": "in"
+            },
+            {
+                "id": "3",
+                "text": "out"
+            },
+            {
+                "id": "4",
+                "text": "up"
+            }
+        ],
+        "correct": 3,
+        "section": "Vocabulary",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "57",
+        "text": "Q47: In the following question, a sentence is given with a blank that is to be filled in with an appropriate word. Four alternatives are suggested; choose the correct alternative out of them as your answer. The doctor has been ____ to attend to an urgent case.",
+        "options": [
+            {
+                "id": "1",
+                "text": "called"
+            },
+            {
+                "id": "2",
+                "text": "called in"
+            },
+            {
+                "id": "3",
+                "text": "called by"
+            },
+            {
+                "id": "4",
+                "text": "call over"
+            }
+        ],
+        "correct": 1,
+        "section": "Vocabulary",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "58",
+        "text": "Q48: In the following question, a sentence is given with a blank that is to be filled in with an appropriate word. Four alternatives are suggested; choose the correct alternative out of them as your answer. Are you __ stamp collecting?",
+        "options": [
+            {
+                "id": "1",
+                "text": "interested by"
+            },
+            {
+                "id": "2",
+                "text": "interested in"
+            },
+            {
+                "id": "3",
+                "text": "interested at"
+            },
+            {
+                "id": "4",
+                "text": "interested about"
+            }
+        ],
+        "correct": 1,
+        "section": "Grammar",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "59",
+        "text": "Q49: In the following question, the sentence given with a blank is to be filled in with an appropriate word. Select the correct alternative out of the four. Moving to the city was eye _____ for the straitlaced country girl.",
+        "options": [
+            {
+                "id": "1",
+                "text": "clearing"
+            },
+            {
+                "id": "2",
+                "text": "freeing"
+            },
+            {
+                "id": "3",
+                "text": "saving"
+            },
+            {
+                "id": "4",
+                "text": "opening"
+            }
+        ],
+        "correct": 3,
+        "section": "Vocabulary",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "60",
+        "text": "Q50: In the following question, a sentence is given with a blank that is to be filled in with an appropriate word. Four alternatives are suggested; choose the correct alternative out of them as your answer. The bank decided to _____ them the money as they were reliable clients.",
+        "options": [
+            {
+                "id": "1",
+                "text": "let"
+            },
+            {
+                "id": "2",
+                "text": "lend"
+            },
+            {
+                "id": "3",
+                "text": "borrow"
+            },
+            {
+                "id": "4",
+                "text": "lease"
+            }
+        ],
+        "correct": 1,
+        "section": "Vocabulary",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "61",
+        "text": "Q51: In the following question, the sentence given with a blank is to be filled in with an appropriate word. Select the correct alternative out of the four. With a blood test, a physician was able to _____ the woman's pregnancy.",
+        "options": [
+            {
+                "id": "1",
+                "text": "term"
+            },
+            {
+                "id": "2",
+                "text": "confirm"
+            },
+            {
+                "id": "3",
+                "text": "firm"
+            },
+            {
+                "id": "4",
+                "text": "confer"
+            }
+        ],
+        "correct": 1,
+        "section": "Vocabulary",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "62",
+        "text": "Q52: In the following question, a sentence is given with a blank that is to be filled in with an appropriate word. Four alternatives are suggested; choose the correct alternative out of them as your answer. Do not ____ your own personal views upon the reader.",
+        "options": [
+            {
+                "id": "1",
+                "text": "expose"
+            },
+            {
+                "id": "2",
+                "text": "interpose"
+            },
+            {
+                "id": "3",
+                "text": "express"
+            },
+            {
+                "id": "4",
+                "text": "impose"
+            }
+        ],
+        "correct": 3,
+        "section": "Vocabulary",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "63",
+        "text": "Q53: In the following question, a sentence is given with a blank that is to be filled in with an appropriate word. Four alternatives are suggested; choose the correct alternative out of them as your answer. Legislation was passed to punish brokers who____ their client's funds.",
+        "options": [
+            {
+                "id": "1",
+                "text": "devastate"
+            },
+            {
+                "id": "2",
+                "text": "devour"
+            },
+            {
+                "id": "3",
+                "text": "defalcate"
+            },
+            {
+                "id": "4",
+                "text": "dawdle"
+            }
+        ],
+        "correct": 2,
+        "section": "Vocabulary",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "64",
+        "text": "Q54: In the following question, the sentence given with a blank is to be filled in with an appropriate word. Select the correct alternative out of the four. He ___ to the problem of air pollution in his speech.",
+        "options": [
+            {
+                "id": "1",
+                "text": "averted"
+            },
+            {
+                "id": "2",
+                "text": "adverted"
+            },
+            {
+                "id": "3",
+                "text": "exclaimed"
+            },
+            {
+                "id": "4",
+                "text": "mentioned"
+            }
+        ],
+        "correct": 1,
+        "section": "Vocabulary",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "65",
+        "text": "Q55: In the following question, the sentence given with a blank is to be filled in with an appropriate word. Select the correct alternative out of the four. Rohan is so magnanimous that everyone is always ___ to help himin his project.",
+        "options": [
+            {
+                "id": "1",
+                "text": "eager"
+            },
+            {
+                "id": "2",
+                "text": "enthusiastic"
+            },
+            {
+                "id": "3",
+                "text": "reluctant"
+            },
+            {
+                "id": "4",
+                "text": "ignorant"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "66",
+        "text": "Q56: In the following question, a sentence is given with a blank that is to be filled in with an appropriate word. Four alternatives are suggested; choose the correct alternative out of them as your answer. The mother looked _________ as her child began to walk much before the month prescribed by the doctors.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Astonishingly"
+            },
+            {
+                "id": "2",
+                "text": "Predictably"
+            },
+            {
+                "id": "3",
+                "text": "Irately"
+            },
+            {
+                "id": "4",
+                "text": "Menacingly"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "67",
+        "text": "Q57: In the following question, a sentence is given with a blank that is to be filled in with an appropriate word. Four alternatives are suggested; choose the correct alternative out of them as your answer. Many important projects have reached the final stage of _________.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Accomplishment"
+            },
+            {
+                "id": "2",
+                "text": "Initiation"
+            },
+            {
+                "id": "3",
+                "text": "Resolution"
+            },
+            {
+                "id": "4",
+                "text": "Implementation"
+            }
+        ],
+        "correct": 2,
+        "section": "Vocabulary",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "68",
+        "text": "Q58: In the following question, the sentence given with a blank is to be filled in with an appropriate word. Select the correct alternative out of the four. He was sworn ___ as the Prime Minister of our country.",
+        "options": [
+            {
+                "id": "1",
+                "text": "in"
+            },
+            {
+                "id": "2",
+                "text": "off"
+            },
+            {
+                "id": "3",
+                "text": "about"
+            },
+            {
+                "id": "4",
+                "text": "out"
+            }
+        ],
+        "correct": 0,
+        "section": "Grammar",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "69",
+        "text": "Q59: In the following question, the sentence given with a blank is to be filled in with an appropriate word. Select the correct alternative out of the four. The elephant stampeded and tore _____ the streets.",
+        "options": [
+            {
+                "id": "1",
+                "text": "on"
+            },
+            {
+                "id": "2",
+                "text": "out"
+            },
+            {
+                "id": "3",
+                "text": "off"
+            },
+            {
+                "id": "4",
+                "text": "down"
+            }
+        ],
+        "correct": 3,
+        "section": "Grammar",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "70",
+        "text": "Q60: In this question, a part of the sentence is in bold. Below are given alternatives to the bold part at 1, 2 and 3 which may improve the sentence. Choose the correct alternative. In case no improvement is needed your answer is (4) Please switch of the fan.",
+        "options": [
+            {
+                "id": "1",
+                "text": "switch off"
+            },
+            {
+                "id": "2",
+                "text": "switch in"
+            },
+            {
+                "id": "3",
+                "text": "switch out"
+            },
+            {
+                "id": "4",
+                "text": "No Improvement"
+            }
+        ],
+        "correct": 0,
+        "section": "Grammar",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "71",
+        "text": "Q61: Select the most appropriate option to fill in the blank. The doctor _______two tablets per day.",
+        "options": [
+            {
+                "id": "1",
+                "text": "prescribed"
+            },
+            {
+                "id": "2",
+                "text": "advised"
+            },
+            {
+                "id": "3",
+                "text": "ordered"
+            },
+            {
+                "id": "4",
+                "text": "proposed"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "72",
+        "text": "Q62: In the question, a part of the sentence is in bold. Below are given alternatives to the bold part at 1, 2 and 3 that may improve the sentence. Choose the correct alternative. In case no improvement is needed, your answer is (4). The new book written by Vikram Seth has become very populous.",
+        "options": [
+            {
+                "id": "1",
+                "text": "populist"
+            },
+            {
+                "id": "2",
+                "text": "popular"
+            },
+            {
+                "id": "3",
+                "text": "populace"
+            },
+            {
+                "id": "4",
+                "text": "No Improvement"
+            }
+        ],
+        "correct": 1,
+        "section": "Vocabulary",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "73",
+        "text": "Q63: In the question, a part of the sentence is in bold. Below are given alternatives to the bold part at 1, 2 and 3 that may improve the sentence. Choose the correct alternative. In case no improvement is needed, your answer is (4). She has no pen to write.",
+        "options": [
+            {
+                "id": "1",
+                "text": "write with"
+            },
+            {
+                "id": "2",
+                "text": "write at"
+            },
+            {
+                "id": "3",
+                "text": "write in"
+            },
+            {
+                "id": "4",
+                "text": "No Improvement"
+            }
+        ],
+        "correct": 0,
+        "section": "Grammar",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "74",
+        "text": "Q64: In the following question, some parts of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If the sentence is free from error, select 'No Error'. I was (1) / laying down (2) / when the door bell rang. (3) / No Error (4)",
+        "options": [
+            {
+                "id": "1",
+                "text": "(1)"
+            },
+            {
+                "id": "2",
+                "text": "(2)"
+            },
+            {
+                "id": "3",
+                "text": "(3)"
+            },
+            {
+                "id": "4",
+                "text": "(4)"
+            }
+        ],
+        "correct": 1,
+        "section": "Grammar",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "75",
+        "text": "Q65: In the following question, a sentence is given with a blank that is to be filled in with an appropriate word. Four alternatives are suggested; choose the correct alternative out of them as your answer. Aristotle said that some persons are fit to rule, while others are fit to be ruled ____.",
+        "options": [
+            {
+                "id": "1",
+                "text": "over"
+            },
+            {
+                "id": "2",
+                "text": "of"
+            },
+            {
+                "id": "3",
+                "text": "on"
+            },
+            {
+                "id": "4",
+                "text": "at"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "76",
+        "text": "Q66: Comprehension In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Tea prices in the domestic market continue to rule high in the (1) _____ year despite the expectation of higher production as compared to the previous year. According to a preliminary assessment (2) _____ on the weather (3) _____ in recent months, tea output in the next year may reach 800 tonnes as (4) _____ 780 tonnes last year. During the past three months, tea prices have shown an (5) _____. Unlike last year, when tea prices were dramatically low, this year, prices seem to have stabilised at rather high levels. Question: Select the most appropriate option to fill in the blank number 2.",
+        "options": [
+            {
+                "id": "1",
+                "text": "shared"
+            },
+            {
+                "id": "2",
+                "text": "based"
+            },
+            {
+                "id": "3",
+                "text": "flown"
+            },
+            {
+                "id": "4",
+                "text": "carried"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "77",
+        "text": "Q67: Comprehension In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Human migration may be traced all the way back to the (1)________ of time, and humans have been on the move ever since. Climate change, war and displacement, economic considerations, living conditions, family and clan (2)________, and, more recently, educational possibilities are all reasons for migration. Because there are several reasons for migration, migration patterns are (3)_________. Potential migrants will not only (4)_________whether or not to migrate, but also where they will go. Individuals with (5) ________ observed and unobserved features will make diverse decisions and self-select into specific areas. Select the most appropriate option to fill in the blank number 3.",
+        "options": [
+            {
+                "id": "1",
+                "text": "assorted"
+            },
+            {
+                "id": "2",
+                "text": "uniform"
+            },
+            {
+                "id": "3",
+                "text": "diverse"
+            },
+            {
+                "id": "4",
+                "text": "constant"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "78",
+        "text": "Q68: Comprehension In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Human migration may be traced all the way back to the (1)________ of time, and humans have been on the move ever since. Climate change, war and displacement, economic considerations, living conditions, family and clan (2)________, and, more recently, educational possibilities are all reasons for migration. Because there are several reasons for migration, migration patterns are (3)_________. Potential migrants will not only (4)_________whether or not to migrate, but also where they will go. Individuals with (5) ________ observed and unobserved features will make diverse decisions and self-select into specific areas. Select the most appropriate option to fill in the blank number 5.",
+        "options": [
+            {
+                "id": "1",
+                "text": "considering"
+            },
+            {
+                "id": "2",
+                "text": "varying"
+            },
+            {
+                "id": "3",
+                "text": "convincing"
+            },
+            {
+                "id": "4",
+                "text": "experiencing"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "79",
+        "text": "Q69: Comprehension In the following passage, some of the words have been deleted. Read the passage carefully and select the correct answer for the given blank out of the four alternatives. According to the Integrated Taxonomic Information System (ITIS), there are more than 60 (1)______ of rat, which means they come in all sizes. They are (2)_____ 5 inches (12 centimeters), or longer, according to Encyclopedia Britannica. The largest species is the Bosavi woolly rat, which was (3)_____ in 2009 in the rainforest of Papua New Guinea (and doesn't have a scientific name yet). It is (4)______ the size of a cat \u2014 32.2 inches (82 cm) from nose to tail and (5)______ around 3.3 lbs. (1.5 kilograms), according to CNN. Select the most appropriate option to fill in the blank number 4.",
+        "options": [
+            {
+                "id": "1",
+                "text": "a lot"
+            },
+            {
+                "id": "2",
+                "text": "of"
+            },
+            {
+                "id": "3",
+                "text": "about"
+            },
+            {
+                "id": "4",
+                "text": "some"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "80",
+        "text": "Q70: Comprehension In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Comics have (1) ________ many superheroes. Bantul, the great, was (2) ________ in the year 1965, in the backdrop of the Indo-Pak war. Indrajal comics was set up in 1964, and (3) __________ Aabid Surti, who gave birth to a character called Bhadur in 1976, wearing kurta and jeans. Raj comics too (4) ________ into this sphere with their (5) ________ toons Nagraj, Tiranga, and Shakti together called Brahman Rakshak (protectors of the universe). Select the most appropriate option to fill in the blank number 5.",
+        "options": [
+            {
+                "id": "1",
+                "text": "noted"
+            },
+            {
+                "id": "2",
+                "text": "influential"
+            },
+            {
+                "id": "3",
+                "text": "famous"
+            },
+            {
+                "id": "4",
+                "text": "good"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "81",
+        "text": "Q71: Comprehension In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. Comics have (1) ________ many superheroes. Bantul, the great, was (2) ________ in the year 1965, in the backdrop of the Indo-Pak war. Indrajal comics was set up in 1964, and (3) __________ Aabid Surti, who gave birth to a character called Bhadur in 1976, wearing kurta and jeans. Raj comics too (4) ________ into this sphere with their (5) ________ toons Nagraj, Tiranga, and Shakti together called Brahman Rakshak (protectors of the universe). Select the most appropriate option to fill in the blank number 4.",
+        "options": [
+            {
+                "id": "1",
+                "text": "invaded"
+            },
+            {
+                "id": "2",
+                "text": "penetrated"
+            },
+            {
+                "id": "3",
+                "text": "entered"
+            },
+            {
+                "id": "4",
+                "text": "pierced"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "82",
+        "text": "Q72: In the following question, a sentence is given with a blank that is to be filled in with an appropriate word. Four alternatives are suggested; choose the correct alternative out of them as your answer. You think you're really hard, ___?",
+        "options": [
+            {
+                "id": "1",
+                "text": "doesn't you"
+            },
+            {
+                "id": "2",
+                "text": "do you"
+            },
+            {
+                "id": "3",
+                "text": "didn't you"
+            },
+            {
+                "id": "4",
+                "text": "don't you"
+            }
+        ],
+        "correct": 3,
+        "section": "Grammar",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "83",
+        "text": "Q73: In the following question, a sentence is given with blanks that are to be filled in with appropriate words. Four alternatives are suggested; choose the correct alternative out of them as your answer. There were so many _______ points in his speech that the audience _______ to get the message.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Superficial, listened"
+            },
+            {
+                "id": "2",
+                "text": "Interesting, tried"
+            },
+            {
+                "id": "3",
+                "text": "Irrelevant, failed"
+            },
+            {
+                "id": "4",
+                "text": "Relevant, hastened"
+            }
+        ],
+        "correct": 2,
+        "section": "Grammar",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "84",
+        "text": "Q74: Fill in the blank with the most appropriate option. I am allowed to take photographs inside the church, ______?",
+        "options": [
+            {
+                "id": "1",
+                "text": "shall I"
+            },
+            {
+                "id": "2",
+                "text": "aren\u2019t I"
+            },
+            {
+                "id": "3",
+                "text": "am I"
+            },
+            {
+                "id": "4",
+                "text": "can\u2019t I"
+            }
+        ],
+        "correct": 1,
+        "section": "Grammar",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "85",
+        "text": "Q75: Fill in the blank with the most appropriate word. You have memorised your speech, ______ you?",
+        "options": [
+            {
+                "id": "1",
+                "text": "hasn\u2019t"
+            },
+            {
+                "id": "2",
+                "text": "couldn\u2019t"
+            },
+            {
+                "id": "3",
+                "text": "didn\u2019t"
+            },
+            {
+                "id": "4",
+                "text": "haven\u2019t"
+            }
+        ],
+        "correct": 3,
+        "section": "Grammar",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "86",
+        "text": "Q76: Select the most appropriate option to fill in the blank. The travel agency has sent the hotel reservation details for_______ holiday.",
+        "options": [
+            {
+                "id": "1",
+                "text": "ourselves"
+            },
+            {
+                "id": "2",
+                "text": "ours"
+            },
+            {
+                "id": "3",
+                "text": "our"
+            },
+            {
+                "id": "4",
+                "text": "us"
+            }
+        ],
+        "correct": 2,
+        "section": "Grammar",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "87",
+        "text": "Q77: Select the most appropriate option to fill in the blank. This tree no longer bears______ fruit.",
+        "options": [
+            {
+                "id": "1",
+                "text": "many"
+            },
+            {
+                "id": "2",
+                "text": "some"
+            },
+            {
+                "id": "3",
+                "text": "any"
+            },
+            {
+                "id": "4",
+                "text": "few"
+            }
+        ],
+        "correct": 2,
+        "section": "Grammar",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "88",
+        "text": "Q78: Choose the best word to fill in the blanks. If your dream is to be a police officer, then you must work on your quick-temper and stop being so _______.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Truculent"
+            },
+            {
+                "id": "2",
+                "text": "Ubiquitous"
+            },
+            {
+                "id": "3",
+                "text": "Indeterminate"
+            },
+            {
+                "id": "4",
+                "text": "Incorrigible"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "89",
+        "text": "Q79: Choose the best word to fill in the blanks. The killer\u2019s wife begged the judge to give her husband _______ so he would be out of prison before she died.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Cognisance"
+            },
+            {
+                "id": "2",
+                "text": "Cessation"
+            },
+            {
+                "id": "3",
+                "text": "Clemency"
+            },
+            {
+                "id": "4",
+                "text": "Aversion"
+            }
+        ],
+        "correct": 2,
+        "section": "Vocabulary",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "90",
+        "text": "Q80: Comprehension In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. A great fire (1)______ in London in 1666, which (2)____ the city and made around 1,00,000 people homeless. This fire is said to have begun in a pudding lane. It (3)____ through the crowded streets and wooden houses. However, after the fire, London was (4)___ with wider streets and improved water supplies. New buildings were (5)___ using bricks instead of wood. Question: Select the most appropriate option to fill in the blank no. 1.",
+        "options": [
+            {
+                "id": "1",
+                "text": "broke for"
+            },
+            {
+                "id": "2",
+                "text": "broke in"
+            },
+            {
+                "id": "3",
+                "text": "broke out"
+            },
+            {
+                "id": "4",
+                "text": "broke at"
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    }
+]

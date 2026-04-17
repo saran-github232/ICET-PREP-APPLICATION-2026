@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "When two dice are thrown, the probability of getting 11 as the sum of the numbers shown on the dice is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/18"
+            },
+            {
+                "id": "2",
+                "text": "1/9"
+            },
+            {
+                "id": "3",
+                "text": "5/36"
+            },
+            {
+                "id": "4",
+                "text": "1/2"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "2",
+        "text": "Two events A and B have probabilities 0.25 and 0.5 respectively. The probability that both A and B occurs is 0.14. What is the probability that neither A nor B occurs?",
+        "options": [
+            {
+                "id": "1",
+                "text": "0.25"
+            },
+            {
+                "id": "2",
+                "text": "0.61"
+            },
+            {
+                "id": "3",
+                "text": "0.89"
+            },
+            {
+                "id": "4",
+                "text": "0.39"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "3",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Abnormality"
+            },
+            {
+                "id": "2",
+                "text": "Achievement"
+            },
+            {
+                "id": "3",
+                "text": "Renunciation"
+            },
+            {
+                "id": "4",
+                "text": "Reluctance"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "4",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Immortal"
+            },
+            {
+                "id": "2",
+                "text": "Immediate"
+            },
+            {
+                "id": "3",
+                "text": "Immoral"
+            },
+            {
+                "id": "4",
+                "text": "Important"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "5",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Persuade"
+            },
+            {
+                "id": "2",
+                "text": "Reject"
+            },
+            {
+                "id": "3",
+                "text": "Escape"
+            },
+            {
+                "id": "4",
+                "text": "Direct"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "6",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "clear"
+            },
+            {
+                "id": "2",
+                "text": "common"
+            },
+            {
+                "id": "3",
+                "text": "rare"
+            },
+            {
+                "id": "4",
+                "text": "secret"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "7",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Different"
+            },
+            {
+                "id": "2",
+                "text": "Diffused"
+            },
+            {
+                "id": "3",
+                "text": "Desperate"
+            },
+            {
+                "id": "4",
+                "text": "Distilled"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "8",
+        "text": "Choose the correct meaning of the word given:",
+        "options": [
+            {
+                "id": "1",
+                "text": "defend"
+            },
+            {
+                "id": "2",
+                "text": "overcome"
+            },
+            {
+                "id": "3",
+                "text": "struggle"
+            },
+            {
+                "id": "4",
+                "text": "surrender"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "9",
+        "text": "Fill in the blank choosing the correct word:",
+        "options": [
+            {
+                "id": "1",
+                "text": "tell"
+            },
+            {
+                "id": "2",
+                "text": "speak"
+            },
+            {
+                "id": "3",
+                "text": "show"
+            },
+            {
+                "id": "4",
+                "text": "talk"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "10",
+        "text": "Fill in the blank choosing the correct word:",
+        "options": [
+            {
+                "id": "1",
+                "text": "sight"
+            },
+            {
+                "id": "2",
+                "text": "cite"
+            },
+            {
+                "id": "3",
+                "text": "slight"
+            },
+            {
+                "id": "4",
+                "text": "site"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "11",
+        "text": "Fill in the blank choosing the correct word:",
+        "options": [
+            {
+                "id": "1",
+                "text": "out"
+            },
+            {
+                "id": "2",
+                "text": "up"
+            },
+            {
+                "id": "3",
+                "text": "over"
+            },
+            {
+                "id": "4",
+                "text": "on"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "12",
+        "text": "Fill in the blank choosing the correct word:",
+        "options": [
+            {
+                "id": "1",
+                "text": "opening"
+            },
+            {
+                "id": "2",
+                "text": "to open"
+            },
+            {
+                "id": "3",
+                "text": "to have opened"
+            },
+            {
+                "id": "4",
+                "text": "to have been opened"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "13",
+        "text": "Choose the correct answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "width of a computer"
+            },
+            {
+                "id": "2",
+                "text": "band used to wrap up the components of a computer"
+            },
+            {
+                "id": "3",
+                "text": "maximum amount of data that can travel a communication path"
+            },
+            {
+                "id": "4",
+                "text": "horizontal width of the monitor"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "14",
+        "text": "Choose the correct answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Right for using or selling an investment"
+            },
+            {
+                "id": "2",
+                "text": "Right for using or selling an invention"
+            },
+            {
+                "id": "3",
+                "text": "Right for using or selling an institution"
+            },
+            {
+                "id": "4",
+                "text": "Right for using or selling integrated circuits"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "15",
+        "text": "Choose the correct answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Debugging"
+            },
+            {
+                "id": "2",
+                "text": "Rectifying"
+            },
+            {
+                "id": "3",
+                "text": "Resetting"
+            },
+            {
+                "id": "4",
+                "text": "Debunking"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "16",
+        "text": "Choose the correct answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "terabyte"
+            },
+            {
+                "id": "2",
+                "text": "gigabyte"
+            },
+            {
+                "id": "3",
+                "text": "kilobyte"
+            },
+            {
+                "id": "4",
+                "text": "petabyte"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "17",
+        "text": "Choose the correct answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "consensus"
+            },
+            {
+                "id": "2",
+                "text": "agreement"
+            },
+            {
+                "id": "3",
+                "text": "criticism"
+            },
+            {
+                "id": "4",
+                "text": "minutes"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "18",
+        "text": "Choose the correct answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "gross profit"
+            },
+            {
+                "id": "2",
+                "text": "gross income"
+            },
+            {
+                "id": "3",
+                "text": "profit"
+            },
+            {
+                "id": "4",
+                "text": "revenue"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "19",
+        "text": "Choose the correct answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Sensex"
+            },
+            {
+                "id": "2",
+                "text": "Broadway"
+            },
+            {
+                "id": "3",
+                "text": "Wall Street"
+            },
+            {
+                "id": "4",
+                "text": "American Stock Market"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "20",
+        "text": "Choose the correct answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Getting tired and exhausted in pursuit of excellence."
+            },
+            {
+                "id": "2",
+                "text": "Getting burnt in a fire accident of a company."
+            },
+            {
+                "id": "3",
+                "text": "A furnace functioning technology."
+            },
+            {
+                "id": "4",
+                "text": "A device to put off fire in a fire accident in a company."
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "21",
+        "text": "Choose the correct answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "a trusted third party for negotiations"
+            },
+            {
+                "id": "2",
+                "text": "a console in a lab"
+            },
+            {
+                "id": "3",
+                "text": "a person concealing the information"
+            },
+            {
+                "id": "4",
+                "text": "a troublemaker"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "22",
+        "text": "Choose the correct answer:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Bear Market"
+            },
+            {
+                "id": "2",
+                "text": "Bull Market"
+            },
+            {
+                "id": "3",
+                "text": "Black Market"
+            },
+            {
+                "id": "4",
+                "text": "Flea Market"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "23",
+        "text": "According to the conversation, the mother ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "asked the boy to wait there"
+            },
+            {
+                "id": "2",
+                "text": "gave the box to the boy"
+            },
+            {
+                "id": "3",
+                "text": "asked the boy what he was doing there"
+            },
+            {
+                "id": "4",
+                "text": "scolded the boy as he asked for the box"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "24",
+        "text": "In this conversation, B ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "is suggesting that pizza would be expensive."
+            },
+            {
+                "id": "2",
+                "text": "is thanking A for the offer."
+            },
+            {
+                "id": "3",
+                "text": "is not clear about accepting the offer."
+            },
+            {
+                "id": "4",
+                "text": "is undecided about A's offer"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "25",
+        "text": "Alcoholism is a(n) ______ problem in colleges.",
+        "options": [
+            {
+                "id": "1",
+                "text": "running"
+            },
+            {
+                "id": "2",
+                "text": "ongoing"
+            },
+            {
+                "id": "3",
+                "text": "going on"
+            },
+            {
+                "id": "4",
+                "text": "heading"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "26",
+        "text": "This sentence",
+        "options": [
+            {
+                "id": "1",
+                "text": "expresses an impossible condition"
+            },
+            {
+                "id": "2",
+                "text": "speaks about a probable state"
+            },
+            {
+                "id": "3",
+                "text": "expresses justifiable anger"
+            },
+            {
+                "id": "4",
+                "text": "implies a different situation"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "27",
+        "text": "In the above dialogue, B expresses his ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "disbelief"
+            },
+            {
+                "id": "2",
+                "text": "distaste"
+            },
+            {
+                "id": "3",
+                "text": "happiness"
+            },
+            {
+                "id": "4",
+                "text": "surprise"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "28",
+        "text": "Prem asked, \u201cRaghu, where do you live?\u201d",
+        "options": [
+            {
+                "id": "1",
+                "text": "where did he live"
+            },
+            {
+                "id": "2",
+                "text": "where he lived"
+            },
+            {
+                "id": "3",
+                "text": "where he had lived"
+            },
+            {
+                "id": "4",
+                "text": "where he is living"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "29",
+        "text": "\u2018I wish I hadn\u2019t said those words\u2019. The above sentence implies that the speaker actually",
+        "options": [
+            {
+                "id": "1",
+                "text": "didn't say those words."
+            },
+            {
+                "id": "2",
+                "text": "was fumbling for words."
+            },
+            {
+                "id": "3",
+                "text": "wanted to say those words."
+            },
+            {
+                "id": "4",
+                "text": "said those words."
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "30",
+        "text": "Abdul ______ to be a doctor.",
+        "options": [
+            {
+                "id": "1",
+                "text": "wanting"
+            },
+            {
+                "id": "2",
+                "text": "will wants"
+            },
+            {
+                "id": "3",
+                "text": "wants"
+            },
+            {
+                "id": "4",
+                "text": "want"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "31",
+        "text": "Can you lend me your cycle? *",
+        "options": [
+            {
+                "id": "1",
+                "text": "Yes, here we go!"
+            },
+            {
+                "id": "2",
+                "text": "Yes, you can."
+            },
+            {
+                "id": "3",
+                "text": "Yes, here it is!"
+            },
+            {
+                "id": "4",
+                "text": "Yes, you are ok!"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "32",
+        "text": "He used to visit us every week but he ______ now.",
+        "options": [
+            {
+                "id": "1",
+                "text": "will rarely come"
+            },
+            {
+                "id": "2",
+                "text": "rarely come"
+            },
+            {
+                "id": "3",
+                "text": "rarely comes"
+            },
+            {
+                "id": "4",
+                "text": "rarely came now"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "33",
+        "text": "I haven\u2019t had a call from her ______ last Wednesday.",
+        "options": [
+            {
+                "id": "1",
+                "text": "on"
+            },
+            {
+                "id": "2",
+                "text": "from"
+            },
+            {
+                "id": "3",
+                "text": "over"
+            },
+            {
+                "id": "4",
+                "text": "since"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "34",
+        "text": "A cake ______ by my mother yesterday.",
+        "options": [
+            {
+                "id": "1",
+                "text": "made"
+            },
+            {
+                "id": "2",
+                "text": "was made"
+            },
+            {
+                "id": "3",
+                "text": "is made"
+            },
+            {
+                "id": "4",
+                "text": "has been made"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "35",
+        "text": "This service should be available to all ______ their age.",
+        "options": [
+            {
+                "id": "1",
+                "text": "regardless"
+            },
+            {
+                "id": "2",
+                "text": "despite of"
+            },
+            {
+                "id": "3",
+                "text": "irrespective of"
+            },
+            {
+                "id": "4",
+                "text": "without regard of"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "36",
+        "text": "The prophet preached not to hanker ______ material benefits.",
+        "options": [
+            {
+                "id": "1",
+                "text": "before"
+            },
+            {
+                "id": "2",
+                "text": "after"
+            },
+            {
+                "id": "3",
+                "text": "for"
+            },
+            {
+                "id": "4",
+                "text": "about"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "37",
+        "text": "Every morning, he prays ______ god.",
+        "options": [
+            {
+                "id": "1",
+                "text": "for"
+            },
+            {
+                "id": "2",
+                "text": "by"
+            },
+            {
+                "id": "3",
+                "text": "about"
+            },
+            {
+                "id": "4",
+                "text": "to"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "38",
+        "text": "According to the passage which statement is true?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Society has sufficient awareness about the pros and cons of biofuels"
+            },
+            {
+                "id": "2",
+                "text": "Biofuels do not have any negative side effects"
+            },
+            {
+                "id": "3",
+                "text": "Palm oil plantations are fully sustainable"
+            },
+            {
+                "id": "4",
+                "text": "Sustainability criteria have to be built into green fuel projects"
+            }
+        ],
+        "correct": 3,
+        "section": "Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "39",
+        "text": "The UN has NOT issued cautions regarding",
+        "options": [
+            {
+                "id": "1",
+                "text": "civil unrest"
+            },
+            {
+                "id": "2",
+                "text": "armed environmental activism"
+            },
+            {
+                "id": "3",
+                "text": "the dangerous side effects of biofuels"
+            },
+            {
+                "id": "4",
+                "text": "possible environmental damage"
+            }
+        ],
+        "correct": 0,
+        "section": "Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "40",
+        "text": "According to the passage palm oil is",
+        "options": [
+            {
+                "id": "1",
+                "text": "edible besides being used as a biofuel"
+            },
+            {
+                "id": "2",
+                "text": "non-edible but used as biodiesel"
+            },
+            {
+                "id": "3",
+                "text": "produced in the rain forest regions"
+            },
+            {
+                "id": "4",
+                "text": "non-edible and non-sustainable biofuel"
+            }
+        ],
+        "correct": 0,
+        "section": "Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "41",
+        "text": "In the context of this passage, why are rain forests being cleared?",
+        "options": [
+            {
+                "id": "1",
+                "text": "to send dangerous people away"
+            },
+            {
+                "id": "2",
+                "text": "to exploit people"
+            },
+            {
+                "id": "3",
+                "text": "to grow palm oil plantations"
+            },
+            {
+                "id": "4",
+                "text": "to cause civil unrest"
+            }
+        ],
+        "correct": 2,
+        "section": "Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "42",
+        "text": "Which word in the passage means \"hidden dangers\"?",
+        "options": [
+            {
+                "id": "1",
+                "text": "concerns"
+            },
+            {
+                "id": "2",
+                "text": "side effects"
+            },
+            {
+                "id": "3",
+                "text": "pitfalls"
+            },
+            {
+                "id": "4",
+                "text": "adverse effects"
+            }
+        ],
+        "correct": 2,
+        "section": "Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "43",
+        "text": "Ryokan was requested by his sister-in-law to visit her home to",
+        "options": [
+            {
+                "id": "1",
+                "text": "spend a vacation"
+            },
+            {
+                "id": "2",
+                "text": "help her in the works"
+            },
+            {
+                "id": "3",
+                "text": "reform her son"
+            },
+            {
+                "id": "4",
+                "text": "please her son"
+            }
+        ],
+        "correct": 2,
+        "section": "Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "44",
+        "text": "The nephew of the Zen teacher expected that his uncle would ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "help him"
+            },
+            {
+                "id": "2",
+                "text": "please him"
+            },
+            {
+                "id": "3",
+                "text": "rebuke him"
+            },
+            {
+                "id": "4",
+                "text": "support him"
+            }
+        ],
+        "correct": 2,
+        "section": "Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "45",
+        "text": "The Zen teacher's hands were shivering when he tried to tie the thongs of his sandals because ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "he was merely acting"
+            },
+            {
+                "id": "2",
+                "text": "it was a cold day"
+            },
+            {
+                "id": "3",
+                "text": "he was old"
+            },
+            {
+                "id": "4",
+                "text": "his sister didn't help him"
+            }
+        ],
+        "correct": 2,
+        "section": "Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "46",
+        "text": "The way the Zen teacher taught his nephew is ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "complex and difficult"
+            },
+            {
+                "id": "2",
+                "text": "direct and painful"
+            },
+            {
+                "id": "3",
+                "text": "simple and striking"
+            },
+            {
+                "id": "4",
+                "text": "indecent and disturbing"
+            }
+        ],
+        "correct": 2,
+        "section": "Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "47",
+        "text": "The word 'dissolute' means",
+        "options": [
+            {
+                "id": "1",
+                "text": "chaste"
+            },
+            {
+                "id": "2",
+                "text": "unprincipled"
+            },
+            {
+                "id": "3",
+                "text": "respectful"
+            },
+            {
+                "id": "4",
+                "text": "pure"
+            }
+        ],
+        "correct": 1,
+        "section": "Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "48",
+        "text": "The author of the passage was born in",
+        "options": [
+            {
+                "id": "1",
+                "text": "1950s"
+            },
+            {
+                "id": "2",
+                "text": "1960s"
+            },
+            {
+                "id": "3",
+                "text": "1970s"
+            },
+            {
+                "id": "4",
+                "text": "1980s"
+            }
+        ],
+        "correct": 0,
+        "section": "Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "49",
+        "text": "McLuhan's book does NOT deal with",
+        "options": [
+            {
+                "id": "1",
+                "text": "Communication"
+            },
+            {
+                "id": "2",
+                "text": "Technology"
+            },
+            {
+                "id": "3",
+                "text": "Artificial Intelligence"
+            },
+            {
+                "id": "4",
+                "text": "Modern media"
+            }
+        ],
+        "correct": 2,
+        "section": "Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "50",
+        "text": "The term globalisation caught people's imagination in the",
+        "options": [
+            {
+                "id": "1",
+                "text": "1960s"
+            },
+            {
+                "id": "2",
+                "text": "1980s"
+            },
+            {
+                "id": "3",
+                "text": "1970s"
+            },
+            {
+                "id": "4",
+                "text": "1990s"
+            }
+        ],
+        "correct": 1,
+        "section": "Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "51",
+        "text": "Television ______ the living room.",
+        "options": [
+            {
+                "id": "1",
+                "text": "transported us out of"
+            },
+            {
+                "id": "2",
+                "text": "brought advertisements to"
+            },
+            {
+                "id": "3",
+                "text": "confined us to"
+            },
+            {
+                "id": "4",
+                "text": "brought the world into"
+            }
+        ],
+        "correct": 3,
+        "section": "Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "52",
+        "text": "______ forms the basis of behaviour.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Knowledge"
+            },
+            {
+                "id": "2",
+                "text": "Understanding"
+            },
+            {
+                "id": "3",
+                "text": "Experience"
+            },
+            {
+                "id": "4",
+                "text": "Intuition"
+            }
+        ],
+        "correct": 2,
+        "section": "Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "53",
+        "text": "Options shown in green color and with \ud83d\udfe9 icon are correct.",
+        "options": [
+            {
+                "id": "1",
+                "text": ""
+            },
+            {
+                "id": "2",
+                "text": ""
+            },
+            {
+                "id": "3",
+                "text": ""
+            },
+            {
+                "id": "4",
+                "text": ""
+            }
+        ],
+        "correct": -1,
+        "section": "General Instructions",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "54",
+        "text": "Options shown in red color and with \ud83d\udfe5 icon are incorrect.",
+        "options": [
+            {
+                "id": "1",
+                "text": ""
+            },
+            {
+                "id": "2",
+                "text": ""
+            },
+            {
+                "id": "3",
+                "text": ""
+            },
+            {
+                "id": "4",
+                "text": ""
+            }
+        ],
+        "correct": -1,
+        "section": "General Instructions",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "55",
+        "text": "Question Id: 4969011 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option: No Option Orientation: Vertical Correct Marks : 1 Wrong Marks : 0 What is the rate of interest percent per annum?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": -1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "56",
+        "text": "Question Number: 2 Question Id : 4969013 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 What is the length of the train?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": -1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "57",
+        "text": "Question Number : 4 Question Id : 4969015 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option: No Option Orientation: Vertical Correct Marks: 1 Wrong Marks : 0 What is the marked price of the table?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": -1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "58",
+        "text": "Question Number: 5 Question Id : 4969016 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 What is the total number of girls in the class?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": -1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "59",
+        "text": "Question Number: 6 Question Id : 4969017 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Two persons A and B start running towards each other at the same time from P and Q and meet after 120 minutes. What is the speed of A?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": -1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "60",
+        "text": "Question Number : 7 Question Id : 4969018 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option: No Option Orientation: Vertical Correct Marks: 1 Wrong Marks : 0 By how many years is Aswani younger than her brother Sanjay?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": -1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "61",
+        "text": "Question Number : 8 Question Id : 4969019 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 How far and in which direction is point B with respect point A?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": -1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "62",
+        "text": "Question Number : 9 Question Id : 49690110 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Six persons C. D, E, F. G. H are sitting in a line (row) facing North with equal distance between each other. Who sits second to the left of G?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": ""
+            }
+        ],
+        "correct": -1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "63",
+        "text": "Question Number : 9 Question Id : 49690110 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 What is the height of the right circular cylinder?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": -1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "64",
+        "text": "Question Number: 10 Question Id : 49690111 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks : 1 Wrong Marks: 0 What is the value of O?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": -1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "65",
+        "text": "Question Number: 11 Question Id : 49690112 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 How many entries in the stock register can three persons post in one day?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": -1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "66",
+        "text": "Question Number: 12 Question Id : 49690113 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 What is the height of the right angled triangle?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": -1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "67",
+        "text": "Question Number: 13 Question Id : 49690114 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 What is the distance between P and R?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": -1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "68",
+        "text": "Question Number: 14 Question Id : 49690115 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 What is the value of 5x\u00b3y?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": -1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "69",
+        "text": "Question Number: 15 Question Id : 49690116 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Is a>0?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": -1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "70",
+        "text": "Question Number: 16 Question Id : 49690117 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks : 1 Wrong Marks : 0 For two sets A and B, is ANB= $?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": -1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "71",
+        "text": "Question Number: 17 Question Id : 49690118 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation: Vertical Correct Marks: 1 Wrong Marks : 0 If O is the centre of the circle, what is the area of the shaded portion?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": -1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "72",
+        "text": "Question Number: 18 Question Id : 49690119 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 What is the size of population of a city in the year 2020?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": -1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "73",
+        "text": "Question Number: 19 Question Id : 49690120 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": -1,
+        "section": "Logic and Analytical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "74",
+        "text": "Question Number: 20 Question Id : 49690121 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option: No Option Orientation: Vertical Correct Marks: 1 Wrong Marks : 0 What is the value of the coins in the pocket?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": -1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "0"
+    },
+    {
+        "id": "75",
+        "text": "Question Number: 21 Question Id : 49690123 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks: 0 dog: rabbis :: mosquito:",
+        "options": [
+            {
+                "id": "1",
+                "text": "cholera"
+            },
+            {
+                "id": "2",
+                "text": "typhoid"
+            },
+            {
+                "id": "3",
+                "text": "filaria"
+            },
+            {
+                "id": "4",
+                "text": "polio"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "76",
+        "text": "Question Number: 22 Question Id : 49690124 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Delhi: India ::",
+        "options": [
+            {
+                "id": "1",
+                "text": "New York"
+            },
+            {
+                "id": "2",
+                "text": "Atlanta"
+            },
+            {
+                "id": "3",
+                "text": "Chicago"
+            },
+            {
+                "id": "4",
+                "text": "Washington D.C"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "77",
+        "text": "Question Number: 23 Question Id : 49690125 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Mind:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Psychology"
+            },
+            {
+                "id": "2",
+                "text": "Philosophy"
+            },
+            {
+                "id": "3",
+                "text": "Physics"
+            },
+            {
+                "id": "4",
+                "text": "Physiology"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "78",
+        "text": "Question Number: 24 Question Id : 49690126 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Pigmy: Kongo :: Julu:",
+        "options": [
+            {
+                "id": "1",
+                "text": "South Africa"
+            },
+            {
+                "id": "2",
+                "text": "North America"
+            },
+            {
+                "id": "3",
+                "text": "Kenya"
+            },
+            {
+                "id": "4",
+                "text": "Guatemala"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "79",
+        "text": "Question Number: 25 Question Id : 49690127 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Fish:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Tree"
+            },
+            {
+                "id": "2",
+                "text": "Land"
+            },
+            {
+                "id": "3",
+                "text": "Cloud"
+            },
+            {
+                "id": "4",
+                "text": "Water"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "80",
+        "text": "Question Number: 26 Question Id : 49690128 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 D:16 :: N:",
+        "options": [
+            {
+                "id": "1",
+                "text": "225"
+            },
+            {
+                "id": "2",
+                "text": "169"
+            },
+            {
+                "id": "3",
+                "text": "196"
+            },
+            {
+                "id": "4",
+                "text": "256"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "81",
+        "text": "Question Number: 27 Question Id: 49690129 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks : 1 Wrong Marks: 0 FRAME: 43:: ROAST:",
+        "options": [
+            {
+                "id": "1",
+                "text": "83"
+            },
+            {
+                "id": "2",
+                "text": "73"
+            },
+            {
+                "id": "3",
+                "text": "68"
+            },
+            {
+                "id": "4",
+                "text": "57"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "82",
+        "text": "Question Number : 28 Question Id : 49690130 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 ABCD: CEGI :: FGHI:",
+        "options": [
+            {
+                "id": "1",
+                "text": "HJLN"
+            },
+            {
+                "id": "2",
+                "text": "HILN"
+            },
+            {
+                "id": "3",
+                "text": "HJLM"
+            },
+            {
+                "id": "4",
+                "text": "HJKN"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "83",
+        "text": "Question Number: 29 Question Id : 49690131 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 F:35:: J:",
+        "options": [
+            {
+                "id": "1",
+                "text": "89"
+            },
+            {
+                "id": "2",
+                "text": "98"
+            },
+            {
+                "id": "3",
+                "text": "63"
+            },
+            {
+                "id": "4",
+                "text": "99"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "84",
+        "text": "Question Number: 30 Question Id : 49690132 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 MOTHER:",
+        "options": [
+            {
+                "id": "1",
+                "text": "29"
+            },
+            {
+                "id": "2",
+                "text": "34"
+            },
+            {
+                "id": "3",
+                "text": "37"
+            },
+            {
+                "id": "4",
+                "text": "39"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "85",
+        "text": "Question Number: 31 Question Id : 49690133 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation: Vertical Correct Marks: 1 Wrong Marks : 0 In the Following questions pick the odd thing out.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Zeal"
+            },
+            {
+                "id": "2",
+                "text": "Fill"
+            },
+            {
+                "id": "3",
+                "text": "Dial"
+            },
+            {
+                "id": "4",
+                "text": "Rear"
+            }
+        ],
+        "correct": 1,
+        "section": "Odd One Out",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "86",
+        "text": "Question Number: 32 Question Id : 49690134 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation: Vertical Correct Marks: 1 Wrong Marks : 0 In the Following questions pick the odd thing out.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Heron"
+            },
+            {
+                "id": "2",
+                "text": "Lizard"
+            },
+            {
+                "id": "3",
+                "text": "Hawk"
+            },
+            {
+                "id": "4",
+                "text": "Sparrow"
+            }
+        ],
+        "correct": 1,
+        "section": "Odd One Out",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "87",
+        "text": "Question Number : 33 Question Id : 49690135 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 In the Following questions pick the odd thing out.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Trophy"
+            },
+            {
+                "id": "2",
+                "text": "Medal"
+            },
+            {
+                "id": "3",
+                "text": "Gift"
+            },
+            {
+                "id": "4",
+                "text": "Prize"
+            }
+        ],
+        "correct": 2,
+        "section": "Odd One Out",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "88",
+        "text": "Question Number : 34 Question Id : 49690136 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 In the Following questions pick the odd thing out.",
+        "options": [
+            {
+                "id": "1",
+                "text": "DHL"
+            },
+            {
+                "id": "2",
+                "text": "MPT"
+            },
+            {
+                "id": "3",
+                "text": "RVZ"
+            },
+            {
+                "id": "4",
+                "text": "IMQ"
+            }
+        ],
+        "correct": 1,
+        "section": "Odd One Out",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "89",
+        "text": "Question Number : 35 Question Id : 49690137 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 In the Following questions pick the odd thing out.",
+        "options": [
+            {
+                "id": "1",
+                "text": "E"
+            },
+            {
+                "id": "2",
+                "text": "G"
+            },
+            {
+                "id": "3",
+                "text": "K"
+            },
+            {
+                "id": "4",
+                "text": "O"
+            }
+        ],
+        "correct": 3,
+        "section": "Odd One Out",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "90",
+        "text": "Question Number: 36 Question Id : 49690138 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "225"
+            },
+            {
+                "id": "2",
+                "text": "169"
+            },
+            {
+                "id": "3",
+                "text": "196"
+            },
+            {
+                "id": "4",
+                "text": "256"
+            }
+        ],
+        "correct": -1,
+        "section": "Sequences and Series",
+        "correctAnswer": "0"
+    }
+]

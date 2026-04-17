@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "The weights of 4 boxes are 90, 30, 20, and 50 kilograms. Which of the following cannot be the total weight, in kilograms, of any combination of these boxes, and in combination a box can be used only once?",
+        "options": [
+            {
+                "id": "1",
+                "text": "190"
+            },
+            {
+                "id": "2",
+                "text": "170"
+            },
+            {
+                "id": "3",
+                "text": "100"
+            },
+            {
+                "id": "4",
+                "text": "150"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "2",
+        "text": "Select the option that is related to the third word in the same way as the second word is related to the first word. (The words should be treated as meaningful Hindi words and should not be associated with each other on the basis of number of letters/number of consonants/number of vowels in the word.) Fountain Pen: Waterman :: Telescope: ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Galileo"
+            },
+            {
+                "id": "2",
+                "text": "Macmillan"
+            },
+            {
+                "id": "3",
+                "text": "Robert Hooke"
+            },
+            {
+                "id": "4",
+                "text": "Newton"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "3",
+        "text": "Select the option which is related to the third word in the same way as the second word is related to the first word. (The words should be treated as meaningful English/Hindi words and related to each other on the basis of number of letters/number of consonants/number of vowels in the word) Panda: Bamboo : Koala :?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Bark"
+            },
+            {
+                "id": "2",
+                "text": "Grass"
+            },
+            {
+                "id": "3",
+                "text": "Eucalyptus"
+            },
+            {
+                "id": "4",
+                "text": "Fish"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "4",
+        "text": "Select the word pair that represents exactly the same relation that is expressed in the given word pair. (Words should be treated as meaningful words and should not be related to each other on the basis of the number of letters/number of consonants/number of vowels in the word.) Acquired: Received",
+        "options": [
+            {
+                "id": "1",
+                "text": "Bitter : Sweet"
+            },
+            {
+                "id": "2",
+                "text": "Collected: Distributed"
+            },
+            {
+                "id": "3",
+                "text": "Arrival: Departure"
+            },
+            {
+                "id": "4",
+                "text": "Short: Small"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "5",
+        "text": "Clear is related to Open in the same way as Confidential is related to",
+        "options": [
+            {
+                "id": "1",
+                "text": "Clean"
+            },
+            {
+                "id": "2",
+                "text": "Free"
+            },
+            {
+                "id": "3",
+                "text": "Direct"
+            },
+            {
+                "id": "4",
+                "text": "Secret"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "6",
+        "text": "Select the word-pair which represents exactly the relation which is expressed in the given word-pair. (The words should be treated as meaningful words and should not be related based on the number of letters/consonants vowels in the word) Hansini: Swan",
+        "options": [
+            {
+                "id": "1",
+                "text": "Hansini: Swan"
+            },
+            {
+                "id": "2",
+                "text": "Adult: Infant"
+            },
+            {
+                "id": "3",
+                "text": "Witch: Wizard"
+            },
+            {
+                "id": "4",
+                "text": "Banyan: Tree"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "7",
+        "text": "Select the odd group of numbers. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g.13 Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+        "options": [
+            {
+                "id": "1",
+                "text": "(15 \u2013 220 \u2013 215)"
+            },
+            {
+                "id": "2",
+                "text": "(10 \u2013 100 \u2013 95)"
+            },
+            {
+                "id": "3",
+                "text": "(20 \u2013 400 \u2013 395)"
+            },
+            {
+                "id": "4",
+                "text": "(25 \u2013 625 \u2013 620)"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "8",
+        "text": "Three of the following four-letter clusters are alike in a certain way and one is different. Pick the odd one out.",
+        "options": [
+            {
+                "id": "1",
+                "text": "FDB"
+            },
+            {
+                "id": "2",
+                "text": "ZXV"
+            },
+            {
+                "id": "3",
+                "text": "JIG"
+            },
+            {
+                "id": "4",
+                "text": "LJH"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "9",
+        "text": "The weights of the four boxes are 90, 30, 40, and 60 kilograms. Which of the following cannot be the total weight, in kilograms, of any combination of these boxes, and in combination, a box can be used only once?",
+        "options": [
+            {
+                "id": "1",
+                "text": "200"
+            },
+            {
+                "id": "2",
+                "text": "220"
+            },
+            {
+                "id": "3",
+                "text": "180"
+            },
+            {
+                "id": "4",
+                "text": "130"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "10",
+        "text": "Read the given statement(s) and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement(s). Statements: Some stones are cubes. No cube is a glass. All bats are cubes. Conclusions: I. Some stones being bats is a possibility. II. No bat is a glass. III. All cubes are bats. IV. No stone is a glass.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Only Conclusions I, II and IV follow"
+            },
+            {
+                "id": "2",
+                "text": "Only Conclusions II and III follow"
+            },
+            {
+                "id": "3",
+                "text": "Only Conclusions I and II follow"
+            },
+            {
+                "id": "4",
+                "text": "Only Conclusion I follows"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-A: ANALYTICS ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "11",
+        "text": "What is the average of exports during the given period of time?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Rs.1,250.2 lakhs"
+            },
+            {
+                "id": "2",
+                "text": "Rs.1,240.0 lakhs"
+            },
+            {
+                "id": "3",
+                "text": "Rs.1,248.2 lakhs"
+            },
+            {
+                "id": "4",
+                "text": "Rs.1,115.4 lakhs"
+            }
+        ],
+        "correct": 0,
+        "section": "DATA INTERPRETATION",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "12",
+        "text": "If 75% of the T-type cars produced each year were sold by the company, how many T-type cars remain unsold?",
+        "options": [
+            {
+                "id": "1",
+                "text": "23500"
+            },
+            {
+                "id": "2",
+                "text": "22000"
+            },
+            {
+                "id": "3",
+                "text": "24125"
+            },
+            {
+                "id": "4",
+                "text": "25000"
+            }
+        ],
+        "correct": 2,
+        "section": "DATA INTERPRETATION",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "13",
+        "text": "The total number of cars of type P, R, and U manufactured in 2001 is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "1,54,000"
+            },
+            {
+                "id": "2",
+                "text": "1,76,000"
+            },
+            {
+                "id": "3",
+                "text": "2,00,000"
+            },
+            {
+                "id": "4",
+                "text": "2,64,000"
+            }
+        ],
+        "correct": 3,
+        "section": "DATA INTERPRETATION",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "14",
+        "text": "A man is facing in the south direction. He turns 135\u00b0 in the anticlockwise direction and then 180\u00b0 in the clockwise direction. In which direction is he facing now?",
+        "options": [
+            {
+                "id": "1",
+                "text": "South-East"
+            },
+            {
+                "id": "2",
+                "text": "South-West"
+            },
+            {
+                "id": "3",
+                "text": "North-East"
+            },
+            {
+                "id": "4",
+                "text": "North-West"
+            }
+        ],
+        "correct": 1,
+        "section": "LOGICAL REASONING",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "15",
+        "text": "What day of the week will be on the 1st of January 2033?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Saturday"
+            },
+            {
+                "id": "2",
+                "text": "Monday"
+            },
+            {
+                "id": "3",
+                "text": "Sunday"
+            },
+            {
+                "id": "4",
+                "text": "Tuesday"
+            }
+        ],
+        "correct": 0,
+        "section": "LOGICAL REASONING",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "16",
+        "text": "Today is Friday. After 55 days, it will be:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Tuesday"
+            },
+            {
+                "id": "2",
+                "text": "Thursday"
+            },
+            {
+                "id": "3",
+                "text": "Wednesday"
+            },
+            {
+                "id": "4",
+                "text": "Monday"
+            }
+        ],
+        "correct": 1,
+        "section": "LOGICAL REASONING",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "17",
+        "text": "The average temperature of the town in the first six days of a month was 41\u00b0 C and the sum of the temperatures of the first five days of the same month was 201\u00b0 C. What was the temperature on the sixth day of the month?",
+        "options": [
+            {
+                "id": "1",
+                "text": "40\u00b0 C"
+            },
+            {
+                "id": "2",
+                "text": "45\u00b0 C"
+            },
+            {
+                "id": "3",
+                "text": "46\u00b0 C"
+            },
+            {
+                "id": "4",
+                "text": "50\u00b0 C"
+            }
+        ],
+        "correct": 1,
+        "section": "LOGICAL REASONING",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "18",
+        "text": "Which two numbers, from amongst the given options, should be interchanged to make the given equation correct? (6)^3 + 12 + [(\u221a81) x 4] \u2212 (28 \u00f7 2) + 24 = 43",
+        "options": [
+            {
+                "id": "1",
+                "text": "12 and 24"
+            },
+            {
+                "id": "2",
+                "text": "6 and 24"
+            },
+            {
+                "id": "3",
+                "text": "81 and 4"
+            },
+            {
+                "id": "4",
+                "text": "28 and 24"
+            }
+        ],
+        "correct": 0,
+        "section": "MATHEMATICS",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "19",
+        "text": "The ratio of the present ages of Aman and Ankit is 2 : 1 and the sum of their present ages is 72 years. What will be Aman's age (in years) after 6 years?",
+        "options": [
+            {
+                "id": "1",
+                "text": "30"
+            },
+            {
+                "id": "2",
+                "text": "48"
+            },
+            {
+                "id": "3",
+                "text": "52"
+            },
+            {
+                "id": "4",
+                "text": "54"
+            }
+        ],
+        "correct": 3,
+        "section": "MATHEMATICS",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "20",
+        "text": "In a group of 50 students, 25 play Hockey, 30 play Football, and 8 play no games. What is the number of students who play both Hockey and Football?",
+        "options": [
+            {
+                "id": "1",
+                "text": "10"
+            },
+            {
+                "id": "2",
+                "text": "11"
+            },
+            {
+                "id": "3",
+                "text": "12"
+            },
+            {
+                "id": "4",
+                "text": "13"
+            }
+        ],
+        "correct": 3,
+        "section": "MATHEMATICS",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "21",
+        "text": "If the sum of three consecutive numbers is 15, what is the square of the middle number?",
+        "options": [
+            {
+                "id": "1",
+                "text": "16"
+            },
+            {
+                "id": "2",
+                "text": "25"
+            },
+            {
+                "id": "3",
+                "text": "36"
+            },
+            {
+                "id": "4",
+                "text": "9"
+            }
+        ],
+        "correct": 1,
+        "section": "MATHEMATICS",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "22",
+        "text": "Which figure should replace the question mark (?) if the series were to be continued?",
+        "options": [
+            {
+                "id": "1",
+                "text": "figure"
+            },
+            {
+                "id": "2",
+                "text": "figure"
+            },
+            {
+                "id": "3",
+                "text": "figure"
+            },
+            {
+                "id": "4",
+                "text": "figure"
+            }
+        ],
+        "correct": 0,
+        "section": "LOGICAL REASONING",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "23",
+        "text": "Looking at a photograph of a woman, Samuel said, \"She is the mother of my father's brother's daughter.\" How is Samuel related to the women shown in the picture?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Son"
+            },
+            {
+                "id": "2",
+                "text": "Brother"
+            },
+            {
+                "id": "3",
+                "text": "Brother-in-law"
+            },
+            {
+                "id": "4",
+                "text": "Husband's brother's son"
+            }
+        ],
+        "correct": 3,
+        "section": "LOGICAL REASONING",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "24",
+        "text": "If A \u2013 B means that A is the mother of B, A + B means that A is the father of B, A + B means that A is the sister of B, then which of the following expressions shows that P is the aunt of Q?",
+        "options": [
+            {
+                "id": "1",
+                "text": "P+R+Q"
+            },
+            {
+                "id": "2",
+                "text": "QR+P"
+            },
+            {
+                "id": "3",
+                "text": "PR-Q"
+            },
+            {
+                "id": "4",
+                "text": "RP-Q"
+            }
+        ],
+        "correct": 2,
+        "section": "LOGICAL REASONING",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "25",
+        "text": "Select the most appropriate collocating word to fill in the blank. Ram was praised for his ______ leadership.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Imaginary"
+            },
+            {
+                "id": "2",
+                "text": "Visionary"
+            },
+            {
+                "id": "3",
+                "text": "Magical"
+            },
+            {
+                "id": "4",
+                "text": "Broad"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "26",
+        "text": "Select the most appropriate option that can substitute the underlined segment in the given sentence. He was looking into his book for the last two hours but couldn't find it.",
+        "options": [
+            {
+                "id": "1",
+                "text": "looking down on his book"
+            },
+            {
+                "id": "2",
+                "text": "looking above his book"
+            },
+            {
+                "id": "3",
+                "text": "looking for his book"
+            },
+            {
+                "id": "4",
+                "text": "looking after his book"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "27",
+        "text": "Select the most appropriate meaning of the given idiom. All eyes",
+        "options": [
+            {
+                "id": "1",
+                "text": "Watching with anger"
+            },
+            {
+                "id": "2",
+                "text": "Watching eagerly"
+            },
+            {
+                "id": "3",
+                "text": "Watching with no interest"
+            },
+            {
+                "id": "4",
+                "text": "Not watching at all"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "28",
+        "text": "Select the most appropriate ANTONYM of the word 'SINKS' from the given sentence. Groups work together to create Christmas parade themes, which are then carried out in floats, musical groups, and strolling figures.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Floats"
+            },
+            {
+                "id": "2",
+                "text": "Create"
+            },
+            {
+                "id": "3",
+                "text": "Parade"
+            },
+            {
+                "id": "4",
+                "text": "Strolling"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "29",
+        "text": "Select the most appropriate ANTONYM of the underlined word. Regardless of their diversity, all flowers have a uniform function, the reproduction of the species through the production of seed.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Melancholy"
+            },
+            {
+                "id": "2",
+                "text": "Equilibrium"
+            },
+            {
+                "id": "3",
+                "text": "Affinity"
+            },
+            {
+                "id": "4",
+                "text": "Diversity"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "30",
+        "text": "Select the most appropriate ANTONYM of the given word. Polite",
+        "options": [
+            {
+                "id": "1",
+                "text": "Rude"
+            },
+            {
+                "id": "2",
+                "text": "Civil"
+            },
+            {
+                "id": "3",
+                "text": "Decent"
+            },
+            {
+                "id": "4",
+                "text": "Sober"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "31",
+        "text": "Select the most appropriate option to fill in the blank. The contingent managed to ______ successfully.",
+        "options": [
+            {
+                "id": "1",
+                "text": "park the deal"
+            },
+            {
+                "id": "2",
+                "text": "close the deal"
+            },
+            {
+                "id": "3",
+                "text": "heal the deal"
+            },
+            {
+                "id": "4",
+                "text": "catch the deal"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "32",
+        "text": "Select the most appropriate option to fill in the blank. The monster trucks have very ______ engines, they can probably pull a train coach without any problem.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Dominant"
+            },
+            {
+                "id": "2",
+                "text": "Forceful"
+            },
+            {
+                "id": "3",
+                "text": "Impressive"
+            },
+            {
+                "id": "4",
+                "text": "Powerful"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "33",
+        "text": "Select the most appropriate ANTONYM of the underlined word. The singer complained to the police that she was purportedly attacked back stage immediately after the concert.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Maliciously"
+            },
+            {
+                "id": "2",
+                "text": "Impossibly"
+            },
+            {
+                "id": "3",
+                "text": "Dramatically"
+            },
+            {
+                "id": "4",
+                "text": "Severely"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "34",
+        "text": "Select the option that is similar in meaning to the underlined word. He declined the offer to join the Board of Directors.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Delayed"
+            },
+            {
+                "id": "2",
+                "text": "Rejected"
+            },
+            {
+                "id": "3",
+                "text": "Modified"
+            },
+            {
+                "id": "4",
+                "text": "Deferred"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "35",
+        "text": "Select the most appropriate ANTONYM of the given word. Incoherent",
+        "options": [
+            {
+                "id": "1",
+                "text": "Gloomy"
+            },
+            {
+                "id": "2",
+                "text": "Apparent"
+            },
+            {
+                "id": "3",
+                "text": "Pensive"
+            },
+            {
+                "id": "4",
+                "text": "Rational"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "36",
+        "text": "Select the most appropriate meaning of the underlined idiom in the given sentence. The intern aspired to understand the ins and outs of the operating systems of the institution.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Stern regulations"
+            },
+            {
+                "id": "2",
+                "text": "Prior conditions"
+            },
+            {
+                "id": "3",
+                "text": "Elaborate theories"
+            },
+            {
+                "id": "4",
+                "text": "Detailed description"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "37",
+        "text": "Select the most appropriate idiom that can substitute the italicised words in the given sentence. My mother said, \u201cMake consistent progress for success.\u201d",
+        "options": [
+            {
+                "id": "1",
+                "text": "slow and steady"
+            },
+            {
+                "id": "2",
+                "text": "make a habit"
+            },
+            {
+                "id": "3",
+                "text": "in and outs"
+            },
+            {
+                "id": "4",
+                "text": "do's and don'ts"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "38",
+        "text": "Select the option that can be used as a one-word substitute for the given group of words. A list or collection of books or informative graphics",
+        "options": [
+            {
+                "id": "1",
+                "text": "Bale"
+            },
+            {
+                "id": "2",
+                "text": "Hamlet"
+            },
+            {
+                "id": "3",
+                "text": "Gallery"
+            },
+            {
+                "id": "4",
+                "text": "Catalogue"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "39",
+        "text": "Select the most appropriate synonym of the underlined word in the given sentence. The young fellow was innocent and without guile.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Morality"
+            },
+            {
+                "id": "2",
+                "text": "Pride"
+            },
+            {
+                "id": "3",
+                "text": "Greed"
+            },
+            {
+                "id": "4",
+                "text": "Deceit"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "40",
+        "text": "Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select 'No substitution'. Kranthi loves to swim at the local swimming pool in order that relieve his work stress.",
+        "options": [
+            {
+                "id": "1",
+                "text": "in order which"
+            },
+            {
+                "id": "2",
+                "text": "No substitution"
+            },
+            {
+                "id": "3",
+                "text": "in order as to relieve"
+            },
+            {
+                "id": "4",
+                "text": "in order to relieve"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "41",
+        "text": "Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select 'No substitution'. The students decided to surprise their teacher on her birthday.",
+        "options": [
+            {
+                "id": "1",
+                "text": "their teacher at her birthday"
+            },
+            {
+                "id": "2",
+                "text": "there teacher on her birthday"
+            },
+            {
+                "id": "3",
+                "text": "her teacher on her birthday"
+            },
+            {
+                "id": "4",
+                "text": "No substitution"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "42",
+        "text": "Select the sentences that contains no spelling errors.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Diabeties is a chronic disease."
+            },
+            {
+                "id": "2",
+                "text": "Diabetes is a chronic disease."
+            },
+            {
+                "id": "3",
+                "text": "Daibetes is a chronic disease."
+            },
+            {
+                "id": "4",
+                "text": "Diabites is a chronic disease."
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "43",
+        "text": "The following sentence has been split into four segments. Identify the segment thatcontains a grammatical error. The audience has being / angry as the magician / is not performing / as expected",
+        "options": [
+            {
+                "id": "1",
+                "text": "is not performing"
+            },
+            {
+                "id": "2",
+                "text": "as expected"
+            },
+            {
+                "id": "3",
+                "text": "The audience has being"
+            },
+            {
+                "id": "4",
+                "text": "angry as the magician"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "44",
+        "text": "Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select 'No substitution'. I am working hard in order to earn a decent living.",
+        "options": [
+            {
+                "id": "1",
+                "text": "buying a decent living"
+            },
+            {
+                "id": "2",
+                "text": "earning a better living"
+            },
+            {
+                "id": "3",
+                "text": "purchase a reputed life"
+            },
+            {
+                "id": "4",
+                "text": "No substitution"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "45",
+        "text": "Select the most appropriate option to fill in the blank. The angles are equal, consequently the sides are ______.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Equal"
+            },
+            {
+                "id": "2",
+                "text": "Unequal"
+            },
+            {
+                "id": "3",
+                "text": "Larger"
+            },
+            {
+                "id": "4",
+                "text": "Smaller"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "46",
+        "text": "Select the most appropriate option to fill in the blanks. As cattle are to herd so are birds to",
+        "options": [
+            {
+                "id": "1",
+                "text": "Flock"
+            },
+            {
+                "id": "2",
+                "text": "Litter"
+            },
+            {
+                "id": "3",
+                "text": "Pack"
+            },
+            {
+                "id": "4",
+                "text": "Streak"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "47",
+        "text": "Select the most appropriate option to fill in the blanks. Soon after the doctor gave her the next ______ of the medicine, the patient began to ______.",
+        "options": [
+            {
+                "id": "1",
+                "text": "dose, dozed"
+            },
+            {
+                "id": "2",
+                "text": "dosed, doze"
+            },
+            {
+                "id": "3",
+                "text": "dose, doze"
+            },
+            {
+                "id": "4",
+                "text": "doze, dose"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "48",
+        "text": "Select the most appropriate option to fill in the blank. The interviewees were slowly becoming impatient as they were left to ______ in the waiting room for hours.",
+        "options": [
+            {
+                "id": "1",
+                "text": "draw the long bow"
+            },
+            {
+                "id": "2",
+                "text": "cool their heels"
+            },
+            {
+                "id": "3",
+                "text": "hold water"
+            },
+            {
+                "id": "4",
+                "text": "flog a dead horse"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "49",
+        "text": "Select the most appropriate option to fill in the blank. The planets are ______ around the sun.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Revolving"
+            },
+            {
+                "id": "2",
+                "text": "Circling"
+            },
+            {
+                "id": "3",
+                "text": "Rotating"
+            },
+            {
+                "id": "4",
+                "text": "Rounding"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "50",
+        "text": "Select the most appropriate option to fill in the blank. It is very difficult for her to ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "keep a secret"
+            },
+            {
+                "id": "2",
+                "text": "touch a secret"
+            },
+            {
+                "id": "3",
+                "text": "make a secret"
+            },
+            {
+                "id": "4",
+                "text": "cry a secret"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "51",
+        "text": "Select the most appropriate option to fill in the blank. The patient was ______ from the hospital.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Liberated"
+            },
+            {
+                "id": "2",
+                "text": "Discharged"
+            },
+            {
+                "id": "3",
+                "text": "let out"
+            },
+            {
+                "id": "4",
+                "text": "Released"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "52",
+        "text": "Select the most appropriate option to fill in the blank. If you try to do something every day you will ______ progress.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Hold"
+            },
+            {
+                "id": "2",
+                "text": "Get"
+            },
+            {
+                "id": "3",
+                "text": "Make"
+            },
+            {
+                "id": "4",
+                "text": "Catch"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "53",
+        "text": "Select the most appropriate option to fill in the blank. The doctor directed the nurse to administer an ______ medicine to the patient.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Official"
+            },
+            {
+                "id": "2",
+                "text": "Eminent"
+            },
+            {
+                "id": "3",
+                "text": "Alternative"
+            },
+            {
+                "id": "4",
+                "text": "Insightful"
+            }
+        ],
+        "correct": 2,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "54",
+        "text": "Select the most appropriate collocating word to fill in the blank. After having understood the ill effects, he said he would ______ drinking alcohol.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Quit"
+            },
+            {
+                "id": "2",
+                "text": "Finish"
+            },
+            {
+                "id": "3",
+                "text": "Close"
+            },
+            {
+                "id": "4",
+                "text": "Terminate"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "55",
+        "text": "Select the most appropriate option to fill in the blank. Although I have a good job, I wish to take the ______ of starting my own business.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Back"
+            },
+            {
+                "id": "2",
+                "text": "Seat"
+            },
+            {
+                "id": "3",
+                "text": "Look"
+            },
+            {
+                "id": "4",
+                "text": "Risk"
+            }
+        ],
+        "correct": 3,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "56",
+        "text": "Select the most appropriate synonym of the bracketed word to fill in the blank. For Rahul, everything was a (modern) experience until he stepped onto the field.",
+        "options": [
+            {
+                "id": "1",
+                "text": "New"
+            },
+            {
+                "id": "2",
+                "text": "Flashy"
+            },
+            {
+                "id": "3",
+                "text": "Global"
+            },
+            {
+                "id": "4",
+                "text": "Asiatic"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "57",
+        "text": "Select the most appropriate option to fill in the blank and complete the collocation. Every time my boss comes up with some good idea, he gets into ______.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Trouble"
+            },
+            {
+                "id": "2",
+                "text": "Fun"
+            },
+            {
+                "id": "3",
+                "text": "Sleep"
+            },
+            {
+                "id": "4",
+                "text": "Shock"
+            }
+        ],
+        "correct": 0,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "58",
+        "text": "Select the most appropriate option to fill in the blank. The contingent managed to ______ successfully.",
+        "options": [
+            {
+                "id": "1",
+                "text": "park the deal"
+            },
+            {
+                "id": "2",
+                "text": "close the deal"
+            },
+            {
+                "id": "3",
+                "text": "heal the deal"
+            },
+            {
+                "id": "4",
+                "text": "catch the deal"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "59",
+        "text": "Select the most appropriate option to fill in the blank. The little boy demanded colourful balloons, ribbons in the village fair. When the father didn't pay heed to his demands, the boy made a ______.",
+        "options": [
+            {
+                "id": "1",
+                "text": "cloven hoof"
+            },
+            {
+                "id": "2",
+                "text": "wry face"
+            },
+            {
+                "id": "3",
+                "text": "a far cry"
+            },
+            {
+                "id": "4",
+                "text": "jaundiced eye"
+            }
+        ],
+        "correct": 1,
+        "section": "SECTION-B: COMMUNICATION ABILITY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "60",
+        "text": "The curious teenager was:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Perplexed"
+            },
+            {
+                "id": "2",
+                "text": "Excited"
+            },
+            {
+                "id": "3",
+                "text": "Bored"
+            },
+            {
+                "id": "4",
+                "text": "Eager"
+            }
+        ],
+        "correct": 3,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "61",
+        "text": "The teenager's trust in the author's coding expertise made the author feel:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Overwhelmed"
+            },
+            {
+                "id": "2",
+                "text": "Humbled"
+            },
+            {
+                "id": "3",
+                "text": "Uninterested"
+            },
+            {
+                "id": "4",
+                "text": "Doubtful"
+            }
+        ],
+        "correct": 1,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "62",
+        "text": "The author's coding knowledge was as vast as a(n):",
+        "options": [
+            {
+                "id": "1",
+                "text": "Ocean"
+            },
+            {
+                "id": "2",
+                "text": "Meadow"
+            },
+            {
+                "id": "3",
+                "text": "Desert"
+            },
+            {
+                "id": "4",
+                "text": "Abyss"
+            }
+        ],
+        "correct": 3,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "63",
+        "text": "The author takes their coding skills for granted.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Enthusiasm"
+            },
+            {
+                "id": "2",
+                "text": "Proficiency"
+            },
+            {
+                "id": "3",
+                "text": "Complexity"
+            },
+            {
+                "id": "4",
+                "text": "Expertise"
+            }
+        ],
+        "correct": 3,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "64",
+        "text": "'Uncharted territories' in the passage implies areas of programming with which the author is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Seasoned"
+            },
+            {
+                "id": "2",
+                "text": "Unexplored"
+            },
+            {
+                "id": "3",
+                "text": "Mastered"
+            },
+            {
+                "id": "4",
+                "text": "Navigated"
+            }
+        ],
+        "correct": 1,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "65",
+        "text": "What feeling does the bookstore create with its creaking wooden floors and shelves filled with books?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Quiet and strange"
+            },
+            {
+                "id": "2",
+                "text": "Cozy and comfortable"
+            },
+            {
+                "id": "3",
+                "text": "Busy and chaotic"
+            },
+            {
+                "id": "4",
+                "text": "Bright and lively"
+            }
+        ],
+        "correct": 1,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "66",
+        "text": "What does the owner love, as mentioned in the passage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Cooking"
+            },
+            {
+                "id": "2",
+                "text": "Stories"
+            },
+            {
+                "id": "3",
+                "text": "Painting"
+            },
+            {
+                "id": "4",
+                "text": "Gardening"
+            }
+        ],
+        "correct": 1,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "67",
+        "text": "What is in the air that invites visitors to take a sensory journey?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Fresh paint"
+            },
+            {
+                "id": "2",
+                "text": "Scent of old paper and ink"
+            },
+            {
+                "id": "3",
+                "text": "Perfume"
+            },
+            {
+                "id": "4",
+                "text": "Coffee aroma"
+            }
+        ],
+        "correct": 1,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "68",
+        "text": "How does the sunlight affect the atmosphere in the bookstore?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Creates a chilling effect"
+            },
+            {
+                "id": "2",
+                "text": "Casts warm hues"
+            },
+            {
+                "id": "3",
+                "text": "Makes it too bright"
+            },
+            {
+                "id": "4",
+                "text": "Creates shadows"
+            }
+        ],
+        "correct": 1,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "69",
+        "text": "What does the bookstore offer to the town's people?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Loud gatherings"
+            },
+            {
+                "id": "2",
+                "text": "A peaceful place"
+            },
+            {
+                "id": "3",
+                "text": "Fast-paced activities"
+            },
+            {
+                "id": "4",
+                "text": "Dynamic exhibitions"
+            }
+        ],
+        "correct": 1,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "70",
+        "text": "Why did the children gather in the village square?",
+        "options": [
+            {
+                "id": "1",
+                "text": "They were preparing for a festival."
+            },
+            {
+                "id": "2",
+                "text": "They were participating in the annual treasure hunt."
+            },
+            {
+                "id": "3",
+                "text": "They were attending a school assembly."
+            },
+            {
+                "id": "4",
+                "text": "They were organizing a picnic."
+            }
+        ],
+        "correct": 1,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "71",
+        "text": "What was Whiskers doing as the children were engrossed in deciphering clues?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Chasing other animals in the square."
+            },
+            {
+                "id": "2",
+                "text": "Sleeping in a corner."
+            },
+            {
+                "id": "3",
+                "text": "Eyed the children curiously."
+            },
+            {
+                "id": "4",
+                "text": "Ignoring the festivities."
+            }
+        ],
+        "correct": 2,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "72",
+        "text": "How did Whiskers unintentionally become a part of the treasure hunt?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Whiskers hid the clues."
+            },
+            {
+                "id": "2",
+                "text": "Whiskers followed the children."
+            },
+            {
+                "id": "3",
+                "text": "Whiskers pounced on fallen leaves and chased imaginary foes."
+            },
+            {
+                "id": "4",
+                "text": "Whiskers disrupted the event intentionally."
+            }
+        ],
+        "correct": 2,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "73",
+        "text": "Why did an adult scold Whiskers during the treasure hunt?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Whiskers found the treasure."
+            },
+            {
+                "id": "2",
+                "text": "Whiskers disrupted the event intentionally."
+            },
+            {
+                "id": "3",
+                "text": "Whiskers was perceived as disrupting the event."
+            },
+            {
+                "id": "4",
+                "text": "Whiskers scared the children."
+            }
+        ],
+        "correct": 2,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "74",
+        "text": "What was the outcome of the scolding received by Whiskers?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Whiskers joined the children in the hunt."
+            },
+            {
+                "id": "2",
+                "text": "Whiskers found a cozy spot to nap."
+            },
+            {
+                "id": "3",
+                "text": "Whiskers slinked away, leaving the children to resume their quest."
+            },
+            {
+                "id": "4",
+                "text": "Whiskers continued to play with the children."
+            }
+        ],
+        "correct": 2,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "75",
+        "text": "What was Lily's favourite pastime in the woods?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Exploring the meadows."
+            },
+            {
+                "id": "2",
+                "text": "Collecting pebbles by the stream."
+            },
+            {
+                "id": "3",
+                "text": "Investigating old houses."
+            },
+            {
+                "id": "4",
+                "text": "Climbing tall trees."
+            }
+        ],
+        "correct": 1,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "76",
+        "text": "What did Lily find in the attic of the old house?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Cobwebs."
+            },
+            {
+                "id": "2",
+                "text": "Overgrown vines."
+            },
+            {
+                "id": "3",
+                "text": "Forgotten treasures."
+            },
+            {
+                "id": "4",
+                "text": "Dusty furniture."
+            }
+        ],
+        "correct": 2,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "77",
+        "text": "What is an antonym for \"cheerful\" as used to describe Lily?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Sad"
+            },
+            {
+                "id": "2",
+                "text": "Curious"
+            },
+            {
+                "id": "3",
+                "text": "Eerie"
+            },
+            {
+                "id": "4",
+                "text": "Grateful"
+            }
+        ],
+        "correct": 0,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "78",
+        "text": "What does the term \"ambled\" mean in the sentence \"as she ambled through the forest\"?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Ran quickly"
+            },
+            {
+                "id": "2",
+                "text": "Walked slowly"
+            },
+            {
+                "id": "3",
+                "text": "Skipped joyfully"
+            },
+            {
+                "id": "4",
+                "text": "Climbed trees"
+            }
+        ],
+        "correct": 1,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "79",
+        "text": "Which word could be used as a synonym for \"intrigued\" in the sentence \"Intrigued, she opened it to reveal a trove of forgotten treasures\"?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Bored"
+            },
+            {
+                "id": "2",
+                "text": "Interested"
+            },
+            {
+                "id": "3",
+                "text": "Confused"
+            },
+            {
+                "id": "4",
+                "text": "Surprised"
+            }
+        ],
+        "correct": 1,
+        "section": "READING COMPREHENSION",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "80",
+        "text": "What is the purpose of using clear and concise subject lines in email communication?",
+        "options": [
+            {
+                "id": "1",
+                "text": "To confuse recipients"
+            },
+            {
+                "id": "2",
+                "text": "To prioritize and understand the email's purpose quickly"
+            },
+            {
+                "id": "3",
+                "text": "To increase the length of the email"
+            },
+            {
+                "id": "4",
+                "text": "To disregard the content of the email"
+            }
+        ],
+        "correct": 1,
+        "section": "BUSINESS COMMUNICATION",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "81",
+        "text": "Why is a timely response to emails considered important in professional communication?",
+        "options": [
+            {
+                "id": "1",
+                "text": "To procrastinate on tasks"
+            },
+            {
+                "id": "2",
+                "text": "To show disrespect for others' time"
+            },
+            {
+                "id": "3",
+                "text": "To acknowledge receipt and prioritize effective communication"
+            },
+            {
+                "id": "4",
+                "text": "To avoid acknowledging the receipt of emails"
+            }
+        ],
+        "correct": 2,
+        "section": "BUSINESS COMMUNICATION",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "82",
+        "text": "According to the Audience-Centered Approach, what is essential for tailoring presentations effectively?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Ignoring the audience's needs"
+            },
+            {
+                "id": "2",
+                "text": "Prioritizing the presenter's preferences"
+            },
+            {
+                "id": "3",
+                "text": "Understanding the audience's needs, preferences, and knowledge levels"
+            },
+            {
+                "id": "4",
+                "text": "Focusing only on the presenter's knowledge levels"
+            }
+        ],
+        "correct": 2,
+        "section": "BUSINESS COMMUNICATION",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "83",
+        "text": "How does the Transactional Model of Communication relate to negotiation processes?",
+        "options": [
+            {
+                "id": "1",
+                "text": "It emphasizes one-way communication"
+            },
+            {
+                "id": "2",
+                "text": "It emphasizes the interactive and dynamic nature of communication during negotiations"
+            },
+            {
+                "id": "3",
+                "text": "It discourages communication during negotiations"
+            },
+            {
+                "id": "4",
+                "text": "It suggests a static communication process"
+            }
+        ],
+        "correct": 1,
+        "section": "BUSINESS COMMUNICATION",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "84",
+        "text": "What does Symbolic Interactionism explain in the context of business terms?",
+        "options": [
+            {
+                "id": "1",
+                "text": "How to avoid assigning meanings to symbols"
+            },
+            {
+                "id": "2",
+                "text": "How individuals assign meanings to symbols, ensuring shared understanding"
+            },
+            {
+                "id": "3",
+                "text": "The irrelevance of consistent definitions in effective communication"
+            },
+            {
+                "id": "4",
+                "text": "How to create confusion in communication"
+            }
+        ],
+        "correct": 1,
+        "section": "BUSINESS COMMUNICATION",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "85",
+        "text": "Which theoretical model emphasizes the importance of clear and consistent conceptualization in business terminology?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Symbolic Interactionism"
+            },
+            {
+                "id": "2",
+                "text": "Language as a Social Construct"
+            },
+            {
+                "id": "3",
+                "text": "Conceptual Clarity"
+            },
+            {
+                "id": "4",
+                "text": "Financial Statements"
+            }
+        ],
+        "correct": 2,
+        "section": "BUSINESS COMMUNICATION",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "86",
+        "text": "What does the phrase \"On the same page\" mean in a business context?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Disagreement or misunderstanding"
+            },
+            {
+                "id": "2",
+                "text": "Agreement or understanding"
+            },
+            {
+                "id": "3",
+                "text": "Initiating a project"
+            },
+            {
+                "id": "4",
+                "text": "Setting higher standards"
+            }
+        ],
+        "correct": 1,
+        "section": "BUSINESS COMMUNICATION",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "87",
+        "text": "What does CPU stand for?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Central Processing Unit"
+            },
+            {
+                "id": "2",
+                "text": "Central Peripheral Unit"
+            },
+            {
+                "id": "3",
+                "text": "Central Program Unit"
+            },
+            {
+                "id": "4",
+                "text": "Central Power Unit"
+            }
+        ],
+        "correct": 0,
+        "section": "COMPUTER TERMINOLOGY",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "88",
+        "text": "What is the primary function of RAM?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Long-term data retention"
+            },
+            {
+                "id": "2",
+                "text": "Graphics rendering"
+            },
+            {
+                "id": "3",
+                "text": "Temporary data storage"
+            },
+            {
+                "id": "4",
+                "text": "Network communication"
+            }
+        ],
+        "correct": 2,
+        "section": "COMPUTER TERMINOLOGY",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "89",
+        "text": "Which acronym represents a specialized processor for rendering graphics and images?",
+        "options": [
+            {
+                "id": "1",
+                "text": "OS"
+            },
+            {
+                "id": "2",
+                "text": "GPU"
+            },
+            {
+                "id": "3",
+                "text": "SSD"
+            },
+            {
+                "id": "4",
+                "text": "DNS"
+            }
+        ],
+        "correct": 1,
+        "section": "COMPUTER TERMINOLOGY",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "90",
+        "text": "What does OS stand for in the context of computers?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Optical System"
+            },
+            {
+                "id": "2",
+                "text": "Operating System"
+            },
+            {
+                "id": "3",
+                "text": "Output Software"
+            },
+            {
+                "id": "4",
+                "text": "Online Service"
+            }
+        ],
+        "correct": 1,
+        "section": "COMPUTER TERMINOLOGY",
+        "correctAnswer": "2"
+    }
+]

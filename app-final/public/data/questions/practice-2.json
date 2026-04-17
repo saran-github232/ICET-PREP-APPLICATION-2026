@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "Question Number: 130 Question Id : 496901136 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "17"
+            },
+            {
+                "id": "2",
+                "text": "18"
+            },
+            {
+                "id": "3",
+                "text": "19"
+            },
+            {
+                "id": "4",
+                "text": "20"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "2",
+        "text": "Question Number: 131 Question Id : 496901137 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "256"
+            },
+            {
+                "id": "2",
+                "text": "512"
+            },
+            {
+                "id": "3",
+                "text": "1024"
+            },
+            {
+                "id": "4",
+                "text": "1536"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "3",
+        "text": "Question Number: 132 Question Id : 496901138 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "44"
+            },
+            {
+                "id": "2",
+                "text": "33"
+            },
+            {
+                "id": "3",
+                "text": "88"
+            },
+            {
+                "id": "4",
+                "text": "11"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "4",
+        "text": "Question Number: 133 Question Id : 496901139 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If B is a symmetric matrix and C is a skew symmetric matrix of the same order such that B+C=A then C=",
+        "options": [
+            {
+                "id": "1",
+                "text": "(A+AT)/2"
+            },
+            {
+                "id": "2",
+                "text": "(AT-A)/2"
+            },
+            {
+                "id": "3",
+                "text": "(A-AT)/2"
+            },
+            {
+                "id": "4",
+                "text": "AAT/2"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "5",
+        "text": "Question Number: 134 Question Id : 496901140 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "0"
+            },
+            {
+                "id": "2",
+                "text": "1"
+            },
+            {
+                "id": "3",
+                "text": "1/2"
+            },
+            {
+                "id": "4",
+                "text": "1/3"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "6",
+        "text": "Question Number : 135 Question Id : 496901141 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "5/39"
+            },
+            {
+                "id": "2",
+                "text": "-5/39"
+            },
+            {
+                "id": "3",
+                "text": "-5/169"
+            },
+            {
+                "id": "4",
+                "text": "5/169"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "7",
+        "text": "Question Number : 136 Question Id : 496901142 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If the area of an equilateral triangle is 25\u221a3 sq.em, then its perimeter (in cm) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "15"
+            },
+            {
+                "id": "2",
+                "text": "30"
+            },
+            {
+                "id": "3",
+                "text": "25"
+            },
+            {
+                "id": "4",
+                "text": "40"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "8",
+        "text": "Question Number: 137 Question Id : 496901143 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "10"
+            },
+            {
+                "id": "2",
+                "text": "40"
+            },
+            {
+                "id": "3",
+                "text": "80"
+            },
+            {
+                "id": "4",
+                "text": "100"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "9",
+        "text": "Question Number: 138 Question Id : 496901144 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If an arc of a circle of radius 21 cm subtends an angle 60\u00b0 at the centre of the circle, then the length of that arc (in cms) is (take \u03c0 = 22/7)",
+        "options": [
+            {
+                "id": "1",
+                "text": "1260"
+            },
+            {
+                "id": "2",
+                "text": "22"
+            },
+            {
+                "id": "3",
+                "text": "630"
+            },
+            {
+                "id": "4",
+                "text": "11"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "10",
+        "text": "Question Number : 139 Question Id : 496901145 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "1:3"
+            },
+            {
+                "id": "2",
+                "text": "3:1"
+            },
+            {
+                "id": "3",
+                "text": "2:1"
+            },
+            {
+                "id": "4",
+                "text": "1:2"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "11",
+        "text": "Question Number: 140 Question Id : 496901146 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If (2. 3), (4, -5), (-1.7) and (-8, -10) are consecutive vertices of a quadrilateral, then the product of the lengths of its diagonals is",
+        "options": [
+            {
+                "id": "1",
+                "text": "65"
+            },
+            {
+                "id": "2",
+                "text": "18"
+            },
+            {
+                "id": "3",
+                "text": "325"
+            },
+            {
+                "id": "4",
+                "text": "324"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "12",
+        "text": "Question Number: 141 Question Id : 496901147 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 The arithmetic mean of the first 70 odd positive integers is",
+        "options": [
+            {
+                "id": "1",
+                "text": "17.5"
+            },
+            {
+                "id": "2",
+                "text": "35"
+            },
+            {
+                "id": "3",
+                "text": "70"
+            },
+            {
+                "id": "4",
+                "text": "105"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "13",
+        "text": "Question Number: 143 Question Id : 496901149 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 The mode of the following data",
+        "options": [
+            {
+                "id": "1",
+                "text": "41.25"
+            },
+            {
+                "id": "2",
+                "text": "43.75"
+            },
+            {
+                "id": "3",
+                "text": "45.50"
+            },
+            {
+                "id": "4",
+                "text": "47.00"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "14",
+        "text": "Question Number: 144 Question Id : 496901150 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "10"
+            },
+            {
+                "id": "2",
+                "text": "20"
+            },
+            {
+                "id": "3",
+                "text": "40"
+            },
+            {
+                "id": "4",
+                "text": "160"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "15",
+        "text": "Question Number: 145 Question Id : 496901151 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 The standard deviation of the observations 105, 110, 115....... 135 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "15"
+            },
+            {
+                "id": "2",
+                "text": "12"
+            },
+            {
+                "id": "3",
+                "text": "10"
+            },
+            {
+                "id": "4",
+                "text": "8"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "16",
+        "text": "Question Number: 146 Question Id : 496901152 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If (x, y), i = 1, .... 7 are the ranks of the variables X, Y respectively such that \u2211(x, - yi)\u00b2 = 14, then the rank correlation between two variables is",
+        "options": [
+            {
+                "id": "1",
+                "text": "0.75"
+            },
+            {
+                "id": "2",
+                "text": "0.60"
+            },
+            {
+                "id": "3",
+                "text": "0.50"
+            },
+            {
+                "id": "4",
+                "text": "0.40"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "17",
+        "text": "Question Number: 147 Question Id : 496901153 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 When three cards are drawn at random from a well shuffled pack of 52 cards, the probability of getting at least one spade card is",
+        "options": [
+            {
+                "id": "1",
+                "text": "703/1700"
+            },
+            {
+                "id": "2",
+                "text": "821/1700"
+            },
+            {
+                "id": "3",
+                "text": "947/1700"
+            },
+            {
+                "id": "4",
+                "text": "997/1700"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "18",
+        "text": "Question Number: 148 Question Id : 496901154 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If an integer is chosen at random from the first 125 natural numbers, then the probability that it is divisible by 6 but not by 8 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "3/25"
+            },
+            {
+                "id": "2",
+                "text": "4/25"
+            },
+            {
+                "id": "3",
+                "text": "22/25"
+            },
+            {
+                "id": "4",
+                "text": "21/25"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "19",
+        "text": "Question Number: 149 Question Id : 496901155 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/3"
+            },
+            {
+                "id": "2",
+                "text": "1/4"
+            },
+            {
+                "id": "3",
+                "text": "1/6"
+            },
+            {
+                "id": "4",
+                "text": "1/2"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "20",
+        "text": "Question Number : 150 Question Id : 496901156 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 The probability that a non-leap year should have 53 Saturdays is",
+        "options": [
+            {
+                "id": "1",
+                "text": "5/7"
+            },
+            {
+                "id": "2",
+                "text": "6/7"
+            },
+            {
+                "id": "3",
+                "text": "2/7"
+            },
+            {
+                "id": "4",
+                "text": "1/7"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "21",
+        "text": "Question Number : 151 Question Id : 496901157 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct meaning of the word given: Alacrity",
+        "options": [
+            {
+                "id": "1",
+                "text": "Laziness"
+            },
+            {
+                "id": "2",
+                "text": "Smoothness"
+            },
+            {
+                "id": "3",
+                "text": "Roughness"
+            },
+            {
+                "id": "4",
+                "text": "Eagerness"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "22",
+        "text": "Question Number: 152 Question Id: 496901158 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct meaning of the word given: Beguile",
+        "options": [
+            {
+                "id": "1",
+                "text": "Belie"
+            },
+            {
+                "id": "2",
+                "text": "Desert"
+            },
+            {
+                "id": "3",
+                "text": "Deceive"
+            },
+            {
+                "id": "4",
+                "text": "Deny"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "23",
+        "text": "Question Number: 153 Question Id : 496901159 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct meaning of the word given: Abscond",
+        "options": [
+            {
+                "id": "1",
+                "text": "apprehend"
+            },
+            {
+                "id": "2",
+                "text": "emerge"
+            },
+            {
+                "id": "3",
+                "text": "punish"
+            },
+            {
+                "id": "4",
+                "text": "escape"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "24",
+        "text": "Question Number: 154 Question Id : 496901160 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct meaning of the word given: Perpetual",
+        "options": [
+            {
+                "id": "1",
+                "text": "fleeting"
+            },
+            {
+                "id": "2",
+                "text": "brief"
+            },
+            {
+                "id": "3",
+                "text": "limited"
+            },
+            {
+                "id": "4",
+                "text": "continuous"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "25",
+        "text": "Question Number : 155 Question Id : 496901161 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct meaning of the word given: Insolvent",
+        "options": [
+            {
+                "id": "1",
+                "text": "corrupt"
+            },
+            {
+                "id": "2",
+                "text": "bankrupt"
+            },
+            {
+                "id": "3",
+                "text": "indissoluble"
+            },
+            {
+                "id": "4",
+                "text": "interfering"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "26",
+        "text": "Question Number: 156 Question Id : 496901162 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct meaning of the word given: Proliferate",
+        "options": [
+            {
+                "id": "1",
+                "text": "destroy"
+            },
+            {
+                "id": "2",
+                "text": "provoke"
+            },
+            {
+                "id": "3",
+                "text": "prevent"
+            },
+            {
+                "id": "4",
+                "text": "propogate"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "27",
+        "text": "Question Number: 157 Question Id : 496901163 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Fill in the blank choosing the correct word: Raju's changed behavior might his relationship with his wife.",
+        "options": [
+            {
+                "id": "1",
+                "text": "jeopardize"
+            },
+            {
+                "id": "2",
+                "text": "gamble"
+            },
+            {
+                "id": "3",
+                "text": "plunge"
+            },
+            {
+                "id": "4",
+                "text": "risk"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "28",
+        "text": "Question Number: 158 Question Id : 496901164 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Fill in the blank choosing the correct word: I won't put with his senseless talk anymore.",
+        "options": [
+            {
+                "id": "1",
+                "text": "out"
+            },
+            {
+                "id": "2",
+                "text": "in"
+            },
+            {
+                "id": "3",
+                "text": "up"
+            },
+            {
+                "id": "4",
+                "text": "along"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "29",
+        "text": "Question Number: 159 Question Id : 496901165 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Fill in the blank choosing the correct word: Regarding the poet's year of birth, there is no among scholars.",
+        "options": [
+            {
+                "id": "1",
+                "text": "unanimity"
+            },
+            {
+                "id": "2",
+                "text": "anonymity"
+            },
+            {
+                "id": "3",
+                "text": "equanimity"
+            },
+            {
+                "id": "4",
+                "text": "singularity"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "30",
+        "text": "Question Number : 160 Question Id : 496901166 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Fill in the blank choosing the correct word: The ability to sing melodiously is a/an asset.",
+        "options": [
+            {
+                "id": "1",
+                "text": "adverse"
+            },
+            {
+                "id": "2",
+                "text": "worthless"
+            },
+            {
+                "id": "3",
+                "text": "valueless"
+            },
+            {
+                "id": "4",
+                "text": "priceless"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "31",
+        "text": "Question Number: 161 Question Id : 496901167 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct answer: A very large and expensive computer capable of supporting thousands of users at the same time.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Bulk data processor"
+            },
+            {
+                "id": "2",
+                "text": "Mainframe"
+            },
+            {
+                "id": "3",
+                "text": "Server"
+            },
+            {
+                "id": "4",
+                "text": "Workstation"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "32",
+        "text": "Question Number: 162 Question Id : 496901168 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct answer: A programme that communicates with a web server and displays web pages",
+        "options": [
+            {
+                "id": "1",
+                "text": "Browser"
+            },
+            {
+                "id": "2",
+                "text": "Portal"
+            },
+            {
+                "id": "3",
+                "text": "Website"
+            },
+            {
+                "id": "4",
+                "text": "Gateway"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "33",
+        "text": "Question Number: 163 Question Id : 496901169 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct answer: An automated test to tell computers and humans apart is known as",
+        "options": [
+            {
+                "id": "1",
+                "text": "Login"
+            },
+            {
+                "id": "2",
+                "text": "CAPTCHA"
+            },
+            {
+                "id": "3",
+                "text": "Cookie"
+            },
+            {
+                "id": "4",
+                "text": "Firewall"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "34",
+        "text": "Question Number : 164 Question Id : 496901170 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct answer: The device used to connect a LAN and WAN is",
+        "options": [
+            {
+                "id": "1",
+                "text": "Bridge"
+            },
+            {
+                "id": "2",
+                "text": "Router"
+            },
+            {
+                "id": "3",
+                "text": "Switch"
+            },
+            {
+                "id": "4",
+                "text": "Hub"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "35",
+        "text": "Question Number: 165 Question Id : 496901171 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct answer: The file that contains all the data relevant for an application is",
+        "options": [
+            {
+                "id": "1",
+                "text": "Master file"
+            },
+            {
+                "id": "2",
+                "text": "output file"
+            },
+            {
+                "id": "3",
+                "text": "transaction file"
+            },
+            {
+                "id": "4",
+                "text": "backup file"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "36",
+        "text": "Question Number : 166 Question Id : 496901172 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct answer: In stock market when share prices are on the rise over a period of time, it is called",
+        "options": [
+            {
+                "id": "1",
+                "text": "Bear market"
+            },
+            {
+                "id": "2",
+                "text": "Black swan market"
+            },
+            {
+                "id": "3",
+                "text": "Bull market"
+            },
+            {
+                "id": "4",
+                "text": "Rocket market"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "37",
+        "text": "Question Number: 167 Question Id : 496901173 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct answer: DAC stands for",
+        "options": [
+            {
+                "id": "1",
+                "text": "Data-to-Access Converter"
+            },
+            {
+                "id": "2",
+                "text": "Database Access Converter"
+            },
+            {
+                "id": "3",
+                "text": "Digital-to-Analog Converter"
+            },
+            {
+                "id": "4",
+                "text": "Double Access Converter"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "38",
+        "text": "Question Number: 168 Question Id : 496901174 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct answer: In business English CPU stands for",
+        "options": [
+            {
+                "id": "1",
+                "text": "Cost Paying Unit"
+            },
+            {
+                "id": "2",
+                "text": "Capital Per Unit"
+            },
+            {
+                "id": "3",
+                "text": "Cost Per Unit"
+            },
+            {
+                "id": "4",
+                "text": "Central Processing Unit"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "39",
+        "text": "Question Number: 169 Question Id : 496901175 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct answer: In banking NEFT means",
+        "options": [
+            {
+                "id": "1",
+                "text": "National Elective Financial Transfer"
+            },
+            {
+                "id": "2",
+                "text": "Non Electronic Funds Transfer"
+            },
+            {
+                "id": "3",
+                "text": "National Electronic Funds Trading"
+            },
+            {
+                "id": "4",
+                "text": "National Electronic Funds Transfer"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "40",
+        "text": "Question Number: 170 Question Id : 496901176 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct answer: Blue sky thinking refers to",
+        "options": [
+            {
+                "id": "1",
+                "text": "brain washing"
+            },
+            {
+                "id": "2",
+                "text": "brain storming"
+            },
+            {
+                "id": "3",
+                "text": "brain drain"
+            },
+            {
+                "id": "4",
+                "text": "brain death"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "41",
+        "text": "Question Number : 171 Question Id : 496901177 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct answer: Observation is the bottom line of scientific enquiry. The underlined phrase means",
+        "options": [
+            {
+                "id": "1",
+                "text": "the least important feature"
+            },
+            {
+                "id": "2",
+                "text": "the last line"
+            },
+            {
+                "id": "3",
+                "text": "the most important feature"
+            },
+            {
+                "id": "4",
+                "text": "the last important feature"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "42",
+        "text": "Question Number : 172 Question Id : 496901178 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct answer: \"Radha walked as though she were a dancer\". The sentence implies that Radha",
+        "options": [
+            {
+                "id": "1",
+                "text": "is a dancer"
+            },
+            {
+                "id": "2",
+                "text": "used to be a dancer"
+            },
+            {
+                "id": "3",
+                "text": "walked like a dancer"
+            },
+            {
+                "id": "4",
+                "text": "being a dancer, walked like one"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "43",
+        "text": "Question Number: 173 Question Id : 496901179 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct answer: This dress doesn't fit me well. I should have tried it before buying it.",
+        "options": [
+            {
+                "id": "1",
+                "text": "out"
+            },
+            {
+                "id": "2",
+                "text": "off"
+            },
+            {
+                "id": "3",
+                "text": "on"
+            },
+            {
+                "id": "4",
+                "text": "down"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "44",
+        "text": "Question Number: 174 Question Id : 496901180 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct answer: Priya does not resemble her mother. She takes her father",
+        "options": [
+            {
+                "id": "1",
+                "text": "up"
+            },
+            {
+                "id": "2",
+                "text": "out of"
+            },
+            {
+                "id": "3",
+                "text": "after"
+            },
+            {
+                "id": "4",
+                "text": "from"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "45",
+        "text": "Question Number : 175 Question Id : 496901181 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct answer: The house he lives in now is a far cry from the one he once lived in. The underlined phrase means",
+        "options": [
+            {
+                "id": "1",
+                "text": "distant from"
+            },
+            {
+                "id": "2",
+                "text": "different from"
+            },
+            {
+                "id": "3",
+                "text": "far more noisy than"
+            },
+            {
+                "id": "4",
+                "text": "more quiet and secluded than"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "46",
+        "text": "Question Number : 176 Question Id : 496901182 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct answer: Ben said to me, \"How old are you?\" Identify the correct equivalent of this sentence in reported speech.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Ben said to me that how old I was"
+            },
+            {
+                "id": "2",
+                "text": "Ben asked me how old are you"
+            },
+            {
+                "id": "3",
+                "text": "Ben asked me how old I was"
+            },
+            {
+                "id": "4",
+                "text": "Ben asked me how old was I"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "47",
+        "text": "Question Number: 177 Question Id : 496901183 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Choose the correct answer: I made awful mistake while counting the money.",
+        "options": [
+            {
+                "id": "1",
+                "text": "no article"
+            },
+            {
+                "id": "2",
+                "text": "a"
+            },
+            {
+                "id": "3",
+                "text": "my"
+            },
+            {
+                "id": "4",
+                "text": "an"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "48",
+        "text": "Question Number: 178 Question Id : 496901184 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Fill in the blanks with the appropriate phrase/verb/preposition: I didn't say anything, until she talking",
+        "options": [
+            {
+                "id": "1",
+                "text": "has finished"
+            },
+            {
+                "id": "2",
+                "text": "will have finished"
+            },
+            {
+                "id": "3",
+                "text": "shall have finished"
+            },
+            {
+                "id": "4",
+                "text": "had finished"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "49",
+        "text": "Question Number : 179 Question Id : 496901185 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Fill in the blanks with the appropriate phrase/verb/preposition: He his cool. with great difficulty.",
+        "options": [
+            {
+                "id": "1",
+                "text": "could keep"
+            },
+            {
+                "id": "2",
+                "text": "could tolerate"
+            },
+            {
+                "id": "3",
+                "text": "could be kept"
+            },
+            {
+                "id": "4",
+                "text": "could not tolerate"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "50",
+        "text": "Question Number: 180 Question Id : 496901186 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Fill in the blanks with the appropriate phrase/verb/preposition: Please help me. ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "shall you?"
+            },
+            {
+                "id": "2",
+                "text": "will you?"
+            },
+            {
+                "id": "3",
+                "text": "would you?"
+            },
+            {
+                "id": "4",
+                "text": "should you?"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "51",
+        "text": "Question Number : 181 Question Id : 496901187 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Fill in the blanks with the appropriate phrase/verb/preposition: The nations had to act in accordance the provisions of the treaty.",
+        "options": [
+            {
+                "id": "1",
+                "text": "by"
+            },
+            {
+                "id": "2",
+                "text": "with"
+            },
+            {
+                "id": "3",
+                "text": "from"
+            },
+            {
+                "id": "4",
+                "text": "to"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "52",
+        "text": "Question Number: 182 Question Id : 496901188 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Fill in the blanks with the appropriate phrase/verb/preposition: They were asked to refrain violence.",
+        "options": [
+            {
+                "id": "1",
+                "text": "for"
+            },
+            {
+                "id": "2",
+                "text": "by"
+            },
+            {
+                "id": "3",
+                "text": "upon"
+            },
+            {
+                "id": "4",
+                "text": "from"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "53",
+        "text": "Question Number: 183 Question Id : 496901189 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Fill in the blanks with the appropriate phrase/verb/preposition: Let us exercise regularly we can get fit.",
+        "options": [
+            {
+                "id": "1",
+                "text": "by that"
+            },
+            {
+                "id": "2",
+                "text": "so as to"
+            },
+            {
+                "id": "3",
+                "text": "for that"
+            },
+            {
+                "id": "4",
+                "text": "so that"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "54",
+        "text": "Question Number: 184 Question Id : 496901190 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Fill in the blanks with the appropriate phrase/verb/preposition: Raju did not like it when his classmates him",
+        "options": [
+            {
+                "id": "1",
+                "text": "jeered at"
+            },
+            {
+                "id": "2",
+                "text": "jeered"
+            },
+            {
+                "id": "3",
+                "text": "jeered on"
+            },
+            {
+                "id": "4",
+                "text": "jeered about"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "55",
+        "text": "Question Number: 185 Question Id : 496901191 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Fill in the blanks with the appropriate phrase/verb/preposition: The young boy was infatuated his classmate.",
+        "options": [
+            {
+                "id": "1",
+                "text": "by"
+            },
+            {
+                "id": "2",
+                "text": "with"
+            },
+            {
+                "id": "3",
+                "text": "for"
+            },
+            {
+                "id": "4",
+                "text": "about"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "56",
+        "text": "Question Number: 186 Question Id : 496901193 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Which idea is NOT part of the original assumption about the Indian Civilization?",
+        "options": [
+            {
+                "id": "1",
+                "text": "It all began in the ganga valley"
+            },
+            {
+                "id": "2",
+                "text": "Aryan immigrants laid the founding civilization"
+            },
+            {
+                "id": "3",
+                "text": "The founding Indian civilization was laid around 1250 BCE"
+            },
+            {
+                "id": "4",
+                "text": "Indigenous civilizations existed prior to Aryan immigration"
+            }
+        ],
+        "correct": 3,
+        "section": "Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "57",
+        "text": "Question Number : 187 Question Id : 496901194 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 In \"unsettled that conception\" the underlined word means",
+        "options": [
+            {
+                "id": "1",
+                "text": "changed"
+            },
+            {
+                "id": "2",
+                "text": "proved"
+            },
+            {
+                "id": "3",
+                "text": "endorsed"
+            },
+            {
+                "id": "4",
+                "text": "solved"
+            }
+        ],
+        "correct": 0,
+        "section": "Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "58",
+        "text": "Question Number: 188 Question Id : 496901195 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "Narmada valley"
+            },
+            {
+                "id": "2",
+                "text": "Ganga valley"
+            },
+            {
+                "id": "3",
+                "text": "Indus valley"
+            },
+            {
+                "id": "4",
+                "text": "Persia"
+            }
+        ],
+        "correct": 2,
+        "section": "Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "59",
+        "text": "Question Number: 189 Question Id : 496901196 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Which of the following descriptions is NOT correct about the cities. Harrapa and Mohenjo-Daro?",
+        "options": [
+            {
+                "id": "1",
+                "text": "They had fortified administrative centres"
+            },
+            {
+                "id": "2",
+                "text": "They had religious centres"
+            },
+            {
+                "id": "3",
+                "text": "Both the cities had featured citadels"
+            },
+            {
+                "id": "4",
+                "text": "Both the cities had no administrative centres"
+            }
+        ],
+        "correct": 3,
+        "section": "Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "60",
+        "text": "Question Number: 190 Question Id : 496901197 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 The Harappa city spread over an area of",
+        "options": [
+            {
+                "id": "1",
+                "text": "370 hectares"
+            },
+            {
+                "id": "2",
+                "text": "370 acres"
+            },
+            {
+                "id": "3",
+                "text": "150 acres"
+            },
+            {
+                "id": "4",
+                "text": "250 hectares"
+            }
+        ],
+        "correct": 1,
+        "section": "Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "61",
+        "text": "Question Number : 191 Question Id : 496901199 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Anne Summers' book attempts to establish that Florence Nightingale's heroic reputation is",
+        "options": [
+            {
+                "id": "1",
+                "text": "totally deserving"
+            },
+            {
+                "id": "2",
+                "text": "under-rated"
+            },
+            {
+                "id": "3",
+                "text": "at odds with reality"
+            },
+            {
+                "id": "4",
+                "text": "totally undeserving"
+            }
+        ],
+        "correct": 2,
+        "section": "Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "62",
+        "text": "Question Number: 192 Question Id : 496901200 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 According to Anne Summers, Nightingale occupied a place in the British National Pantheon due to",
+        "options": [
+            {
+                "id": "1",
+                "text": "propagandist effort of the press"
+            },
+            {
+                "id": "2",
+                "text": "government's indulgence"
+            },
+            {
+                "id": "3",
+                "text": "self-publicity"
+            },
+            {
+                "id": "4",
+                "text": "recommendation"
+            }
+        ],
+        "correct": 0,
+        "section": "Comprehension",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "63",
+        "text": "Question Number : 193 Question Id : 496901201 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 The word 'barracks' means",
+        "options": [
+            {
+                "id": "1",
+                "text": "back waters"
+            },
+            {
+                "id": "2",
+                "text": "hospitals"
+            },
+            {
+                "id": "3",
+                "text": "population"
+            },
+            {
+                "id": "4",
+                "text": "housing for soldiers"
+            }
+        ],
+        "correct": 3,
+        "section": "Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "64",
+        "text": "Question Number : 194 Question Id : 496901202 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Nightingale raised funds, through public contributions, to establish a",
+        "options": [
+            {
+                "id": "1",
+                "text": "Royal Commission on the Health of the Army"
+            },
+            {
+                "id": "2",
+                "text": "Training School for Nurses"
+            },
+            {
+                "id": "3",
+                "text": "Military Cafeteria"
+            },
+            {
+                "id": "4",
+                "text": "Rehabilitation Centre for the Wounded"
+            }
+        ],
+        "correct": 1,
+        "section": "Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "65",
+        "text": "Question Number: 195 Question Id : 496901203 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 The editors of the new volume assert that Nightingale had also shown the lasting practical intelligence in devising a",
+        "options": [
+            {
+                "id": "1",
+                "text": "Dress code for nurses"
+            },
+            {
+                "id": "2",
+                "text": "New pension scheme"
+            },
+            {
+                "id": "3",
+                "text": "Cost-accounting system"
+            },
+            {
+                "id": "4",
+                "text": "Dress code for doctors"
+            }
+        ],
+        "correct": 2,
+        "section": "Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "66",
+        "text": "Question Number: 196 Question Id : 496901205 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Which of the following does not indicate one's social identity?",
+        "options": [
+            {
+                "id": "1",
+                "text": "dressing"
+            },
+            {
+                "id": "2",
+                "text": "talking"
+            },
+            {
+                "id": "3",
+                "text": "listening"
+            },
+            {
+                "id": "4",
+                "text": "behaviour"
+            }
+        ],
+        "correct": 2,
+        "section": "Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "67",
+        "text": "Question Number: 197 Question Id : 496901206 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 According to the passage, identity is",
+        "options": [
+            {
+                "id": "1",
+                "text": "always determined by one's place of birth"
+            },
+            {
+                "id": "2",
+                "text": "unchanging"
+            },
+            {
+                "id": "3",
+                "text": "dependent on how one perceives the world"
+            },
+            {
+                "id": "4",
+                "text": "constantly negotiable"
+            }
+        ],
+        "correct": 3,
+        "section": "Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "68",
+        "text": "Question Number: 198 Question Id : 496901207 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Identify the Incorrect statement about identity?",
+        "options": [
+            {
+                "id": "1",
+                "text": "It is constantly changing"
+            },
+            {
+                "id": "2",
+                "text": "It is multifaceted"
+            },
+            {
+                "id": "3",
+                "text": "Interactions with others help one build one's identity"
+            },
+            {
+                "id": "4",
+                "text": "It is fixed and permanent."
+            }
+        ],
+        "correct": 3,
+        "section": "Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "69",
+        "text": "Question Number : 199 Question Id : 496901208 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 In \"conflicting identities\", the word 'conflicting' means",
+        "options": [
+            {
+                "id": "1",
+                "text": "adverse"
+            },
+            {
+                "id": "2",
+                "text": "unfavourable"
+            },
+            {
+                "id": "3",
+                "text": "opposing"
+            },
+            {
+                "id": "4",
+                "text": "harmonious"
+            }
+        ],
+        "correct": 2,
+        "section": "Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "70",
+        "text": "Question Number: 200 Question Id : 496901209 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 What serves as a means to display the shift of our identities in different contexts?",
+        "options": [
+            {
+                "id": "1",
+                "text": "behaviour"
+            },
+            {
+                "id": "2",
+                "text": "language"
+            },
+            {
+                "id": "3",
+                "text": "dressing"
+            },
+            {
+                "id": "4",
+                "text": "our socio-economic group"
+            }
+        ],
+        "correct": 1,
+        "section": "Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "71",
+        "text": "What is the average of exports during the given period of time?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Rs.1,250.2 lakhs"
+            },
+            {
+                "id": "2",
+                "text": "Rs.1,240.0 lakhs"
+            },
+            {
+                "id": "3",
+                "text": "Rs.1,248.2 lakhs"
+            },
+            {
+                "id": "4",
+                "text": "Rs.1,115.4 lakhs"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Interpretation",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "72",
+        "text": "Select the most appropriate collocating word to fill in the blank. Ram was praised for his leadership.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Imaginary"
+            },
+            {
+                "id": "2",
+                "text": "Visionary"
+            },
+            {
+                "id": "3",
+                "text": "Magical"
+            },
+            {
+                "id": "4",
+                "text": "Broad"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "73",
+        "text": "Select the most appropriate meaning of the given idiom. All eyes",
+        "options": [
+            {
+                "id": "1",
+                "text": "Watching with anger"
+            },
+            {
+                "id": "2",
+                "text": "Watching eagerly"
+            },
+            {
+                "id": "3",
+                "text": "Watching with no interest"
+            },
+            {
+                "id": "4",
+                "text": "Not watching at all"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "74",
+        "text": "Select the most appropriate ANTONYM of the word 'SINKS' from the given sentence. Groups work together to create Christmas parade themes, which are then carried out in floats, musical groups, and strolling figures.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Floats"
+            },
+            {
+                "id": "2",
+                "text": "Create"
+            },
+            {
+                "id": "3",
+                "text": "Parade"
+            },
+            {
+                "id": "4",
+                "text": "Strolling"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "75",
+        "text": "How does the Transactional Model of Communication relate to negotiation processes?",
+        "options": [
+            {
+                "id": "1",
+                "text": "It emphasizes one-way communication"
+            },
+            {
+                "id": "2",
+                "text": "It emphasizes the interactive and dynamic nature of communication during negotiations"
+            },
+            {
+                "id": "3",
+                "text": "It discourages communication during negotiations"
+            },
+            {
+                "id": "4",
+                "text": "It suggests a static communication process"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "76",
+        "text": "What is the purpose of using clear and concise subject lines in email communication?",
+        "options": [
+            {
+                "id": "1",
+                "text": "To confuse recipients"
+            },
+            {
+                "id": "2",
+                "text": "To prioritize and understand the email's purpose quickly"
+            },
+            {
+                "id": "3",
+                "text": "To increase the length of the email"
+            },
+            {
+                "id": "4",
+                "text": "To disregard the content of the email"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "77",
+        "text": "The curious teenager was:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Perplexed"
+            },
+            {
+                "id": "2",
+                "text": "Excited"
+            },
+            {
+                "id": "3",
+                "text": "Bored"
+            },
+            {
+                "id": "4",
+                "text": "Eager"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "78",
+        "text": "The teenager's trust in the author's coding expertise made the author feel:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Overwhelmed"
+            },
+            {
+                "id": "2",
+                "text": "Humbled"
+            },
+            {
+                "id": "3",
+                "text": "Uninterested"
+            },
+            {
+                "id": "4",
+                "text": "Doubtful"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "79",
+        "text": "The author's coding knowledge was as vast as a(n):",
+        "options": [
+            {
+                "id": "1",
+                "text": "Ocean"
+            },
+            {
+                "id": "2",
+                "text": "Meadow"
+            },
+            {
+                "id": "3",
+                "text": "Desert"
+            },
+            {
+                "id": "4",
+                "text": "Abyss"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "80",
+        "text": "The author takes their coding skills for granted.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Enthusiasm"
+            },
+            {
+                "id": "2",
+                "text": "Proficiency"
+            },
+            {
+                "id": "3",
+                "text": "Complexity"
+            },
+            {
+                "id": "4",
+                "text": "Expertise"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "81",
+        "text": "'Uncharted territories' in the passage implies areas of programming with which the author is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "Seasoned"
+            },
+            {
+                "id": "2",
+                "text": "Unexplored"
+            },
+            {
+                "id": "3",
+                "text": "Mastered"
+            },
+            {
+                "id": "4",
+                "text": "Navigated"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "82",
+        "text": "The value of tan\u00b2 \u03b8 + cot\u00b2 \u03b8 - sec\u00b2 \u03b8 cosec\u00b2 \u03b8 is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "2"
+            },
+            {
+                "id": "2",
+                "text": "-2"
+            },
+            {
+                "id": "3",
+                "text": "0"
+            },
+            {
+                "id": "4",
+                "text": "1/2"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "83",
+        "text": "Two numbers are in the ratio of 6: 5. If their HCF is 3, then what is the LCM of the two numbers?",
+        "options": [
+            {
+                "id": "1",
+                "text": "64"
+            },
+            {
+                "id": "2",
+                "text": "110"
+            },
+            {
+                "id": "3",
+                "text": "90"
+            },
+            {
+                "id": "4",
+                "text": "80"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "84",
+        "text": "If a 7-digit number 54p3987 is divisible by 11, then p is equal to:",
+        "options": [
+            {
+                "id": "1",
+                "text": "5"
+            },
+            {
+                "id": "2",
+                "text": "9"
+            },
+            {
+                "id": "3",
+                "text": "4"
+            },
+            {
+                "id": "4",
+                "text": "1"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "85",
+        "text": "The price of a scooter increases successively by10%, 5% and 15%. What is the total percentage increase in price of scooter?",
+        "options": [
+            {
+                "id": "1",
+                "text": "32 33/40%"
+            },
+            {
+                "id": "2",
+                "text": "34 21/40%"
+            },
+            {
+                "id": "3",
+                "text": "30 11/40%"
+            },
+            {
+                "id": "4",
+                "text": "36 31/40%"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "86",
+        "text": "Two stations R and S are 400 km apart from each other. A train leaves from R to S and simultaneously another train leaves from S to R. Both trains meet after 10 hours. If the speed of the first train is 4 km/hr more than the second train, then what is the speed of the slower train?",
+        "options": [
+            {
+                "id": "1",
+                "text": "18 km/hr"
+            },
+            {
+                "id": "2",
+                "text": "26 km/hr"
+            },
+            {
+                "id": "3",
+                "text": "16 km/hr"
+            },
+            {
+                "id": "4",
+                "text": "22 km/hr"
+            }
+        ],
+        "correct": 0,
+        "section": "Mathematical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "87",
+        "text": "What is the ratio of the mean proportional between 1.6 and 3.6 and the third proportional of 5 and 8?",
+        "options": [
+            {
+                "id": "1",
+                "text": "2:15"
+            },
+            {
+                "id": "2",
+                "text": "5:16"
+            },
+            {
+                "id": "3",
+                "text": "3:16"
+            },
+            {
+                "id": "4",
+                "text": "4:15"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "88",
+        "text": "A container contains 25 litre of milk. From this container, 5 litre of milk is taken out and replaced by water. This process is further repeated two times. How much milk is there in the container now?",
+        "options": [
+            {
+                "id": "1",
+                "text": "11.5 litre"
+            },
+            {
+                "id": "2",
+                "text": "14.8 litre"
+            },
+            {
+                "id": "3",
+                "text": "13.5 litre"
+            },
+            {
+                "id": "4",
+                "text": "12.8 litre"
+            }
+        ],
+        "correct": 3,
+        "section": "Mathematical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "89",
+        "text": "A solid metallic sphere of radius 12 cm is melted and recast into a cone having a diameter of the base of 12 cm. What is the height of the cone?",
+        "options": [
+            {
+                "id": "1",
+                "text": "258 cm"
+            },
+            {
+                "id": "2",
+                "text": "192 cm"
+            },
+            {
+                "id": "3",
+                "text": "166 cm"
+            },
+            {
+                "id": "4",
+                "text": "224 cm"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "90",
+        "text": "If A \u2229 B = {3, 4, 5, 6} and A \u2229 C = {5} then the value of set A \u2229 (B - C) is ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "{3, 4, 5, 6}"
+            },
+            {
+                "id": "2",
+                "text": "{3}"
+            },
+            {
+                "id": "3",
+                "text": "{3,4,6}"
+            },
+            {
+                "id": "4",
+                "text": "{3,5}"
+            }
+        ],
+        "correct": 2,
+        "section": "Mathematical Ability",
+        "correctAnswer": "3"
+    }
+]

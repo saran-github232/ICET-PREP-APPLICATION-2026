@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "How is PROCESS in that code language? I) In a certain code language, QUEUE is written as RVFVF. II) In a certain code language, CRWTH is written as BQVSG.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "2",
+        "text": "Is the integer number n divisible by 15? I) 9 divides n. II) 20 divides n.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "3",
+        "text": "How many pages of book X did Robert read on Sunday? I) The book has 300 pages out of which two-thirds were read by him before Sunday. II) Robert read the last 40 pages of the book on the morning of Monday.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "4",
+        "text": "How many employees of the Bank opted for VRS? I) 22% of the 950 officer cadre employees and 16% of the 1100 other cadre employees opted for VRS. II) 32% of the employees in the age-group of 53 to 59 and 19% of the employees in all other age-groups opted for VRS.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "5",
+        "text": "What is the total distance travelled by a train? I) The train travelled at an average speed of 80 km/h for 4 hours. II) The train travelled at an average speed of 100 km/h for 2 hours.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "6",
+        "text": "How many persons attended the meeting? I) Each registered person can take two persons with him/her. II) There were totally 180 registrations for the meeting.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "7",
+        "text": "In the two triangles What is the value of P+Q+R+S ? I) A + B = 90\u00b0 II) P + Q = R + S",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "8",
+        "text": "What is the age difference between Peter and his brother? I) Peter's age is 3 times his brother's age. II) The sum of Peter's and his brother's age is 40 years.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "9",
+        "text": "How many students scored more than the average marks of the class in a test? I) The average marks of the class was 70 II) 10 students scored above the arithmetic mean of the class",
+        "options": [
+            {
+                "id": "1",
+                "text": "Statement I alone is sufficient."
+            },
+            {
+                "id": "2",
+                "text": "Statement II alone is sufficient."
+            },
+            {
+                "id": "3",
+                "text": "Both Statements I and II together are necessary."
+            },
+            {
+                "id": "4",
+                "text": "Both Statements I and II together are not sufficient."
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "10",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "Cricket - $5325"
+            },
+            {
+                "id": "2",
+                "text": "Chess - $6360"
+            },
+            {
+                "id": "3",
+                "text": "Hockey - $935"
+            },
+            {
+                "id": "4",
+                "text": "Football - $5725"
+            }
+        ],
+        "correct": 0,
+        "section": "Odd thing Out",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "11",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "bb DEF H"
+            },
+            {
+                "id": "2",
+                "text": "cc EFG I"
+            },
+            {
+                "id": "3",
+                "text": "aa CDE G"
+            },
+            {
+                "id": "4",
+                "text": "ff Hij L"
+            }
+        ],
+        "correct": 3,
+        "section": "Odd thing Out",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "12",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "121"
+            },
+            {
+                "id": "2",
+                "text": "144"
+            },
+            {
+                "id": "3",
+                "text": "169"
+            },
+            {
+                "id": "4",
+                "text": "226"
+            }
+        ],
+        "correct": 3,
+        "section": "Odd thing Out",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "13",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "Nephrology - 37\u00c9"
+            },
+            {
+                "id": "2",
+                "text": "Astrology - 7\u00c9\u00d9"
+            },
+            {
+                "id": "3",
+                "text": "Pathology - 37\u00c9\u00d9"
+            },
+            {
+                "id": "4",
+                "text": "Mycology- 37\u00c9\u00d7"
+            }
+        ],
+        "correct": 0,
+        "section": "Odd thing Out",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "14",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "Oxygen - 3785"
+            },
+            {
+                "id": "2",
+                "text": "Nitrogen - 3785"
+            },
+            {
+                "id": "3",
+                "text": "Carbon - 3785"
+            },
+            {
+                "id": "4",
+                "text": ""
+            }
+        ],
+        "correct": 3,
+        "section": "Odd thing Out",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "15",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "Sanskrit - 302"
+            },
+            {
+                "id": "2",
+                "text": "Ashu Lipi - 32"
+            },
+            {
+                "id": "3",
+                "text": "Sanket Lipi - 305"
+            },
+            {
+                "id": "4",
+                "text": "Shorthand - 3705"
+            }
+        ],
+        "correct": 0,
+        "section": "Odd thing Out",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "16",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "aB EF ij"
+            },
+            {
+                "id": "2",
+                "text": "bC FG jk"
+            },
+            {
+                "id": "3",
+                "text": "pQ TU yz"
+            },
+            {
+                "id": "4",
+                "text": "tU XY bc"
+            }
+        ],
+        "correct": 2,
+        "section": "Odd thing Out",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "17",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "Land - 32\u00c7"
+            },
+            {
+                "id": "2",
+                "text": "Labour - 32\u00c7"
+            },
+            {
+                "id": "3",
+                "text": "Profit - 32\u00c7"
+            },
+            {
+                "id": "4",
+                "text": "Capital - 32\u00c7"
+            }
+        ],
+        "correct": 2,
+        "section": "Odd thing Out",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "18",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "Apple - 32\u00c7"
+            },
+            {
+                "id": "2",
+                "text": "Orange - 32\u00c7"
+            },
+            {
+                "id": "3",
+                "text": "Pineapple - 32\u00c7"
+            },
+            {
+                "id": "4",
+                "text": "Tomato - 32\u00c7"
+            }
+        ],
+        "correct": 3,
+        "section": "Odd thing Out",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "19",
+        "text": "Find Odd thing from the following",
+        "options": [
+            {
+                "id": "1",
+                "text": "Nest - 32\u00c7"
+            },
+            {
+                "id": "2",
+                "text": "Stable - 32\u00c7"
+            },
+            {
+                "id": "3",
+                "text": "Hole - 32\u00c7"
+            },
+            {
+                "id": "4",
+                "text": "Boat - 32\u00c7"
+            }
+        ],
+        "correct": 3,
+        "section": "Odd thing Out",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "20",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "16"
+            },
+            {
+                "id": "2",
+                "text": "18"
+            },
+            {
+                "id": "3",
+                "text": "17"
+            },
+            {
+                "id": "4",
+                "text": "19"
+            }
+        ],
+        "correct": 1,
+        "section": "Missing Number",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "21",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "46"
+            },
+            {
+                "id": "2",
+                "text": "49"
+            },
+            {
+                "id": "3",
+                "text": "48"
+            },
+            {
+                "id": "4",
+                "text": "50"
+            }
+        ],
+        "correct": 1,
+        "section": "Missing Number",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "22",
+        "text": "Find the Missing letter",
+        "options": [
+            {
+                "id": "1",
+                "text": "E"
+            },
+            {
+                "id": "2",
+                "text": "F"
+            },
+            {
+                "id": "3",
+                "text": "G"
+            },
+            {
+                "id": "4",
+                "text": "I"
+            }
+        ],
+        "correct": 2,
+        "section": "Missing Number",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "23",
+        "text": "Find the Missing letter",
+        "options": [
+            {
+                "id": "1",
+                "text": "eE"
+            },
+            {
+                "id": "2",
+                "text": "eF"
+            },
+            {
+                "id": "3",
+                "text": "fF"
+            },
+            {
+                "id": "4",
+                "text": "fG"
+            }
+        ],
+        "correct": 1,
+        "section": "Missing Number",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "24",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "7776"
+            },
+            {
+                "id": "2",
+                "text": "56646"
+            },
+            {
+                "id": "3",
+                "text": "46656"
+            },
+            {
+                "id": "4",
+                "text": "1296"
+            }
+        ],
+        "correct": 2,
+        "section": "Missing Number",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "25",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "250.5"
+            },
+            {
+                "id": "2",
+                "text": "251.5"
+            },
+            {
+                "id": "3",
+                "text": "252"
+            },
+            {
+                "id": "4",
+                "text": "249.5"
+            }
+        ],
+        "correct": 1,
+        "section": "Missing Number",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "26",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "225"
+            },
+            {
+                "id": "2",
+                "text": "181"
+            },
+            {
+                "id": "3",
+                "text": "190"
+            },
+            {
+                "id": "4",
+                "text": "164"
+            }
+        ],
+        "correct": 2,
+        "section": "Missing Number",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "27",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "56"
+            },
+            {
+                "id": "2",
+                "text": "48"
+            },
+            {
+                "id": "3",
+                "text": "54"
+            },
+            {
+                "id": "4",
+                "text": "50"
+            }
+        ],
+        "correct": 3,
+        "section": "Missing Number",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "28",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "20"
+            },
+            {
+                "id": "2",
+                "text": "24"
+            },
+            {
+                "id": "3",
+                "text": "25"
+            },
+            {
+                "id": "4",
+                "text": "26"
+            }
+        ],
+        "correct": 0,
+        "section": "Missing Number",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "29",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "16"
+            },
+            {
+                "id": "2",
+                "text": "9"
+            },
+            {
+                "id": "3",
+                "text": "8"
+            },
+            {
+                "id": "4",
+                "text": "12"
+            }
+        ],
+        "correct": 2,
+        "section": "Missing Number",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "30",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "7"
+            },
+            {
+                "id": "2",
+                "text": "10"
+            },
+            {
+                "id": "3",
+                "text": "14"
+            },
+            {
+                "id": "4",
+                "text": "15"
+            }
+        ],
+        "correct": 3,
+        "section": "Missing Number",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "31",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "12"
+            },
+            {
+                "id": "2",
+                "text": "14"
+            },
+            {
+                "id": "3",
+                "text": "27"
+            },
+            {
+                "id": "4",
+                "text": "53"
+            }
+        ],
+        "correct": 1,
+        "section": "Missing Number",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "32",
+        "text": "Find the Missing letters",
+        "options": [
+            {
+                "id": "1",
+                "text": "GRR"
+            },
+            {
+                "id": "2",
+                "text": "GSS"
+            },
+            {
+                "id": "3",
+                "text": "ISS"
+            },
+            {
+                "id": "4",
+                "text": "ITT"
+            }
+        ],
+        "correct": 2,
+        "section": "Missing Number",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "33",
+        "text": "If in a certain code 'SCALE' is coded as 'ELACS', how 'CREAM' be coded?",
+        "options": [
+            {
+                "id": "1",
+                "text": "MEARC"
+            },
+            {
+                "id": "2",
+                "text": "MAERC"
+            },
+            {
+                "id": "3",
+                "text": "MAECR"
+            },
+            {
+                "id": "4",
+                "text": "MAESC"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding and decoding",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "34",
+        "text": "If 'NOVEMBER' is coded as 'PQXGODGT', how would 'MARCH' be coded?",
+        "options": [
+            {
+                "id": "1",
+                "text": "OCTEJ"
+            },
+            {
+                "id": "2",
+                "text": "OCTEI"
+            },
+            {
+                "id": "3",
+                "text": "OCSET"
+            },
+            {
+                "id": "4",
+                "text": "OCTFJ"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and decoding",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "35",
+        "text": "In certain code 'HILTON' is written as 'THTLNO', how is 'BILLION' written in that code?",
+        "options": [
+            {
+                "id": "1",
+                "text": "IBLLION"
+            },
+            {
+                "id": "2",
+                "text": "IBOILLN"
+            },
+            {
+                "id": "3",
+                "text": "IBLLOIN"
+            },
+            {
+                "id": "4",
+                "text": "IBLOILN"
+            }
+        ],
+        "correct": 2,
+        "section": "Coding and decoding",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "36",
+        "text": "If \"ABLE\" is coded as \"23-24-8-1\", how will you code \"DARK\"?",
+        "options": [
+            {
+                "id": "1",
+                "text": "25-22-13-6"
+            },
+            {
+                "id": "2",
+                "text": "26-23-14-7"
+            },
+            {
+                "id": "3",
+                "text": "26-24-12-6"
+            },
+            {
+                "id": "4",
+                "text": "26-23-13-7"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding and decoding",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "37",
+        "text": "if 'ACID' = 1C3D, 'PAMPER' = P1MP2R, 'BOMBAY' = B4MB1Y then 'UNIVERSITY' =?",
+        "options": [
+            {
+                "id": "1",
+                "text": "U5NV3R1STY"
+            },
+            {
+                "id": "2",
+                "text": "1N5V3RS5TY"
+            },
+            {
+                "id": "3",
+                "text": "5N3V2RS3TY"
+            },
+            {
+                "id": "4",
+                "text": "5N3V2SR3TY"
+            }
+        ],
+        "correct": 2,
+        "section": "Coding and decoding",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "38",
+        "text": "In certain code 'FROZEN' is written as 'OFAQTH', Then how would 'MOLTEN' be written in that code?",
+        "options": [
+            {
+                "id": "1",
+                "text": "OFPOMN"
+            },
+            {
+                "id": "2",
+                "text": "OFSMPN"
+            },
+            {
+                "id": "3",
+                "text": "OFUMPN"
+            },
+            {
+                "id": "4",
+                "text": "OFUNPM"
+            }
+        ],
+        "correct": 2,
+        "section": "Coding and decoding",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "39",
+        "text": "BGH : FKL :: DFK : ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "GJO"
+            },
+            {
+                "id": "2",
+                "text": "HJN"
+            },
+            {
+                "id": "3",
+                "text": "HJO"
+            },
+            {
+                "id": "4",
+                "text": "GIN"
+            }
+        ],
+        "correct": 2,
+        "section": "Analogies",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "40",
+        "text": "256 : 127 :: 378 : ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "189"
+            },
+            {
+                "id": "2",
+                "text": "288"
+            },
+            {
+                "id": "3",
+                "text": "158"
+            },
+            {
+                "id": "4",
+                "text": "188"
+            }
+        ],
+        "correct": 3,
+        "section": "Analogies",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "41",
+        "text": "BEHK : 25811 :: ADGJ : ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "13810"
+            },
+            {
+                "id": "2",
+                "text": "14810"
+            },
+            {
+                "id": "3",
+                "text": "14710"
+            },
+            {
+                "id": "4",
+                "text": "12710"
+            }
+        ],
+        "correct": 3,
+        "section": "Analogies",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "42",
+        "text": "At what time between 4 and 5 o'clock, the hands of a clock coincide?",
+        "options": [
+            {
+                "id": "1",
+                "text": "21 9/11 minutes past 4"
+            },
+            {
+                "id": "2",
+                "text": "20 8/11 minutes past 4"
+            },
+            {
+                "id": "3",
+                "text": "21 8/11 minutes past 4"
+            },
+            {
+                "id": "4",
+                "text": "21 minutes past 4"
+            }
+        ],
+        "correct": 0,
+        "section": "Date, Time and Arrangements",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "43",
+        "text": "Six friends A, B, C, D, E and F are sitting around a round table facing the centre of the table. B is between A and C, D is between A and E and F is between C and E. Who is sitting to the right of C?",
+        "options": [
+            {
+                "id": "1",
+                "text": "E"
+            },
+            {
+                "id": "2",
+                "text": "D"
+            },
+            {
+                "id": "3",
+                "text": "B"
+            },
+            {
+                "id": "4",
+                "text": "F"
+            }
+        ],
+        "correct": 3,
+        "section": "Date, Time and Arrangements",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "44",
+        "text": "What is the angle between the hands of a clock when the time is 1:30 ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "95\u00b0"
+            },
+            {
+                "id": "2",
+                "text": "120\u00b0"
+            },
+            {
+                "id": "3",
+                "text": "135\u00b0"
+            },
+            {
+                "id": "4",
+                "text": "165\u00b0"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and Arrangements",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "45",
+        "text": "The last day of a century CANNOT be ______ weekday?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Monday"
+            },
+            {
+                "id": "2",
+                "text": "Tuesday"
+            },
+            {
+                "id": "3",
+                "text": "Wednesday"
+            },
+            {
+                "id": "4",
+                "text": "Friday"
+            }
+        ],
+        "correct": 1,
+        "section": "Date, Time and Arrangements",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "46",
+        "text": "In which of the following years was the total number of participants(athletes) is the second highest from Country C?",
+        "options": [
+            {
+                "id": "1",
+                "text": "2019"
+            },
+            {
+                "id": "2",
+                "text": "2018"
+            },
+            {
+                "id": "3",
+                "text": "2017"
+            },
+            {
+                "id": "4",
+                "text": "2015"
+            }
+        ],
+        "correct": 1,
+        "section": "Data Analysis",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "47",
+        "text": "What was the average number of female athletes who participated from Country B over all the years together?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1200"
+            },
+            {
+                "id": "2",
+                "text": "400"
+            },
+            {
+                "id": "3",
+                "text": "600"
+            },
+            {
+                "id": "4",
+                "text": "1800"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Analysis",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "48",
+        "text": "What was the approximate percentage decrease in the number of male athletes who participated from Country C in 2016 as compared to the previous year?",
+        "options": [
+            {
+                "id": "1",
+                "text": "21%"
+            },
+            {
+                "id": "2",
+                "text": "30%"
+            },
+            {
+                "id": "3",
+                "text": "35%"
+            },
+            {
+                "id": "4",
+                "text": "39%"
+            }
+        ],
+        "correct": 1,
+        "section": "Data Analysis",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "49",
+        "text": "The number of female athletes who participated from Country E in the year 2018 was approximately what percentage of the total number of athletes who participated from Country B in the year 2017?",
+        "options": [
+            {
+                "id": "1",
+                "text": "40%"
+            },
+            {
+                "id": "2",
+                "text": "46%"
+            },
+            {
+                "id": "3",
+                "text": "50%"
+            },
+            {
+                "id": "4",
+                "text": "56%"
+            }
+        ],
+        "correct": 1,
+        "section": "Data Analysis",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "50",
+        "text": "In which of the following countries is the difference between the number of male and female participants second highest in the year 2015?",
+        "options": [
+            {
+                "id": "1",
+                "text": "B"
+            },
+            {
+                "id": "2",
+                "text": "C"
+            },
+            {
+                "id": "3",
+                "text": "D"
+            },
+            {
+                "id": "4",
+                "text": "E"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Analysis",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "51",
+        "text": "Find the central angle of women employees in company B?",
+        "options": [
+            {
+                "id": "1",
+                "text": "57.6\u00b0"
+            },
+            {
+                "id": "2",
+                "text": "64.8\u00b0"
+            },
+            {
+                "id": "3",
+                "text": "72\u00b0"
+            },
+            {
+                "id": "4",
+                "text": "79.2\u00b0"
+            }
+        ],
+        "correct": 1,
+        "section": "Data Analysis",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "52",
+        "text": "Total number of women employees in company 'D' is how much more than total number of women employees in company 'E'?",
+        "options": [
+            {
+                "id": "1",
+                "text": "264"
+            },
+            {
+                "id": "2",
+                "text": "297"
+            },
+            {
+                "id": "3",
+                "text": "330"
+            },
+            {
+                "id": "4",
+                "text": "363"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Analysis",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "53",
+        "text": "Find the total number of women employees in company 'A' and 'D' together?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1430"
+            },
+            {
+                "id": "2",
+                "text": "1408"
+            },
+            {
+                "id": "3",
+                "text": "1386"
+            },
+            {
+                "id": "4",
+                "text": "1452"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Analysis",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "54",
+        "text": "If ratio between number of women employees and number of men employees in company 'F' is 9 : 8, then find total number of employees in company 'F'.",
+        "options": [
+            {
+                "id": "1",
+                "text": "561"
+            },
+            {
+                "id": "2",
+                "text": "550"
+            },
+            {
+                "id": "3",
+                "text": "528"
+            },
+            {
+                "id": "4",
+                "text": "539"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Analysis",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "55",
+        "text": "Total number of women employees in company 'C' is what percent less than total number of women employees in company 'A'?",
+        "options": [
+            {
+                "id": "1",
+                "text": "50%"
+            },
+            {
+                "id": "2",
+                "text": "25%"
+            },
+            {
+                "id": "3",
+                "text": "75%"
+            },
+            {
+                "id": "4",
+                "text": "66%"
+            }
+        ],
+        "correct": 1,
+        "section": "Data Analysis",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "56",
+        "text": "Which was the day of the week on January 26, 1950?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Monday"
+            },
+            {
+                "id": "2",
+                "text": "Tuesday"
+            },
+            {
+                "id": "3",
+                "text": "Wednesday"
+            },
+            {
+                "id": "4",
+                "text": "Thursday"
+            }
+        ],
+        "correct": 1,
+        "section": "Date, Time and Arrangements",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "57",
+        "text": "Rita told Mani, \"the girl met yesterday at the beach was the youngest daughter of the brother-in-law of my friend's mother\" How is the girl related to Rita's friend?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Cousin"
+            },
+            {
+                "id": "2",
+                "text": "Daughter"
+            },
+            {
+                "id": "3",
+                "text": "Neice"
+            },
+            {
+                "id": "4",
+                "text": "Friend"
+            }
+        ],
+        "correct": 0,
+        "section": "Date, Time and Arrangements",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "58",
+        "text": "Two trains arrived at a station at 10:45 am and 11:50 am with a late of 25 minutes and 30 minutes respectively. What is the time difference, in minutes, between their scheduled arrivals at the station?",
+        "options": [
+            {
+                "id": "1",
+                "text": "50"
+            },
+            {
+                "id": "2",
+                "text": "60"
+            },
+            {
+                "id": "3",
+                "text": "40"
+            },
+            {
+                "id": "4",
+                "text": "45"
+            }
+        ],
+        "correct": 0,
+        "section": "Date, Time and Arrangements",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "59",
+        "text": "How many Saturdays will there be in December, 2000?",
+        "options": [
+            {
+                "id": "1",
+                "text": "2"
+            },
+            {
+                "id": "2",
+                "text": "3"
+            },
+            {
+                "id": "3",
+                "text": "4"
+            },
+            {
+                "id": "4",
+                "text": "5"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and Arrangements",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "60",
+        "text": "There are six members in a family P, Q, R, S, T, and U. Q is the son of R, but R is not the mother of P. Q and R are a married couple. T is the brother of R. U is the brother of Q. S is the daughter of U. Who is the grandfather of S?",
+        "options": [
+            {
+                "id": "1",
+                "text": "T"
+            },
+            {
+                "id": "2",
+                "text": "U"
+            },
+            {
+                "id": "3",
+                "text": "R"
+            },
+            {
+                "id": "4",
+                "text": "Q"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and Arrangements",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "61",
+        "text": "A bus takes 3 hours and 30 minutes to cover a distance of 280 km. To make this journey in 4 hours, by how much the speed of the bus be decreased?",
+        "options": [
+            {
+                "id": "1",
+                "text": "12 kmph"
+            },
+            {
+                "id": "2",
+                "text": "8 kmph"
+            },
+            {
+                "id": "3",
+                "text": "10 kmph"
+            },
+            {
+                "id": "4",
+                "text": "15 kmph"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and Arrangements",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "62",
+        "text": "What is the angle between minute hand and hour hand at 5:55 ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "95\u00b0"
+            },
+            {
+                "id": "2",
+                "text": "120\u00b0"
+            },
+            {
+                "id": "3",
+                "text": "135\u00b0"
+            },
+            {
+                "id": "4",
+                "text": "165\u00b0"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and Arrangements",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "63",
+        "text": "Anu, Priya, Radha, Janaki, Sruti and Manju are sitting in a row. Sruti and Manju are in the centre. Anu and Priya are at the ends. Radha is sitting to the left of Anu. Who is to the right of Priya?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Anu"
+            },
+            {
+                "id": "2",
+                "text": "Manju"
+            },
+            {
+                "id": "3",
+                "text": "Janaki"
+            },
+            {
+                "id": "4",
+                "text": "Radha"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time and Arrangements",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "64",
+        "text": "a * b = (a+b)-1 -> (1*2)*(3*3) = ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "575"
+            },
+            {
+                "id": "2",
+                "text": "675"
+            },
+            {
+                "id": "3",
+                "text": "755"
+            },
+            {
+                "id": "4",
+                "text": "625"
+            }
+        ],
+        "correct": 1,
+        "section": "Date, Time and Arrangements",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "65",
+        "text": "Five friends are sitting in a circular arrangement. In how many ways can they be seated?",
+        "options": [
+            {
+                "id": "1",
+                "text": "24"
+            },
+            {
+                "id": "2",
+                "text": "120"
+            },
+            {
+                "id": "3",
+                "text": "6"
+            },
+            {
+                "id": "4",
+                "text": "20"
+            }
+        ],
+        "correct": 1,
+        "section": "Date, Time and Arrangements",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "66",
+        "text": "Choose the correct meaning of the following word",
+        "options": [
+            {
+                "id": "1",
+                "text": "discouraged"
+            },
+            {
+                "id": "2",
+                "text": "refused"
+            },
+            {
+                "id": "3",
+                "text": "repeated"
+            },
+            {
+                "id": "4",
+                "text": "denied"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "67",
+        "text": "Choose the correct meaning of the following word",
+        "options": [
+            {
+                "id": "1",
+                "text": "Intentional"
+            },
+            {
+                "id": "2",
+                "text": "Inconvenient"
+            },
+            {
+                "id": "3",
+                "text": "Unintentional"
+            },
+            {
+                "id": "4",
+                "text": "Conventional"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "68",
+        "text": "Choose the correct meaning of the following word",
+        "options": [
+            {
+                "id": "1",
+                "text": "Listless"
+            },
+            {
+                "id": "2",
+                "text": "Illustrious"
+            },
+            {
+                "id": "3",
+                "text": "Healthy"
+            },
+            {
+                "id": "4",
+                "text": "Prominent"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "69",
+        "text": "Choose the correct meaning of the following word",
+        "options": [
+            {
+                "id": "1",
+                "text": "Lazy"
+            },
+            {
+                "id": "2",
+                "text": "Meticulous"
+            },
+            {
+                "id": "3",
+                "text": "Swift"
+            },
+            {
+                "id": "4",
+                "text": "Conscious"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "70",
+        "text": "Choose the correct meaning of the following word",
+        "options": [
+            {
+                "id": "1",
+                "text": "Surrender"
+            },
+            {
+                "id": "2",
+                "text": "Discharge"
+            },
+            {
+                "id": "3",
+                "text": "Liberate"
+            },
+            {
+                "id": "4",
+                "text": "Isolate"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "71",
+        "text": "Choose the correct meaning of the following word",
+        "options": [
+            {
+                "id": "1",
+                "text": "Advancing"
+            },
+            {
+                "id": "2",
+                "text": "Planning"
+            },
+            {
+                "id": "3",
+                "text": "Revising"
+            },
+            {
+                "id": "4",
+                "text": "Postponing"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "72",
+        "text": "Choose the correct meaning of the following word",
+        "options": [
+            {
+                "id": "1",
+                "text": "Agitated"
+            },
+            {
+                "id": "2",
+                "text": "Provoked"
+            },
+            {
+                "id": "3",
+                "text": "Distorted"
+            },
+            {
+                "id": "4",
+                "text": "Calm"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "73",
+        "text": "Choose the correct meaning of the following word",
+        "options": [
+            {
+                "id": "1",
+                "text": "Democrat"
+            },
+            {
+                "id": "2",
+                "text": "Despot"
+            },
+            {
+                "id": "3",
+                "text": "Hypocrite"
+            },
+            {
+                "id": "4",
+                "text": "Hedonist"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "74",
+        "text": "Choose the correct meaning of the following word",
+        "options": [
+            {
+                "id": "1",
+                "text": "Investigate"
+            },
+            {
+                "id": "2",
+                "text": "Praise"
+            },
+            {
+                "id": "3",
+                "text": "Instigate"
+            },
+            {
+                "id": "4",
+                "text": "Mock"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "75",
+        "text": "Choose the correct meaning of the following word",
+        "options": [
+            {
+                "id": "1",
+                "text": "Conscious"
+            },
+            {
+                "id": "2",
+                "text": "Careful"
+            },
+            {
+                "id": "3",
+                "text": "Meticulous"
+            },
+            {
+                "id": "4",
+                "text": "Careless"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "76",
+        "text": "Choose the correct meaning of the following word",
+        "options": [
+            {
+                "id": "1",
+                "text": "Expert"
+            },
+            {
+                "id": "2",
+                "text": "Beginner"
+            },
+            {
+                "id": "3",
+                "text": "Device"
+            },
+            {
+                "id": "4",
+                "text": "Provision"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "77",
+        "text": "Choose the correct meaning of the following word",
+        "options": [
+            {
+                "id": "1",
+                "text": "Commander"
+            },
+            {
+                "id": "2",
+                "text": "Reminder"
+            },
+            {
+                "id": "3",
+                "text": "Remainder"
+            },
+            {
+                "id": "4",
+                "text": "Slander"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "78",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "speed"
+            },
+            {
+                "id": "2",
+                "text": "breed"
+            },
+            {
+                "id": "3",
+                "text": "need"
+            },
+            {
+                "id": "4",
+                "text": "field"
+            }
+        ],
+        "correct": 1,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "79",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "hygienic"
+            },
+            {
+                "id": "2",
+                "text": "unhealthy"
+            },
+            {
+                "id": "3",
+                "text": "polluted"
+            },
+            {
+                "id": "4",
+                "text": "unwarranted"
+            }
+        ],
+        "correct": 0,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "80",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "disapproval"
+            },
+            {
+                "id": "2",
+                "text": "rejection"
+            },
+            {
+                "id": "3",
+                "text": "connivance"
+            },
+            {
+                "id": "4",
+                "text": "condemnation"
+            }
+        ],
+        "correct": 2,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "81",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "in"
+            },
+            {
+                "id": "2",
+                "text": "on"
+            },
+            {
+                "id": "3",
+                "text": "under"
+            },
+            {
+                "id": "4",
+                "text": "along"
+            }
+        ],
+        "correct": 2,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "82",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "into"
+            },
+            {
+                "id": "2",
+                "text": "with"
+            },
+            {
+                "id": "3",
+                "text": "to"
+            },
+            {
+                "id": "4",
+                "text": "on"
+            }
+        ],
+        "correct": 3,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "83",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "yet"
+            },
+            {
+                "id": "2",
+                "text": "at"
+            },
+            {
+                "id": "3",
+                "text": "that"
+            },
+            {
+                "id": "4",
+                "text": "beyond"
+            }
+        ],
+        "correct": 2,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "84",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "heavy"
+            },
+            {
+                "id": "2",
+                "text": "heavier"
+            },
+            {
+                "id": "3",
+                "text": "heavily"
+            },
+            {
+                "id": "4",
+                "text": "heaviest"
+            }
+        ],
+        "correct": 2,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "85",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "towards"
+            },
+            {
+                "id": "2",
+                "text": "upon"
+            },
+            {
+                "id": "3",
+                "text": "over"
+            },
+            {
+                "id": "4",
+                "text": "into"
+            }
+        ],
+        "correct": 0,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "86",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "of"
+            },
+            {
+                "id": "2",
+                "text": "in"
+            },
+            {
+                "id": "3",
+                "text": "at"
+            },
+            {
+                "id": "4",
+                "text": "by"
+            }
+        ],
+        "correct": 0,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "87",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "about"
+            },
+            {
+                "id": "2",
+                "text": "in"
+            },
+            {
+                "id": "3",
+                "text": "for"
+            },
+            {
+                "id": "4",
+                "text": "with"
+            }
+        ],
+        "correct": 3,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "88",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "still"
+            },
+            {
+                "id": "2",
+                "text": "though"
+            },
+            {
+                "id": "3",
+                "text": "as"
+            },
+            {
+                "id": "4",
+                "text": "nevertheless"
+            }
+        ],
+        "correct": 2,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "89",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "by"
+            },
+            {
+                "id": "2",
+                "text": "for"
+            },
+            {
+                "id": "3",
+                "text": "until"
+            },
+            {
+                "id": "4",
+                "text": "up"
+            }
+        ],
+        "correct": 2,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "90",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "as"
+            },
+            {
+                "id": "2",
+                "text": "being"
+            },
+            {
+                "id": "3",
+                "text": "if"
+            },
+            {
+                "id": "4",
+                "text": "like"
+            }
+        ],
+        "correct": 3,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "4"
+    }
+]

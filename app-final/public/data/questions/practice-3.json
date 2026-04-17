@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "Calculate the mean from the following table. Scores Frequencies 0-10 2 10-20 4 20-30 12 30-40 21 40-50 6 50-60 3 60-70 2",
+        "options": [
+            {
+                "id": "1",
+                "text": "34.2"
+            },
+            {
+                "id": "2",
+                "text": "33.4"
+            },
+            {
+                "id": "3",
+                "text": "32.6"
+            },
+            {
+                "id": "4",
+                "text": "35.8"
+            }
+        ],
+        "correct": 1,
+        "section": "Mathematical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "2",
+        "text": "Which acronym represents a specialized processor for rendering graphics and images?",
+        "options": [
+            {
+                "id": "1",
+                "text": "OS"
+            },
+            {
+                "id": "2",
+                "text": "GPU"
+            },
+            {
+                "id": "3",
+                "text": "SSD"
+            },
+            {
+                "id": "4",
+                "text": "DNS"
+            }
+        ],
+        "correct": 1,
+        "section": "Computer Basics",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "3",
+        "text": "What does OS stand for in the context of computers?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Optical System"
+            },
+            {
+                "id": "2",
+                "text": "Operating System"
+            },
+            {
+                "id": "3",
+                "text": "Output Software"
+            },
+            {
+                "id": "4",
+                "text": "Online Service"
+            }
+        ],
+        "correct": 1,
+        "section": "Computer Basics",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "4",
+        "text": "Which protocol is used for secure data transfer over the internet?",
+        "options": [
+            {
+                "id": "1",
+                "text": "HTTP"
+            },
+            {
+                "id": "2",
+                "text": "HTTPS"
+            },
+            {
+                "id": "3",
+                "text": "DNS"
+            },
+            {
+                "id": "4",
+                "text": "FTP"
+            }
+        ],
+        "correct": 1,
+        "section": "Computer Basics",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "5",
+        "text": "What does API stand for in the field of software development?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Application Processing Interface"
+            },
+            {
+                "id": "2",
+                "text": "Advanced Programming Interface"
+            },
+            {
+                "id": "3",
+                "text": "Artificial Programming Interface"
+            },
+            {
+                "id": "4",
+                "text": "Application Programming Interface"
+            }
+        ],
+        "correct": 3,
+        "section": "Software Development",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "6",
+        "text": "In the context of databases, what does CRUD stand for?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Create, Read, Update, Delete"
+            },
+            {
+                "id": "2",
+                "text": "Control, Retrieve, Update, Deliver"
+            },
+            {
+                "id": "3",
+                "text": "Compute, Remove, Update, Deploy"
+            },
+            {
+                "id": "4",
+                "text": "Centralize, Retrieve, Update, Distribute"
+            }
+        ],
+        "correct": 0,
+        "section": "Databases",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "7",
+        "text": "Why is a timely response to emails considered important in professional communication?",
+        "options": [
+            {
+                "id": "1",
+                "text": "To procrastinate on tasks"
+            },
+            {
+                "id": "2",
+                "text": "To show disrespect for others' time"
+            },
+            {
+                "id": "3",
+                "text": "To acknowledge receipt and prioritize effective communication"
+            },
+            {
+                "id": "4",
+                "text": "To avoid acknowledging the receipt of emails"
+            }
+        ],
+        "correct": 2,
+        "section": "Professional Communication",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "8",
+        "text": "According to the Audience-Centered Approach, what is essential for tailoring presentations effectively?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Ignoring the audience's needs"
+            },
+            {
+                "id": "2",
+                "text": "Prioritizing the presenter's preferences"
+            },
+            {
+                "id": "3",
+                "text": "Understanding the audience's needs, preferences, and knowledge levels"
+            },
+            {
+                "id": "4",
+                "text": "Focusing only on the presenter's knowledge levels"
+            }
+        ],
+        "correct": 2,
+        "section": "Presentation Skills",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "9",
+        "text": "How does the Transactional Model of Communication relate to negotiation processes?",
+        "options": [
+            {
+                "id": "1",
+                "text": "It emphasizes one-way communication"
+            },
+            {
+                "id": "2",
+                "text": "It emphasizes the interactive and dynamic nature of communication during negotiations"
+            },
+            {
+                "id": "3",
+                "text": "It discourages communication during negotiations"
+            },
+            {
+                "id": "4",
+                "text": "It suggests a static communication process"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Models",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "10",
+        "text": "What does Symbolic Interactionism explain in the context of business terms?",
+        "options": [
+            {
+                "id": "1",
+                "text": "How to avoid assigning meanings to symbols"
+            },
+            {
+                "id": "2",
+                "text": "How individuals assign meanings to symbols, ensuring shared understanding and effective communication in the business context."
+            },
+            {
+                "id": "3",
+                "text": "The irrelevance of consistent definitions in effective communication"
+            },
+            {
+                "id": "4",
+                "text": "How to create confusion in communication"
+            }
+        ],
+        "correct": 1,
+        "section": "Business Communication",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "11",
+        "text": "Which theoretical model emphasizes the importance of clear and consistent conceptualization in business terminology?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Symbolic Interactionism"
+            },
+            {
+                "id": "2",
+                "text": "Language as a Social Construct"
+            },
+            {
+                "id": "3",
+                "text": "Conceptual Clarity"
+            },
+            {
+                "id": "4",
+                "text": "Financial Statements"
+            }
+        ],
+        "correct": 2,
+        "section": "Business Terminology",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "12",
+        "text": "What does CPU stand for?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Central Processing Unit"
+            },
+            {
+                "id": "2",
+                "text": "Central Peripheral Unit"
+            },
+            {
+                "id": "3",
+                "text": "Central Program Unit"
+            },
+            {
+                "id": "4",
+                "text": "Central Power Unit"
+            }
+        ],
+        "correct": 0,
+        "section": "Computer Hardware",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "13",
+        "text": "If '+' means \u00f7, '\u00d7' means '\u2013', '\u00f7 means '\u00d7', '\u2013' means '+'. What will be the value of the expression 9 + 3 \u00f7 4 \u2013 8 \u00d7 2 =?",
+        "options": [
+            {
+                "id": "1",
+                "text": "6 1/4"
+            },
+            {
+                "id": "2",
+                "text": "6 3/4"
+            },
+            {
+                "id": "3",
+                "text": "-1 3/4"
+            },
+            {
+                "id": "4",
+                "text": "18"
+            }
+        ],
+        "correct": 3,
+        "section": "Logical Reasoning",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "14",
+        "text": "In a two-digit number, the digit at unit's place is 1 less than twice the digit at the ten's place. If the digit at unit's and ten's place are interchanged, the difference between the new and the original number is less than the original number by 20. The original number is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "59"
+            },
+            {
+                "id": "2",
+                "text": "23"
+            },
+            {
+                "id": "3",
+                "text": "35"
+            },
+            {
+                "id": "4",
+                "text": "47"
+            }
+        ],
+        "correct": 3,
+        "section": "Number Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "15",
+        "text": "The digit in unit's place of the product 49237 \u00d7 3995 \u00d7 738 \u00d7 83 \u00d7 9 is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "0"
+            },
+            {
+                "id": "2",
+                "text": "5"
+            },
+            {
+                "id": "3",
+                "text": "6"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Number Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "16",
+        "text": "When a number x is divided by a divisor, it is seen that the divisor is 4 times the quotient, or double the remainder. If the remainder is 80, then the value of x is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "6480"
+            },
+            {
+                "id": "2",
+                "text": "6980"
+            },
+            {
+                "id": "3",
+                "text": "8460"
+            },
+            {
+                "id": "4",
+                "text": "4680"
+            }
+        ],
+        "correct": 0,
+        "section": "Number Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "17",
+        "text": "If the sum of digits of any number between 100 and 1000 is subtracted by the same number, the resulting number is always divisible by:",
+        "options": [
+            {
+                "id": "1",
+                "text": "2"
+            },
+            {
+                "id": "2",
+                "text": "5"
+            },
+            {
+                "id": "3",
+                "text": "6"
+            },
+            {
+                "id": "4",
+                "text": "9"
+            }
+        ],
+        "correct": 3,
+        "section": "Number Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "18",
+        "text": "What is the sum of all prime numbers between 60 and 80?",
+        "options": [
+            {
+                "id": "1",
+                "text": "272"
+            },
+            {
+                "id": "2",
+                "text": "284"
+            },
+            {
+                "id": "3",
+                "text": "351"
+            },
+            {
+                "id": "4",
+                "text": "414"
+            }
+        ],
+        "correct": 2,
+        "section": "Number Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "19",
+        "text": "What is the LCM of 120 and 450?",
+        "options": [
+            {
+                "id": "1",
+                "text": "2400"
+            },
+            {
+                "id": "2",
+                "text": "1800"
+            },
+            {
+                "id": "3",
+                "text": "3600"
+            },
+            {
+                "id": "4",
+                "text": "4800"
+            }
+        ],
+        "correct": 1,
+        "section": "Number Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "20",
+        "text": "How many positive factors of 160 are there?",
+        "options": [
+            {
+                "id": "1",
+                "text": "6"
+            },
+            {
+                "id": "2",
+                "text": "8"
+            },
+            {
+                "id": "3",
+                "text": "5"
+            },
+            {
+                "id": "4",
+                "text": "12"
+            }
+        ],
+        "correct": 3,
+        "section": "Number Theory",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "21",
+        "text": "The LCM of the two numbers is 4 times their HCF. The sum of LCM and HCF is 125. If one of the numbers is 100, then the other number is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "5"
+            },
+            {
+                "id": "2",
+                "text": "25"
+            },
+            {
+                "id": "3",
+                "text": "100"
+            },
+            {
+                "id": "4",
+                "text": "125"
+            }
+        ],
+        "correct": 1,
+        "section": "Number Theory",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "22",
+        "text": "H.C.F of 2/3,4/5 and 6/7 is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "48/105"
+            },
+            {
+                "id": "2",
+                "text": "2/105"
+            },
+            {
+                "id": "3",
+                "text": "1/105"
+            },
+            {
+                "id": "4",
+                "text": "24/105"
+            }
+        ],
+        "correct": 1,
+        "section": "Fractions",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "23",
+        "text": "During the first year, the population of the town increased by 12%. The next year, due to some contagious disease, it decreased by 8%. At the end of the second year, the population was 64,400. Find the population of the town at the beginning of the first year.",
+        "options": [
+            {
+                "id": "1",
+                "text": "50,000"
+            },
+            {
+                "id": "2",
+                "text": "54,750"
+            },
+            {
+                "id": "3",
+                "text": "62,500"
+            },
+            {
+                "id": "4",
+                "text": "50,500"
+            }
+        ],
+        "correct": 2,
+        "section": "Percentage",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "24",
+        "text": "Shiva\u2019s monthly salary is Rs.75,000. He spends Rs.12,000 on household items, Rs.14,000 on LIC and mutual funds, Rs.15,000 on his children\u2019s education, and keeps Rs.10,000 for miscellaneous expenses. His savings are Rs.21,000 per month and he donates the rest of the amount to an orphanage. The percentage of his income that he donates is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "3%"
+            },
+            {
+                "id": "2",
+                "text": "6%"
+            },
+            {
+                "id": "3",
+                "text": "8%"
+            },
+            {
+                "id": "4",
+                "text": "4%"
+            }
+        ],
+        "correct": 3,
+        "section": "Percentage",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "25",
+        "text": "If A is 20% less than B, then B is how much percentage more than A?",
+        "options": [
+            {
+                "id": "1",
+                "text": "33.33%"
+            },
+            {
+                "id": "2",
+                "text": "50%"
+            },
+            {
+                "id": "3",
+                "text": "20%"
+            },
+            {
+                "id": "4",
+                "text": "25%"
+            }
+        ],
+        "correct": 3,
+        "section": "Percentage",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "26",
+        "text": "A number is increased by 5% and then the increased number is decreased by 5%. What is the net increase or decrease per cent?",
+        "options": [
+            {
+                "id": "1",
+                "text": "0.25% decrease"
+            },
+            {
+                "id": "2",
+                "text": "0.75% increase"
+            },
+            {
+                "id": "3",
+                "text": "1% increase"
+            },
+            {
+                "id": "4",
+                "text": "0.50% decrease"
+            }
+        ],
+        "correct": 0,
+        "section": "Percentage",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "27",
+        "text": "225 percent of 80 percent of 80 = ________.",
+        "options": [
+            {
+                "id": "1",
+                "text": "156"
+            },
+            {
+                "id": "2",
+                "text": "132"
+            },
+            {
+                "id": "3",
+                "text": "144"
+            },
+            {
+                "id": "4",
+                "text": "138"
+            }
+        ],
+        "correct": 2,
+        "section": "Percentage",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "28",
+        "text": "While measuring a line segment of length 10 cm, it was measured 10.2 cm by mistake, what is the percentage error in measurement?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1%"
+            },
+            {
+                "id": "2",
+                "text": "0.5%"
+            },
+            {
+                "id": "3",
+                "text": "0.2%"
+            },
+            {
+                "id": "4",
+                "text": "2%"
+            }
+        ],
+        "correct": 3,
+        "section": "Percentage",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "29",
+        "text": "A dozen pairs of socks quoted at Rs. 80 are available at a discount of 10%. How many pairs of socks can be bought for Rs. 24?",
+        "options": [
+            {
+                "id": "1",
+                "text": "4"
+            },
+            {
+                "id": "2",
+                "text": "5"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "6"
+            }
+        ],
+        "correct": 0,
+        "section": "Profit and Loss",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "30",
+        "text": "If a man travels at 12.5 percent less speed than his usual speed, then he will reach 9 minutes late. What is the usual time taken by him?",
+        "options": [
+            {
+                "id": "1",
+                "text": "63 minutes"
+            },
+            {
+                "id": "2",
+                "text": "70 minutes"
+            },
+            {
+                "id": "3",
+                "text": "56 minutes"
+            },
+            {
+                "id": "4",
+                "text": "49 minutes"
+            }
+        ],
+        "correct": 0,
+        "section": "Speed, Distance and Time",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "31",
+        "text": "The speed of a boat in still water is 17 km/hr and the speed of a stream is 11 km/hr. Find the difference between the upstream speed and the downstream speed of the boat.",
+        "options": [
+            {
+                "id": "1",
+                "text": "18 km/hr"
+            },
+            {
+                "id": "2",
+                "text": "22 km/hr"
+            },
+            {
+                "id": "3",
+                "text": "21 km/hr"
+            },
+            {
+                "id": "4",
+                "text": "28 km/hr"
+            }
+        ],
+        "correct": 1,
+        "section": "Boats and Streams",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "32",
+        "text": "Aman drove from home to a town at the speed of 60 km/hr and on his return journey, he drove at the speed of 30 km/hr and also took an hour longer to reach home. What distance did he cover each way?",
+        "options": [
+            {
+                "id": "1",
+                "text": "75 km"
+            },
+            {
+                "id": "2",
+                "text": "55 km"
+            },
+            {
+                "id": "3",
+                "text": "60 km"
+            },
+            {
+                "id": "4",
+                "text": "80 km"
+            }
+        ],
+        "correct": 2,
+        "section": "Speed, Distance and Time",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "33",
+        "text": "A car covers the first 140 km of a journey in 10 hours and the next 260 km in 15 hours. What is the average speed of the Car for the whole journey?",
+        "options": [
+            {
+                "id": "1",
+                "text": "16 km/hr"
+            },
+            {
+                "id": "2",
+                "text": "14 km/hr"
+            },
+            {
+                "id": "3",
+                "text": "10 km/hr"
+            },
+            {
+                "id": "4",
+                "text": "15 km/hr"
+            }
+        ],
+        "correct": 0,
+        "section": "Speed, Distance and Time",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "34",
+        "text": "A and B worked together and received a total of Rs. 18,000 for 15 days. A's efficiency in the work was 5 times that of B's. The daily wage of A (in Rs.) was:",
+        "options": [
+            {
+                "id": "1",
+                "text": "800"
+            },
+            {
+                "id": "2",
+                "text": "600"
+            },
+            {
+                "id": "3",
+                "text": "1,200"
+            },
+            {
+                "id": "4",
+                "text": "1,000"
+            }
+        ],
+        "correct": 3,
+        "section": "Work and Time",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "35",
+        "text": "A and B can do a work together in 18 days. A is three times as efficient as B. In how many days can B alone complete the work?",
+        "options": [
+            {
+                "id": "1",
+                "text": "60 days"
+            },
+            {
+                "id": "2",
+                "text": "72 days"
+            },
+            {
+                "id": "3",
+                "text": "54 days"
+            },
+            {
+                "id": "4",
+                "text": "64 days"
+            }
+        ],
+        "correct": 1,
+        "section": "Work and Time",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "36",
+        "text": "A and B invested money in a business in the ratio of 7 : 5. If 15% of the total profit goes to charity and A's share in the profit is Rs. 5,950, then what is the total profit?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Rs. 12,500"
+            },
+            {
+                "id": "2",
+                "text": "Rs. 12,000"
+            },
+            {
+                "id": "3",
+                "text": "Rs. 10,500"
+            },
+            {
+                "id": "4",
+                "text": "Rs. 11,750"
+            }
+        ],
+        "correct": 1,
+        "section": "Partnership",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "37",
+        "text": "The third proportion to 25 and 35 is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "35"
+            },
+            {
+                "id": "2",
+                "text": "49"
+            },
+            {
+                "id": "3",
+                "text": "40"
+            },
+            {
+                "id": "4",
+                "text": "25"
+            }
+        ],
+        "correct": 1,
+        "section": "Ratio and Proportion",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "38",
+        "text": "The average number of runs conceded by a bowler in five matches is 45 and 15.75 in the other four matches. What is the average number of runs conceded by the bowler in nine matches?",
+        "options": [
+            {
+                "id": "1",
+                "text": "15"
+            },
+            {
+                "id": "2",
+                "text": "32"
+            },
+            {
+                "id": "3",
+                "text": "35"
+            },
+            {
+                "id": "4",
+                "text": "53.5"
+            }
+        ],
+        "correct": 1,
+        "section": "Average",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "39",
+        "text": "The average number of runs scored by a cricket player in 11 innings is 63, the average of his first six innings is 60, and the average of his last six innings is 65. Find the runs scored by him in the sixth inning.",
+        "options": [
+            {
+                "id": "1",
+                "text": "60"
+            },
+            {
+                "id": "2",
+                "text": "54"
+            },
+            {
+                "id": "3",
+                "text": "67"
+            },
+            {
+                "id": "4",
+                "text": "57"
+            }
+        ],
+        "correct": 3,
+        "section": "Average",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "40",
+        "text": "Pipes A, B and C can fill a tank in 20, 30 and 60 hours, respectively. Pipes A, B and C are opened at 7 a.m., 8 a.m., and 9 a.m., respectively, on the same day. When will the tank be full?",
+        "options": [
+            {
+                "id": "1",
+                "text": "4:40 p.m."
+            },
+            {
+                "id": "2",
+                "text": "5:40 p.m."
+            },
+            {
+                "id": "3",
+                "text": "6:20 p.m."
+            },
+            {
+                "id": "4",
+                "text": "7:20 p.m."
+            }
+        ],
+        "correct": 1,
+        "section": "Pipes and Cisterns",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "41",
+        "text": "A, B and C invested their capitals in the ratio 2 : 3 : 5. The ratio of months for which they invested is 4 : 2 : 3, respectively. If the difference between the profit shares of A and B is Rs. 1,86,000, then C's share of profit (in Rs.) is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "19,35,000"
+            },
+            {
+                "id": "2",
+                "text": "10,29,500"
+            },
+            {
+                "id": "3",
+                "text": "15,39,000"
+            },
+            {
+                "id": "4",
+                "text": "13,95,000"
+            }
+        ],
+        "correct": 3,
+        "section": "Partnership",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "42",
+        "text": "A and B started a business investing amounts of INR 92,500 and INR 1,12,500, respectively. If B's share in the profit earned by them is INR 9,000, what is the total profit (in INR) earned by them together?",
+        "options": [
+            {
+                "id": "1",
+                "text": "20,000"
+            },
+            {
+                "id": "2",
+                "text": "16,400"
+            },
+            {
+                "id": "3",
+                "text": "19,000"
+            },
+            {
+                "id": "4",
+                "text": "21,240"
+            }
+        ],
+        "correct": 1,
+        "section": "Partnership",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "43",
+        "text": "A cube of edge 6 cm is painted on all sides and then cut into unit cubes. The number of unit cubes with no sides painted is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "0"
+            },
+            {
+                "id": "2",
+                "text": "64"
+            },
+            {
+                "id": "3",
+                "text": "186"
+            },
+            {
+                "id": "4",
+                "text": "108"
+            }
+        ],
+        "correct": 1,
+        "section": "Cube Problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "44",
+        "text": "If the numerical value of twice the curved surface area of a right circular cylinder is equal to the numerical value of its volume, then what is the numerical value of the radius of the base of the cylinder?",
+        "options": [
+            {
+                "id": "1",
+                "text": "2"
+            },
+            {
+                "id": "2",
+                "text": "3"
+            },
+            {
+                "id": "3",
+                "text": "5"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 3,
+        "section": "Mensuration",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "45",
+        "text": "The area of the base of a rectangular tank is 70 m2 and the volume of water contained in it is 2800 m3. What is the depth of the water?",
+        "options": [
+            {
+                "id": "1",
+                "text": "30 m"
+            },
+            {
+                "id": "2",
+                "text": "40 m"
+            },
+            {
+                "id": "3",
+                "text": "50 m"
+            },
+            {
+                "id": "4",
+                "text": "60 m"
+            }
+        ],
+        "correct": 1,
+        "section": "Mensuration",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "46",
+        "text": "Calculate the total surface area of the cube of side 45 m.",
+        "options": [
+            {
+                "id": "1",
+                "text": "12150 m\u00b2"
+            },
+            {
+                "id": "2",
+                "text": "1213 m\u00b2"
+            },
+            {
+                "id": "3",
+                "text": "1342 m\u00b2"
+            },
+            {
+                "id": "4",
+                "text": "2341 m\u00b2"
+            }
+        ],
+        "correct": 0,
+        "section": "Mensuration",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "47",
+        "text": "The curved surface area of a cylinder is five times the area of its base. Find the ratio of the radius and height of the cylinder.",
+        "options": [
+            {
+                "id": "1",
+                "text": "2 : 3"
+            },
+            {
+                "id": "2",
+                "text": "3 : 5"
+            },
+            {
+                "id": "3",
+                "text": "2 : 5"
+            },
+            {
+                "id": "4",
+                "text": "3 : 4"
+            }
+        ],
+        "correct": 2,
+        "section": "Mensuration",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "48",
+        "text": "A room is in the shape of a cuboid of dimensions 4 m, 2 m and 8 m. If a bag of grain occupies a space of 0.50 m\u00b3, then how many such bags can be stored in the room?",
+        "options": [
+            {
+                "id": "1",
+                "text": "128 bags"
+            },
+            {
+                "id": "2",
+                "text": "144 bags"
+            },
+            {
+                "id": "3",
+                "text": "108 bags"
+            },
+            {
+                "id": "4",
+                "text": "118 bags"
+            }
+        ],
+        "correct": 0,
+        "section": "Mensuration",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "49",
+        "text": "A speaks the truth 5 out of 7 times and B speaks the truth 8 out of 9 times. What is the probability that they contradict each other in stating the same fact?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/7"
+            },
+            {
+                "id": "2",
+                "text": "1/9"
+            },
+            {
+                "id": "3",
+                "text": "1/7"
+            },
+            {
+                "id": "4",
+                "text": "1/3"
+            }
+        ],
+        "correct": 3,
+        "section": "Probability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "50",
+        "text": "A glass jar contains 6 white, 8 black, 4 red, and 3 blue marbles. If a single marble is chosen at random from the jar, what is the probability that it is black or blue?",
+        "options": [
+            {
+                "id": "1",
+                "text": "8/21"
+            },
+            {
+                "id": "2",
+                "text": "11/21"
+            },
+            {
+                "id": "3",
+                "text": "5/21"
+            },
+            {
+                "id": "4",
+                "text": "1/7"
+            }
+        ],
+        "correct": 1,
+        "section": "Probability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "51",
+        "text": "The probabilities of solving a problem by three students A,B, and C are 3/7,5/9 and 1/5, respectively. The probability that the problem will be solved is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "155/315"
+            },
+            {
+                "id": "2",
+                "text": "64/315"
+            },
+            {
+                "id": "3",
+                "text": "251/315"
+            },
+            {
+                "id": "4",
+                "text": "32/315"
+            }
+        ],
+        "correct": 2,
+        "section": "Probability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "52",
+        "text": "(91 + 92 + 93 + ... + 110) is equal to:",
+        "options": [
+            {
+                "id": "1",
+                "text": "4020"
+            },
+            {
+                "id": "2",
+                "text": "2010"
+            },
+            {
+                "id": "3",
+                "text": "6030"
+            },
+            {
+                "id": "4",
+                "text": "8040"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetic Progression",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "53",
+        "text": "Which one of the following is a factor of the sum of the first twenty-five natural numbers?",
+        "options": [
+            {
+                "id": "1",
+                "text": "26"
+            },
+            {
+                "id": "2",
+                "text": "24"
+            },
+            {
+                "id": "3",
+                "text": "13"
+            },
+            {
+                "id": "4",
+                "text": "12"
+            }
+        ],
+        "correct": 2,
+        "section": "Number Theory",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "54",
+        "text": "Let R= {(3,3), (5,5), (9,9), (12,12), (5,12), (3,9), (3,12), (3,5)} be a relation on the set A= {3,5,9,12}. Then R is :",
+        "options": [
+            {
+                "id": "1",
+                "text": "reflexive , symmetric but not transitive"
+            },
+            {
+                "id": "2",
+                "text": "symmetric, transitive but not reflexive"
+            },
+            {
+                "id": "3",
+                "text": "an equivalence relation."
+            },
+            {
+                "id": "4",
+                "text": "reflexive, transitive but not symmetric"
+            }
+        ],
+        "correct": 3,
+        "section": "Relations and Functions",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "55",
+        "text": "Let S = {x | x is a positive multiple of 3 less than 100} P = {x | x is a prime number less than 20}. Then n(S) + n(P) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "34"
+            },
+            {
+                "id": "2",
+                "text": "41"
+            },
+            {
+                "id": "3",
+                "text": "33"
+            },
+            {
+                "id": "4",
+                "text": "30"
+            }
+        ],
+        "correct": 1,
+        "section": "Set Theory",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "56",
+        "text": "The average of 20 numbers is calculated as 35. It is discovered later on that while calculating the average, one number, 85, was misread as 45. The correct average is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "36"
+            },
+            {
+                "id": "2",
+                "text": "36.5"
+            },
+            {
+                "id": "3",
+                "text": "37"
+            },
+            {
+                "id": "4",
+                "text": "37.5"
+            }
+        ],
+        "correct": 2,
+        "section": "Average",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "57",
+        "text": "For a sample data, mean = 60 and median = 48. For this distribution, the mode is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "18"
+            },
+            {
+                "id": "2",
+                "text": "48"
+            },
+            {
+                "id": "3",
+                "text": "36"
+            },
+            {
+                "id": "4",
+                "text": "24"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistics",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "58",
+        "text": "You have a collection of 10 different candies. If you want to create a bag of 3 candies, how many different combinations of candies can you put in the bag?",
+        "options": [
+            {
+                "id": "1",
+                "text": "30 combinations"
+            },
+            {
+                "id": "2",
+                "text": "120 combinations"
+            },
+            {
+                "id": "3",
+                "text": "220 combinations"
+            },
+            {
+                "id": "4",
+                "text": "720 combinations"
+            }
+        ],
+        "correct": 1,
+        "section": "Combinatorics",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "59",
+        "text": "Find equation of straight line on which length of perpendicular from the origin is four units and the line makes an angle of 120o with the positive direction of x-axis.(Given that line has positive y - intercept)",
+        "options": [
+            {
+                "id": "1",
+                "text": "\u221a3x + y = 8"
+            },
+            {
+                "id": "2",
+                "text": "\u221a3x \u2013 y = 8"
+            },
+            {
+                "id": "3",
+                "text": "x \u2013 y = 8"
+            },
+            {
+                "id": "4",
+                "text": "None of these"
+            }
+        ],
+        "correct": 0,
+        "section": "Coordinate Geometry",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "60",
+        "text": "If \u03b8 is a positive acute angle and tan2\u03b8tan3\u03b8=1, then the value of 2(cos\u00b2 5\u03b8/2-1) is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "-1/2"
+            },
+            {
+                "id": "2",
+                "text": "-1"
+            },
+            {
+                "id": "3",
+                "text": "0"
+            },
+            {
+                "id": "4",
+                "text": "1/2"
+            }
+        ],
+        "correct": 1,
+        "section": "Trigonometry",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "61",
+        "text": "For any acute angle \u03b8,sin\u03b8+sin\u00b2\u03b8=1, then the value of cos\u00b2\u03b8+cos\u2074\u03b8= ________",
+        "options": [
+            {
+                "id": "1",
+                "text": "0"
+            },
+            {
+                "id": "2",
+                "text": "1"
+            },
+            {
+                "id": "3",
+                "text": "2"
+            },
+            {
+                "id": "4",
+                "text": "-1"
+            }
+        ],
+        "correct": 1,
+        "section": "Trigonometry",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "62",
+        "text": "A number, when divided by the sum of 555 and 445, gives two times their difference as the quotient and 30 as the remainder. The number is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "220030"
+            },
+            {
+                "id": "2",
+                "text": "22030"
+            },
+            {
+                "id": "3",
+                "text": "1220"
+            },
+            {
+                "id": "4",
+                "text": "1250"
+            }
+        ],
+        "correct": 0,
+        "section": "Number Theory",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "63",
+        "text": "N is the largest two-digit number which, when divided by 3, 4, and 6, leaves the remainder of 1, 2, and 4, respectively. What is the remainder when N is divided by 5?",
+        "options": [
+            {
+                "id": "1",
+                "text": "4"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "1"
+            }
+        ],
+        "correct": 0,
+        "section": "Number Theory",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "64",
+        "text": "A and B are positive integers. If A + B + AB = 65, then what is the difference between A and B (A, B < 15)?",
+        "options": [
+            {
+                "id": "1",
+                "text": "3"
+            },
+            {
+                "id": "2",
+                "text": "4"
+            },
+            {
+                "id": "3",
+                "text": "5"
+            },
+            {
+                "id": "4",
+                "text": "6"
+            }
+        ],
+        "correct": 2,
+        "section": "Number Theory",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "65",
+        "text": "Let the speed of the boat in still water be 17 km/hr and let the speed of the stream be 5 km/hr. What is the time taken by the boat to go 110 km downstream?",
+        "options": [
+            {
+                "id": "1",
+                "text": "4.5 hours"
+            },
+            {
+                "id": "2",
+                "text": "6 hours"
+            },
+            {
+                "id": "3",
+                "text": "5.5 hours"
+            },
+            {
+                "id": "4",
+                "text": "5 hours"
+            }
+        ],
+        "correct": 3,
+        "section": "Boats and Streams",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "66",
+        "text": "A tourist van travels the distance of 35 km from Dehradun to Mussoorie at an average speed of 36 km/h and returns at 60 km/hr. What is the approximate average speed (in km/hr) of the tourist van for the entire journey?",
+        "options": [
+            {
+                "id": "1",
+                "text": "48"
+            },
+            {
+                "id": "2",
+                "text": "42"
+            },
+            {
+                "id": "3",
+                "text": "45"
+            },
+            {
+                "id": "4",
+                "text": "50"
+            }
+        ],
+        "correct": 2,
+        "section": "Speed, Distance and Time",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "67",
+        "text": "If a truck moves at a constant speed of 30 km/hr for 1 kilometre and 45 km/hr for the next 1 kilometre. What is the average speed of the truck?",
+        "options": [
+            {
+                "id": "1",
+                "text": "32 km/hr"
+            },
+            {
+                "id": "2",
+                "text": "36 km/hr"
+            },
+            {
+                "id": "3",
+                "text": "38 km/hr"
+            },
+            {
+                "id": "4",
+                "text": "34 km/hr"
+            }
+        ],
+        "correct": 1,
+        "section": "Speed, Distance and Time",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "68",
+        "text": "A man walks at a speed of 8 km/h. After every kilometre, he takes a rest for 4 minutes. How much time will he take to cover a distance of 6 km?",
+        "options": [
+            {
+                "id": "1",
+                "text": "70 minutes"
+            },
+            {
+                "id": "2",
+                "text": "60 minutes"
+            },
+            {
+                "id": "3",
+                "text": "69 minutes"
+            },
+            {
+                "id": "4",
+                "text": "65 minutes"
+            }
+        ],
+        "correct": 3,
+        "section": "Speed, Distance and Time",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "69",
+        "text": "A person travelled from station A to station B at 40 km/h and from B to A at 30 km/h. The entire journey took 6.3 hours. What is the distance (in km) between A and B?",
+        "options": [
+            {
+                "id": "1",
+                "text": "117"
+            },
+            {
+                "id": "2",
+                "text": "108"
+            },
+            {
+                "id": "3",
+                "text": "91"
+            },
+            {
+                "id": "4",
+                "text": "99"
+            }
+        ],
+        "correct": 1,
+        "section": "Speed, Distance and Time",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "70",
+        "text": "The average weight of nine persons is 25 kg. If a new person joins this group, then the average weight becomes 26 kg. What is the weight of the new person?",
+        "options": [
+            {
+                "id": "1",
+                "text": "35 kg"
+            },
+            {
+                "id": "2",
+                "text": "28 kg"
+            },
+            {
+                "id": "3",
+                "text": "34 kg"
+            },
+            {
+                "id": "4",
+                "text": "30 kg"
+            }
+        ],
+        "correct": 0,
+        "section": "Average",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "71",
+        "text": "The average age of 5 children is 10 years. If two more children of ages 11 years and 16 years join, then what will be the new average age?",
+        "options": [
+            {
+                "id": "1",
+                "text": "11 years"
+            },
+            {
+                "id": "2",
+                "text": "10 years"
+            },
+            {
+                "id": "3",
+                "text": "13 years"
+            },
+            {
+                "id": "4",
+                "text": "12 years"
+            }
+        ],
+        "correct": 0,
+        "section": "Average",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "72",
+        "text": "The average age of 9 girls is 16 years. The average age of 11 boys is 26 years. What is the average age of all these boys and girls taken together?",
+        "options": [
+            {
+                "id": "1",
+                "text": "22 years"
+            },
+            {
+                "id": "2",
+                "text": "23 years"
+            },
+            {
+                "id": "3",
+                "text": "22.5 years"
+            },
+            {
+                "id": "4",
+                "text": "21.5 years"
+            }
+        ],
+        "correct": 3,
+        "section": "Average",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "73",
+        "text": "If each side of a rectangle is decreased by 11%, then its area will decrease by:",
+        "options": [
+            {
+                "id": "1",
+                "text": "25%"
+            },
+            {
+                "id": "2",
+                "text": "21.13%"
+            },
+            {
+                "id": "3",
+                "text": "24.31%"
+            },
+            {
+                "id": "4",
+                "text": "20.79%"
+            }
+        ],
+        "correct": 3,
+        "section": "Percentage",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "74",
+        "text": "The point P is the midpoint of the segment AB. The coordinates of point P are (2, 1) and that of point A are (11, 5). The coordinates of point B are:",
+        "options": [
+            {
+                "id": "1",
+                "text": "(\u20137, \u20133)"
+            },
+            {
+                "id": "2",
+                "text": "(6.5, 3)"
+            },
+            {
+                "id": "3",
+                "text": "(7, 3)"
+            },
+            {
+                "id": "4",
+                "text": "(\u20136.5, \u20133)"
+            }
+        ],
+        "correct": 0,
+        "section": "Coordinate Geometry",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "75",
+        "text": "The year in which the production of fertilizers is nearest to the average production of all the six years, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1999"
+            },
+            {
+                "id": "2",
+                "text": "1998"
+            },
+            {
+                "id": "3",
+                "text": "1995"
+            },
+            {
+                "id": "4",
+                "text": "2000"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Interpretation",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "76",
+        "text": "The percentage of students who obtained 40 marks or less is __.",
+        "options": [
+            {
+                "id": "1",
+                "text": "25"
+            },
+            {
+                "id": "2",
+                "text": "less than 25, but not 15"
+            },
+            {
+                "id": "3",
+                "text": "more then 24"
+            },
+            {
+                "id": "4",
+                "text": "15"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Interpretation",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "77",
+        "text": "The ratio of the number of students who obtained 60 or more marks to that of students who obtained 60 or less marks is:",
+        "options": [
+            {
+                "id": "1",
+                "text": "15:16"
+            },
+            {
+                "id": "2",
+                "text": "15:19"
+            },
+            {
+                "id": "3",
+                "text": "14:17"
+            },
+            {
+                "id": "4",
+                "text": "16:15"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Interpretation",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "78",
+        "text": "For the month of May, the graph shows that the price of rice was the lowest in the year:",
+        "options": [
+            {
+                "id": "1",
+                "text": "2000"
+            },
+            {
+                "id": "2",
+                "text": "2001"
+            },
+            {
+                "id": "3",
+                "text": "2002"
+            },
+            {
+                "id": "4",
+                "text": "2003"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Interpretation",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "79",
+        "text": "The range of price for a year is the difference between the maximum and the minimum prices for that year. The graph shows that this range of price was the greatest for the year",
+        "options": [
+            {
+                "id": "1",
+                "text": "2000"
+            },
+            {
+                "id": "2",
+                "text": "2001"
+            },
+            {
+                "id": "3",
+                "text": "2002"
+            },
+            {
+                "id": "4",
+                "text": "2003"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Interpretation",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "80",
+        "text": "Devansh's birthday is on Friday, April 14th. On what day of the week will Rohan's birthday be in the same year if Rohan was born on September 20th?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Tuesday"
+            },
+            {
+                "id": "2",
+                "text": "Friday"
+            },
+            {
+                "id": "3",
+                "text": "Thursday"
+            },
+            {
+                "id": "4",
+                "text": "Wednesday"
+            }
+        ],
+        "correct": 3,
+        "section": "Calendars",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "81",
+        "text": "Dhruv's birthday is on Sunday, May 28th. On what day of the week will Sahil's birthday be in the same year if Sahil was born on October 19th?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Saturday"
+            },
+            {
+                "id": "2",
+                "text": "Wednesday"
+            },
+            {
+                "id": "3",
+                "text": "Thursday"
+            },
+            {
+                "id": "4",
+                "text": "Sunday"
+            }
+        ],
+        "correct": 2,
+        "section": "Calendars",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "82",
+        "text": "Arnav's birthday is on Tuesday, March 14th. On what day of the week will Pranay's birthday be in the same year if Pranay was born on September 13th?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Monday"
+            },
+            {
+                "id": "2",
+                "text": "Tuesday"
+            },
+            {
+                "id": "3",
+                "text": "Wednesday"
+            },
+            {
+                "id": "4",
+                "text": "Thursday"
+            }
+        ],
+        "correct": 2,
+        "section": "Calendars",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "83",
+        "text": "The image of a clock in a mirror is seen as 3:15. What is the right time?",
+        "options": [
+            {
+                "id": "1",
+                "text": "8:45"
+            },
+            {
+                "id": "2",
+                "text": "10:45"
+            },
+            {
+                "id": "3",
+                "text": "7:45"
+            },
+            {
+                "id": "4",
+                "text": "9:45"
+            }
+        ],
+        "correct": 0,
+        "section": "Clocks",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "84",
+        "text": "If the 21st of May 2009 is Thursday, then what will be the day of the week on the 15th of July 2017?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Saturday"
+            },
+            {
+                "id": "2",
+                "text": "Tuesday"
+            },
+            {
+                "id": "3",
+                "text": "Monday"
+            },
+            {
+                "id": "4",
+                "text": "Sunday"
+            }
+        ],
+        "correct": 0,
+        "section": "Calendars",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "85",
+        "text": "Which of the following statements is false according to the passage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Two-thirds of the rising disease graphs worldwide are found in South Asia."
+            },
+            {
+                "id": "2",
+                "text": "A study of lung cancer amongst non-smokers had shown a 60 per cent increase caused by air pollution."
+            },
+            {
+                "id": "3",
+                "text": "The 2010 GBD was produced by a rigorous scientific process involving 150 global experts."
+            },
+            {
+                "id": "4",
+                "text": "The head of oncology department confirmed getting thousands of new cases of lung cancer every year."
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "86",
+        "text": "What does the 60% rise in lung cancer cases in non-smokers indicate?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Non-smokers are careless about their health."
+            },
+            {
+                "id": "2",
+                "text": "Non-smokers are secretly smoking."
+            },
+            {
+                "id": "3",
+                "text": "Air pollution has become a major cause of lung cancer."
+            },
+            {
+                "id": "4",
+                "text": "The data collected on the rise in lung cancer is inaccurate."
+            }
+        ],
+        "correct": 2,
+        "section": "Reading Comprehension",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "87",
+        "text": "What are the consequences of rising levels of particulate matter pollution?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Only A"
+            },
+            {
+                "id": "2",
+                "text": "Only B"
+            },
+            {
+                "id": "3",
+                "text": "Only C"
+            },
+            {
+                "id": "4",
+                "text": "Only A and B"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "88",
+        "text": "Why is ozone a dangerous new-generation pollutant?",
+        "options": [
+            {
+                "id": "1",
+                "text": "It is a major constituent of urban smog."
+            },
+            {
+                "id": "2",
+                "text": "It is responsible for a four per cent increase is mortality rates."
+            },
+            {
+                "id": "3",
+                "text": "It is highly toxic."
+            },
+            {
+                "id": "4",
+                "text": "Only A and B"
+            }
+        ],
+        "correct": 3,
+        "section": "Reading Comprehension",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "89",
+        "text": "Which of the following is the opposite of the word 'chronic' given in bold in the above passage?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Prolonged"
+            },
+            {
+                "id": "2",
+                "text": "Enduring"
+            },
+            {
+                "id": "3",
+                "text": "Long lasting"
+            },
+            {
+                "id": "4",
+                "text": "Fleeting"
+            }
+        ],
+        "correct": 3,
+        "section": "Vocabulary",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "90",
+        "text": "Which of the following sentence/s is true about women in the Gujjar community?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Only A"
+            },
+            {
+                "id": "2",
+                "text": "Only A and B"
+            },
+            {
+                "id": "3",
+                "text": "Only B"
+            },
+            {
+                "id": "4",
+                "text": "Only C"
+            }
+        ],
+        "correct": 1,
+        "section": "Reading Comprehension",
+        "correctAnswer": "2"
+    }
+]

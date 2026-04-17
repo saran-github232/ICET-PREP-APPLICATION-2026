@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "would kill"
+            },
+            {
+                "id": "2",
+                "text": "will have killed"
+            },
+            {
+                "id": "3",
+                "text": "would have killed"
+            },
+            {
+                "id": "4",
+                "text": "had killed"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "2",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "will buy"
+            },
+            {
+                "id": "2",
+                "text": "would have bought"
+            },
+            {
+                "id": "3",
+                "text": "should buy"
+            },
+            {
+                "id": "4",
+                "text": "will have bought"
+            }
+        ],
+        "correct": 2,
+        "section": "Verbal Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "3",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "refused"
+            },
+            {
+                "id": "2",
+                "text": "postponed"
+            },
+            {
+                "id": "3",
+                "text": "accepted"
+            },
+            {
+                "id": "4",
+                "text": "suspended"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "4",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "a"
+            },
+            {
+                "id": "2",
+                "text": "an"
+            },
+            {
+                "id": "3",
+                "text": "the"
+            },
+            {
+                "id": "4",
+                "text": "in"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "5",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "called"
+            },
+            {
+                "id": "2",
+                "text": "called as"
+            },
+            {
+                "id": "3",
+                "text": "known"
+            },
+            {
+                "id": "4",
+                "text": "remembered"
+            }
+        ],
+        "correct": 1,
+        "section": "Verbal Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "6",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "away"
+            },
+            {
+                "id": "2",
+                "text": "off"
+            },
+            {
+                "id": "3",
+                "text": "out"
+            },
+            {
+                "id": "4",
+                "text": "down"
+            }
+        ],
+        "correct": 2,
+        "section": "Verbal Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "7",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "on"
+            },
+            {
+                "id": "2",
+                "text": "at"
+            },
+            {
+                "id": "3",
+                "text": "by"
+            },
+            {
+                "id": "4",
+                "text": "for"
+            }
+        ],
+        "correct": 4,
+        "section": "Verbal Ability",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "8",
+        "text": "Choose the option that is passive form of the given sentence The detective found the lost necklace.",
+        "options": [
+            {
+                "id": "1",
+                "text": "The lost necklace was found by the detective."
+            },
+            {
+                "id": "2",
+                "text": "The lost necklace had been find by the detective."
+            },
+            {
+                "id": "3",
+                "text": "The lost necklace founded by the detective."
+            },
+            {
+                "id": "4",
+                "text": "The lost necklace should find the detective."
+            }
+        ],
+        "correct": 1,
+        "section": "Verbal Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "9",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "however"
+            },
+            {
+                "id": "2",
+                "text": "despite"
+            },
+            {
+                "id": "3",
+                "text": "so"
+            },
+            {
+                "id": "4",
+                "text": "while"
+            }
+        ],
+        "correct": 4,
+        "section": "Verbal Ability",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "10",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "had to"
+            },
+            {
+                "id": "2",
+                "text": "had to better"
+            },
+            {
+                "id": "3",
+                "text": "should better"
+            },
+            {
+                "id": "4",
+                "text": "could better"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "11",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "would kill"
+            },
+            {
+                "id": "2",
+                "text": "will have killed"
+            },
+            {
+                "id": "3",
+                "text": "would have killed"
+            },
+            {
+                "id": "4",
+                "text": "had killed"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "12",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "will buy"
+            },
+            {
+                "id": "2",
+                "text": "would have bought"
+            },
+            {
+                "id": "3",
+                "text": "should buy"
+            },
+            {
+                "id": "4",
+                "text": "will have bought"
+            }
+        ],
+        "correct": 2,
+        "section": "Verbal Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "13",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "refused"
+            },
+            {
+                "id": "2",
+                "text": "postponed"
+            },
+            {
+                "id": "3",
+                "text": "accepted"
+            },
+            {
+                "id": "4",
+                "text": "suspended"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "14",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "a"
+            },
+            {
+                "id": "2",
+                "text": "an"
+            },
+            {
+                "id": "3",
+                "text": "the"
+            },
+            {
+                "id": "4",
+                "text": "in"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "15",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "called"
+            },
+            {
+                "id": "2",
+                "text": "called as"
+            },
+            {
+                "id": "3",
+                "text": "known"
+            },
+            {
+                "id": "4",
+                "text": "remembered"
+            }
+        ],
+        "correct": 1,
+        "section": "Verbal Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "16",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "away"
+            },
+            {
+                "id": "2",
+                "text": "off"
+            },
+            {
+                "id": "3",
+                "text": "out"
+            },
+            {
+                "id": "4",
+                "text": "down"
+            }
+        ],
+        "correct": 2,
+        "section": "Verbal Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "17",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "on"
+            },
+            {
+                "id": "2",
+                "text": "at"
+            },
+            {
+                "id": "3",
+                "text": "by"
+            },
+            {
+                "id": "4",
+                "text": "for"
+            }
+        ],
+        "correct": 4,
+        "section": "Verbal Ability",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "18",
+        "text": "Choose the option that is passive form of the given sentence The detective found the lost necklace.",
+        "options": [
+            {
+                "id": "1",
+                "text": "The lost necklace was found by the detective."
+            },
+            {
+                "id": "2",
+                "text": "The lost necklace had been find by the detective."
+            },
+            {
+                "id": "3",
+                "text": "The lost necklace founded by the detective."
+            },
+            {
+                "id": "4",
+                "text": "The lost necklace should find the detective."
+            }
+        ],
+        "correct": 1,
+        "section": "Verbal Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "19",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "however"
+            },
+            {
+                "id": "2",
+                "text": "despite"
+            },
+            {
+                "id": "3",
+                "text": "so"
+            },
+            {
+                "id": "4",
+                "text": "while"
+            }
+        ],
+        "correct": 4,
+        "section": "Verbal Ability",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "20",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "had to"
+            },
+            {
+                "id": "2",
+                "text": "had to better"
+            },
+            {
+                "id": "3",
+                "text": "should better"
+            },
+            {
+                "id": "4",
+                "text": "could better"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "21",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "would kill"
+            },
+            {
+                "id": "2",
+                "text": "will have killed"
+            },
+            {
+                "id": "3",
+                "text": "would have killed"
+            },
+            {
+                "id": "4",
+                "text": "had killed"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "22",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "will buy"
+            },
+            {
+                "id": "2",
+                "text": "would have bought"
+            },
+            {
+                "id": "3",
+                "text": "should buy"
+            },
+            {
+                "id": "4",
+                "text": "will have bought"
+            }
+        ],
+        "correct": 2,
+        "section": "Verbal Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "23",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "refused"
+            },
+            {
+                "id": "2",
+                "text": "postponed"
+            },
+            {
+                "id": "3",
+                "text": "accepted"
+            },
+            {
+                "id": "4",
+                "text": "suspended"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "24",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "a"
+            },
+            {
+                "id": "2",
+                "text": "an"
+            },
+            {
+                "id": "3",
+                "text": "the"
+            },
+            {
+                "id": "4",
+                "text": "in"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "25",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "called"
+            },
+            {
+                "id": "2",
+                "text": "called as"
+            },
+            {
+                "id": "3",
+                "text": "known"
+            },
+            {
+                "id": "4",
+                "text": "remembered"
+            }
+        ],
+        "correct": 1,
+        "section": "Verbal Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "26",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "away"
+            },
+            {
+                "id": "2",
+                "text": "off"
+            },
+            {
+                "id": "3",
+                "text": "out"
+            },
+            {
+                "id": "4",
+                "text": "down"
+            }
+        ],
+        "correct": 2,
+        "section": "Verbal Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "27",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "on"
+            },
+            {
+                "id": "2",
+                "text": "at"
+            },
+            {
+                "id": "3",
+                "text": "by"
+            },
+            {
+                "id": "4",
+                "text": "for"
+            }
+        ],
+        "correct": 4,
+        "section": "Verbal Ability",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "28",
+        "text": "Choose the option that is passive form of the given sentence The detective found the lost necklace.",
+        "options": [
+            {
+                "id": "1",
+                "text": "The lost necklace was found by the detective."
+            },
+            {
+                "id": "2",
+                "text": "The lost necklace had been find by the detective."
+            },
+            {
+                "id": "3",
+                "text": "The lost necklace founded by the detective."
+            },
+            {
+                "id": "4",
+                "text": "The lost necklace should find the detective."
+            }
+        ],
+        "correct": 1,
+        "section": "Verbal Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "29",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "however"
+            },
+            {
+                "id": "2",
+                "text": "despite"
+            },
+            {
+                "id": "3",
+                "text": "so"
+            },
+            {
+                "id": "4",
+                "text": "while"
+            }
+        ],
+        "correct": 4,
+        "section": "Verbal Ability",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "30",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "had to"
+            },
+            {
+                "id": "2",
+                "text": "had to better"
+            },
+            {
+                "id": "3",
+                "text": "should better"
+            },
+            {
+                "id": "4",
+                "text": "could better"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "31",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "would kill"
+            },
+            {
+                "id": "2",
+                "text": "will have killed"
+            },
+            {
+                "id": "3",
+                "text": "would have killed"
+            },
+            {
+                "id": "4",
+                "text": "had killed"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "32",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "will buy"
+            },
+            {
+                "id": "2",
+                "text": "would have bought"
+            },
+            {
+                "id": "3",
+                "text": "should buy"
+            },
+            {
+                "id": "4",
+                "text": "will have bought"
+            }
+        ],
+        "correct": 2,
+        "section": "Verbal Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "33",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "refused"
+            },
+            {
+                "id": "2",
+                "text": "postponed"
+            },
+            {
+                "id": "3",
+                "text": "accepted"
+            },
+            {
+                "id": "4",
+                "text": "suspended"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "34",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "a"
+            },
+            {
+                "id": "2",
+                "text": "an"
+            },
+            {
+                "id": "3",
+                "text": "the"
+            },
+            {
+                "id": "4",
+                "text": "in"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "35",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "called"
+            },
+            {
+                "id": "2",
+                "text": "called as"
+            },
+            {
+                "id": "3",
+                "text": "known"
+            },
+            {
+                "id": "4",
+                "text": "remembered"
+            }
+        ],
+        "correct": 1,
+        "section": "Verbal Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "36",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "away"
+            },
+            {
+                "id": "2",
+                "text": "off"
+            },
+            {
+                "id": "3",
+                "text": "out"
+            },
+            {
+                "id": "4",
+                "text": "down"
+            }
+        ],
+        "correct": 2,
+        "section": "Verbal Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "37",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "on"
+            },
+            {
+                "id": "2",
+                "text": "at"
+            },
+            {
+                "id": "3",
+                "text": "by"
+            },
+            {
+                "id": "4",
+                "text": "for"
+            }
+        ],
+        "correct": 4,
+        "section": "Verbal Ability",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "38",
+        "text": "Choose the option that is passive form of the given sentence The detective found the lost necklace.",
+        "options": [
+            {
+                "id": "1",
+                "text": "The lost necklace was found by the detective."
+            },
+            {
+                "id": "2",
+                "text": "The lost necklace had been find by the detective."
+            },
+            {
+                "id": "3",
+                "text": "The lost necklace founded by the detective."
+            },
+            {
+                "id": "4",
+                "text": "The lost necklace should find the detective."
+            }
+        ],
+        "correct": 1,
+        "section": "Verbal Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "39",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "however"
+            },
+            {
+                "id": "2",
+                "text": "despite"
+            },
+            {
+                "id": "3",
+                "text": "so"
+            },
+            {
+                "id": "4",
+                "text": "while"
+            }
+        ],
+        "correct": 4,
+        "section": "Verbal Ability",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "40",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "had to"
+            },
+            {
+                "id": "2",
+                "text": "had to better"
+            },
+            {
+                "id": "3",
+                "text": "should better"
+            },
+            {
+                "id": "4",
+                "text": "could better"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "41",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "would kill"
+            },
+            {
+                "id": "2",
+                "text": "will have killed"
+            },
+            {
+                "id": "3",
+                "text": "would have killed"
+            },
+            {
+                "id": "4",
+                "text": "had killed"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "42",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "will buy"
+            },
+            {
+                "id": "2",
+                "text": "would have bought"
+            },
+            {
+                "id": "3",
+                "text": "should buy"
+            },
+            {
+                "id": "4",
+                "text": "will have bought"
+            }
+        ],
+        "correct": 2,
+        "section": "Verbal Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "43",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "refused"
+            },
+            {
+                "id": "2",
+                "text": "postponed"
+            },
+            {
+                "id": "3",
+                "text": "accepted"
+            },
+            {
+                "id": "4",
+                "text": "suspended"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "44",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "a"
+            },
+            {
+                "id": "2",
+                "text": "an"
+            },
+            {
+                "id": "3",
+                "text": "the"
+            },
+            {
+                "id": "4",
+                "text": "in"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "45",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "called"
+            },
+            {
+                "id": "2",
+                "text": "called as"
+            },
+            {
+                "id": "3",
+                "text": "known"
+            },
+            {
+                "id": "4",
+                "text": "remembered"
+            }
+        ],
+        "correct": 1,
+        "section": "Verbal Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "46",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "away"
+            },
+            {
+                "id": "2",
+                "text": "off"
+            },
+            {
+                "id": "3",
+                "text": "out"
+            },
+            {
+                "id": "4",
+                "text": "down"
+            }
+        ],
+        "correct": 2,
+        "section": "Verbal Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "47",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "on"
+            },
+            {
+                "id": "2",
+                "text": "at"
+            },
+            {
+                "id": "3",
+                "text": "by"
+            },
+            {
+                "id": "4",
+                "text": "for"
+            }
+        ],
+        "correct": 4,
+        "section": "Verbal Ability",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "48",
+        "text": "Choose the option that is passive form of the given sentence The detective found the lost necklace.",
+        "options": [
+            {
+                "id": "1",
+                "text": "The lost necklace was found by the detective."
+            },
+            {
+                "id": "2",
+                "text": "The lost necklace had been find by the detective."
+            },
+            {
+                "id": "3",
+                "text": "The lost necklace founded by the detective."
+            },
+            {
+                "id": "4",
+                "text": "The lost necklace should find the detective."
+            }
+        ],
+        "correct": 1,
+        "section": "Verbal Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "49",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "however"
+            },
+            {
+                "id": "2",
+                "text": "despite"
+            },
+            {
+                "id": "3",
+                "text": "so"
+            },
+            {
+                "id": "4",
+                "text": "while"
+            }
+        ],
+        "correct": 4,
+        "section": "Verbal Ability",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "50",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "had to"
+            },
+            {
+                "id": "2",
+                "text": "had to better"
+            },
+            {
+                "id": "3",
+                "text": "should better"
+            },
+            {
+                "id": "4",
+                "text": "could better"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "51",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "would kill"
+            },
+            {
+                "id": "2",
+                "text": "will have killed"
+            },
+            {
+                "id": "3",
+                "text": "would have killed"
+            },
+            {
+                "id": "4",
+                "text": "had killed"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "52",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "will buy"
+            },
+            {
+                "id": "2",
+                "text": "would have bought"
+            },
+            {
+                "id": "3",
+                "text": "should buy"
+            },
+            {
+                "id": "4",
+                "text": "will have bought"
+            }
+        ],
+        "correct": 2,
+        "section": "Verbal Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "53",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "refused"
+            },
+            {
+                "id": "2",
+                "text": "postponed"
+            },
+            {
+                "id": "3",
+                "text": "accepted"
+            },
+            {
+                "id": "4",
+                "text": "suspended"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "54",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "a"
+            },
+            {
+                "id": "2",
+                "text": "an"
+            },
+            {
+                "id": "3",
+                "text": "the"
+            },
+            {
+                "id": "4",
+                "text": "in"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "55",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "called"
+            },
+            {
+                "id": "2",
+                "text": "called as"
+            },
+            {
+                "id": "3",
+                "text": "known"
+            },
+            {
+                "id": "4",
+                "text": "remembered"
+            }
+        ],
+        "correct": 1,
+        "section": "Verbal Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "56",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "away"
+            },
+            {
+                "id": "2",
+                "text": "off"
+            },
+            {
+                "id": "3",
+                "text": "out"
+            },
+            {
+                "id": "4",
+                "text": "down"
+            }
+        ],
+        "correct": 2,
+        "section": "Verbal Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "57",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "on"
+            },
+            {
+                "id": "2",
+                "text": "at"
+            },
+            {
+                "id": "3",
+                "text": "by"
+            },
+            {
+                "id": "4",
+                "text": "for"
+            }
+        ],
+        "correct": 4,
+        "section": "Verbal Ability",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "58",
+        "text": "Choose the option that is passive form of the given sentence The detective found the lost necklace.",
+        "options": [
+            {
+                "id": "1",
+                "text": "The lost necklace was found by the detective."
+            },
+            {
+                "id": "2",
+                "text": "The lost necklace had been find by the detective."
+            },
+            {
+                "id": "3",
+                "text": "The lost necklace founded by the detective."
+            },
+            {
+                "id": "4",
+                "text": "The lost necklace should find the detective."
+            }
+        ],
+        "correct": 1,
+        "section": "Verbal Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "59",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "however"
+            },
+            {
+                "id": "2",
+                "text": "despite"
+            },
+            {
+                "id": "3",
+                "text": "so"
+            },
+            {
+                "id": "4",
+                "text": "while"
+            }
+        ],
+        "correct": 4,
+        "section": "Verbal Ability",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "60",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "had to"
+            },
+            {
+                "id": "2",
+                "text": "had to better"
+            },
+            {
+                "id": "3",
+                "text": "should better"
+            },
+            {
+                "id": "4",
+                "text": "could better"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "61",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "would kill"
+            },
+            {
+                "id": "2",
+                "text": "will have killed"
+            },
+            {
+                "id": "3",
+                "text": "would have killed"
+            },
+            {
+                "id": "4",
+                "text": "had killed"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "62",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "will buy"
+            },
+            {
+                "id": "2",
+                "text": "would have bought"
+            },
+            {
+                "id": "3",
+                "text": "should buy"
+            },
+            {
+                "id": "4",
+                "text": "will have bought"
+            }
+        ],
+        "correct": 2,
+        "section": "Verbal Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "63",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "refused"
+            },
+            {
+                "id": "2",
+                "text": "postponed"
+            },
+            {
+                "id": "3",
+                "text": "accepted"
+            },
+            {
+                "id": "4",
+                "text": "suspended"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "64",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "a"
+            },
+            {
+                "id": "2",
+                "text": "an"
+            },
+            {
+                "id": "3",
+                "text": "the"
+            },
+            {
+                "id": "4",
+                "text": "in"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "65",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "called"
+            },
+            {
+                "id": "2",
+                "text": "called as"
+            },
+            {
+                "id": "3",
+                "text": "known"
+            },
+            {
+                "id": "4",
+                "text": "remembered"
+            }
+        ],
+        "correct": 1,
+        "section": "Verbal Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "66",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "away"
+            },
+            {
+                "id": "2",
+                "text": "off"
+            },
+            {
+                "id": "3",
+                "text": "out"
+            },
+            {
+                "id": "4",
+                "text": "down"
+            }
+        ],
+        "correct": 2,
+        "section": "Verbal Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "67",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "on"
+            },
+            {
+                "id": "2",
+                "text": "at"
+            },
+            {
+                "id": "3",
+                "text": "by"
+            },
+            {
+                "id": "4",
+                "text": "for"
+            }
+        ],
+        "correct": 4,
+        "section": "Verbal Ability",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "68",
+        "text": "Choose the option that is passive form of the given sentence The detective found the lost necklace.",
+        "options": [
+            {
+                "id": "1",
+                "text": "The lost necklace was found by the detective."
+            },
+            {
+                "id": "2",
+                "text": "The lost necklace had been find by the detective."
+            },
+            {
+                "id": "3",
+                "text": "The lost necklace founded by the detective."
+            },
+            {
+                "id": "4",
+                "text": "The lost necklace should find the detective."
+            }
+        ],
+        "correct": 1,
+        "section": "Verbal Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "69",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "however"
+            },
+            {
+                "id": "2",
+                "text": "despite"
+            },
+            {
+                "id": "3",
+                "text": "so"
+            },
+            {
+                "id": "4",
+                "text": "while"
+            }
+        ],
+        "correct": 4,
+        "section": "Verbal Ability",
+        "correctAnswer": "5"
+    },
+    {
+        "id": "70",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "had to"
+            },
+            {
+                "id": "2",
+                "text": "had to better"
+            },
+            {
+                "id": "3",
+                "text": "should better"
+            },
+            {
+                "id": "4",
+                "text": "could better"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "71",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "would kill"
+            },
+            {
+                "id": "2",
+                "text": "will have killed"
+            },
+            {
+                "id": "3",
+                "text": "would have killed"
+            },
+            {
+                "id": "4",
+                "text": "had killed"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "72",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "will buy"
+            },
+            {
+                "id": "2",
+                "text": "would have bought"
+            },
+            {
+                "id": "3",
+                "text": "should buy"
+            },
+            {
+                "id": "4",
+                "text": "will have bought"
+            }
+        ],
+        "correct": 2,
+        "section": "Verbal Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "73",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "refused"
+            },
+            {
+                "id": "2",
+                "text": "postponed"
+            },
+            {
+                "id": "3",
+                "text": "accepted"
+            },
+            {
+                "id": "4",
+                "text": "suspended"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "74",
+        "text": "Fill in the blank by choosing the correct answer",
+        "options": [
+            {
+                "id": "1",
+                "text": "a"
+            },
+            {
+                "id": "2",
+                "text": "an"
+            },
+            {
+                "id": "3",
+                "text": "the"
+            },
+            {
+                "id": "4",
+                "text": "in"
+            }
+        ],
+        "correct": 3,
+        "section": "Verbal Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "75",
+        "text": "Is the natural number 'n' a perfect square ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "'n' leaves remainder 2 when divided by 4."
+            },
+            {
+                "id": "2",
+                "text": "'n' digits 4 and 5 in that order."
+            },
+            {
+                "id": "3",
+                "text": "'n' ends with zero."
+            },
+            {
+                "id": "4",
+                "text": "'n' square of 10"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "76",
+        "text": "What is the length of the side AC in the isosceles triangle ABC?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Sufficiency",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "77",
+        "text": "What is the selling price of the article A?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Sufficiency",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "78",
+        "text": "In a class of 60 students, each one plays either cricket or hockey. How many play cricket only?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Sufficiency",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "79",
+        "text": "What is the total cost of 2 benches and 3 chairs?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Sufficiency",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "80",
+        "text": "What is the value of x\u00b3+y\u00b3+xy\u00b2+yx\u00b2 / x\u00b2y\u00b2 ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Sufficiency",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "81",
+        "text": "The speed of a boat in still water is 8 kmph. What distance can it travel in 20 minutes?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Sufficiency",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "82",
+        "text": "What is the remainder obtained when the integer N is divided by 60 ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "83",
+        "text": "Two natural numbers are in the ratio 3 : 7. What is their difference?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "84",
+        "text": "What is the g.c.d of m and n?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Sufficiency",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "85",
+        "text": "What is the length of the train?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Sufficiency",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "86",
+        "text": "What is the value of 'x'?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Sufficiency",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "87",
+        "text": "Is the set E infinite?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 1,
+        "section": "Data Sufficiency",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "88",
+        "text": "What is the integral value of 'x'?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Sufficiency",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "89",
+        "text": "What is the slope of the line L?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Sufficiency",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "90",
+        "text": "What is the ratio of 5x + 3y : 10x + 2y?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Sufficiency",
+        "correctAnswer": "3"
+    }
+]

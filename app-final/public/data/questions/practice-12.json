@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "During"
+            },
+            {
+                "id": "2",
+                "text": "While"
+            },
+            {
+                "id": "3",
+                "text": "Since"
+            },
+            {
+                "id": "4",
+                "text": "Even"
+            }
+        ],
+        "correct": 1,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "2",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "about"
+            },
+            {
+                "id": "2",
+                "text": "at"
+            },
+            {
+                "id": "3",
+                "text": "after"
+            },
+            {
+                "id": "4",
+                "text": "off"
+            }
+        ],
+        "correct": 1,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "3",
+        "text": "Fill in the blanks with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "The, an"
+            },
+            {
+                "id": "2",
+                "text": "A, an"
+            },
+            {
+                "id": "3",
+                "text": "An, the"
+            },
+            {
+                "id": "4",
+                "text": "A, the"
+            }
+        ],
+        "correct": 3,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "4",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "An, am"
+            },
+            {
+                "id": "2",
+                "text": "A, an"
+            },
+            {
+                "id": "3",
+                "text": "The, an"
+            },
+            {
+                "id": "4",
+                "text": "The, the"
+            }
+        ],
+        "correct": 3,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "5",
+        "text": "Choose the synonym for 'Denigrate'",
+        "options": [
+            {
+                "id": "1",
+                "text": "Refuse"
+            },
+            {
+                "id": "2",
+                "text": "Belittle"
+            },
+            {
+                "id": "3",
+                "text": "Terrify"
+            },
+            {
+                "id": "4",
+                "text": "Admit"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "6",
+        "text": "Choose the synonym for 'coerce'.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Compare"
+            },
+            {
+                "id": "2",
+                "text": "Compel"
+            },
+            {
+                "id": "3",
+                "text": "Free"
+            },
+            {
+                "id": "4",
+                "text": "Endorse"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "7",
+        "text": "Choose the indirect speech for the following:",
+        "options": [
+            {
+                "id": "1",
+                "text": "She said she has bought a house in Kakinada."
+            },
+            {
+                "id": "2",
+                "text": "She said she buys a house in Kakinada."
+            },
+            {
+                "id": "3",
+                "text": "She said she have bought a house in Kakinada."
+            },
+            {
+                "id": "4",
+                "text": "She said that she had bought a house in Kakinada."
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "8",
+        "text": "Choose the direct speech for the following:",
+        "options": [
+            {
+                "id": "1",
+                "text": "He said, \u201cMay I pay your wages tomorrow\u201d."
+            },
+            {
+                "id": "2",
+                "text": "He said, \u201cI might pay your wages tomorrow\u201d."
+            },
+            {
+                "id": "3",
+                "text": "He said, \u201cI did pay your wages tomorrow\u201d."
+            },
+            {
+                "id": "4",
+                "text": "He said, \u201cI shall pay your wages tomorrow\u201d."
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "9",
+        "text": "Choose the indirect speech for the following:",
+        "options": [
+            {
+                "id": "1",
+                "text": "My friend asked me to go to the gym"
+            },
+            {
+                "id": "2",
+                "text": "My friend suggested to me that we should go to the gym"
+            },
+            {
+                "id": "3",
+                "text": "My friend suggested me that I should go to the gym"
+            },
+            {
+                "id": "4",
+                "text": "My friend advised me that I go to the gym"
+            }
+        ],
+        "correct": 1,
+        "section": "Communication Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "10",
+        "text": "Choose the correct passive voice",
+        "options": [
+            {
+                "id": "1",
+                "text": "Some difficult questions are asked at the interview."
+            },
+            {
+                "id": "2",
+                "text": "They were asked some difficult questions at the interview."
+            },
+            {
+                "id": "3",
+                "text": "I was asked some difficult questions at the interview."
+            },
+            {
+                "id": "4",
+                "text": "At the interview I am asked some difficult questions."
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "11",
+        "text": "Which of the following is the smallest unit of data in computer?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Bit"
+            },
+            {
+                "id": "2",
+                "text": "Kilobyte"
+            },
+            {
+                "id": "3",
+                "text": "Nibble"
+            },
+            {
+                "id": "4",
+                "text": "Byte"
+            }
+        ],
+        "correct": 0,
+        "section": "Computer Knowledge",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "12",
+        "text": "Which of the following refers to an ethical computer hacker, or a computer security expert?",
+        "options": [
+            {
+                "id": "1",
+                "text": "White Hat Hacker"
+            },
+            {
+                "id": "2",
+                "text": "Black Hat Hacker"
+            },
+            {
+                "id": "3",
+                "text": "Grey Hat Hacker"
+            },
+            {
+                "id": "4",
+                "text": "Red Hat Hacker"
+            }
+        ],
+        "correct": 0,
+        "section": "Computer Knowledge",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "13",
+        "text": "U.S.B. stands for",
+        "options": [
+            {
+                "id": "1",
+                "text": "Universal Serial Bus"
+            },
+            {
+                "id": "2",
+                "text": "United Serial Bus"
+            },
+            {
+                "id": "3",
+                "text": "Universal Serial Boom"
+            },
+            {
+                "id": "4",
+                "text": "Unitary Serial Bus"
+            }
+        ],
+        "correct": 0,
+        "section": "Computer Knowledge",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "14",
+        "text": "The bar that appears frequently in text or dialog boxes is a/an",
+        "options": [
+            {
+                "id": "1",
+                "text": "modem"
+            },
+            {
+                "id": "2",
+                "text": "interface"
+            },
+            {
+                "id": "3",
+                "text": "horizontal bar"
+            },
+            {
+                "id": "4",
+                "text": "blinking cursor"
+            }
+        ],
+        "correct": 3,
+        "section": "Computer Knowledge",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "15",
+        "text": "Four icons used in building Data Flow Diagram are",
+        "options": [
+            {
+                "id": "1",
+                "text": "Source, Process, Destination, Store"
+            },
+            {
+                "id": "2",
+                "text": "Process, Source, Destination, Store"
+            },
+            {
+                "id": "3",
+                "text": "Flow, Process, Source, Store"
+            },
+            {
+                "id": "4",
+                "text": "Flow, Source, Store, Process"
+            }
+        ],
+        "correct": 1,
+        "section": "Computer Knowledge",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "16",
+        "text": "Which does serve as engine of a computer?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Modem"
+            },
+            {
+                "id": "2",
+                "text": "CPU"
+            },
+            {
+                "id": "3",
+                "text": "RAM"
+            },
+            {
+                "id": "4",
+                "text": "OS"
+            }
+        ],
+        "correct": 1,
+        "section": "Computer Knowledge",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "17",
+        "text": "The term \"Square the Circle\" means.",
+        "options": [
+            {
+                "id": "1",
+                "text": "Bringing together two different things"
+            },
+            {
+                "id": "2",
+                "text": "Distinguishing between two important things"
+            },
+            {
+                "id": "3",
+                "text": "Opening a new business"
+            },
+            {
+                "id": "4",
+                "text": "Beating around the bush"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "18",
+        "text": "which of the following is the wireless communication technology used to replace cables?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Adobe acrobat reader"
+            },
+            {
+                "id": "2",
+                "text": "Firewall"
+            },
+            {
+                "id": "3",
+                "text": "Bluetooth"
+            },
+            {
+                "id": "4",
+                "text": "Modem"
+            }
+        ],
+        "correct": 2,
+        "section": "Computer Knowledge",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "19",
+        "text": "Net worth means",
+        "options": [
+            {
+                "id": "1",
+                "text": "Assets - Liabilities"
+            },
+            {
+                "id": "2",
+                "text": "Net assets - gross profit"
+            },
+            {
+                "id": "3",
+                "text": "Gross profit + net assets"
+            },
+            {
+                "id": "4",
+                "text": "Assets + liabilities"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "20",
+        "text": "SAP is a computer software originated from",
+        "options": [
+            {
+                "id": "1",
+                "text": "Italy"
+            },
+            {
+                "id": "2",
+                "text": "USA"
+            },
+            {
+                "id": "3",
+                "text": "Germany"
+            },
+            {
+                "id": "4",
+                "text": "South Korea"
+            }
+        ],
+        "correct": 2,
+        "section": "Computer Knowledge",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "21",
+        "text": "Who is the present President of NASSCOM?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Debjani Ghosh"
+            },
+            {
+                "id": "2",
+                "text": "Raghuram Pillai"
+            },
+            {
+                "id": "3",
+                "text": "Rangarajan"
+            },
+            {
+                "id": "4",
+                "text": "Ramesh Gelli"
+            }
+        ],
+        "correct": 0,
+        "section": "General Knowledge",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "22",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "fast"
+            },
+            {
+                "id": "2",
+                "text": "powerful"
+            },
+            {
+                "id": "3",
+                "text": "infallible"
+            },
+            {
+                "id": "4",
+                "text": "cheap"
+            }
+        ],
+        "correct": 2,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "23",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "starts his own company"
+            },
+            {
+                "id": "2",
+                "text": "works in an established company"
+            },
+            {
+                "id": "3",
+                "text": "does small errands for a huge company"
+            },
+            {
+                "id": "4",
+                "text": "takes commission from companies for brokerage"
+            }
+        ],
+        "correct": 0,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "24",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "Form 26AS"
+            },
+            {
+                "id": "2",
+                "text": "Form 15H"
+            },
+            {
+                "id": "3",
+                "text": "Form 15 G"
+            },
+            {
+                "id": "4",
+                "text": "Form 16"
+            }
+        ],
+        "correct": 3,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "25",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "the labour in the organization"
+            },
+            {
+                "id": "2",
+                "text": "to the owners of the organization"
+            },
+            {
+                "id": "3",
+                "text": "to the middlemen in the business"
+            },
+            {
+                "id": "4",
+                "text": "to the trouble makers"
+            }
+        ],
+        "correct": 1,
+        "section": "Fill in the blank with suitable word",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "26",
+        "text": "The superiority of cricket has its basis in the ______ it generates.",
+        "options": [
+            {
+                "id": "1",
+                "text": "talent"
+            },
+            {
+                "id": "2",
+                "text": "duplicity"
+            },
+            {
+                "id": "3",
+                "text": "hatred"
+            },
+            {
+                "id": "4",
+                "text": "strain"
+            }
+        ],
+        "correct": 3,
+        "section": "Passage based questions",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "27",
+        "text": "A game with rules will help boys in their ______ years.",
+        "options": [
+            {
+                "id": "1",
+                "text": "early"
+            },
+            {
+                "id": "2",
+                "text": "mature"
+            },
+            {
+                "id": "3",
+                "text": "immature"
+            },
+            {
+                "id": "4",
+                "text": "formative"
+            }
+        ],
+        "correct": 1,
+        "section": "Passage based questions",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "28",
+        "text": "School teachers compare a team's defeat in sports to a defeat in ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "battle"
+            },
+            {
+                "id": "2",
+                "text": "treasure"
+            },
+            {
+                "id": "3",
+                "text": "examination"
+            },
+            {
+                "id": "4",
+                "text": "concert"
+            }
+        ],
+        "correct": 0,
+        "section": "Passage based questions",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "29",
+        "text": "New inventions in sports are often ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "encouraged"
+            },
+            {
+                "id": "2",
+                "text": "rewarded"
+            },
+            {
+                "id": "3",
+                "text": "discouraged"
+            },
+            {
+                "id": "4",
+                "text": "applauded"
+            }
+        ],
+        "correct": 2,
+        "section": "Passage based questions",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "30",
+        "text": "The author of the passage opposes",
+        "options": [
+            {
+                "id": "1",
+                "text": "sports, generally"
+            },
+            {
+                "id": "2",
+                "text": "inventive ability"
+            },
+            {
+                "id": "3",
+                "text": "blind adherence"
+            },
+            {
+                "id": "4",
+                "text": "creative urge"
+            }
+        ],
+        "correct": 2,
+        "section": "Passage based questions",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "31",
+        "text": "In this passage what is the meaning of 'Donning'?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Putting off"
+            },
+            {
+                "id": "2",
+                "text": "Putting on"
+            },
+            {
+                "id": "3",
+                "text": "Tailoring"
+            },
+            {
+                "id": "4",
+                "text": "Rejecting"
+            }
+        ],
+        "correct": 1,
+        "section": "Passage based questions",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "32",
+        "text": "People change parties to escape from ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "illegality"
+            },
+            {
+                "id": "2",
+                "text": "legality"
+            },
+            {
+                "id": "3",
+                "text": "work"
+            },
+            {
+                "id": "4",
+                "text": "family"
+            }
+        ],
+        "correct": 0,
+        "section": "Passage based questions",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "33",
+        "text": "In this world of ours, it is difficult to stick to ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "morals"
+            },
+            {
+                "id": "2",
+                "text": "immorality"
+            },
+            {
+                "id": "3",
+                "text": "illegality"
+            },
+            {
+                "id": "4",
+                "text": "corruption"
+            }
+        ],
+        "correct": 0,
+        "section": "Passage based questions",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "34",
+        "text": "Survival of the politicians is linked up with their ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "inconstancy"
+            },
+            {
+                "id": "2",
+                "text": "constancy"
+            },
+            {
+                "id": "3",
+                "text": "respectability"
+            },
+            {
+                "id": "4",
+                "text": "honour"
+            }
+        ],
+        "correct": 0,
+        "section": "Passage based questions",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "35",
+        "text": "The assistants of the boss do anything for ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "derecognition"
+            },
+            {
+                "id": "2",
+                "text": "promotion"
+            },
+            {
+                "id": "3",
+                "text": "retirement"
+            },
+            {
+                "id": "4",
+                "text": "dismissal"
+            }
+        ],
+        "correct": 1,
+        "section": "Passage based questions",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "36",
+        "text": "The word 'somnolence' refers to ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "activeness"
+            },
+            {
+                "id": "2",
+                "text": "joviality"
+            },
+            {
+                "id": "3",
+                "text": "dynamism"
+            },
+            {
+                "id": "4",
+                "text": "drowsiness"
+            }
+        ],
+        "correct": 3,
+        "section": "Passage based questions",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "37",
+        "text": "A true day is guided by ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "mechanical impulses"
+            },
+            {
+                "id": "2",
+                "text": "natural instincts"
+            },
+            {
+                "id": "3",
+                "text": "greedy desires"
+            },
+            {
+                "id": "4",
+                "text": "overexertion"
+            }
+        ],
+        "correct": 1,
+        "section": "Passage based questions",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "38",
+        "text": "People should believe each day to be ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "sacred"
+            },
+            {
+                "id": "2",
+                "text": "unholy"
+            },
+            {
+                "id": "3",
+                "text": "mechanical"
+            },
+            {
+                "id": "4",
+                "text": "commercial"
+            }
+        ],
+        "correct": 0,
+        "section": "Passage based questions",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "39",
+        "text": "______ must be controlled for the soul of a man to be lifted",
+        "options": [
+            {
+                "id": "1",
+                "text": "Senses"
+            },
+            {
+                "id": "2",
+                "text": "Morals"
+            },
+            {
+                "id": "3",
+                "text": "Prayer"
+            },
+            {
+                "id": "4",
+                "text": "Holiness"
+            }
+        ],
+        "correct": 0,
+        "section": "Passage based questions",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "40",
+        "text": "Morning is referred to in this passage as ______ hour.",
+        "options": [
+            {
+                "id": "1",
+                "text": "dark"
+            },
+            {
+                "id": "2",
+                "text": "dismal"
+            },
+            {
+                "id": "3",
+                "text": "evening"
+            },
+            {
+                "id": "4",
+                "text": "auroral"
+            }
+        ],
+        "correct": 3,
+        "section": "Passage based questions",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "41",
+        "text": "A child's mind may contain ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "great poetical powers"
+            },
+            {
+                "id": "2",
+                "text": "great manipulative abilities"
+            },
+            {
+                "id": "3",
+                "text": "diplomatic excesses"
+            },
+            {
+                "id": "4",
+                "text": "only prosaic information"
+            }
+        ],
+        "correct": 0,
+        "section": "Passage based questions",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "42",
+        "text": "According to the author of the passage, genius is ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "inborn"
+            },
+            {
+                "id": "2",
+                "text": "cultivated"
+            },
+            {
+                "id": "3",
+                "text": "mechanical"
+            },
+            {
+                "id": "4",
+                "text": "obsolete"
+            }
+        ],
+        "correct": 0,
+        "section": "Passage based questions",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "43",
+        "text": "Poetic genius requires ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "intuition"
+            },
+            {
+                "id": "2",
+                "text": "stereotyping"
+            },
+            {
+                "id": "3",
+                "text": "discipline"
+            },
+            {
+                "id": "4",
+                "text": "narrowness"
+            }
+        ],
+        "correct": 0,
+        "section": "Passage based questions",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "44",
+        "text": "People have a tendency for ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "confusing generalizations"
+            },
+            {
+                "id": "2",
+                "text": "complex generalizations"
+            },
+            {
+                "id": "3",
+                "text": "easy generalizations"
+            },
+            {
+                "id": "4",
+                "text": "avoiding errors"
+            }
+        ],
+        "correct": 2,
+        "section": "Passage based questions",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "45",
+        "text": "Poetic talent is ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "narrow in its appeal"
+            },
+            {
+                "id": "2",
+                "text": "lasting in its appeal"
+            },
+            {
+                "id": "3",
+                "text": "self-defeating in its appeal"
+            },
+            {
+                "id": "4",
+                "text": "incapable of any appeal"
+            }
+        ],
+        "correct": 1,
+        "section": "Passage based questions",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "46",
+        "text": "The ratio of the sides of a rectangle is 4 : 9 and the area is equal to 144 sq.m. The perimeter is",
+        "options": [
+            {
+                "id": "1",
+                "text": "52"
+            },
+            {
+                "id": "2",
+                "text": "26"
+            },
+            {
+                "id": "3",
+                "text": "18"
+            },
+            {
+                "id": "4",
+                "text": "30"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "47",
+        "text": "By selling an article for Rs.990, a trader makes a profit of 12 1/2 %. The cost price of the article in rupees is",
+        "options": [
+            {
+                "id": "1",
+                "text": "920"
+            },
+            {
+                "id": "2",
+                "text": "900"
+            },
+            {
+                "id": "3",
+                "text": "880"
+            },
+            {
+                "id": "4",
+                "text": "800"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "48",
+        "text": "A can complete a piece of work in 18 days. B is 20% more efficient than A. The number of days B takes to complete the same piece of work?",
+        "options": [
+            {
+                "id": "1",
+                "text": "12"
+            },
+            {
+                "id": "2",
+                "text": "15"
+            },
+            {
+                "id": "3",
+                "text": "10"
+            },
+            {
+                "id": "4",
+                "text": "9"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "49",
+        "text": "A train takes 8 seconds to pass a person standing on the platform. If the speed of the train is 36 Kmph then its length in meters is",
+        "options": [
+            {
+                "id": "1",
+                "text": "115"
+            },
+            {
+                "id": "2",
+                "text": "90"
+            },
+            {
+                "id": "3",
+                "text": "110"
+            },
+            {
+                "id": "4",
+                "text": "80"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "50",
+        "text": "Two numbers are in the ratio of 4 : 7. If 14 is added to each they are in the ratio 5 : 7, then find the numbers ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "20 and 35"
+            },
+            {
+                "id": "2",
+                "text": "12 and 21"
+            },
+            {
+                "id": "3",
+                "text": "16 and 28"
+            },
+            {
+                "id": "4",
+                "text": "15 and 18"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "51",
+        "text": "The average age of 5 children is 8 years. If the age of the father is included to the children average becomes 13, then the age of the father is",
+        "options": [
+            {
+                "id": "1",
+                "text": "38"
+            },
+            {
+                "id": "2",
+                "text": "37"
+            },
+            {
+                "id": "3",
+                "text": "34"
+            },
+            {
+                "id": "4",
+                "text": "30"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "52",
+        "text": "Two pipes A and B can fill a tank in 12 min and 18 min respectively, if both are opened simultaneously then the time taken to fill the tank in minutes is",
+        "options": [
+            {
+                "id": "1",
+                "text": "8 1/4"
+            },
+            {
+                "id": "2",
+                "text": "7 1/5"
+            },
+            {
+                "id": "3",
+                "text": "7 2/5"
+            },
+            {
+                "id": "4",
+                "text": "8 1/3"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "53",
+        "text": "A, B and C can do a piece of work in 4, 5 and 7 days respectively. If they get Rs.415 for working together to complete the Job, then A's share is",
+        "options": [
+            {
+                "id": "1",
+                "text": "170"
+            },
+            {
+                "id": "2",
+                "text": "185"
+            },
+            {
+                "id": "3",
+                "text": "175"
+            },
+            {
+                "id": "4",
+                "text": "180"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "54",
+        "text": "If (2^-1) (y) = (4/5) then 2x - 3y =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "-1"
+            },
+            {
+                "id": "3",
+                "text": "2"
+            },
+            {
+                "id": "4",
+                "text": "0"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "55",
+        "text": "sqrt(7)+sqrt(5)/sqrt(7)-sqrt(5) + sqrt(7)-sqrt(5)/sqrt(7)+sqrt(5) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "2*sqrt(35)"
+            },
+            {
+                "id": "2",
+                "text": "-2*sqrt(35)"
+            },
+            {
+                "id": "3",
+                "text": "12"
+            },
+            {
+                "id": "4",
+                "text": "-12"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "56",
+        "text": "A Bag contains 3 red balls, 4 white balls and 7 black balls. The probability of drawing a red or a black ball is",
+        "options": [
+            {
+                "id": "1",
+                "text": "5/7"
+            },
+            {
+                "id": "2",
+                "text": "4/7"
+            },
+            {
+                "id": "3",
+                "text": "3/7"
+            },
+            {
+                "id": "4",
+                "text": "1/7"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "57",
+        "text": "If y = x + 1/x then x^4 + x^3 - 4x^2 + x + 1 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "x^2(y^2+y-2)"
+            },
+            {
+                "id": "2",
+                "text": "x^2(y^2+y-3)"
+            },
+            {
+                "id": "3",
+                "text": "x^2(y^2+y-4)"
+            },
+            {
+                "id": "4",
+                "text": "x^2(y^2+y-6)"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "58",
+        "text": "If K+2, 4K-6 and 3K-2 are three consecutive terms of an arithmetic progression then the value of K is",
+        "options": [
+            {
+                "id": "1",
+                "text": "4"
+            },
+            {
+                "id": "2",
+                "text": "3"
+            },
+            {
+                "id": "3",
+                "text": "2"
+            },
+            {
+                "id": "4",
+                "text": "1"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "59",
+        "text": "If the 5th term of (2x^2 + 1/x)^5 is 10, then x =",
+        "options": [
+            {
+                "id": "1",
+                "text": "6"
+            },
+            {
+                "id": "2",
+                "text": "+9"
+            },
+            {
+                "id": "3",
+                "text": "-6"
+            },
+            {
+                "id": "4",
+                "text": "+8"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "60",
+        "text": "Equation of the line passing through the point (2, -3) and perpendicular to the segment joining the points (1, 2) and (-1, 5) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2x - 3y - 13 = 0"
+            },
+            {
+                "id": "2",
+                "text": "2x - 3y - 7 = 0"
+            },
+            {
+                "id": "3",
+                "text": "2x - 3y - 9 = 0"
+            },
+            {
+                "id": "4",
+                "text": "2x - 3y - 11 = 0"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "61",
+        "text": "If y = tan^-1 x then dy/dx =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/(1-x^2)"
+            },
+            {
+                "id": "2",
+                "text": "1/(1+x^2)"
+            },
+            {
+                "id": "3",
+                "text": "1+x^2"
+            },
+            {
+                "id": "4",
+                "text": "1-x^2"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "62",
+        "text": "If a flag of 6 meters height, placed on the top of a tower throws a shadow of 2*sqrt(3) meters along the ground, then the angle in degrees that the sun makes with the ground is",
+        "options": [
+            {
+                "id": "1",
+                "text": "30\u00b0"
+            },
+            {
+                "id": "2",
+                "text": "45\u00b0"
+            },
+            {
+                "id": "3",
+                "text": "60\u00b0"
+            },
+            {
+                "id": "4",
+                "text": "75\u00b0"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "63",
+        "text": "If sin theta = 15/17 then (15 Cot theta + 17 Sin theta)/(8 Tan theta + 16 Sec theta) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "23/49"
+            },
+            {
+                "id": "2",
+                "text": "22/49"
+            },
+            {
+                "id": "3",
+                "text": "18/49"
+            },
+            {
+                "id": "4",
+                "text": "17/49"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "64",
+        "text": "Limit x->0 (cbrt(8+x)-2)/x =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/2"
+            },
+            {
+                "id": "2",
+                "text": "1/3"
+            },
+            {
+                "id": "3",
+                "text": "1/4"
+            },
+            {
+                "id": "4",
+                "text": "1/12"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "65",
+        "text": "If x^2 + (K+2) x + 36 = 0 has equal roots then K =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1 or -1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4 or -8"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "66",
+        "text": "If the area of square field is 7200 sq. m then the length of its diagonal in meters is",
+        "options": [
+            {
+                "id": "1",
+                "text": "120"
+            },
+            {
+                "id": "2",
+                "text": "130"
+            },
+            {
+                "id": "3",
+                "text": "140"
+            },
+            {
+                "id": "4",
+                "text": "150"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "67",
+        "text": "Three numbers in the ratio 2:3:4 have their sum 270. Then L.C.M. is",
+        "options": [
+            {
+                "id": "1",
+                "text": "120"
+            },
+            {
+                "id": "2",
+                "text": "360"
+            },
+            {
+                "id": "3",
+                "text": "240"
+            },
+            {
+                "id": "4",
+                "text": "270"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "68",
+        "text": "The g. c. d. and l.c.m of two numbers are 12 and 252 respectively. If one number is 36 then the other is",
+        "options": [
+            {
+                "id": "1",
+                "text": "44"
+            },
+            {
+                "id": "2",
+                "text": "32"
+            },
+            {
+                "id": "3",
+                "text": "26"
+            },
+            {
+                "id": "4",
+                "text": "84"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "69",
+        "text": "The cost price of 16 pens is the same as the selling price of 12 pens. The percentage of profit is",
+        "options": [
+            {
+                "id": "1",
+                "text": "33 1/3 %"
+            },
+            {
+                "id": "2",
+                "text": "30%"
+            },
+            {
+                "id": "3",
+                "text": "25%"
+            },
+            {
+                "id": "4",
+                "text": "16 2/3 %"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "70",
+        "text": "lim x->2 (1/(x-2) - 1/(x^2-3x+2)) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "4"
+            },
+            {
+                "id": "2",
+                "text": "3"
+            },
+            {
+                "id": "3",
+                "text": "2"
+            },
+            {
+                "id": "4",
+                "text": "1"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "71",
+        "text": "The distance between the lines 3x+4y-1=0 and 6x+8y-1=0 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "0.1"
+            },
+            {
+                "id": "2",
+                "text": "0.2"
+            },
+            {
+                "id": "3",
+                "text": "0.3"
+            },
+            {
+                "id": "4",
+                "text": "0.4"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "72",
+        "text": "If 8^(2x-4) = 16^(x-2) then x =",
+        "options": [
+            {
+                "id": "1",
+                "text": "2"
+            },
+            {
+                "id": "2",
+                "text": "4"
+            },
+            {
+                "id": "3",
+                "text": "6"
+            },
+            {
+                "id": "4",
+                "text": "1"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "73",
+        "text": "The volumes of two cones of equal height are in the ratio 1849 : 961. What is the ratio of their radii ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "41 : 31"
+            },
+            {
+                "id": "2",
+                "text": "39 : 31"
+            },
+            {
+                "id": "3",
+                "text": "43 : 31"
+            },
+            {
+                "id": "4",
+                "text": "43 : 29"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "74",
+        "text": "A sum becomes double in 8 years at simple interest. What is the rate percent per annum ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "12%"
+            },
+            {
+                "id": "2",
+                "text": "8%"
+            },
+            {
+                "id": "3",
+                "text": "12.5%"
+            },
+            {
+                "id": "4",
+                "text": "7.5%"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "75",
+        "text": "If A = [[1, 8], [0, 1]] then A^8 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "[[1, 64], [0, 1]]"
+            },
+            {
+                "id": "2",
+                "text": "[[1, 32], [0, 1]]"
+            },
+            {
+                "id": "3",
+                "text": "[[1, 16], [0, 1]]"
+            },
+            {
+                "id": "4",
+                "text": "[[1, 8], [0, 1]]"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "76",
+        "text": "If a/c = c/d = e/f then (3a-2c+4e)/(3b-2d+4f) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "b/a"
+            },
+            {
+                "id": "2",
+                "text": "a/b"
+            },
+            {
+                "id": "3",
+                "text": "d/c"
+            },
+            {
+                "id": "4",
+                "text": "f/e"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "77",
+        "text": "The solution set of x^2 + 6x < 91 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "{x : -3 < x < 7}"
+            },
+            {
+                "id": "2",
+                "text": "{x : -10 < x < 7}"
+            },
+            {
+                "id": "3",
+                "text": "{x : -13 < x < 7}"
+            },
+            {
+                "id": "4",
+                "text": "{x : -7 < x < 13}"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "78",
+        "text": "Which term in the expansion of (x - 1/x^3)^40 is independent of x ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "7th"
+            },
+            {
+                "id": "2",
+                "text": "8th"
+            },
+            {
+                "id": "3",
+                "text": "9th"
+            },
+            {
+                "id": "4",
+                "text": "11th"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "79",
+        "text": "A, B and C start a business with investments of Rs.6,000 and Rs.7,000 and Rs.8,000 respectively. The profit at the end of the year is Rs.3,150. Then share of B in the profit is",
+        "options": [
+            {
+                "id": "1",
+                "text": "900"
+            },
+            {
+                "id": "2",
+                "text": "1050"
+            },
+            {
+                "id": "3",
+                "text": "1200"
+            },
+            {
+                "id": "4",
+                "text": "1000"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "80",
+        "text": "The father is 7 times older than his son. After 5 years the sum of their ages would be 50 years. The son's age at present is",
+        "options": [
+            {
+                "id": "1",
+                "text": "5 years"
+            },
+            {
+                "id": "2",
+                "text": "6 years"
+            },
+            {
+                "id": "3",
+                "text": "8 years"
+            },
+            {
+                "id": "4",
+                "text": "9 years"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "81",
+        "text": "Tan (-23/3 * pi) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "-1/sqrt(3)"
+            },
+            {
+                "id": "2",
+                "text": "1/sqrt(3)"
+            },
+            {
+                "id": "3",
+                "text": "-sqrt(3)"
+            },
+            {
+                "id": "4",
+                "text": "sqrt(3)"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "82",
+        "text": "If the angle of elevation of the top of a tower of height 100 meters from a point to its foot is tan^-1 (1/2), then what is the distance from the point to its foot, in meters?",
+        "options": [
+            {
+                "id": "1",
+                "text": "110"
+            },
+            {
+                "id": "2",
+                "text": "120"
+            },
+            {
+                "id": "3",
+                "text": "125"
+            },
+            {
+                "id": "4",
+                "text": "150"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "83",
+        "text": "If x^4 - x^3 + 2x^2 + ax + b is exactly divisible by x^2 - 3x + 2, then (a, b) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "(14, -12)"
+            },
+            {
+                "id": "2",
+                "text": "(-14, 12)"
+            },
+            {
+                "id": "3",
+                "text": "(14, 12)"
+            },
+            {
+                "id": "4",
+                "text": "(-14, -12)"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "84",
+        "text": "(1+sqrt(2))^4 + (1-sqrt(2))^4 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "34"
+            },
+            {
+                "id": "2",
+                "text": "17"
+            },
+            {
+                "id": "3",
+                "text": "51"
+            },
+            {
+                "id": "4",
+                "text": "68"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "85",
+        "text": "If A is a non-singular 3x3 matrix, then |5A|/|A| =",
+        "options": [
+            {
+                "id": "1",
+                "text": "25"
+            },
+            {
+                "id": "2",
+                "text": "5"
+            },
+            {
+                "id": "3",
+                "text": "64"
+            },
+            {
+                "id": "4",
+                "text": "125"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "86",
+        "text": "lim x->infinity (1 + 4/x)^x =",
+        "options": [
+            {
+                "id": "1",
+                "text": "5"
+            },
+            {
+                "id": "2",
+                "text": "5e"
+            },
+            {
+                "id": "3",
+                "text": "5e^4"
+            },
+            {
+                "id": "4",
+                "text": "0"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "87",
+        "text": "If y = x(x-1)(x-2) then dy/dx =",
+        "options": [
+            {
+                "id": "1",
+                "text": "3x^2 - 6x - 2"
+            },
+            {
+                "id": "2",
+                "text": "3x^2 - 6x + 2"
+            },
+            {
+                "id": "3",
+                "text": "3x^2 + 6x + 2"
+            },
+            {
+                "id": "4",
+                "text": "3x^2 + 6x - 2"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "88",
+        "text": "If each exterior angle of a regular polygon is 36\u00b0, then the number of sides of the polygon is",
+        "options": [
+            {
+                "id": "1",
+                "text": "10"
+            },
+            {
+                "id": "2",
+                "text": "12"
+            },
+            {
+                "id": "3",
+                "text": "9"
+            },
+            {
+                "id": "4",
+                "text": "8"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "89",
+        "text": "What is the area, in square units, of the triangle formed by the points (3,2), (3,-6) and (5,2)?",
+        "options": [
+            {
+                "id": "1",
+                "text": "10"
+            },
+            {
+                "id": "2",
+                "text": "8"
+            },
+            {
+                "id": "3",
+                "text": "9"
+            },
+            {
+                "id": "4",
+                "text": "12"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "90",
+        "text": "The equation of the straight line passing through the points (1, -5) and (-2,4) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "3x - y + 2 = 0"
+            },
+            {
+                "id": "2",
+                "text": "3x + y - 2 = 0"
+            },
+            {
+                "id": "3",
+                "text": "3x - y - 2 = 0"
+            },
+            {
+                "id": "4",
+                "text": "3x + y + 2 = 0"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraical and Geometrical Ability",
+        "correctAnswer": "4"
+    }
+]

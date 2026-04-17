@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "Question Number: 37 Question Id : 49690139 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Note: The following questions follow a definite pattern. Observe the same and fill in the blanks with suitable answers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "251"
+            },
+            {
+                "id": "2",
+                "text": "252"
+            },
+            {
+                "id": "3",
+                "text": "253"
+            },
+            {
+                "id": "4",
+                "text": "254"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "2",
+        "text": "Question Number: 38 Question Id : 49690140 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Note: The following questions follow a definite pattern. Observe the same and fill in the blanks with suitable answers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "77"
+            },
+            {
+                "id": "2",
+                "text": "81"
+            },
+            {
+                "id": "3",
+                "text": "83"
+            },
+            {
+                "id": "4",
+                "text": "85"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "3",
+        "text": "Question Number: 39 Question Id : 49690141 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Note: The following questions follow a definite pattern. Observe the same and fill in the blanks with suitable answers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "327"
+            },
+            {
+                "id": "2",
+                "text": "317"
+            },
+            {
+                "id": "3",
+                "text": "269"
+            },
+            {
+                "id": "4",
+                "text": "263"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "4",
+        "text": "Question Number: 40 Question Id : 49690142 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Note: The following questions follow a definite pattern. Observe the same and fill in the blanks with suitable answers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "168"
+            },
+            {
+                "id": "2",
+                "text": "192"
+            },
+            {
+                "id": "3",
+                "text": "144"
+            },
+            {
+                "id": "4",
+                "text": "136"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "5",
+        "text": "Question Number : 41 Question Id : 49690143 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Note: The following questions follow a definite pattern. Observe the same and fill in the blanks with suitable answers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "14"
+            },
+            {
+                "id": "2",
+                "text": "13.5"
+            },
+            {
+                "id": "3",
+                "text": "14.5"
+            },
+            {
+                "id": "4",
+                "text": "15"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "6",
+        "text": "Question Number: 42 Question Id : 49690144 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation: Vertical Correct Marks : 1 Wrong Marks : 0 Note: The following questions follow a definite pattern. Observe the same and fill in the blanks with suitable answers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/31"
+            },
+            {
+                "id": "2",
+                "text": "4/29"
+            },
+            {
+                "id": "3",
+                "text": "4/31"
+            },
+            {
+                "id": "4",
+                "text": "1/29"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "7",
+        "text": "Question Number: 43 Question Id : 49690145 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Note: The following questions follow a definite pattern. Observe the same and fill in the blanks with suitable answers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "108"
+            },
+            {
+                "id": "2",
+                "text": "96"
+            },
+            {
+                "id": "3",
+                "text": "84"
+            },
+            {
+                "id": "4",
+                "text": "72"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "8",
+        "text": "Question Number: 44 Question Id : 49690146 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Note: The following questions follow a definite pattern. Observe the same and fill in the blanks with suitable answers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "LM"
+            },
+            {
+                "id": "2",
+                "text": "ML"
+            },
+            {
+                "id": "3",
+                "text": "NM"
+            },
+            {
+                "id": "4",
+                "text": "MN"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "9",
+        "text": "Question Number: 45 Question Id: 49690147 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Note: The following questions follow a definite pattern. Observe the same and fill in the blanks with suitable answers.",
+        "options": [
+            {
+                "id": "1",
+                "text": "12"
+            },
+            {
+                "id": "2",
+                "text": "13"
+            },
+            {
+                "id": "3",
+                "text": "23/2"
+            },
+            {
+                "id": "4",
+                "text": "25/2"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "10",
+        "text": "Question Number: 46 Question Id: 49690149 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 The percentage of arts candidates selected in the year 2011 is (approximately)",
+        "options": [
+            {
+                "id": "1",
+                "text": "21%"
+            },
+            {
+                "id": "2",
+                "text": "20%"
+            },
+            {
+                "id": "3",
+                "text": "19%"
+            },
+            {
+                "id": "4",
+                "text": "18%"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Analysis",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "11",
+        "text": "Question Number: 47 Question Id : 49690150 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks : 1 Wrong Marks: 0 The ratio of science candidates to commerce candidates selected in the year 2014 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "14:17"
+            },
+            {
+                "id": "2",
+                "text": "13:15"
+            },
+            {
+                "id": "3",
+                "text": "14:15"
+            },
+            {
+                "id": "4",
+                "text": "12:13"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Analysis",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "12",
+        "text": "Question Number : 48 Question Id : 49690151 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 The percentage of science candidates selected during the years 2014 and 2015 is (approximately)",
+        "options": [
+            {
+                "id": "1",
+                "text": "34"
+            },
+            {
+                "id": "2",
+                "text": "35"
+            },
+            {
+                "id": "3",
+                "text": "33"
+            },
+            {
+                "id": "4",
+                "text": "36"
+            }
+        ],
+        "correct": 1,
+        "section": "Data Analysis",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "13",
+        "text": "Question Number : 49 Question Id : 49690153 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 What is the difference between the average of the export of the wheat to Mauritius and Singapore together and the average of the export of wheat to Qatar, Dubai and Malaysia together (in tonnes)?",
+        "options": [
+            {
+                "id": "1",
+                "text": "34.760"
+            },
+            {
+                "id": "2",
+                "text": "33.000"
+            },
+            {
+                "id": "3",
+                "text": "32.500"
+            },
+            {
+                "id": "4",
+                "text": "32.000"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Analysis",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "14",
+        "text": "Question Number: 50 Question Id : 49690154 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 What is the ratio of the value of exported wheat to Dubai to the value of the exported wheat to Malaysia?",
+        "options": [
+            {
+                "id": "1",
+                "text": "2:13"
+            },
+            {
+                "id": "2",
+                "text": "5:12"
+            },
+            {
+                "id": "3",
+                "text": "3:13"
+            },
+            {
+                "id": "4",
+                "text": "4:9"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Analysis",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "15",
+        "text": "Question Number: 51 Question Id : 49690155 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If 30% of the export of wheat to Malaysia goes to its capital Kuala Lumpur and the export Price for Kuala Lumpur is $900 per tonne then what is the value of wheat exported to Kuala Lumpur (in thousand dollars)?",
+        "options": [
+            {
+                "id": "1",
+                "text": "25,600"
+            },
+            {
+                "id": "2",
+                "text": "24375"
+            },
+            {
+                "id": "3",
+                "text": "24300"
+            },
+            {
+                "id": "4",
+                "text": "23400"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Analysis",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "16",
+        "text": "Question Number: 52 Question Id : 49690156 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 What is the difference between the total exported value of wheat to Mauritius and the total exported value of wheat to Australia and Dubai together in (thousand dollars)?",
+        "options": [
+            {
+                "id": "1",
+                "text": "12825"
+            },
+            {
+                "id": "2",
+                "text": "12576"
+            },
+            {
+                "id": "3",
+                "text": "12600"
+            },
+            {
+                "id": "4",
+                "text": "12500"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Analysis",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "17",
+        "text": "Question Number: 53 Question Id : 49690157 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If the export to Qatar is 15% less in July compared to that in August and the price of export of wheat to Qatar is 5% more in July compared to that in August, what is the value of wheat (in thousand dollars) exported to Qatar in July?",
+        "options": [
+            {
+                "id": "1",
+                "text": "10040.625"
+            },
+            {
+                "id": "2",
+                "text": "10020.625"
+            },
+            {
+                "id": "3",
+                "text": "10015.425"
+            },
+            {
+                "id": "4",
+                "text": "10025.325"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Analysis",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "18",
+        "text": "Question Number: 54 Question Id : 49690159 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 How many speak only Hindi?",
+        "options": [
+            {
+                "id": "1",
+                "text": "5"
+            },
+            {
+                "id": "2",
+                "text": "6"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 3,
+        "section": "Communication Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "19",
+        "text": "Question Number: 55 Question Id : 49690160 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 How may speak exactly two languages?",
+        "options": [
+            {
+                "id": "1",
+                "text": "24"
+            },
+            {
+                "id": "2",
+                "text": "32"
+            },
+            {
+                "id": "3",
+                "text": "34"
+            },
+            {
+                "id": "4",
+                "text": "28"
+            }
+        ],
+        "correct": 2,
+        "section": "Communication Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "20",
+        "text": "Question Number: 56 Question Id : 49690162 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks : 1 Wrong Marks : 0 'PISTOL' is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "BUEFAY"
+            },
+            {
+                "id": "2",
+                "text": "BUEFAX"
+            },
+            {
+                "id": "3",
+                "text": "BUFEAX"
+            },
+            {
+                "id": "4",
+                "text": "BUFZAX"
+            }
+        ],
+        "correct": 2,
+        "section": "Coding and Decoding Problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "21",
+        "text": "Question Number: 57 Question Id : 49690163 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 'KNOW is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "WZAJ"
+            },
+            {
+                "id": "2",
+                "text": "WZBI"
+            },
+            {
+                "id": "3",
+                "text": "WZAI"
+            },
+            {
+                "id": "4",
+                "text": "VZAI"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding and Decoding Problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "22",
+        "text": "Question Number : 58 Question Id : 49690164 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 The number of letters which are coded as them selves",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "0"
+            }
+        ],
+        "correct": 3,
+        "section": "Coding and Decoding Problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "23",
+        "text": "Question Number: 59 Question Id : 49690165 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 'QUSTF' is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "EIGHT"
+            },
+            {
+                "id": "2",
+                "text": "NIGHT"
+            },
+            {
+                "id": "3",
+                "text": "FIGHT"
+            },
+            {
+                "id": "4",
+                "text": "TIGHT"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and Decoding Problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "24",
+        "text": "Question Number: 60 Question Id : 49690166 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Which is coded as 'MZPTDM'?",
+        "options": [
+            {
+                "id": "1",
+                "text": "ANDHEA"
+            },
+            {
+                "id": "2",
+                "text": "ANDHRA"
+            },
+            {
+                "id": "3",
+                "text": "BANDHB"
+            },
+            {
+                "id": "4",
+                "text": "CODING"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding and Decoding Problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "25",
+        "text": "Question Number: 61 Question Id : 49690167 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If 'TEMPLE' is coded as 'ETPMEL', then in the same code 'PRISON' is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "RPSINO"
+            },
+            {
+                "id": "2",
+                "text": "IRPNOS"
+            },
+            {
+                "id": "3",
+                "text": "ORSIPN"
+            },
+            {
+                "id": "4",
+                "text": "NOSIRP"
+            }
+        ],
+        "correct": 1,
+        "section": "Coding and Decoding Problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "26",
+        "text": "Question Number: 62 Question Id : 49690168 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 In a certain code language 'ENVOY' is written as 'ANEMG'. Then the code for 'FEWER' in the given code language is",
+        "options": [
+            {
+                "id": "1",
+                "text": "TDDCH"
+            },
+            {
+                "id": "2",
+                "text": "TBDDH"
+            },
+            {
+                "id": "3",
+                "text": "TDDDH"
+            },
+            {
+                "id": "4",
+                "text": "TDVDH"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and Decoding Problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "27",
+        "text": "Question Number: 64 Question Id : 49690170 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If 'DANGER' is coded as 'DAGNER' then 'SLIGHT' is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "SLGIHT"
+            },
+            {
+                "id": "2",
+                "text": "SLGJHT"
+            },
+            {
+                "id": "3",
+                "text": "SLHIGT"
+            },
+            {
+                "id": "4",
+                "text": "SLGIHS"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and Decoding Problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "28",
+        "text": "Question Number: 65 Question Id : 49690171 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If 'COMPUTER' is coded 'DNNOVSFQ', then 'CALCULATOR' is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "DZMBVKBRPQ"
+            },
+            {
+                "id": "2",
+                "text": "DZLBVLBSPQ"
+            },
+            {
+                "id": "3",
+                "text": "DZMBVLBSPQ"
+            },
+            {
+                "id": "4",
+                "text": "DZMBVKBSPQ"
+            }
+        ],
+        "correct": 3,
+        "section": "Coding and Decoding Problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "29",
+        "text": "Question Number: 66 Question Id : 49690172 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Date, Time & Arrangement Problems On 12th January 1979. the day of the week was",
+        "options": [
+            {
+                "id": "1",
+                "text": "Thursday"
+            },
+            {
+                "id": "2",
+                "text": "Friday"
+            },
+            {
+                "id": "3",
+                "text": "Saturday"
+            },
+            {
+                "id": "4",
+                "text": "Sunday"
+            }
+        ],
+        "correct": 1,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "30",
+        "text": "Question Number : 67 Question Id : 49690173 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Date, Time & Arrangement Problems If a clock's hand coincide every 64 minutes, the time (in hrs) it loses in a week is",
+        "options": [
+            {
+                "id": "1",
+                "text": "3 9/11 hours"
+            },
+            {
+                "id": "2",
+                "text": "2 9/11 hours"
+            },
+            {
+                "id": "3",
+                "text": "2 9/11 hours"
+            },
+            {
+                "id": "4",
+                "text": "2 10/11 hours"
+            }
+        ],
+        "correct": 0,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "31",
+        "text": "Question Number : 68 Question Id : 49690174 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Date, Time & Arrangement Problems",
+        "options": [
+            {
+                "id": "1",
+                "text": "7:23 PM"
+            },
+            {
+                "id": "2",
+                "text": "7:34 PM"
+            },
+            {
+                "id": "3",
+                "text": "7:38 PM"
+            },
+            {
+                "id": "4",
+                "text": "7:56 PM"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "32",
+        "text": "Question Number : 69 Question Id : 49690175 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Date, Time & Arrangement Problems A is the husband of daughter of B who is the wife is C. If D is the son of A, then C is related to D as",
+        "options": [
+            {
+                "id": "1",
+                "text": "Great grand father"
+            },
+            {
+                "id": "2",
+                "text": "Grand father"
+            },
+            {
+                "id": "3",
+                "text": "Grand son"
+            },
+            {
+                "id": "4",
+                "text": "Great grand son"
+            }
+        ],
+        "correct": 0,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "33",
+        "text": "Question Number : 71 Question Id : 49690177 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Date, Time & Arrangement Problems A person A has come to a meeting 45 minutes late but 33 minutes before the arrival of B who has arrived 56 minutes later than C. If C came to the meeting at 11:07 AM. the meeting is scheduled at",
+        "options": [
+            {
+                "id": "1",
+                "text": "11:25 AM"
+            },
+            {
+                "id": "2",
+                "text": "11:00 AM"
+            },
+            {
+                "id": "3",
+                "text": "10:30 AM"
+            },
+            {
+                "id": "4",
+                "text": "10:45 AM"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "34",
+        "text": "Question Number: 73 Question Id : 49690179 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Date, Time & Arrangement Problems If '+' means '-', '-' means 'X'. '' means '+' and 'X' means '', then what is the value of 15-3+10x5+5",
+        "options": [
+            {
+                "id": "1",
+                "text": "22"
+            },
+            {
+                "id": "2",
+                "text": "52"
+            },
+            {
+                "id": "3",
+                "text": "48"
+            },
+            {
+                "id": "4",
+                "text": "47"
+            }
+        ],
+        "correct": 2,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "35",
+        "text": "Question Number: 74 Question Id : 49690180 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Date, Time & Arrangement Problems f(x) = (x + 1)\u00b2, g(x) = (x-1)\u00b2, h(x) = X then, f(g(h(-1))) =?",
+        "options": [
+            {
+                "id": "1",
+                "text": "13/4"
+            },
+            {
+                "id": "2",
+                "text": "169/16"
+            },
+            {
+                "id": "3",
+                "text": "169/4"
+            },
+            {
+                "id": "4",
+                "text": "13/16"
+            }
+        ],
+        "correct": 1,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "36",
+        "text": "Question Number: 75 Question Id : 49690181 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Date, Time & Arrangement Problems For any integers m and n. define m * n = 2n\u00b2 + 3m, man = 4n/(3m+3) and m\u1e9en = 5n(2m - 1). then 8 * (9\u03b1(7\u03b26)) =?",
+        "options": [
+            {
+                "id": "1",
+                "text": "515"
+            },
+            {
+                "id": "2",
+                "text": "283"
+            },
+            {
+                "id": "3",
+                "text": "8136"
+            },
+            {
+                "id": "4",
+                "text": "5432"
+            }
+        ],
+        "correct": 3,
+        "section": "Date, Time & Arrangement Problems",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "37",
+        "text": "Question Number : 76 Question Id : 49690182 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "53/12"
+            },
+            {
+                "id": "3",
+                "text": "8"
+            },
+            {
+                "id": "4",
+                "text": "23/12"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "38",
+        "text": "Question Number: 77 Question Id : 49690183 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If 2\u00aa x 36 x 5\u00b0 = 40500, then a\u00ba x b x c =",
+        "options": [
+            {
+                "id": "1",
+                "text": "27648"
+            },
+            {
+                "id": "2",
+                "text": "20250"
+            },
+            {
+                "id": "3",
+                "text": "27864"
+            },
+            {
+                "id": "4",
+                "text": "20125"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "39",
+        "text": "Question Number: 78 Question Id : 49690184 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If 4A = 7B and 5B = 9C. then A:C=",
+        "options": [
+            {
+                "id": "1",
+                "text": "36:35"
+            },
+            {
+                "id": "2",
+                "text": "20:63"
+            },
+            {
+                "id": "3",
+                "text": "35:36"
+            },
+            {
+                "id": "4",
+                "text": "63:20"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "40",
+        "text": "Question Number : 79 Question Id : 49690185 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 35 litres of mixture contains milk and water in the ratio 4:1. How much water (in ltrs) is to be added to this mixture so as to have milk and water in the ratio 2:1?",
+        "options": [
+            {
+                "id": "1",
+                "text": "7"
+            },
+            {
+                "id": "2",
+                "text": "6"
+            },
+            {
+                "id": "3",
+                "text": "5"
+            },
+            {
+                "id": "4",
+                "text": "4"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "41",
+        "text": "Question Number: 80 Question Id : 49690186 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "\u221a7"
+            },
+            {
+                "id": "2",
+                "text": "\u221a5"
+            },
+            {
+                "id": "3",
+                "text": "\u221a3"
+            },
+            {
+                "id": "4",
+                "text": "0"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "42",
+        "text": "Question Number : 81 Question Id : 49690187 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "13/4"
+            },
+            {
+                "id": "2",
+                "text": "169/16"
+            },
+            {
+                "id": "3",
+                "text": "169/4"
+            },
+            {
+                "id": "4",
+                "text": "13/16"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "43",
+        "text": "Question Number: 82 Question Id : 49690188 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 The number of odd divisors of 16200 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "45"
+            },
+            {
+                "id": "2",
+                "text": "30"
+            },
+            {
+                "id": "3",
+                "text": "15"
+            },
+            {
+                "id": "4",
+                "text": "5"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "44",
+        "text": "Question Number: 83 Question Id : 49690189 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 In a division if the divisor, remainder and quotient are respectively 18. 13 and 17, then the dividend is",
+        "options": [
+            {
+                "id": "1",
+                "text": "257"
+            },
+            {
+                "id": "2",
+                "text": "239"
+            },
+            {
+                "id": "3",
+                "text": "293"
+            },
+            {
+                "id": "4",
+                "text": "319"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "45",
+        "text": "Question Number: 84 Question Id : 49690190 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If the GCD and LCM of two positive integers x, y are respectively 18 and 1080. then the remainder when their product xy is divided by 49 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "18"
+            },
+            {
+                "id": "2",
+                "text": "36"
+            },
+            {
+                "id": "3",
+                "text": "54"
+            },
+            {
+                "id": "4",
+                "text": "108"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "46",
+        "text": "Question Number: 85 Question Id : 49690191 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 What is the smallest number when increased by 11. is divisible by 15. 8. 25. 24?",
+        "options": [
+            {
+                "id": "1",
+                "text": "589"
+            },
+            {
+                "id": "2",
+                "text": "611"
+            },
+            {
+                "id": "3",
+                "text": "289"
+            },
+            {
+                "id": "4",
+                "text": "311"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "47",
+        "text": "Question Number: 86 Question Id : 49690192 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "9/10"
+            },
+            {
+                "id": "2",
+                "text": "9/100"
+            },
+            {
+                "id": "3",
+                "text": "99/100"
+            },
+            {
+                "id": "4",
+                "text": ""
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "48",
+        "text": "Question Number: 87 Question Id : 49690193 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "41"
+            },
+            {
+                "id": "2",
+                "text": "1/21"
+            },
+            {
+                "id": "3",
+                "text": "1/41"
+            },
+            {
+                "id": "4",
+                "text": "21"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "49",
+        "text": "Question Number: 88 Question Id : 49690194 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "17/36"
+            },
+            {
+                "id": "2",
+                "text": "13/36"
+            },
+            {
+                "id": "3",
+                "text": "11/36"
+            },
+            {
+                "id": "4",
+                "text": "7/36"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "50",
+        "text": "Question Number: 89 Question Id : 49690195 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If x is a positive real number, then which one of the following is false?",
+        "options": [
+            {
+                "id": "1",
+                "text": "x + 2 < x + 3"
+            },
+            {
+                "id": "2",
+                "text": "x - 3 < x - 2"
+            },
+            {
+                "id": "3",
+                "text": "2x < 3x"
+            },
+            {
+                "id": "4",
+                "text": "x/2 < x/3"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "51",
+        "text": "Question Number: 90 Question Id : 49690196 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If x % of 3/8 is 7/5, then x =",
+        "options": [
+            {
+                "id": "1",
+                "text": "62 4/7"
+            },
+            {
+                "id": "2",
+                "text": "64 4/5"
+            },
+            {
+                "id": "3",
+                "text": "66 4/7"
+            },
+            {
+                "id": "4",
+                "text": "68 4/7"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "52",
+        "text": "Question Number: 91 Question Id : 49690197 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 In an election contested by 2 candidates 15% of the voters did not vote. The winning candidate won by 1530 votes by securing 60% of the votes. Then what is the number of voters in the electorate?",
+        "options": [
+            {
+                "id": "1",
+                "text": "11000"
+            },
+            {
+                "id": "2",
+                "text": "10000"
+            },
+            {
+                "id": "3",
+                "text": "9000"
+            },
+            {
+                "id": "4",
+                "text": "8000"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "53",
+        "text": "Question Number : 92 Question Id : 49690198 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 A dealer purchases an article and marks it at 20% higher price. If he sells it with a discount of 15%. then his profit percent is",
+        "options": [
+            {
+                "id": "1",
+                "text": "10"
+            },
+            {
+                "id": "2",
+                "text": "2"
+            },
+            {
+                "id": "3",
+                "text": "20"
+            },
+            {
+                "id": "4",
+                "text": "5"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "54",
+        "text": "Question Number: 93 Question Id : 49690199 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 By selling an article for Rs. 6900. a dealer gets a loss of 8%. In order to get a profit of 5% on that article. its selling price (in rupees) should be",
+        "options": [
+            {
+                "id": "1",
+                "text": "7875"
+            },
+            {
+                "id": "2",
+                "text": "7750"
+            },
+            {
+                "id": "3",
+                "text": "7625"
+            },
+            {
+                "id": "4",
+                "text": "7550"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "55",
+        "text": "Question Number: 94 Question Id : 496901100 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If three partners A. B. C invest Rs. 36,000, Rs. 54,000 and Rs. 72.000 respectively in a business for a period of 12 months. 8 months and 6 months respectively, then the share of C (in rupees) in a profit of Rs. 10,980 at the end of the year is",
+        "options": [
+            {
+                "id": "1",
+                "text": "3660"
+            },
+            {
+                "id": "2",
+                "text": "3820"
+            },
+            {
+                "id": "3",
+                "text": "4180"
+            },
+            {
+                "id": "4",
+                "text": "4230"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "56",
+        "text": "Question Number : 95 Question Id : 496901101 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "10:11"
+            },
+            {
+                "id": "2",
+                "text": "11:12"
+            },
+            {
+                "id": "3",
+                "text": "12:13"
+            },
+            {
+                "id": "4",
+                "text": "13:14"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "57",
+        "text": "Question Number : 96 Question Id : 496901102 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Two pipes A and B can fill an empty tank in 6 hours and 8 hours respectively. After opening both of them for x hours, pipe B is closed and pipe A filled the rest of the tank in 4 hours, then x =",
+        "options": [
+            {
+                "id": "1",
+                "text": "2/3"
+            },
+            {
+                "id": "2",
+                "text": "7/8"
+            },
+            {
+                "id": "3",
+                "text": "8/7"
+            },
+            {
+                "id": "4",
+                "text": "9/7"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "58",
+        "text": "Question Number: 97 Question Id : 496901103 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "8:30 AM"
+            },
+            {
+                "id": "2",
+                "text": "8:42 AM"
+            },
+            {
+                "id": "3",
+                "text": "8:38 AM"
+            },
+            {
+                "id": "4",
+                "text": "8:28 AM"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "59",
+        "text": "Question Number : 98 Question Id : 496901104 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "8:7:6"
+            },
+            {
+                "id": "2",
+                "text": "85:75:64"
+            },
+            {
+                "id": "3",
+                "text": "80:72:64"
+            },
+            {
+                "id": "4",
+                "text": "80:75:72"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "60",
+        "text": "Question Number: 99 Question Id : 496901105 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "240"
+            },
+            {
+                "id": "2",
+                "text": "280"
+            },
+            {
+                "id": "3",
+                "text": "320"
+            },
+            {
+                "id": "4",
+                "text": "360"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "61",
+        "text": "Question Number: 100 Question Id : 496901106 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Mr. A travels from P to Q at 60 kmph and returns from Q to P at 40 kmph. If the total time taken for the whole trip is 10 hrs then the distance between P and Q (in kms) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "8"
+            },
+            {
+                "id": "2",
+                "text": "10"
+            },
+            {
+                "id": "3",
+                "text": "12"
+            },
+            {
+                "id": "4",
+                "text": "14"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "62",
+        "text": "Question Number: 101 Question Id : 496901107 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 A, B, C can finish a piece of work alone in 16, 24, 32 days respectively. All the three together started the work. But after 2 days A left due to illness and B, C continued it. Then the total number of days in which the work finished is",
+        "options": [
+            {
+                "id": "1",
+                "text": "10"
+            },
+            {
+                "id": "2",
+                "text": "16"
+            },
+            {
+                "id": "3",
+                "text": "20"
+            },
+            {
+                "id": "4",
+                "text": "30"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "63",
+        "text": "Question Number: 102 Question Id : 496901108 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 The area (in cm\u00b2) of a right angled isosceles triangle whose diagonal length is 40 cm, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "100"
+            },
+            {
+                "id": "2",
+                "text": "200/\u221a2"
+            },
+            {
+                "id": "3",
+                "text": "400"
+            },
+            {
+                "id": "4",
+                "text": "800\u221a2"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "64",
+        "text": "Question Number: 103 Question Id : 496901109 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If the area and perimeter of a rectangle are respectively 2016 cm\u00b2 and 260 cm. then the difference between the length of its sides is",
+        "options": [
+            {
+                "id": "1",
+                "text": "92"
+            },
+            {
+                "id": "2",
+                "text": "94"
+            },
+            {
+                "id": "3",
+                "text": "96"
+            },
+            {
+                "id": "4",
+                "text": "98"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "65",
+        "text": "Question Number: 104 Question Id : 496901110 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 A tent is in the form of a cylinder surmounted by a cone. The radius of the base of the cylinder is 30 feet and its height is 10 feet. If the total height of the tent is 20 feet, then the volume enclosed by the tent (in cubic feet) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "120\u03c0"
+            },
+            {
+                "id": "2",
+                "text": "1200\u03c0"
+            },
+            {
+                "id": "3",
+                "text": "12000\u03c0"
+            },
+            {
+                "id": "4",
+                "text": "140\u03c0"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "66",
+        "text": "Question Number: 105 Question Id : 496901111 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 The volume of a cube (in cubic feet) whose total surface area is 384 square feet is",
+        "options": [
+            {
+                "id": "1",
+                "text": "468"
+            },
+            {
+                "id": "2",
+                "text": "512"
+            },
+            {
+                "id": "3",
+                "text": "525"
+            },
+            {
+                "id": "4",
+                "text": "1000"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "67",
+        "text": "Question Number: 106 Question Id : 496901112 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 A trapezium has height 18 cm. If the difference between the lengths of the parallel sides is 24 cm and its area is 504 sq.cm, then the length of its longer side (in cms) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "40"
+            },
+            {
+                "id": "2",
+                "text": "36"
+            },
+            {
+                "id": "3",
+                "text": "30"
+            },
+            {
+                "id": "4",
+                "text": "24"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "68",
+        "text": "Question Number: 107 Question Id : 496901113 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Let S be the surface area of a cube of edge 9 cm. This cube is cut into smaller cubes of edge 3 cm each. If S\u2081 is the sum of the surface areas of all the smaller cubes then S:S\u2081=",
+        "options": [
+            {
+                "id": "1",
+                "text": "3:1"
+            },
+            {
+                "id": "2",
+                "text": "1:3"
+            },
+            {
+                "id": "3",
+                "text": "3:2"
+            },
+            {
+                "id": "4",
+                "text": "2:3"
+            }
+        ],
+        "correct": 1,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "69",
+        "text": "Question Number: 108 Question Id : 496901114 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "1040\u03c0"
+            },
+            {
+                "id": "2",
+                "text": "1552\u03c0"
+            },
+            {
+                "id": "3",
+                "text": "1864\u03c0"
+            },
+            {
+                "id": "4",
+                "text": "2128\u03c0"
+            }
+        ],
+        "correct": 3,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "70",
+        "text": "Question Number: 109 Question Id : 496901115 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If a number in binary code is 110110011 then its value in decimal code is",
+        "options": [
+            {
+                "id": "1",
+                "text": "435"
+            },
+            {
+                "id": "2",
+                "text": "419"
+            },
+            {
+                "id": "3",
+                "text": "371"
+            },
+            {
+                "id": "4",
+                "text": "307"
+            }
+        ],
+        "correct": 2,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "71",
+        "text": "Question Number: 110 Question Id : 496901116 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 The last digit in 7151 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "9"
+            },
+            {
+                "id": "2",
+                "text": "7"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "1"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "72",
+        "text": "Question Number : 111 Question Id : 496901117 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If p.q.r are three statements. then (p\u2192 (q\u2192r)) is equivalent to",
+        "options": [
+            {
+                "id": "1",
+                "text": "(p+q)\u2192r"
+            },
+            {
+                "id": "2",
+                "text": "(p^q) \u2192r"
+            },
+            {
+                "id": "3",
+                "text": "(pvq)\u2192r"
+            },
+            {
+                "id": "4",
+                "text": "P\u2192(qvr)"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "73",
+        "text": "Question Number: 112 Question Id : 496901118 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 The contrapositive of the statement p \u2192 q is",
+        "options": [
+            {
+                "id": "1",
+                "text": "(~p)\u2192q"
+            },
+            {
+                "id": "2",
+                "text": "(~p)\u2192(~q)"
+            },
+            {
+                "id": "3",
+                "text": "(~q)\u2192(~p)"
+            },
+            {
+                "id": "4",
+                "text": "q\u2192p"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "74",
+        "text": "Question Number: 113 Question Id : 496901119 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 Let A = {x \u2208 R|x\u00b2 < 9} and B = {x \u2208 R| 4 < x\u00b2 < 16} then A \u2229 B =",
+        "options": [
+            {
+                "id": "1",
+                "text": "(-3,-2) U (2,3)"
+            },
+            {
+                "id": "2",
+                "text": "\u03a6"
+            },
+            {
+                "id": "3",
+                "text": "(2,3)"
+            },
+            {
+                "id": "4",
+                "text": "(-3,-2)"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "75",
+        "text": "Question Number: 114 Question Id : 496901120 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If a set A has 3 elements, then the number of reflexive relations that can be defined on A is",
+        "options": [
+            {
+                "id": "1",
+                "text": "8"
+            },
+            {
+                "id": "2",
+                "text": "16"
+            },
+            {
+                "id": "3",
+                "text": "32"
+            },
+            {
+                "id": "4",
+                "text": "64"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "76",
+        "text": "Question Number : 115 Question Id : 496901121 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 For x \u2260 0 define f: R \u2192 R by 2f(x)-3f(1/x) = x\u00b2. Then f (3) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "-11/3"
+            },
+            {
+                "id": "2",
+                "text": "-5"
+            },
+            {
+                "id": "3",
+                "text": "11/3"
+            },
+            {
+                "id": "4",
+                "text": "5"
+            }
+        ],
+        "correct": 2,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "77",
+        "text": "Question Number: 116 Question Id : 496901122 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 The y-intercept of the line 3y-7/4 = 4x+1/5 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "-7/3"
+            },
+            {
+                "id": "2",
+                "text": "7/3"
+            },
+            {
+                "id": "3",
+                "text": "-39/15"
+            },
+            {
+                "id": "4",
+                "text": "39/15"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "78",
+        "text": "Question Number: 117 Question Id : 496901123 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If a line passes through the points (-7, 18) and (32, 5), then the sum of the intercepts made by the line on the coordinate axes is",
+        "options": [
+            {
+                "id": "1",
+                "text": "63"
+            },
+            {
+                "id": "2",
+                "text": "47"
+            },
+            {
+                "id": "3",
+                "text": "188/3"
+            },
+            {
+                "id": "4",
+                "text": "145/3"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "79",
+        "text": "Question Number: 118 Question Id : 496901124 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "(\u221a3+1)/(\u221a3-1)"
+            },
+            {
+                "id": "2",
+                "text": "(\u221a3-1)/(\u221a3+1)"
+            },
+            {
+                "id": "3",
+                "text": "(\u221a3-1)/(2\u221a2)"
+            },
+            {
+                "id": "4",
+                "text": "(\u221a3+1)/(2\u221a2)"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "80",
+        "text": "Question Number: 119 Question Id : 496901125 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 tan 85\u00b0 tan 50\u00b0 tan 85\u00b0-tan 50\u00b0 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1"
+            },
+            {
+                "id": "2",
+                "text": "-1"
+            },
+            {
+                "id": "3",
+                "text": "1/\u221a2"
+            },
+            {
+                "id": "4",
+                "text": "\u221a2"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "81",
+        "text": "Question Number : 120 Question Id : 496901126 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If sec A+ tan A = 1/5, then the quadrant in which \u2220A lies is",
+        "options": [
+            {
+                "id": "1",
+                "text": "I"
+            },
+            {
+                "id": "2",
+                "text": "II"
+            },
+            {
+                "id": "3",
+                "text": "III"
+            },
+            {
+                "id": "4",
+                "text": "IV"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "82",
+        "text": "Question Number: 121 Question Id: 496901127 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 The top of a tower makes angles of elevation 30\u00b0 and 45\u00b0 at the two points A. B which are collinear with the foot of the tower on the level ground. If AB=100m. then the height of the tower. (in meters) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "50\u221a2"
+            },
+            {
+                "id": "2",
+                "text": "50(\u221a3+1)"
+            },
+            {
+                "id": "3",
+                "text": "100(\u221a3+1)"
+            },
+            {
+                "id": "4",
+                "text": "100\u221a3"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "83",
+        "text": "Question Number : 122 Question Id : 496901128 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If x + y + z = 8. x\u00b3 + y\u00b3 + z\u00b3-3xyz = 128 then x\u00b2 + y\u00b2 + z\u00b2 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "8"
+            },
+            {
+                "id": "2",
+                "text": "16"
+            },
+            {
+                "id": "3",
+                "text": "24"
+            },
+            {
+                "id": "4",
+                "text": "32"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "84",
+        "text": "Question Number: 123 Question Id : 496901129 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "x\u2074 + 8x\u00b3 + 8x\u00b2 + 32x + 44"
+            },
+            {
+                "id": "2",
+                "text": "x\u2074 - 8x\u00b3 + 8x\u00b2 + 32x + 44"
+            },
+            {
+                "id": "3",
+                "text": "x\u2074 + 8x\u00b3 + 8x\u00b2 + 32x - 44"
+            },
+            {
+                "id": "4",
+                "text": "x\u2074 - 8x\u00b3 + 8x\u00b2 + 32x - 44"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "85",
+        "text": "Question Number: 124 Question Id : 496901130 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 If px + q is the remainder when x\u00b2 + 7x3 + 13x\u00b2 + 4x - 3 is divided by x\u00b2 + 2x + 5, then q- p =",
+        "options": [
+            {
+                "id": "1",
+                "text": "-10"
+            },
+            {
+                "id": "2",
+                "text": "24"
+            },
+            {
+                "id": "3",
+                "text": "-24"
+            },
+            {
+                "id": "4",
+                "text": "10"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "86",
+        "text": "Question Number: 125 Question Id : 496901131 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks : 1 Wrong Marks : 0 A polynomial in x leaves remainders -1 and 7 when it is divided by x + 1 and x-3 respectively. If the same polynomial is divided by x\u00b2-2x-3 then the remainder will be",
+        "options": [
+            {
+                "id": "1",
+                "text": "2x + 1"
+            },
+            {
+                "id": "2",
+                "text": "2x - 1"
+            },
+            {
+                "id": "3",
+                "text": "3x + 6"
+            },
+            {
+                "id": "4",
+                "text": "-7"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "87",
+        "text": "Question Number: 126 Question Id : 496901132 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 The present age of a father is 4 times that of his son. After 10 years father's age is twice that of his son. Then the difference of their present ages is",
+        "options": [
+            {
+                "id": "1",
+                "text": "15"
+            },
+            {
+                "id": "2",
+                "text": "20"
+            },
+            {
+                "id": "3",
+                "text": "25"
+            },
+            {
+                "id": "4",
+                "text": "5"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "88",
+        "text": "Question Number : 127 Question Id : 496901133 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option: No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0 IF 24/(x+y) + 30/(x-y) = 7 and 30/(x+y) - 9/(x-y) = 1, then 2x + 4y =",
+        "options": [
+            {
+                "id": "1",
+                "text": "12"
+            },
+            {
+                "id": "2",
+                "text": "18"
+            },
+            {
+                "id": "3",
+                "text": "24"
+            },
+            {
+                "id": "4",
+                "text": "30"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "89",
+        "text": "Question Number: 128 Question Id : 496901134 Question Type: MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory : No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "11"
+            },
+            {
+                "id": "2",
+                "text": "10"
+            },
+            {
+                "id": "3",
+                "text": "12"
+            },
+            {
+                "id": "4",
+                "text": "13"
+            }
+        ],
+        "correct": 3,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "90",
+        "text": "Question Number : 129 Question Id : 496901135 Question Type : MCQ Option Shuffling: Yes Display Question Number: Yes Is Question Mandatory: No Single Line Question Option : No Option Orientation : Vertical Correct Marks: 1 Wrong Marks : 0",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/\u221a3\u221a3"
+            },
+            {
+                "id": "2",
+                "text": "1/9"
+            },
+            {
+                "id": "3",
+                "text": "1/9\u221a3"
+            },
+            {
+                "id": "4",
+                "text": "1/27\u221a3"
+            }
+        ],
+        "correct": 1,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "2"
+    }
+]

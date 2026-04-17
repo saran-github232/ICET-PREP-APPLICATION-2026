@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "6, 10, 8, 12, 10, 14, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "16"
+            },
+            {
+                "id": "2",
+                "text": "12"
+            },
+            {
+                "id": "3",
+                "text": "14"
+            },
+            {
+                "id": "4",
+                "text": "10"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "2",
+        "text": "6/9, 11/14, 27/30, ____, 123/126, 171/174",
+        "options": [
+            {
+                "id": "1",
+                "text": "83/86"
+            },
+            {
+                "id": "2",
+                "text": "102/105"
+            },
+            {
+                "id": "3",
+                "text": "38/41"
+            },
+            {
+                "id": "4",
+                "text": "51/54"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "3",
+        "text": "2, 3, 5, 10, 18, 33, ____, 112, 206, 379",
+        "options": [
+            {
+                "id": "1",
+                "text": "60"
+            },
+            {
+                "id": "2",
+                "text": "61"
+            },
+            {
+                "id": "3",
+                "text": "62"
+            },
+            {
+                "id": "4",
+                "text": "63"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "4",
+        "text": "1, 5, 14, 30, 55, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "80"
+            },
+            {
+                "id": "2",
+                "text": "85"
+            },
+            {
+                "id": "3",
+                "text": "90"
+            },
+            {
+                "id": "4",
+                "text": "91"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "5",
+        "text": "105, 115, 130, 150, ____, 175",
+        "options": [
+            {
+                "id": "1",
+                "text": "190"
+            },
+            {
+                "id": "2",
+                "text": "195"
+            },
+            {
+                "id": "3",
+                "text": "200"
+            },
+            {
+                "id": "4",
+                "text": "205"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "6",
+        "text": "8, 24, 12, 36, 18, 54, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "108"
+            },
+            {
+                "id": "2",
+                "text": "162"
+            },
+            {
+                "id": "3",
+                "text": "27"
+            },
+            {
+                "id": "4",
+                "text": "81"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "7",
+        "text": "64, 512, 4096, ____, 262144",
+        "options": [
+            {
+                "id": "1",
+                "text": "32766"
+            },
+            {
+                "id": "2",
+                "text": "32864"
+            },
+            {
+                "id": "3",
+                "text": "32768"
+            },
+            {
+                "id": "4",
+                "text": "32782"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "8",
+        "text": "101, 103, 107, 109, ____, 127, 131, 137",
+        "options": [
+            {
+                "id": "1",
+                "text": "113"
+            },
+            {
+                "id": "2",
+                "text": "117"
+            },
+            {
+                "id": "3",
+                "text": "119"
+            },
+            {
+                "id": "4",
+                "text": "123"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "9",
+        "text": "1, 9, 36, 100, ____, 441, 784",
+        "options": [
+            {
+                "id": "1",
+                "text": "121"
+            },
+            {
+                "id": "2",
+                "text": "144"
+            },
+            {
+                "id": "3",
+                "text": "169"
+            },
+            {
+                "id": "4",
+                "text": "225"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "10",
+        "text": "(\u03c0 1 \u221a3 / 6 2 2) * (\u03c0 \u221a3 1 / 3 2 2) * (\u03c0 / 2, 1, 0) ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "(2\u03c0 - \u221a3 - 1 / 3, 2, 2)"
+            },
+            {
+                "id": "2",
+                "text": "(2\u03c0 - 1 - \u221a3 / 3, 2, 2)"
+            },
+            {
+                "id": "3",
+                "text": "(2\u03c0 \u221a3 1 / 3, 2, 2)"
+            },
+            {
+                "id": "4",
+                "text": "(2\u03c0 \u221a3 - 1 / 3, 2, 2)"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "11",
+        "text": "(4, 3), (7, 2), (10, 4), (13, 2), ____, (19, 2)",
+        "options": [
+            {
+                "id": "1",
+                "text": "(16, 3)"
+            },
+            {
+                "id": "2",
+                "text": "(16, 2)"
+            },
+            {
+                "id": "3",
+                "text": "(16, 4)"
+            },
+            {
+                "id": "4",
+                "text": "(16, 5)"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "12",
+        "text": "6, 10, 8, 12, 10, 14, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "16"
+            },
+            {
+                "id": "2",
+                "text": "12"
+            },
+            {
+                "id": "3",
+                "text": "14"
+            },
+            {
+                "id": "4",
+                "text": "10"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "13",
+        "text": "6/9, 11/14, 27/30, ____, 123/126, 171/174",
+        "options": [
+            {
+                "id": "1",
+                "text": "83/86"
+            },
+            {
+                "id": "2",
+                "text": "102/105"
+            },
+            {
+                "id": "3",
+                "text": "38/41"
+            },
+            {
+                "id": "4",
+                "text": "51/54"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "14",
+        "text": "2, 3, 5, 10, 18, 33, ____, 112, 206, 379",
+        "options": [
+            {
+                "id": "1",
+                "text": "60"
+            },
+            {
+                "id": "2",
+                "text": "61"
+            },
+            {
+                "id": "3",
+                "text": "62"
+            },
+            {
+                "id": "4",
+                "text": "63"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "15",
+        "text": "1, 5, 14, 30, 55, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "80"
+            },
+            {
+                "id": "2",
+                "text": "85"
+            },
+            {
+                "id": "3",
+                "text": "90"
+            },
+            {
+                "id": "4",
+                "text": "91"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "16",
+        "text": "105, 115, 130, 150, ____, 175",
+        "options": [
+            {
+                "id": "1",
+                "text": "190"
+            },
+            {
+                "id": "2",
+                "text": "195"
+            },
+            {
+                "id": "3",
+                "text": "200"
+            },
+            {
+                "id": "4",
+                "text": "205"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "17",
+        "text": "8, 24, 12, 36, 18, 54, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "108"
+            },
+            {
+                "id": "2",
+                "text": "162"
+            },
+            {
+                "id": "3",
+                "text": "27"
+            },
+            {
+                "id": "4",
+                "text": "81"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "18",
+        "text": "64, 512, 4096, ____, 262144",
+        "options": [
+            {
+                "id": "1",
+                "text": "32766"
+            },
+            {
+                "id": "2",
+                "text": "32864"
+            },
+            {
+                "id": "3",
+                "text": "32768"
+            },
+            {
+                "id": "4",
+                "text": "32782"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "19",
+        "text": "101, 103, 107, 109, ____, 127, 131, 137",
+        "options": [
+            {
+                "id": "1",
+                "text": "113"
+            },
+            {
+                "id": "2",
+                "text": "117"
+            },
+            {
+                "id": "3",
+                "text": "119"
+            },
+            {
+                "id": "4",
+                "text": "123"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "20",
+        "text": "1, 9, 36, 100, ____, 441, 784",
+        "options": [
+            {
+                "id": "1",
+                "text": "121"
+            },
+            {
+                "id": "2",
+                "text": "144"
+            },
+            {
+                "id": "3",
+                "text": "169"
+            },
+            {
+                "id": "4",
+                "text": "225"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "21",
+        "text": "(\u03c0 1 \u221a3 / 6 2 2) * (\u03c0 \u221a3 1 / 3 2 2) * (\u03c0 / 2, 1, 0) ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "(2\u03c0 - \u221a3 - 1 / 3, 2, 2)"
+            },
+            {
+                "id": "2",
+                "text": "(2\u03c0 - 1 - \u221a3 / 3, 2, 2)"
+            },
+            {
+                "id": "3",
+                "text": "(2\u03c0 \u221a3 1 / 3, 2, 2)"
+            },
+            {
+                "id": "4",
+                "text": "(2\u03c0 \u221a3 - 1 / 3, 2, 2)"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "22",
+        "text": "(4, 3), (7, 2), (10, 4), (13, 2), ____, (19, 2)",
+        "options": [
+            {
+                "id": "1",
+                "text": "(16, 3)"
+            },
+            {
+                "id": "2",
+                "text": "(16, 2)"
+            },
+            {
+                "id": "3",
+                "text": "(16, 4)"
+            },
+            {
+                "id": "4",
+                "text": "(16, 5)"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "23",
+        "text": "6, 10, 8, 12, 10, 14, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "16"
+            },
+            {
+                "id": "2",
+                "text": "12"
+            },
+            {
+                "id": "3",
+                "text": "14"
+            },
+            {
+                "id": "4",
+                "text": "10"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "24",
+        "text": "6/9, 11/14, 27/30, ____, 123/126, 171/174",
+        "options": [
+            {
+                "id": "1",
+                "text": "83/86"
+            },
+            {
+                "id": "2",
+                "text": "102/105"
+            },
+            {
+                "id": "3",
+                "text": "38/41"
+            },
+            {
+                "id": "4",
+                "text": "51/54"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "25",
+        "text": "2, 3, 5, 10, 18, 33, ____, 112, 206, 379",
+        "options": [
+            {
+                "id": "1",
+                "text": "60"
+            },
+            {
+                "id": "2",
+                "text": "61"
+            },
+            {
+                "id": "3",
+                "text": "62"
+            },
+            {
+                "id": "4",
+                "text": "63"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "26",
+        "text": "1, 5, 14, 30, 55, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "80"
+            },
+            {
+                "id": "2",
+                "text": "85"
+            },
+            {
+                "id": "3",
+                "text": "90"
+            },
+            {
+                "id": "4",
+                "text": "91"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "27",
+        "text": "105, 115, 130, 150, ____, 175",
+        "options": [
+            {
+                "id": "1",
+                "text": "190"
+            },
+            {
+                "id": "2",
+                "text": "195"
+            },
+            {
+                "id": "3",
+                "text": "200"
+            },
+            {
+                "id": "4",
+                "text": "205"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "28",
+        "text": "8, 24, 12, 36, 18, 54, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "108"
+            },
+            {
+                "id": "2",
+                "text": "162"
+            },
+            {
+                "id": "3",
+                "text": "27"
+            },
+            {
+                "id": "4",
+                "text": "81"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "29",
+        "text": "64, 512, 4096, ____, 262144",
+        "options": [
+            {
+                "id": "1",
+                "text": "32766"
+            },
+            {
+                "id": "2",
+                "text": "32864"
+            },
+            {
+                "id": "3",
+                "text": "32768"
+            },
+            {
+                "id": "4",
+                "text": "32782"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "30",
+        "text": "101, 103, 107, 109, ____, 127, 131, 137",
+        "options": [
+            {
+                "id": "1",
+                "text": "113"
+            },
+            {
+                "id": "2",
+                "text": "117"
+            },
+            {
+                "id": "3",
+                "text": "119"
+            },
+            {
+                "id": "4",
+                "text": "123"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "31",
+        "text": "1, 9, 36, 100, ____, 441, 784",
+        "options": [
+            {
+                "id": "1",
+                "text": "121"
+            },
+            {
+                "id": "2",
+                "text": "144"
+            },
+            {
+                "id": "3",
+                "text": "169"
+            },
+            {
+                "id": "4",
+                "text": "225"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "32",
+        "text": "(\u03c0 1 \u221a3 / 6 2 2) * (\u03c0 \u221a3 1 / 3 2 2) * (\u03c0 / 2, 1, 0) ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "(2\u03c0 - \u221a3 - 1 / 3, 2, 2)"
+            },
+            {
+                "id": "2",
+                "text": "(2\u03c0 - 1 - \u221a3 / 3, 2, 2)"
+            },
+            {
+                "id": "3",
+                "text": "(2\u03c0 \u221a3 1 / 3, 2, 2)"
+            },
+            {
+                "id": "4",
+                "text": "(2\u03c0 \u221a3 - 1 / 3, 2, 2)"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "33",
+        "text": "(4, 3), (7, 2), (10, 4), (13, 2), ____, (19, 2)",
+        "options": [
+            {
+                "id": "1",
+                "text": "(16, 3)"
+            },
+            {
+                "id": "2",
+                "text": "(16, 2)"
+            },
+            {
+                "id": "3",
+                "text": "(16, 4)"
+            },
+            {
+                "id": "4",
+                "text": "(16, 5)"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "34",
+        "text": "6, 10, 8, 12, 10, 14, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "16"
+            },
+            {
+                "id": "2",
+                "text": "12"
+            },
+            {
+                "id": "3",
+                "text": "14"
+            },
+            {
+                "id": "4",
+                "text": "10"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "35",
+        "text": "6/9, 11/14, 27/30, ____, 123/126, 171/174",
+        "options": [
+            {
+                "id": "1",
+                "text": "83/86"
+            },
+            {
+                "id": "2",
+                "text": "102/105"
+            },
+            {
+                "id": "3",
+                "text": "38/41"
+            },
+            {
+                "id": "4",
+                "text": "51/54"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "36",
+        "text": "2, 3, 5, 10, 18, 33, ____, 112, 206, 379",
+        "options": [
+            {
+                "id": "1",
+                "text": "60"
+            },
+            {
+                "id": "2",
+                "text": "61"
+            },
+            {
+                "id": "3",
+                "text": "62"
+            },
+            {
+                "id": "4",
+                "text": "63"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "37",
+        "text": "1, 5, 14, 30, 55, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "80"
+            },
+            {
+                "id": "2",
+                "text": "85"
+            },
+            {
+                "id": "3",
+                "text": "90"
+            },
+            {
+                "id": "4",
+                "text": "91"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "38",
+        "text": "105, 115, 130, 150, ____, 175",
+        "options": [
+            {
+                "id": "1",
+                "text": "190"
+            },
+            {
+                "id": "2",
+                "text": "195"
+            },
+            {
+                "id": "3",
+                "text": "200"
+            },
+            {
+                "id": "4",
+                "text": "205"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "39",
+        "text": "8, 24, 12, 36, 18, 54, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "108"
+            },
+            {
+                "id": "2",
+                "text": "162"
+            },
+            {
+                "id": "3",
+                "text": "27"
+            },
+            {
+                "id": "4",
+                "text": "81"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "40",
+        "text": "64, 512, 4096, ____, 262144",
+        "options": [
+            {
+                "id": "1",
+                "text": "32766"
+            },
+            {
+                "id": "2",
+                "text": "32864"
+            },
+            {
+                "id": "3",
+                "text": "32768"
+            },
+            {
+                "id": "4",
+                "text": "32782"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "41",
+        "text": "101, 103, 107, 109, ____, 127, 131, 137",
+        "options": [
+            {
+                "id": "1",
+                "text": "113"
+            },
+            {
+                "id": "2",
+                "text": "117"
+            },
+            {
+                "id": "3",
+                "text": "119"
+            },
+            {
+                "id": "4",
+                "text": "123"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "42",
+        "text": "1, 9, 36, 100, ____, 441, 784",
+        "options": [
+            {
+                "id": "1",
+                "text": "121"
+            },
+            {
+                "id": "2",
+                "text": "144"
+            },
+            {
+                "id": "3",
+                "text": "169"
+            },
+            {
+                "id": "4",
+                "text": "225"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "43",
+        "text": "(\u03c0 1 \u221a3 / 6 2 2) * (\u03c0 \u221a3 1 / 3 2 2) * (\u03c0 / 2, 1, 0) ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "(2\u03c0 - \u221a3 - 1 / 3, 2, 2)"
+            },
+            {
+                "id": "2",
+                "text": "(2\u03c0 - 1 - \u221a3 / 3, 2, 2)"
+            },
+            {
+                "id": "3",
+                "text": "(2\u03c0 \u221a3 1 / 3, 2, 2)"
+            },
+            {
+                "id": "4",
+                "text": "(2\u03c0 \u221a3 - 1 / 3, 2, 2)"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "44",
+        "text": "(4, 3), (7, 2), (10, 4), (13, 2), ____, (19, 2)",
+        "options": [
+            {
+                "id": "1",
+                "text": "(16, 3)"
+            },
+            {
+                "id": "2",
+                "text": "(16, 2)"
+            },
+            {
+                "id": "3",
+                "text": "(16, 4)"
+            },
+            {
+                "id": "4",
+                "text": "(16, 5)"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "45",
+        "text": "6, 10, 8, 12, 10, 14, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "16"
+            },
+            {
+                "id": "2",
+                "text": "12"
+            },
+            {
+                "id": "3",
+                "text": "14"
+            },
+            {
+                "id": "4",
+                "text": "10"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "46",
+        "text": "6/9, 11/14, 27/30, ____, 123/126, 171/174",
+        "options": [
+            {
+                "id": "1",
+                "text": "83/86"
+            },
+            {
+                "id": "2",
+                "text": "102/105"
+            },
+            {
+                "id": "3",
+                "text": "38/41"
+            },
+            {
+                "id": "4",
+                "text": "51/54"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "47",
+        "text": "2, 3, 5, 10, 18, 33, ____, 112, 206, 379",
+        "options": [
+            {
+                "id": "1",
+                "text": "60"
+            },
+            {
+                "id": "2",
+                "text": "61"
+            },
+            {
+                "id": "3",
+                "text": "62"
+            },
+            {
+                "id": "4",
+                "text": "63"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "48",
+        "text": "1, 5, 14, 30, 55, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "80"
+            },
+            {
+                "id": "2",
+                "text": "85"
+            },
+            {
+                "id": "3",
+                "text": "90"
+            },
+            {
+                "id": "4",
+                "text": "91"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "49",
+        "text": "105, 115, 130, 150, ____, 175",
+        "options": [
+            {
+                "id": "1",
+                "text": "190"
+            },
+            {
+                "id": "2",
+                "text": "195"
+            },
+            {
+                "id": "3",
+                "text": "200"
+            },
+            {
+                "id": "4",
+                "text": "205"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "50",
+        "text": "8, 24, 12, 36, 18, 54, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "108"
+            },
+            {
+                "id": "2",
+                "text": "162"
+            },
+            {
+                "id": "3",
+                "text": "27"
+            },
+            {
+                "id": "4",
+                "text": "81"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "51",
+        "text": "64, 512, 4096, ____, 262144",
+        "options": [
+            {
+                "id": "1",
+                "text": "32766"
+            },
+            {
+                "id": "2",
+                "text": "32864"
+            },
+            {
+                "id": "3",
+                "text": "32768"
+            },
+            {
+                "id": "4",
+                "text": "32782"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "52",
+        "text": "101, 103, 107, 109, ____, 127, 131, 137",
+        "options": [
+            {
+                "id": "1",
+                "text": "113"
+            },
+            {
+                "id": "2",
+                "text": "117"
+            },
+            {
+                "id": "3",
+                "text": "119"
+            },
+            {
+                "id": "4",
+                "text": "123"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "53",
+        "text": "1, 9, 36, 100, ____, 441, 784",
+        "options": [
+            {
+                "id": "1",
+                "text": "121"
+            },
+            {
+                "id": "2",
+                "text": "144"
+            },
+            {
+                "id": "3",
+                "text": "169"
+            },
+            {
+                "id": "4",
+                "text": "225"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "54",
+        "text": "(\u03c0 1 \u221a3 / 6 2 2) * (\u03c0 \u221a3 1 / 3 2 2) * (\u03c0 / 2, 1, 0) ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "(2\u03c0 - \u221a3 - 1 / 3, 2, 2)"
+            },
+            {
+                "id": "2",
+                "text": "(2\u03c0 - 1 - \u221a3 / 3, 2, 2)"
+            },
+            {
+                "id": "3",
+                "text": "(2\u03c0 \u221a3 1 / 3, 2, 2)"
+            },
+            {
+                "id": "4",
+                "text": "(2\u03c0 \u221a3 - 1 / 3, 2, 2)"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "55",
+        "text": "(4, 3), (7, 2), (10, 4), (13, 2), ____, (19, 2)",
+        "options": [
+            {
+                "id": "1",
+                "text": "(16, 3)"
+            },
+            {
+                "id": "2",
+                "text": "(16, 2)"
+            },
+            {
+                "id": "3",
+                "text": "(16, 4)"
+            },
+            {
+                "id": "4",
+                "text": "(16, 5)"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "56",
+        "text": "6, 10, 8, 12, 10, 14, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "16"
+            },
+            {
+                "id": "2",
+                "text": "12"
+            },
+            {
+                "id": "3",
+                "text": "14"
+            },
+            {
+                "id": "4",
+                "text": "10"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "57",
+        "text": "6/9, 11/14, 27/30, ____, 123/126, 171/174",
+        "options": [
+            {
+                "id": "1",
+                "text": "83/86"
+            },
+            {
+                "id": "2",
+                "text": "102/105"
+            },
+            {
+                "id": "3",
+                "text": "38/41"
+            },
+            {
+                "id": "4",
+                "text": "51/54"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "58",
+        "text": "2, 3, 5, 10, 18, 33, ____, 112, 206, 379",
+        "options": [
+            {
+                "id": "1",
+                "text": "60"
+            },
+            {
+                "id": "2",
+                "text": "61"
+            },
+            {
+                "id": "3",
+                "text": "62"
+            },
+            {
+                "id": "4",
+                "text": "63"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "59",
+        "text": "1, 5, 14, 30, 55, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "80"
+            },
+            {
+                "id": "2",
+                "text": "85"
+            },
+            {
+                "id": "3",
+                "text": "90"
+            },
+            {
+                "id": "4",
+                "text": "91"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "60",
+        "text": "105, 115, 130, 150, ____, 175",
+        "options": [
+            {
+                "id": "1",
+                "text": "190"
+            },
+            {
+                "id": "2",
+                "text": "195"
+            },
+            {
+                "id": "3",
+                "text": "200"
+            },
+            {
+                "id": "4",
+                "text": "205"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "61",
+        "text": "8, 24, 12, 36, 18, 54, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "108"
+            },
+            {
+                "id": "2",
+                "text": "162"
+            },
+            {
+                "id": "3",
+                "text": "27"
+            },
+            {
+                "id": "4",
+                "text": "81"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "62",
+        "text": "64, 512, 4096, ____, 262144",
+        "options": [
+            {
+                "id": "1",
+                "text": "32766"
+            },
+            {
+                "id": "2",
+                "text": "32864"
+            },
+            {
+                "id": "3",
+                "text": "32768"
+            },
+            {
+                "id": "4",
+                "text": "32782"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "63",
+        "text": "101, 103, 107, 109, ____, 127, 131, 137",
+        "options": [
+            {
+                "id": "1",
+                "text": "113"
+            },
+            {
+                "id": "2",
+                "text": "117"
+            },
+            {
+                "id": "3",
+                "text": "119"
+            },
+            {
+                "id": "4",
+                "text": "123"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "64",
+        "text": "1, 9, 36, 100, ____, 441, 784",
+        "options": [
+            {
+                "id": "1",
+                "text": "121"
+            },
+            {
+                "id": "2",
+                "text": "144"
+            },
+            {
+                "id": "3",
+                "text": "169"
+            },
+            {
+                "id": "4",
+                "text": "225"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "65",
+        "text": "(\u03c0 1 \u221a3 / 6 2 2) * (\u03c0 \u221a3 1 / 3 2 2) * (\u03c0 / 2, 1, 0) ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "(2\u03c0 - \u221a3 - 1 / 3, 2, 2)"
+            },
+            {
+                "id": "2",
+                "text": "(2\u03c0 - 1 - \u221a3 / 3, 2, 2)"
+            },
+            {
+                "id": "3",
+                "text": "(2\u03c0 \u221a3 1 / 3, 2, 2)"
+            },
+            {
+                "id": "4",
+                "text": "(2\u03c0 \u221a3 - 1 / 3, 2, 2)"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "66",
+        "text": "(4, 3), (7, 2), (10, 4), (13, 2), ____, (19, 2)",
+        "options": [
+            {
+                "id": "1",
+                "text": "(16, 3)"
+            },
+            {
+                "id": "2",
+                "text": "(16, 2)"
+            },
+            {
+                "id": "3",
+                "text": "(16, 4)"
+            },
+            {
+                "id": "4",
+                "text": "(16, 5)"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "67",
+        "text": "6, 10, 8, 12, 10, 14, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "16"
+            },
+            {
+                "id": "2",
+                "text": "12"
+            },
+            {
+                "id": "3",
+                "text": "14"
+            },
+            {
+                "id": "4",
+                "text": "10"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "68",
+        "text": "6/9, 11/14, 27/30, ____, 123/126, 171/174",
+        "options": [
+            {
+                "id": "1",
+                "text": "83/86"
+            },
+            {
+                "id": "2",
+                "text": "102/105"
+            },
+            {
+                "id": "3",
+                "text": "38/41"
+            },
+            {
+                "id": "4",
+                "text": "51/54"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "69",
+        "text": "2, 3, 5, 10, 18, 33, ____, 112, 206, 379",
+        "options": [
+            {
+                "id": "1",
+                "text": "60"
+            },
+            {
+                "id": "2",
+                "text": "61"
+            },
+            {
+                "id": "3",
+                "text": "62"
+            },
+            {
+                "id": "4",
+                "text": "63"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "70",
+        "text": "1, 5, 14, 30, 55, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "80"
+            },
+            {
+                "id": "2",
+                "text": "85"
+            },
+            {
+                "id": "3",
+                "text": "90"
+            },
+            {
+                "id": "4",
+                "text": "91"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "71",
+        "text": "105, 115, 130, 150, ____, 175",
+        "options": [
+            {
+                "id": "1",
+                "text": "190"
+            },
+            {
+                "id": "2",
+                "text": "195"
+            },
+            {
+                "id": "3",
+                "text": "200"
+            },
+            {
+                "id": "4",
+                "text": "205"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "72",
+        "text": "8, 24, 12, 36, 18, 54, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "108"
+            },
+            {
+                "id": "2",
+                "text": "162"
+            },
+            {
+                "id": "3",
+                "text": "27"
+            },
+            {
+                "id": "4",
+                "text": "81"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "73",
+        "text": "64, 512, 4096, ____, 262144",
+        "options": [
+            {
+                "id": "1",
+                "text": "32766"
+            },
+            {
+                "id": "2",
+                "text": "32864"
+            },
+            {
+                "id": "3",
+                "text": "32768"
+            },
+            {
+                "id": "4",
+                "text": "32782"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "74",
+        "text": "101, 103, 107, 109, ____, 127, 131, 137",
+        "options": [
+            {
+                "id": "1",
+                "text": "113"
+            },
+            {
+                "id": "2",
+                "text": "117"
+            },
+            {
+                "id": "3",
+                "text": "119"
+            },
+            {
+                "id": "4",
+                "text": "123"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "75",
+        "text": "1, 9, 36, 100, ____, 441, 784",
+        "options": [
+            {
+                "id": "1",
+                "text": "121"
+            },
+            {
+                "id": "2",
+                "text": "144"
+            },
+            {
+                "id": "3",
+                "text": "169"
+            },
+            {
+                "id": "4",
+                "text": "225"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "76",
+        "text": "(\u03c0 1 \u221a3 / 6 2 2) * (\u03c0 \u221a3 1 / 3 2 2) * (\u03c0 / 2, 1, 0) ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "(2\u03c0 - \u221a3 - 1 / 3, 2, 2)"
+            },
+            {
+                "id": "2",
+                "text": "(2\u03c0 - 1 - \u221a3 / 3, 2, 2)"
+            },
+            {
+                "id": "3",
+                "text": "(2\u03c0 \u221a3 1 / 3, 2, 2)"
+            },
+            {
+                "id": "4",
+                "text": "(2\u03c0 \u221a3 - 1 / 3, 2, 2)"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "77",
+        "text": "(4, 3), (7, 2), (10, 4), (13, 2), ____, (19, 2)",
+        "options": [
+            {
+                "id": "1",
+                "text": "(16, 3)"
+            },
+            {
+                "id": "2",
+                "text": "(16, 2)"
+            },
+            {
+                "id": "3",
+                "text": "(16, 4)"
+            },
+            {
+                "id": "4",
+                "text": "(16, 5)"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "78",
+        "text": "6, 10, 8, 12, 10, 14, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "16"
+            },
+            {
+                "id": "2",
+                "text": "12"
+            },
+            {
+                "id": "3",
+                "text": "14"
+            },
+            {
+                "id": "4",
+                "text": "10"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "79",
+        "text": "6/9, 11/14, 27/30, ____, 123/126, 171/174",
+        "options": [
+            {
+                "id": "1",
+                "text": "83/86"
+            },
+            {
+                "id": "2",
+                "text": "102/105"
+            },
+            {
+                "id": "3",
+                "text": "38/41"
+            },
+            {
+                "id": "4",
+                "text": "51/54"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "80",
+        "text": "2, 3, 5, 10, 18, 33, ____, 112, 206, 379",
+        "options": [
+            {
+                "id": "1",
+                "text": "60"
+            },
+            {
+                "id": "2",
+                "text": "61"
+            },
+            {
+                "id": "3",
+                "text": "62"
+            },
+            {
+                "id": "4",
+                "text": "63"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "81",
+        "text": "1, 5, 14, 30, 55, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "80"
+            },
+            {
+                "id": "2",
+                "text": "85"
+            },
+            {
+                "id": "3",
+                "text": "90"
+            },
+            {
+                "id": "4",
+                "text": "91"
+            }
+        ],
+        "correct": 3,
+        "section": "Sequences and Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "82",
+        "text": "105, 115, 130, 150, ____, 175",
+        "options": [
+            {
+                "id": "1",
+                "text": "190"
+            },
+            {
+                "id": "2",
+                "text": "195"
+            },
+            {
+                "id": "3",
+                "text": "200"
+            },
+            {
+                "id": "4",
+                "text": "205"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "83",
+        "text": "8, 24, 12, 36, 18, 54, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "108"
+            },
+            {
+                "id": "2",
+                "text": "162"
+            },
+            {
+                "id": "3",
+                "text": "27"
+            },
+            {
+                "id": "4",
+                "text": "81"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "84",
+        "text": "64, 512, 4096, ____, 262144",
+        "options": [
+            {
+                "id": "1",
+                "text": "32766"
+            },
+            {
+                "id": "2",
+                "text": "32864"
+            },
+            {
+                "id": "3",
+                "text": "32768"
+            },
+            {
+                "id": "4",
+                "text": "32782"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "85",
+        "text": "101, 103, 107, 109, ____, 127, 131, 137",
+        "options": [
+            {
+                "id": "1",
+                "text": "113"
+            },
+            {
+                "id": "2",
+                "text": "117"
+            },
+            {
+                "id": "3",
+                "text": "119"
+            },
+            {
+                "id": "4",
+                "text": "123"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "86",
+        "text": "1, 9, 36, 100, ____, 441, 784",
+        "options": [
+            {
+                "id": "1",
+                "text": "121"
+            },
+            {
+                "id": "2",
+                "text": "144"
+            },
+            {
+                "id": "3",
+                "text": "169"
+            },
+            {
+                "id": "4",
+                "text": "225"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "87",
+        "text": "(\u03c0 1 \u221a3 / 6 2 2) * (\u03c0 \u221a3 1 / 3 2 2) * (\u03c0 / 2, 1, 0) ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "(2\u03c0 - \u221a3 - 1 / 3, 2, 2)"
+            },
+            {
+                "id": "2",
+                "text": "(2\u03c0 - 1 - \u221a3 / 3, 2, 2)"
+            },
+            {
+                "id": "3",
+                "text": "(2\u03c0 \u221a3 1 / 3, 2, 2)"
+            },
+            {
+                "id": "4",
+                "text": "(2\u03c0 \u221a3 - 1 / 3, 2, 2)"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "88",
+        "text": "(4, 3), (7, 2), (10, 4), (13, 2), ____, (19, 2)",
+        "options": [
+            {
+                "id": "1",
+                "text": "(16, 3)"
+            },
+            {
+                "id": "2",
+                "text": "(16, 2)"
+            },
+            {
+                "id": "3",
+                "text": "(16, 4)"
+            },
+            {
+                "id": "4",
+                "text": "(16, 5)"
+            }
+        ],
+        "correct": 1,
+        "section": "Sequences and Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "89",
+        "text": "6, 10, 8, 12, 10, 14, ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "16"
+            },
+            {
+                "id": "2",
+                "text": "12"
+            },
+            {
+                "id": "3",
+                "text": "14"
+            },
+            {
+                "id": "4",
+                "text": "10"
+            }
+        ],
+        "correct": 0,
+        "section": "Sequences and Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "90",
+        "text": "6/9, 11/14, 27/30, ____, 123/126, 171/174",
+        "options": [
+            {
+                "id": "1",
+                "text": "83/86"
+            },
+            {
+                "id": "2",
+                "text": "102/105"
+            },
+            {
+                "id": "3",
+                "text": "38/41"
+            },
+            {
+                "id": "4",
+                "text": "51/54"
+            }
+        ],
+        "correct": 2,
+        "section": "Sequences and Series",
+        "correctAnswer": "3"
+    }
+]

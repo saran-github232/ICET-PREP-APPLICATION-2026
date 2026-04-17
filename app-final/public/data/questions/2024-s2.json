@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "If x = \u221a7-\u221a6 then x\u2074 + 1/x\u2074 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "674"
+            },
+            {
+                "id": "2",
+                "text": "675"
+            },
+            {
+                "id": "3",
+                "text": "776"
+            },
+            {
+                "id": "4",
+                "text": "676"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "2",
+        "text": "If 5(x\u00b2 + y\u00b2 + z\u00b2) = 4(xy + yz + zx) then x: y: z =",
+        "options": [
+            {
+                "id": "1",
+                "text": "8:1:4"
+            },
+            {
+                "id": "2",
+                "text": "2:1:8"
+            },
+            {
+                "id": "3",
+                "text": "4:1:8"
+            },
+            {
+                "id": "4",
+                "text": "4:8:1"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "3",
+        "text": "yz: zx: xy = 1:2:3 \u21d2 xy/yz zx = ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "4:1"
+            },
+            {
+                "id": "2",
+                "text": "1:4"
+            },
+            {
+                "id": "3",
+                "text": "1:3"
+            },
+            {
+                "id": "4",
+                "text": "3:1"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "4",
+        "text": "4 + 4+\u221a4+\u221a4 + ... \u221e =",
+        "options": [
+            {
+                "id": "1",
+                "text": "(\u221a17-1)/2"
+            },
+            {
+                "id": "2",
+                "text": "(1+\u221a17)/2"
+            },
+            {
+                "id": "3",
+                "text": "(1+\u221a13)/2"
+            },
+            {
+                "id": "4",
+                "text": "(\u221a13-1)/2"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "5",
+        "text": "\u221a8 + 2\u221a15 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "\u221a3-\u221a5"
+            },
+            {
+                "id": "2",
+                "text": "\u221a5-\u221a3"
+            },
+            {
+                "id": "3",
+                "text": "\u221a3+\u221a5"
+            },
+            {
+                "id": "4",
+                "text": "3+\u221a5"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "6",
+        "text": "If 11 divides 29x03 then x=",
+        "options": [
+            {
+                "id": "1",
+                "text": "3"
+            },
+            {
+                "id": "2",
+                "text": "4"
+            },
+            {
+                "id": "3",
+                "text": "5"
+            },
+            {
+                "id": "4",
+                "text": "6"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "7",
+        "text": "How many integers are there from 200 to 400 which are multiples of 7?",
+        "options": [
+            {
+                "id": "1",
+                "text": "27"
+            },
+            {
+                "id": "2",
+                "text": "28"
+            },
+            {
+                "id": "3",
+                "text": "29"
+            },
+            {
+                "id": "4",
+                "text": "30"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "8",
+        "text": "The smallest positive integer which when divided by 6, 9, 12 and 15 leaves 5 as remainder in each case is",
+        "options": [
+            {
+                "id": "1",
+                "text": "545"
+            },
+            {
+                "id": "2",
+                "text": "180"
+            },
+            {
+                "id": "3",
+                "text": "365"
+            },
+            {
+                "id": "4",
+                "text": "185"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "9",
+        "text": "A trader has three kinds of oils, the first kind 462 liters, the second kind 286 liters and the third kind 187 liters. What is the least number of tins of equal volume required to fill them completely and store these oils without mixing?",
+        "options": [
+            {
+                "id": "1",
+                "text": "75"
+            },
+            {
+                "id": "2",
+                "text": "85"
+            },
+            {
+                "id": "3",
+                "text": "95"
+            },
+            {
+                "id": "4",
+                "text": "105"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "10",
+        "text": "(1-1/5)(1-1/9)(1-1/10)\u2026\u2026\u2026\u2026..(1-1/51) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "50/51"
+            },
+            {
+                "id": "2",
+                "text": "7/51"
+            },
+            {
+                "id": "3",
+                "text": "2/17"
+            },
+            {
+                "id": "4",
+                "text": "6/53"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "11",
+        "text": "0.234 = ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "232/9909"
+            },
+            {
+                "id": "2",
+                "text": "232/9990"
+            },
+            {
+                "id": "3",
+                "text": "0.232/9909"
+            },
+            {
+                "id": "4",
+                "text": "232/990"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "12",
+        "text": "The increasing order of a = \u221a7-\u221a6, b = \u221a3-\u221a2, c = \u221a6-\u221a5, d = \u221a2 - 1 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "c, a, b, d"
+            },
+            {
+                "id": "2",
+                "text": "a, c, b, d"
+            },
+            {
+                "id": "3",
+                "text": "a, c, d, b"
+            },
+            {
+                "id": "4",
+                "text": "a, d, c, b"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "13",
+        "text": "The smallest among 9/11, 8/9, 5/6 and 7/8 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "8/9"
+            },
+            {
+                "id": "2",
+                "text": "5/6"
+            },
+            {
+                "id": "3",
+                "text": "9/11"
+            },
+            {
+                "id": "4",
+                "text": "7/8"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "14",
+        "text": "A person gave 12% of his money to charities. After spending 80% of the remainder, he is still left with Rs.264. The amount of money he had at the beginning, in Rupees, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2000"
+            },
+            {
+                "id": "2",
+                "text": "2500"
+            },
+            {
+                "id": "3",
+                "text": "1800"
+            },
+            {
+                "id": "4",
+                "text": "1500"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "15",
+        "text": "When 40% of a number is added to 84, if the resultant is the number itself, then that number is",
+        "options": [
+            {
+                "id": "1",
+                "text": "120"
+            },
+            {
+                "id": "2",
+                "text": "140"
+            },
+            {
+                "id": "3",
+                "text": "150"
+            },
+            {
+                "id": "4",
+                "text": "160"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "16",
+        "text": "A man purchased 11 books for Rs. 100 and sold at the rate of 10 books for Rs. 110. How much percentage of profit or loss he made on a book?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Loss 11%"
+            },
+            {
+                "id": "2",
+                "text": "Profit 11%"
+            },
+            {
+                "id": "3",
+                "text": "Profit 21%"
+            },
+            {
+                "id": "4",
+                "text": "Loss 21%"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "17",
+        "text": "Two successive profits of 8% and 10% are equal to a single profit of",
+        "options": [
+            {
+                "id": "1",
+                "text": "18%"
+            },
+            {
+                "id": "2",
+                "text": "19 4/5%"
+            },
+            {
+                "id": "3",
+                "text": "19%"
+            },
+            {
+                "id": "4",
+                "text": "18 4/5%"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "18",
+        "text": "P and Q enter into a partnership with capitals in the ratio 9:7. At the end of 8 months Q withdrew his capital from the business. If they received profits in the ratio 9:4, the time (in months) P's capital remained, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "14"
+            },
+            {
+                "id": "2",
+                "text": "16"
+            },
+            {
+                "id": "3",
+                "text": "15"
+            },
+            {
+                "id": "4",
+                "text": "13"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "19",
+        "text": "In a partnership, P, Q and R shared profit in the ratio 1:4:5. If the total profit is Rs. 55,000, then the difference of profit between the shares of P and Q (in Rs.) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "11,100"
+            },
+            {
+                "id": "2",
+                "text": "16,500"
+            },
+            {
+                "id": "3",
+                "text": "15,600"
+            },
+            {
+                "id": "4",
+                "text": "14,500"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "20",
+        "text": "A pipe can fill a tank in 9 hours. Due to a leak in the bottom, it is filled in 10 hours. If the tank is full, then the time (in hours) that the leak takes to empty that tank is",
+        "options": [
+            {
+                "id": "1",
+                "text": "85"
+            },
+            {
+                "id": "2",
+                "text": "60"
+            },
+            {
+                "id": "3",
+                "text": "90"
+            },
+            {
+                "id": "4",
+                "text": "80"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "21",
+        "text": "Two taps P and Q can separately fill a cistern in 36 minutes and 45 minutes respectively. After both the taps are opened simultaneously by what time (in minutes) the pipe Q should be closed so that the cistern is completely filled in 27 minutes?",
+        "options": [
+            {
+                "id": "1",
+                "text": "11 1/2"
+            },
+            {
+                "id": "2",
+                "text": "12 1/2"
+            },
+            {
+                "id": "3",
+                "text": "12 1/4"
+            },
+            {
+                "id": "4",
+                "text": "11 1/4"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "22",
+        "text": "Car A starts at 8 am from the place P, with a speed of 65 kmph. Another car B starts at 9 am from the same place P. and follows the car A with a speed of 70 kmph. Then the meeting time of the cars A and B is",
+        "options": [
+            {
+                "id": "1",
+                "text": "4 p.m"
+            },
+            {
+                "id": "2",
+                "text": "6 p.m"
+            },
+            {
+                "id": "3",
+                "text": "8 p.m"
+            },
+            {
+                "id": "4",
+                "text": "10 p.m"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "23",
+        "text": "A bus covers a total distance of 400 km for its to and fro journey, in 8 hours. If the average speed of the bus in the onward journey is 25% more than that in the return journey, then the speed of the bus in the onward journey (in km/hr) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "25 3/4"
+            },
+            {
+                "id": "2",
+                "text": "50 1/4"
+            },
+            {
+                "id": "3",
+                "text": "56 1/4"
+            },
+            {
+                "id": "4",
+                "text": "54 1/2"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "24",
+        "text": "P alone can do a work in 15 days and Q alone can do it in 20 days. With the help of R they finish the work in 5 days. How many days R alone will take to finish the work?",
+        "options": [
+            {
+                "id": "1",
+                "text": "8"
+            },
+            {
+                "id": "2",
+                "text": "10"
+            },
+            {
+                "id": "3",
+                "text": "12"
+            },
+            {
+                "id": "4",
+                "text": "9"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "25",
+        "text": "5 men can prepare 10 toys in 6 days working 6 hours per day. In how many days can 12 men prepare 16 toys working 8 hours per day?",
+        "options": [
+            {
+                "id": "1",
+                "text": "5"
+            },
+            {
+                "id": "2",
+                "text": "7"
+            },
+            {
+                "id": "3",
+                "text": "4"
+            },
+            {
+                "id": "4",
+                "text": "3"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "26",
+        "text": "If the area of an equilateral triangle is 4\u221a3 sq.cm., then its perimeter, in centimetres, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "15"
+            },
+            {
+                "id": "2",
+                "text": "12"
+            },
+            {
+                "id": "3",
+                "text": "18"
+            },
+            {
+                "id": "4",
+                "text": "9"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "27",
+        "text": "The length and breadth of a rectangle are in the ratio 7:5 and its area is 3500 sq.cm. What is the perimeter of the rectangle, in cm?",
+        "options": [
+            {
+                "id": "1",
+                "text": "220"
+            },
+            {
+                "id": "2",
+                "text": "260"
+            },
+            {
+                "id": "3",
+                "text": "240"
+            },
+            {
+                "id": "4",
+                "text": "280"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "28",
+        "text": "If the surface area of a cube is 726 sq.cm., then its volume, in cubic centimeters, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2197"
+            },
+            {
+                "id": "2",
+                "text": "1728"
+            },
+            {
+                "id": "3",
+                "text": "1000"
+            },
+            {
+                "id": "4",
+                "text": "1331"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "29",
+        "text": "A solid sphere of radius 10 cm is melt and moulded into 8 solid spherical balls of equal radius. The surface area of each ball, in sq. cm, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "100\u03c0"
+            },
+            {
+                "id": "2",
+                "text": "80\u03c0"
+            },
+            {
+                "id": "3",
+                "text": "88\u03c0"
+            },
+            {
+                "id": "4",
+                "text": "96\u03c0"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "30",
+        "text": "The breadth of a rectangular plot is 75% of its length and the perimeter of the plot is 1050 m. Then the area, in square meters, of the plot is",
+        "options": [
+            {
+                "id": "1",
+                "text": "64,750"
+            },
+            {
+                "id": "2",
+                "text": "65,000"
+            },
+            {
+                "id": "3",
+                "text": "67,500"
+            },
+            {
+                "id": "4",
+                "text": "56,800"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "31",
+        "text": "The base of a triangular shape field is 3 times its height. If the cost of cultivating the field at Rs.73.44 per hector is Rs. 991.44, then the height of triangular field (in meters) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "320"
+            },
+            {
+                "id": "2",
+                "text": "280"
+            },
+            {
+                "id": "3",
+                "text": "360"
+            },
+            {
+                "id": "4",
+                "text": "300"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "32",
+        "text": "The breadth of a cuboid is 2/3 of its length and its height is 3/4 of its breadth. If its volume is 72 cu.mts, then its surface area, in sq.mts, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "124"
+            },
+            {
+                "id": "2",
+                "text": "108"
+            },
+            {
+                "id": "3",
+                "text": "144"
+            },
+            {
+                "id": "4",
+                "text": "116"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "33",
+        "text": "1212(7) = X(10) \u21d2 X = ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "451"
+            },
+            {
+                "id": "2",
+                "text": "541"
+            },
+            {
+                "id": "3",
+                "text": "415"
+            },
+            {
+                "id": "4",
+                "text": "514"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "34",
+        "text": "101(2) + 110(2) = ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1010(2)"
+            },
+            {
+                "id": "2",
+                "text": "1101(2)"
+            },
+            {
+                "id": "3",
+                "text": "1011(2)"
+            },
+            {
+                "id": "4",
+                "text": "1001(2)"
+            }
+        ],
+        "correct": 0,
+        "section": "Arithmetical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "35",
+        "text": "P\u2192(Q \u21d2 R) \u21d2",
+        "options": [
+            {
+                "id": "1",
+                "text": "(P \u2192 Q) \u2192 (Q \u2192 R)"
+            },
+            {
+                "id": "2",
+                "text": "(P \u2192 Q) \u2192 (P \u2192 R)"
+            },
+            {
+                "id": "3",
+                "text": "(7P V Q) \u2192 R"
+            },
+            {
+                "id": "4",
+                "text": "(P \u2192 Q) \u2192 R"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "36",
+        "text": "The negation of the statement p V (~p ^ q) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "p ^ ~q"
+            },
+            {
+                "id": "2",
+                "text": "~p ^ ~q"
+            },
+            {
+                "id": "3",
+                "text": "~p ^ q"
+            },
+            {
+                "id": "4",
+                "text": "~(p ^ q)"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "37",
+        "text": "If A = {(x, y) \u2208 Z x Z |x\u00b2 + y\u00b2 \u2264 16}, then the number of reflexive relations defined on A is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2^2352"
+            },
+            {
+                "id": "2",
+                "text": "2^2462"
+            },
+            {
+                "id": "3",
+                "text": "2^1176"
+            },
+            {
+                "id": "4",
+                "text": "2^2401"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "38",
+        "text": "If n(A) = 5, then the number of relations on A which are not symmetric is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2^15"
+            },
+            {
+                "id": "2",
+                "text": "2^15(1023)"
+            },
+            {
+                "id": "3",
+                "text": "2^15(255)"
+            },
+            {
+                "id": "4",
+                "text": "2^25"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "39",
+        "text": "Let f be defined on [0,7] and g(x) = |2x + 1|. Then the domain of (fog)(x) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "[-6,6]"
+            },
+            {
+                "id": "2",
+                "text": "[-3,4]"
+            },
+            {
+                "id": "3",
+                "text": "[-4,3]"
+            },
+            {
+                "id": "4",
+                "text": "[-7,0]"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "40",
+        "text": "The equation of the straight line passing through (-5,4) and which makes an intercept of 2/\u221a5 units between the lines x + 2y + 1 = 0 and x + 2y - 1 = 0, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "3x-y-5= 0"
+            },
+            {
+                "id": "2",
+                "text": "x-2y+7= 0"
+            },
+            {
+                "id": "3",
+                "text": "2x-3y + 14 = 0"
+            },
+            {
+                "id": "4",
+                "text": "2x - y + 14 = 0"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "41",
+        "text": "The equation of the straight line passing through the point (-2,3) and which makes intercepts in the ratio 1:3 on the coordinate axes, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2x - y + 1 = 0"
+            },
+            {
+                "id": "2",
+                "text": "x + 3y - 7 = 0"
+            },
+            {
+                "id": "3",
+                "text": "3x + y + 3 = 0"
+            },
+            {
+                "id": "4",
+                "text": "x+y-1=0"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "42",
+        "text": "tan 480\u00b0 + sec 510\u00b0 + cosec 750\u00b0 + cot 765\u00b0 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "3-\u221a3"
+            },
+            {
+                "id": "2",
+                "text": "3/\u221a3"
+            },
+            {
+                "id": "3",
+                "text": "2-5/\u221a3"
+            },
+            {
+                "id": "4",
+                "text": "2\u221a2-5/\u221a3"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "43",
+        "text": "(sin 150\u00b0-5 cos 300\u00b0 + 7 tan 225\u00b0) / (tan 135\u00b0 + 3 sin 210\u00b0) =",
+        "options": [
+            {
+                "id": "1",
+                "text": "2"
+            },
+            {
+                "id": "2",
+                "text": "-2"
+            },
+            {
+                "id": "3",
+                "text": "3"
+            },
+            {
+                "id": "4",
+                "text": "-3"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "44",
+        "text": "If sec \u03b8 + tan \u03b8 = 2/3, then sin \u03b8 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "5/13"
+            },
+            {
+                "id": "2",
+                "text": "5/12"
+            },
+            {
+                "id": "3",
+                "text": "12/13"
+            },
+            {
+                "id": "4",
+                "text": "5/6"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "45",
+        "text": "The height of the pillar when it is found that on walking towards it 60 meters in a horizontal line through the base, the angle of elevation of its top changes from 30\u00b0 to 60\u00b0, its height (in meters) is",
+        "options": [
+            {
+                "id": "1",
+                "text": "15\u221a3"
+            },
+            {
+                "id": "2",
+                "text": "30\u221a3"
+            },
+            {
+                "id": "3",
+                "text": "45\u221a3"
+            },
+            {
+                "id": "4",
+                "text": "10\u221a3"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "46",
+        "text": "The smallest value of x for which (12/x + 36) (4 - x\u00b2) = 0 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "-1/3"
+            },
+            {
+                "id": "2",
+                "text": "-1/2"
+            },
+            {
+                "id": "3",
+                "text": "-2"
+            },
+            {
+                "id": "4",
+                "text": "-3"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "47",
+        "text": "If \u03b1 and \u03b2 are the roots of the equation 8x\u00b2 - 3x - 27 = 0, then the value of (1/\u03b1)\u00b2 + (1/\u03b2)\u00b2 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/4"
+            },
+            {
+                "id": "2",
+                "text": "1/3"
+            },
+            {
+                "id": "3",
+                "text": "2/3"
+            },
+            {
+                "id": "4",
+                "text": "1/9"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "48",
+        "text": "If the number obtained after subtracting x from 2035 leaves the same remainder 5 when it is divided by 9, 10 and 15, then the smallest possible x is",
+        "options": [
+            {
+                "id": "1",
+                "text": "35"
+            },
+            {
+                "id": "2",
+                "text": "40"
+            },
+            {
+                "id": "3",
+                "text": "45"
+            },
+            {
+                "id": "4",
+                "text": "50"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "49",
+        "text": "If the remainder obtained when a certain integer x is divided by 5 is 2, then which one of the following is never an integer?",
+        "options": [
+            {
+                "id": "1",
+                "text": "x/17"
+            },
+            {
+                "id": "2",
+                "text": "x/11"
+            },
+            {
+                "id": "3",
+                "text": "x/10"
+            },
+            {
+                "id": "4",
+                "text": "x/6"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "50",
+        "text": "Rahim is 6 years older than David and David is 8 years older than Amar. After 8 years, if Rahim will be twice as old as Amar, then 4 years ago, David's age was",
+        "options": [
+            {
+                "id": "1",
+                "text": "16"
+            },
+            {
+                "id": "2",
+                "text": "14"
+            },
+            {
+                "id": "3",
+                "text": "12"
+            },
+            {
+                "id": "4",
+                "text": "10"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "51",
+        "text": "Set X contains 10 consecutive integers. Sum of the 5 least numbers of the set is 265. The sum of the four greatest numbers of that set is",
+        "options": [
+            {
+                "id": "1",
+                "text": "290"
+            },
+            {
+                "id": "2",
+                "text": "280"
+            },
+            {
+                "id": "3",
+                "text": "264"
+            },
+            {
+                "id": "4",
+                "text": "234"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "52",
+        "text": "If the sum of three consecutive numbers in a geometric progression is 26 and the sum of their squares is 364, then the product of those numbers is",
+        "options": [
+            {
+                "id": "1",
+                "text": "729"
+            },
+            {
+                "id": "2",
+                "text": "512"
+            },
+            {
+                "id": "3",
+                "text": "343"
+            },
+            {
+                "id": "4",
+                "text": "216"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "53",
+        "text": "The sum of all the natural numbers between 100 and 1000 which are multiples of 5 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "96350"
+            },
+            {
+                "id": "2",
+                "text": "98450"
+            },
+            {
+                "id": "3",
+                "text": "98960"
+            },
+            {
+                "id": "4",
+                "text": "108280"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "54",
+        "text": "The middle term in the expansion of (x\u00b2-1/(2x))\u00b9\u2070 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "56/7 x\u2075"
+            },
+            {
+                "id": "2",
+                "text": "36/7 x\u2075"
+            },
+            {
+                "id": "3",
+                "text": "63/8 x\u2075"
+            },
+            {
+                "id": "4",
+                "text": "72/5 x\u2075"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "55",
+        "text": "The numerically greatest term in the expansion of (2 + 3x)\u2075 when x = 5/4 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "(3\u00d715\u00b3)/8"
+            },
+            {
+                "id": "2",
+                "text": "(5\u00d715\u00b3)/8"
+            },
+            {
+                "id": "3",
+                "text": "(5\u00d715\u2074)/16"
+            },
+            {
+                "id": "4",
+                "text": "(3\u00d715\u2074)/16"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "56",
+        "text": "If A = [[3, -4], [-1, 1]], then A\u2074 - A\u00b3 + A\u00b2 - A =",
+        "options": [
+            {
+                "id": "1",
+                "text": "[[4, -8], [2, -4]]"
+            },
+            {
+                "id": "2",
+                "text": "[[5, -8], [2, -3]]"
+            },
+            {
+                "id": "3",
+                "text": "[[7, -12], [3, 5]]"
+            },
+            {
+                "id": "4",
+                "text": "[[4, -6], [-1, -3]]"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "57",
+        "text": "The value of x for which the matrix [[x-2, 2x-3, 3x-4], [x-4, 2x-9, 3x-16], [x-8, 2x-27, 3x-64]] does not possess inverse, is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2"
+            },
+            {
+                "id": "2",
+                "text": "3"
+            },
+            {
+                "id": "3",
+                "text": "4"
+            },
+            {
+                "id": "4",
+                "text": "5"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "58",
+        "text": "Lim (e\u02e3 - 1) / (\u221a(1+x) - 1) as x\u21920 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "0"
+            },
+            {
+                "id": "2",
+                "text": "1"
+            },
+            {
+                "id": "3",
+                "text": "2"
+            },
+            {
+                "id": "4",
+                "text": "\u221e"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "59",
+        "text": "Lim (x\u2074-81) / (x\u00b3 - 2x\u00b2 - 5x - 3) as x\u21923 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "0"
+            },
+            {
+                "id": "2",
+                "text": "27/8"
+            },
+            {
+                "id": "3",
+                "text": "102/7"
+            },
+            {
+                "id": "4",
+                "text": "108/7"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "60",
+        "text": "In the adjoining figure, ABCD is a cyclic quadrilateral in which AC and BD are its diagonals. If \u2220DBC = 55\u00b0 and \u2220BAC = 45\u00b0, then \u2220BCD =",
+        "options": [
+            {
+                "id": "1",
+                "text": "75\u00b0"
+            },
+            {
+                "id": "2",
+                "text": "80\u00b0"
+            },
+            {
+                "id": "3",
+                "text": "85\u00b0"
+            },
+            {
+                "id": "4",
+                "text": "70\u00b0"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "61",
+        "text": "A and B are the end points of the longest line drawn in the circle with centre x. If C is a point on the circle such that AC=Ax=3. Then the perimeter of \u2206ABC is",
+        "options": [
+            {
+                "id": "1",
+                "text": "9\u221a3 / 2"
+            },
+            {
+                "id": "2",
+                "text": "9"
+            },
+            {
+                "id": "3",
+                "text": "6 + 3\u221a3"
+            },
+            {
+                "id": "4",
+                "text": "9+3\u221a3"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "62",
+        "text": "A, B and C are three points on the circumference of a circle with centre O. If in \u2206ABC \u2220B = 60\u00b0 and \u2220C = 70\u00b0 then \u2220BOC =",
+        "options": [
+            {
+                "id": "1",
+                "text": "100\u00b0"
+            },
+            {
+                "id": "2",
+                "text": "120\u00b0"
+            },
+            {
+                "id": "3",
+                "text": "90\u00b0"
+            },
+            {
+                "id": "4",
+                "text": "80\u00b0"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "63",
+        "text": "If A(3, 10), B (-3,4) and C (5,8) are the vertices of a \u2206ABC and AD and CF are its medians, then the ratio of the length of AD to the length of CF is",
+        "options": [
+            {
+                "id": "1",
+                "text": "\u221a10: \u221a13"
+            },
+            {
+                "id": "2",
+                "text": "\u221a12: \u221a13"
+            },
+            {
+                "id": "3",
+                "text": "\u221a10:\u221a9"
+            },
+            {
+                "id": "4",
+                "text": "\u221a10: \u221a15"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "64",
+        "text": "If (-2,-1), (1,0) and (4,3) are three consecutive vertices of a parallelogram, then the sum of the lengths of the diagonals of that parallelogram is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2\u221a13"
+            },
+            {
+                "id": "2",
+                "text": "1+ 2\u221a13"
+            },
+            {
+                "id": "3",
+                "text": "2 + \u221a13"
+            },
+            {
+                "id": "4",
+                "text": "2(1 + \u221a13)"
+            }
+        ],
+        "correct": 0,
+        "section": "Algebraic and Geometrical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "65",
+        "text": "The arithmetic mean of 28, 32, 34, 24, 42.46, 38, 36 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "37"
+            },
+            {
+                "id": "2",
+                "text": "34"
+            },
+            {
+                "id": "3",
+                "text": "36"
+            },
+            {
+                "id": "4",
+                "text": "35"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "66",
+        "text": "The median of 18, 16, 18, 12, 10, 14, 16 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "18"
+            },
+            {
+                "id": "2",
+                "text": "16"
+            },
+            {
+                "id": "3",
+                "text": "14"
+            },
+            {
+                "id": "4",
+                "text": "12"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "67",
+        "text": "The mode of the following frequency distribution is",
+        "options": [
+            {
+                "id": "1",
+                "text": "4.5"
+            },
+            {
+                "id": "2",
+                "text": "4"
+            },
+            {
+                "id": "3",
+                "text": "5"
+            },
+            {
+                "id": "4",
+                "text": "5.5"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "68",
+        "text": "The standard deviation of 6, 7, 8, 9, 10 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2"
+            },
+            {
+                "id": "2",
+                "text": "\u221a3"
+            },
+            {
+                "id": "3",
+                "text": "\u221a2"
+            },
+            {
+                "id": "4",
+                "text": "2\u221a2"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "69",
+        "text": "The standard deviation of any three consecutive integers is",
+        "options": [
+            {
+                "id": "1",
+                "text": "3/\u221a2"
+            },
+            {
+                "id": "2",
+                "text": "2/\u221a3"
+            },
+            {
+                "id": "3",
+                "text": "\u221a2/3"
+            },
+            {
+                "id": "4",
+                "text": "2\u221a2/3"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "70",
+        "text": "If d\u1d62 stands for the difference of ranks and if \u03a3\u1d62<0xE2><0x82><0x90>\u2081\u207f d\u1d62\u00b2 = (n-1)n(n+1)/8 then the value of the coefficient of rank correlation is",
+        "options": [
+            {
+                "id": "1",
+                "text": "0.75"
+            },
+            {
+                "id": "2",
+                "text": "0.25"
+            },
+            {
+                "id": "3",
+                "text": "-0.25"
+            },
+            {
+                "id": "4",
+                "text": "-0.40"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "71",
+        "text": "A problem in Mathematics is given to three students A, B and C whose chances of solving it are 1/3, 1/4 and 1/2 respectively. What is the probability that the problem will be solved by at least one of them?",
+        "options": [
+            {
+                "id": "1",
+                "text": "3/4"
+            },
+            {
+                "id": "2",
+                "text": "2/3"
+            },
+            {
+                "id": "3",
+                "text": "4/5"
+            },
+            {
+                "id": "4",
+                "text": "5/6"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "72",
+        "text": "If a card is drawn at random form a well shuffled pack of 52 cards, then the probability that it is a spade or a king is",
+        "options": [
+            {
+                "id": "1",
+                "text": "3/13"
+            },
+            {
+                "id": "2",
+                "text": "4/13"
+            },
+            {
+                "id": "3",
+                "text": "2/13"
+            },
+            {
+                "id": "4",
+                "text": "1/52"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "73",
+        "text": "The probability that a non-leap year has 53 Mondays is",
+        "options": [
+            {
+                "id": "1",
+                "text": "2/7"
+            },
+            {
+                "id": "2",
+                "text": "1/7"
+            },
+            {
+                "id": "3",
+                "text": "3/7"
+            },
+            {
+                "id": "4",
+                "text": "4/7"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "74",
+        "text": "A and B are two sets such that n(A) = 3 and n(B) = 2. If a relation from A to B is selected at random, then the probability that the relation will be a function is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1/2"
+            },
+            {
+                "id": "2",
+                "text": "1/4"
+            },
+            {
+                "id": "3",
+                "text": "3/8"
+            },
+            {
+                "id": "4",
+                "text": "1/8"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "75",
+        "text": "Choose the correct meaning of the word given: Angst",
+        "options": [
+            {
+                "id": "1",
+                "text": "anger"
+            },
+            {
+                "id": "2",
+                "text": "horror"
+            },
+            {
+                "id": "3",
+                "text": "deep anxiety"
+            },
+            {
+                "id": "4",
+                "text": "evil thoughts"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "76",
+        "text": "Choose the correct meaning of the word given: Exotic",
+        "options": [
+            {
+                "id": "1",
+                "text": "Excessive"
+            },
+            {
+                "id": "2",
+                "text": "Exciting"
+            },
+            {
+                "id": "3",
+                "text": "Foreign"
+            },
+            {
+                "id": "4",
+                "text": "Miserable"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "77",
+        "text": "Choose the correct meaning of the word given: Aberration",
+        "options": [
+            {
+                "id": "1",
+                "text": "Adherence"
+            },
+            {
+                "id": "2",
+                "text": "Subjectivity"
+            },
+            {
+                "id": "3",
+                "text": "Abhorrence"
+            },
+            {
+                "id": "4",
+                "text": "Deviation"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "78",
+        "text": "Choose the correct meaning of the word given: Gratuitous",
+        "options": [
+            {
+                "id": "1",
+                "text": "unnecessary"
+            },
+            {
+                "id": "2",
+                "text": "grateful"
+            },
+            {
+                "id": "3",
+                "text": "compulsory"
+            },
+            {
+                "id": "4",
+                "text": "optional"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "79",
+        "text": "Choose the correct meaning of the word given: Deferential",
+        "options": [
+            {
+                "id": "1",
+                "text": "Differential"
+            },
+            {
+                "id": "2",
+                "text": "Respectful"
+            },
+            {
+                "id": "3",
+                "text": "Postponing"
+            },
+            {
+                "id": "4",
+                "text": "Doubtful"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "80",
+        "text": "Choose the correct meaning of the word given: Subservience",
+        "options": [
+            {
+                "id": "1",
+                "text": "misbehaviour"
+            },
+            {
+                "id": "2",
+                "text": "submissiveness"
+            },
+            {
+                "id": "3",
+                "text": "disobedience"
+            },
+            {
+                "id": "4",
+                "text": "subversion"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "81",
+        "text": "Fill in the blank choosing the correct word: Money lenders are often accused of ________, as they are habituated to recovering by force or threats",
+        "options": [
+            {
+                "id": "1",
+                "text": "excursion"
+            },
+            {
+                "id": "2",
+                "text": "exhaustion"
+            },
+            {
+                "id": "3",
+                "text": "exposition"
+            },
+            {
+                "id": "4",
+                "text": "extortion"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "82",
+        "text": "Fill in the blank choosing the correct word: Once committed to their goals, people work with a missionary ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "Vision"
+            },
+            {
+                "id": "2",
+                "text": "objectives"
+            },
+            {
+                "id": "3",
+                "text": "zeal"
+            },
+            {
+                "id": "4",
+                "text": "energy"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "83",
+        "text": "Fill in the blank choosing the correct word: When the going gets tough, the tough get ______",
+        "options": [
+            {
+                "id": "1",
+                "text": "stunned"
+            },
+            {
+                "id": "2",
+                "text": "beaten"
+            },
+            {
+                "id": "3",
+                "text": "scarred"
+            },
+            {
+                "id": "4",
+                "text": "going"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "84",
+        "text": "Fill in the blank choosing the correct word: The seven year old boy is the legal ______ of the huge property.",
+        "options": [
+            {
+                "id": "1",
+                "text": "heir"
+            },
+            {
+                "id": "2",
+                "text": "hare"
+            },
+            {
+                "id": "3",
+                "text": "hair"
+            },
+            {
+                "id": "4",
+                "text": "air"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "85",
+        "text": "Choose the correct answer: A technique in computer graphics that makes an image to look smooth from a distance is called",
+        "options": [
+            {
+                "id": "1",
+                "text": "encoding"
+            },
+            {
+                "id": "2",
+                "text": "dithering"
+            },
+            {
+                "id": "3",
+                "text": "franking"
+            },
+            {
+                "id": "4",
+                "text": "formating"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "86",
+        "text": "Choose the correct answer: Balance sheet means",
+        "options": [
+            {
+                "id": "1",
+                "text": "Balancing strategies of a firm"
+            },
+            {
+                "id": "2",
+                "text": "Future plans of a firm in paper"
+            },
+            {
+                "id": "3",
+                "text": "Summary of assets and liabilities of a firm"
+            },
+            {
+                "id": "4",
+                "text": "Calculation sheet of a firm"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "87",
+        "text": "Choose the correct answer: Company AGMs are meetings of",
+        "options": [
+            {
+                "id": "1",
+                "text": "shareholders of the company"
+            },
+            {
+                "id": "2",
+                "text": "bankers to the company"
+            },
+            {
+                "id": "3",
+                "text": "directors of the company"
+            },
+            {
+                "id": "4",
+                "text": "creditors of a company"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "88",
+        "text": "Choose the correct answer: What is the name of the device that connects two computers by means of a telephone line?",
+        "options": [
+            {
+                "id": "1",
+                "text": "Tape"
+            },
+            {
+                "id": "2",
+                "text": "Bus"
+            },
+            {
+                "id": "3",
+                "text": "Modem"
+            },
+            {
+                "id": "4",
+                "text": "Cable tag"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "89",
+        "text": "Choose the correct answer: Maslow's hierarchy concept is a theory of",
+        "options": [
+            {
+                "id": "1",
+                "text": "motivation"
+            },
+            {
+                "id": "2",
+                "text": "marketing"
+            },
+            {
+                "id": "3",
+                "text": "advertising"
+            },
+            {
+                "id": "4",
+                "text": "assessment"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "90",
+        "text": "Choose the correct answer: A terminal that can function only when it is lined to a computer is called a",
+        "options": [
+            {
+                "id": "1",
+                "text": "diskette"
+            },
+            {
+                "id": "2",
+                "text": "disassembler"
+            },
+            {
+                "id": "3",
+                "text": "drum storage"
+            },
+            {
+                "id": "4",
+                "text": "dumb terminal"
+            }
+        ],
+        "correct": 0,
+        "section": "Communication Ability",
+        "correctAnswer": "1"
+    }
+]

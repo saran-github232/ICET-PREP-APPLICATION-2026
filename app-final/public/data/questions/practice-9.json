@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "1",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 15"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 12"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 9"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 18"
+            }
+        ],
+        "correct": 1,
+        "section": "Number Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "2",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 18"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 20"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 24"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 28"
+            }
+        ],
+        "correct": 3,
+        "section": "Number Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "3",
+        "text": "Find the Missing LETTERS",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b CMN"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b UJI"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b VIJ"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b LMT"
+            }
+        ],
+        "correct": 0,
+        "section": "Letter Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "4",
+        "text": "Find the Missing LETTERS",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b O,U"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b U,U"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b U,O"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b O,O"
+            }
+        ],
+        "correct": 0,
+        "section": "Letter Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "5",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 139"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 127"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 83"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 121"
+            }
+        ],
+        "correct": 3,
+        "section": "Number Series",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "6",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 165"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 162"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 163"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 166"
+            }
+        ],
+        "correct": 2,
+        "section": "Number Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "7",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 202"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 382"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 404"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 380"
+            }
+        ],
+        "correct": 1,
+        "section": "Number Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "8",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 89"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 71"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 85"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 92"
+            }
+        ],
+        "correct": 2,
+        "section": "Number Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "9",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 15"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 16"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 17"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 18"
+            }
+        ],
+        "correct": 1,
+        "section": "Number Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "10",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 202"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 382"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 404"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 380"
+            }
+        ],
+        "correct": 1,
+        "section": "Number Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "11",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 89"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 71"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 85"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 92"
+            }
+        ],
+        "correct": 2,
+        "section": "Number Series",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "12",
+        "text": "Find the Missing Number",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 15"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 14"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 13"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 12"
+            }
+        ],
+        "correct": 0,
+        "section": "Number Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "13",
+        "text": "If in a certain code language, \u2018HELPER\u2019 is coded as \u2018REPLEH\u2019, then the code for \u2018 SATURN \u2019 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b ASUTNR"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b NRTUAS"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b NRUTSA"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b NRUTAS"
+            }
+        ],
+        "correct": 3,
+        "section": "Coding and Decoding",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "14",
+        "text": "If in a certain code language \u2018 RIGHT \u2019 is coded as \u2018 THGIR \u2019, how would \u2018 OCTOBER \u2019 be coded?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b REOBTCO"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b REBOCTO"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b REBOTOC"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b REBOTCO"
+            }
+        ],
+        "correct": 3,
+        "section": "Coding and Decoding",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "15",
+        "text": "If X= 48 and RUN = 106, then what will be CAT",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 48"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 24"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 52"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 125"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and Decoding",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "16",
+        "text": "APPLE is coded as 50, then ORANGE is coded as",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 50"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 80"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 70"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 60"
+            }
+        ],
+        "correct": 3,
+        "section": "Coding and Decoding",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "17",
+        "text": "CAR is 22, SCOOTER = ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 33"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 44"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 11"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 95"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and Decoding",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "18",
+        "text": "In Certain Language \u2018VIZAG\u2019 = 6, \u2018KURNOOL\u2019 = 12, \u2018ONGOLE\u2019 = 9, then \u2018HYDERABAD\u2019 =",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 18"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 16"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 9"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 14"
+            }
+        ],
+        "correct": 0,
+        "section": "Coding and Decoding",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "19",
+        "text": "584 : EHD :: 695 :",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b FIE"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b GJD"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b FID"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b GIE"
+            }
+        ],
+        "correct": 0,
+        "section": "Analogy",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "20",
+        "text": "3784 : 1892 :: \u200b : 2874",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 5648"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 5748"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 4856"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 4788"
+            }
+        ],
+        "correct": 1,
+        "section": "Number Series",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "21",
+        "text": "23:57 :: 1113 :",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 1719"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 1516"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 1517"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 1917"
+            }
+        ],
+        "correct": 0,
+        "section": "Number Series",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "22",
+        "text": "If today is Tuesday, what day of the week was it 124 days before?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Sunday - \u200b\u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Friday - \u200b\u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Saturday - \u200b\u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Thursday - \u200b\u200b\u200b\u200b\u200b"
+            }
+        ],
+        "correct": 3,
+        "section": "Date, Time and Arrangements",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "23",
+        "text": "At what angle the hands of a clock are inclined when the time is 20 minutes past 4?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 12\u00b0"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 20\u00b0"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 10\u00b0"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 15\u00b0"
+            }
+        ],
+        "correct": 2,
+        "section": "Clock",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "24",
+        "text": "If A is the brother of the son of B\u2019s son, how is A related to B?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Son - \u200b\u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Grand son - \u200b\u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Brother - \u200b\u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Grand daughter - \u200b\u200b\u200b\u200b\u200b"
+            }
+        ],
+        "correct": 1,
+        "section": "Blood Relations",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "25",
+        "text": "Six friends A, B, C, D, E and F are sitting around a round table facing the centre of the table. E is to the left of D, C is between A and B, and F is between E and A. Who is on the left of B?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b F"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b A"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b C"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b D"
+            }
+        ],
+        "correct": 3,
+        "section": "Seating Arrangement",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "26",
+        "text": "In which year the total number of cars of types A and B together was equal to that of types D and E together?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 2018"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 2019"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 2022"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 2021"
+            }
+        ],
+        "correct": 1,
+        "section": "Data Interpretation",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "27",
+        "text": "The increase percentage of total production of all modes in 2023 to that of 2018 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 15"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 14.5"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 14"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 15.5"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Interpretation",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "28",
+        "text": "In which year the production of all types of cars taken together was nearest to the average of total production during 2018-2023?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 2020"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 2022"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 2019"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 2018"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Interpretation",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "29",
+        "text": "The production of which type of cars was 25 % of the total production of all types in 2022?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b A"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b E"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b C"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b D"
+            }
+        ],
+        "correct": 1,
+        "section": "Data Interpretation",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "30",
+        "text": "The decrease percentage of type C cars from 2022 to 2023 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 45"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 60"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 40"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 50"
+            }
+        ],
+        "correct": 3,
+        "section": "Data Interpretation",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "31",
+        "text": "How many only Telugu and English?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 40"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 55"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 45"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 50"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Analysis",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "32",
+        "text": "What is the percentage of people in the community knowing Hindi and English only?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 14.33"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 15"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 13.33"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 12"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Analysis",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "33",
+        "text": "The number of members who do not know English is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 120"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 130"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 125"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 140"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Analysis",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "34",
+        "text": "The number of persons who know only one of the three languages is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 110"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 120"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 130"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 140"
+            }
+        ],
+        "correct": 0,
+        "section": "Data Analysis",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "35",
+        "text": "The percentage of members not knowing Hindi is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 42"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 45"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 35"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 40"
+            }
+        ],
+        "correct": 2,
+        "section": "Data Analysis",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "36",
+        "text": "The calendar for the year 2007 will be the same for the following year:",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 2014"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 2016"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 2017"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 2018"
+            }
+        ],
+        "correct": 3,
+        "section": "Date, Time and Arrangements",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "37",
+        "text": "What is the angle between hour hand and minute hand at 3 PM",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 90\u00b0"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 120\u00b0"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 270\u00b0"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 0\u00b0"
+            }
+        ],
+        "correct": 0,
+        "section": "Clock",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "38",
+        "text": "On which day of the week will India celebrate its 150th Independence Day?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Monday - \u200b\u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Wednesday - \u200b\u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Saturday - \u200b\u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Friday - \u200b\u200b\u200b\u200b\u200b"
+            }
+        ],
+        "correct": 0,
+        "section": "Date, Time and Arrangements",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "39",
+        "text": "Ramu ranks 7th from the top and 28th from the bottom in the class. How many students are there in the class?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 34"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 35"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 36"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 37"
+            }
+        ],
+        "correct": 0,
+        "section": "Logical Reasoning",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "40",
+        "text": "What was the day on 1st January, 1 A.D",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Sunday - \u200b\u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Monday - \u200b\u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Tuesday - \u200b\u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Wednesday- \u200b\u200b\u200b\u200b\u200b"
+            }
+        ],
+        "correct": 1,
+        "section": "Date, Time and Arrangements",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "41",
+        "text": "How many times do the hours and minutes hands of the clock are perpendicular to each other in a day",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 24 times - 24 \u200b\u200b"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 20 times -20 \u200b\u200b"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 44 times- 44 \u200b\u200b"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 34 times- 34 \u200b\u200b"
+            }
+        ],
+        "correct": 2,
+        "section": "Clock",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "42",
+        "text": "At what time between 6'O clock and 7'O clock will the hands of a clock will coincide?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 6 hours 33 min - 6 \u200b\u200b\u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 6 hours 23 min - 6 \u200b\u200b\u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 6 hours 43 min - 6 \u200b\u200b\u200b\u200b\u200b\u200b"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 6 hours 53 min - 6 \u200b\u200b\u200b\u200b\u200b\u200b"
+            }
+        ],
+        "correct": 0,
+        "section": "Clock",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "43",
+        "text": "In how many different ways can the letters of the word BANANA be arranged?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 60"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 120"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 360"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 720"
+            }
+        ],
+        "correct": 0,
+        "section": "Permutations and Combinations",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "44",
+        "text": "a*b = (a\u00b2+ b\u00b2)/ab \u2192 1*(1*1) = ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 2.8"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 2.9"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 3.4"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 1.3"
+            }
+        ],
+        "correct": 1,
+        "section": "Logical Reasoning",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "45",
+        "text": "For real numbers a and b, if a*b=(a-b)\u2074, then (62)*(65)=?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b 8"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b 256"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b 81"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b 16"
+            }
+        ],
+        "correct": 2,
+        "section": "Logical Reasoning",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "46",
+        "text": "Choose the correct meaning of the underlined word",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Forgiving"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Helping"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Investigating"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Denying"
+            }
+        ],
+        "correct": 3,
+        "section": "Vocabulary",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "47",
+        "text": "Choose the correct meaning of the following word",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Disguise"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Discovery"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Demonstration"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Disintegration"
+            }
+        ],
+        "correct": 0,
+        "section": "Vocabulary",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "48",
+        "text": "Choose the correct meaning of the following word",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Around"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Septic"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Infectious"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Preventive"
+            }
+        ],
+        "correct": 3,
+        "section": "Vocabulary",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "49",
+        "text": "Choose the correct meaning of the following word",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Friendly"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Obedient"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Hostile"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Negligent"
+            }
+        ],
+        "correct": 2,
+        "section": "Vocabulary",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "50",
+        "text": "Choose the correct meaning of the following word",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b obscure"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Confound"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Misunderstand"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Interpret"
+            }
+        ],
+        "correct": 3,
+        "section": "Vocabulary",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "51",
+        "text": "Fill in the blank with suitable word",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Physiology"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Cardiology"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Anatomy"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Dermatology"
+            }
+        ],
+        "correct": 2,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "52",
+        "text": "The workers felt happy as their salary was _____",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b reduced"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b enhanced"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b delayed"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b denied"
+            }
+        ],
+        "correct": 1,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "53",
+        "text": "The melody of a song can ____ infants and animals, alike",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b trouble"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b enfeeble"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b enchant"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b inconvenience"
+            }
+        ],
+        "correct": 2,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "54",
+        "text": "Their appeal was rejected as it had no ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b substance"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b distance"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b comedy"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b charm"
+            }
+        ],
+        "correct": 0,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "55",
+        "text": "The rise in prices leads to what is often called ____.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b deflation"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b hyper-flation"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b depreciation"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b inflation"
+            }
+        ],
+        "correct": 3,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "56",
+        "text": "He wasted all the money given by his father as he was ____",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b frugal"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b transparent"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b spendthrift"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b balanced"
+            }
+        ],
+        "correct": 2,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "57",
+        "text": "They became bankrupt as they had more ____ than assets.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Wealth"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Sensibility"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Shares"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Liabilities"
+            }
+        ],
+        "correct": 3,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "58",
+        "text": "A fool and his money are easily ____.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b merged"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b collected"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b parted"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b attached"
+            }
+        ],
+        "correct": 2,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "59",
+        "text": "The director of the company ____ to talk to a mere temporary employee.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b contradicted"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b condescended"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b withheld"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b disapproved"
+            }
+        ],
+        "correct": 1,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "60",
+        "text": "He was astonished ____ his failure.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b with"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b for"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b in"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b while"
+            }
+        ],
+        "correct": 0,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "61",
+        "text": "We have been living here ____ ten years",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b until"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b inside"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b since"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b for"
+            }
+        ],
+        "correct": 3,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "62",
+        "text": "The birds are chirping in the trees, ____?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b isn't they"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b aren't they"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b doesn't they"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b didn't they"
+            }
+        ],
+        "correct": 1,
+        "section": "Grammar",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "63",
+        "text": "My brother or my sister ____ to the marriage",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Is coming"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b are coming"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b were coming"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Have come"
+            }
+        ],
+        "correct": 0,
+        "section": "Grammar",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "64",
+        "text": "The message was sent ____ post.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b by"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b out"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b up"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b over"
+            }
+        ],
+        "correct": 0,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "65",
+        "text": "The bus was ready ____ the foot of the temple.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b upon"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b with"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b at"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b yet"
+            }
+        ],
+        "correct": 2,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "66",
+        "text": "You ____ are to blame for this.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b yourself"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b your"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b yours"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b you"
+            }
+        ],
+        "correct": 0,
+        "section": "Grammar",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "67",
+        "text": "You are not ill, ____?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b are you"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b aren't you"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b isn't it"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b were you"
+            }
+        ],
+        "correct": 0,
+        "section": "Grammar",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "68",
+        "text": "This locality ____ different minerals.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b abides with"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b abides with"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b abounds with"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b abounds in"
+            }
+        ],
+        "correct": 3,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "69",
+        "text": "He has a fascination ____ music.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b to"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b for"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b about"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b in"
+            }
+        ],
+        "correct": 1,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "70",
+        "text": "The nurse is attending ____ the patient.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b for"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b on"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b with"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b from"
+            }
+        ],
+        "correct": 1,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "71",
+        "text": "He knows Telugu ____ Hindi.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b as well as"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b and"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b where as"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b for"
+            }
+        ],
+        "correct": 0,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "72",
+        "text": "There was a lot of traffic, ____?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b isn't there"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b were there"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b wasn't there"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b are there"
+            }
+        ],
+        "correct": 2,
+        "section": "Grammar",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "73",
+        "text": "I will see you ____ Friday.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b on"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b at"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b in"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b during"
+            }
+        ],
+        "correct": 0,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "74",
+        "text": "Surya is going away ____ a week in September.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b about"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b during"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b since"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b for"
+            }
+        ],
+        "correct": 3,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "75",
+        "text": "They saw ____ lion in ____ zoo.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b a, an"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b an, the"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b a, the"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b the, the"
+            }
+        ],
+        "correct": 2,
+        "section": "Grammar",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "76",
+        "text": "I prefer coffee ____ tea",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b to"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b than"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b about"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b into"
+            }
+        ],
+        "correct": 0,
+        "section": "Fill in the Blanks",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "77",
+        "text": "Choose the antonym for \u2018convex\u2019.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b complex"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b enclave"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b reflex"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b concave"
+            }
+        ],
+        "correct": 3,
+        "section": "Vocabulary",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "78",
+        "text": "Choose the correct form of positive degree for the following sentence from the given options:",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b No one drives the car as fast as he does."
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Someone drives the car as fast as he does."
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b He drives the car fastest than anyone else."
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Any one may drive the car as fast as he does."
+            }
+        ],
+        "correct": 0,
+        "section": "Grammar",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "79",
+        "text": "Choose the correct form of indirect speech for the following sentence from the given options",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b I think he really means it."
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b He really means what he said."
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b He really means what he said."
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b And then I wondered whether he really meant it."
+            }
+        ],
+        "correct": 3,
+        "section": "Grammar",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "80",
+        "text": "Document that has a list of items to be discussed at a meeting is called.",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Minutes"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Business letter"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Research report"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Agenda"
+            }
+        ],
+        "correct": 3,
+        "section": "Vocabulary",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "81",
+        "text": "Which of the following produces the best quality graphics reproduction?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Laser printer"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Inkjet printer"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Plotter"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Dot matrix printer"
+            }
+        ],
+        "correct": 2,
+        "section": "Computer",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "82",
+        "text": "The design that helps hackers is called",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b hard disc"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b megabyte"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b trojan horse"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b cowboy"
+            }
+        ],
+        "correct": 2,
+        "section": "Computer",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "83",
+        "text": "A symbol indicating retrieval of data is a/an",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b shift register"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b expansion code"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b networking protocol"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b hour glass"
+            }
+        ],
+        "correct": 3,
+        "section": "Computer",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "84",
+        "text": "Planning teams simulate the role of information technology in various hypothetical business situation is known",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Change management"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b End user involvement"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Planning for competitive advantage"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Scenario approach"
+            }
+        ],
+        "correct": 3,
+        "section": "Management",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "85",
+        "text": "What is Bounce Rate in Business?",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Price rise"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Slump"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Frequent visiting of a website"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Prices falling beyond expectations"
+            }
+        ],
+        "correct": 2,
+        "section": "Business",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "86",
+        "text": "Fair Trade means",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Good business"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b A big market"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Cosmetic Operation"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b A business agreement for developing nations"
+            }
+        ],
+        "correct": 3,
+        "section": "Business",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "87",
+        "text": "Grapevine is a term used for",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Formal communication"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Informal communication"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Complaint procedure"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Meeting procedure"
+            }
+        ],
+        "correct": 1,
+        "section": "Management",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "88",
+        "text": "The dividend is paid on",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Company debentures"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Company bonds"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Company shares"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Company deposits"
+            }
+        ],
+        "correct": 2,
+        "section": "Finance",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "89",
+        "text": "Full form of Wi-fi is",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Wireless fidelity"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Wireless access"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Wireless finding"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Wireless Finesse"
+            }
+        ],
+        "correct": 0,
+        "section": "Computer",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "90",
+        "text": "Demonization refers to",
+        "options": [
+            {
+                "id": "1",
+                "text": "1. \u200b Act of tripping a current unit of its status or legal tender"
+            },
+            {
+                "id": "2",
+                "text": "2. \u200b Banning of all coins"
+            },
+            {
+                "id": "3",
+                "text": "3. \u200b Banning of all currency notes"
+            },
+            {
+                "id": "4",
+                "text": "4. \u200b Borrowing currency from other countries"
+            }
+        ],
+        "correct": 2,
+        "section": "Economics",
+        "correctAnswer": "3"
+    }
+]
