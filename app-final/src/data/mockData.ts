@@ -1,4 +1,4 @@
-import { Question } from '../types';
+import type { Question } from '../types';
 
 export const MOCK_QUESTIONS: Question[] = [
   // Analytical Ability

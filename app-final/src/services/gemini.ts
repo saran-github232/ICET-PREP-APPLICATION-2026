@@ -10,6 +10,17 @@ export const getStoredApiKey = () =>
 
 export const setStoredApiKey = (key: string) => localStorage.setItem(API_KEY_STORAGE_KEY, key.trim());
 
+const LOCAL_QUOTES = [
+  "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+  "Your time is limited, don't waste it living someone else's life.",
+  "The only way to do great work is to love what you do.",
+  "Believe in yourself and all that you are.",
+  "Education is the most powerful weapon which you can use to change the world.",
+  "Don't watch the clock; do what it does. Keep going.",
+  "The future depends on what you do today.",
+  "Your ambition is the path to your success. Persistence is the vehicle you arrive in."
+];
+
 class GeminiService {
   private genAI: GoogleGenerativeAI | null = null;
 
