@@ -29,12 +29,26 @@ const ExamSimulator: React.FC = () => {
     const loadExam = async () => {
       if (!testMetadata) return;
       setLoading(true);
-      setLoadingStatus("Connecting to Google Gemini AI for parsing...");
       
       try {
+        // Step 1: Try to fetch pre-parsed static JSON for this test
+        // This is much faster and more reliable
+        setLoadingStatus("Checking for high-speed question data...");
+        const response = await fetch(`/data/questions/${testId}.json`);
+        if (response.ok) {
+          const staticQuestions = await response.json();
+          if (staticQuestions && staticQuestions.length > 0) {
+            setQuestions(staticQuestions);
+            setLoading(false);
+            return;
+          }
+        }
+
+        // Step 2: Fallback to real-time PDF parsing via Gemini
+        setLoadingStatus("Connecting to Google Gemini AI for parsing...");
         const loadPromise = pdfService.loadTest(testMetadata.pdfPath);
         
-        // Timeout after 25 seconds to avoid infinite loading if AI is slow
+        // Timeout after 25 seconds
         const timeoutPromise = new Promise((_, reject) => 
           setTimeout(() => reject(new Error("Loading timeout")), 25000)
         );
@@ -46,8 +60,8 @@ const ExamSimulator: React.FC = () => {
         }
         setQuestions(q);
       } catch (error) {
-        console.warn("Loading error or timeout, using simulated questions:", error);
-        // Use a random subset of 20 questions from our 25-question bank for variety
+        console.warn("Static load or AI parsing failed, using core bank:", error);
+        // Step 3: Use a random subset from our 25-question core bank as final fallback
         const shuffled = [...MOCK_QUESTIONS].sort(() => 0.5 - Math.random());
         setQuestions(shuffled.slice(0, 20));
       } finally {
@@ -56,7 +70,7 @@ const ExamSimulator: React.FC = () => {
     };
 
     loadExam();
-  }, [testMetadata]);
+  }, [testMetadata, testId]);
 
   if (loading || !state) {
     return (
