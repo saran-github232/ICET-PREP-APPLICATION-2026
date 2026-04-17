@@ -3,7 +3,8 @@ import { useParams, useNavigate } from 'react-router-dom';
 import { Header } from '../components/common/Header';
 import { geminiService } from '../services/gemini';
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip } from 'recharts';
-import { CheckCircle2, XCircle, Info, Sparkles, Trophy, ArrowLeft, Loader2 } from 'lucide-react';
+import { CheckCircle2, XCircle, Info, Sparkles, Trophy, ArrowLeft, Loader2, Download, BookOpen } from 'lucide-react';
+import { jsPDF } from 'jspdf';
 
 const Results: React.FC = () => {
   const { testId } = useParams<{ testId: string }>();
@@ -11,6 +12,7 @@ const Results: React.FC = () => {
   const [examData, setExamData] = useState<any>(null);
   const [explanations, setExplanations] = useState<Record<string, string>>({});
   const [loadingExpl, setLoadingExpl] = useState<string | null>(null);
+  const [isGeneratingAll, setIsGeneratingAll] = useState(false);
 
   useEffect(() => {
     const saved = localStorage.getItem(`icet_exam_${testId}`);
@@ -37,6 +39,82 @@ const Results: React.FC = () => {
 
     return { correct, wrong, unattempted, total: questions.length };
   }, [examData]);
+
+  const handleDownloadPDF = () => {
+    if (!examData || !stats) return;
+    
+    const doc = new jsPDF();
+    const margin = 15;
+    let y = 20;
+
+    // Header
+    doc.setFontSize(22);
+    doc.setTextColor(26, 60, 110);
+    doc.text("ICET Mock Prep - Performance Report", margin, y);
+    y += 15;
+
+    doc.setFontSize(14);
+    doc.setTextColor(85, 92, 112);
+    doc.text(`Test Result: ${stats.correct} / ${stats.total}`, margin, y);
+    y += 10;
+    doc.text(`Accuracy: ${Math.round((stats.correct / (stats.total || 1)) * 100)}%`, margin, y);
+    y += 20;
+
+    // Questions
+    doc.setFontSize(16);
+    doc.setTextColor(232, 112, 10);
+    doc.text("Question Review & Explanations", margin, y);
+    y += 15;
+
+    examData.questions.forEach((q: any, i: number) => {
+      if (y > 270) {
+        doc.addPage();
+        y = 20;
+      }
+
+      doc.setFontSize(12);
+      doc.setTextColor(26, 26, 46);
+      const text = `${i + 1}. ${q.text}`;
+      const splitText = doc.splitTextToSize(text, 180);
+      doc.text(splitText, margin, y);
+      y += (splitText.length * 6) + 4;
+
+      doc.setFontSize(10);
+      doc.setTextColor(46, 139, 87);
+      doc.text(`Correct Answer: ${q.correctAnswer}`, margin, y);
+      y += 8;
+
+      if (explanations[q.id]) {
+        doc.setTextColor(85, 92, 112);
+        const explText = `Explanation: ${explanations[q.id]}`;
+        const splitExpl = doc.splitTextToSize(explText, 170);
+        doc.text(splitExpl, margin + 5, y);
+        y += (splitExpl.length * 5) + 15;
+      } else {
+        y += 10;
+      }
+    });
+
+    doc.save(`ICET_Report_${testId}.pdf`);
+  };
+
+  const handleGenerateAllExplanations = async () => {
+    if (!examData) return;
+    setIsGeneratingAll(true);
+    
+    for (const q of examData.questions) {
+      if (explanations[q.id]) continue;
+      
+      const expl = await geminiService.getExplanation(
+        q.text,
+        q.options.map((o: any) => `${o.id}: ${o.text}`),
+        q.correctAnswer
+      );
+      setExplanations(prev => ({ ...prev, [q.id]: expl }));
+    }
+    
+    setIsGeneratingAll(false);
+  };
 
   const handleGetExplanation = async (qId: string, qText: string, opts: any[], correct: string) => {
     setLoadingExpl(qId);
@@ -142,8 +220,30 @@ const Results: React.FC = () => {
           </div>
         </div>
 
-        {/* Detailed Review */}
-        <h3 className="text-2xl mb-8">Review Questions</h3>
+        {/* Detailed Review Header */}
+        <div className="flex flex-col md:flex-row justify-between items-center gap-6 mb-8">
+          <h3 className="text-2xl">Review Questions</h3>
+          
+          <div className="flex items-center gap-4 w-full md:w-auto">
+            <button 
+              onClick={handleGenerateAllExplanations}
+              disabled={isGeneratingAll}
+              className="flex-1 md:flex-initial flex items-center justify-center gap-2 px-6 py-2.5 bg-secondary/10 text-secondary rounded-xl font-bold hover:bg-secondary/20 transition-all disabled:opacity-50"
+            >
+              {isGeneratingAll ? <Loader2 className="w-4 h-4 animate-spin" /> : <BookOpen className="w-4 h-4" />}
+              {isGeneratingAll ? "Generating Practice Set..." : "Practice Mode (Build Explanations)"}
+            </button>
+
+            <button 
+              onClick={handleDownloadPDF}
+              className="flex-1 md:flex-initial flex items-center justify-center gap-2 px-6 py-2.5 bg-primary text-white rounded-xl font-bold hover:shadow-lg hover:shadow-primary/20 transition-all"
+            >
+              <Download className="w-4 h-4" />
+              Download PDF Report
+            </button>
+          </div>
+        </div>
+
         <div className="space-y-6">
           {examData.questions.map((q: any, i: number) => {
             const userAns = examData.userAnswers[q.id];

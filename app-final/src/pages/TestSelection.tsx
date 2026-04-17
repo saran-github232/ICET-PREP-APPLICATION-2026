@@ -4,9 +4,11 @@ import { TESTS } from '../data/tests';
 import { Header } from '../components/common/Header';
 import { TestCard } from '../components/selection/TestCard';
 import { motion } from 'framer-motion';
-import { BookMarked, GraduationCap, History, Compass } from 'lucide-react';
+import { BookMarked, GraduationCap, History, Compass, ChevronRight } from 'lucide-react';
+import { useNavigate } from 'react-router-dom';
 
 const TestSelection: React.FC = () => {
+  const navigate = useNavigate();
   const [searchParams, setSearchParams] = useSearchParams();
   const currentTab = searchParams.get('tab') || 'shift';
 
@@ -60,12 +62,17 @@ const TestSelection: React.FC = () => {
           >
             <Compass className="w-16 h-16 text-secondary mx-auto mb-6 opacity-40" />
             <h3 className="text-3xl mb-4">AP ICET 2026 Strategy Guide</h3>
-            <p className="max-w-2xl mx-auto text-text-secondary font-serif leading-loose">
+            <p className="max-w-2xl mx-auto text-text-secondary font-serif leading-loose mb-8">
               Master the Analytical, Mathematical, and Communication sections with our curated study materials. 
               The guide includes section-wise weightage, time management hacks, and key formulae for ICET 2026.
-              <br/><br/>
-              <span className="text-primary font-bold uppercase tracking-widest text-sm">Coming Soon effectively with AI insights</span>
             </p>
+            <button 
+              onClick={() => navigate('/guide')}
+              className="inline-flex items-center gap-2 px-8 py-4 bg-primary text-white rounded-2xl font-bold hover:shadow-xl transition-all group"
+            >
+              Enter Strategy Guide
+              <ChevronRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+            </button>
           </motion.div>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

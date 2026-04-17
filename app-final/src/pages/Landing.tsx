@@ -17,16 +17,15 @@ const Landing: React.FC = () => {
     if (!hasOnboarded) {
       setShowModal(true);
     }
-    
-    // Fetch motivational quote
-    const fetchQuote = async () => {
-      setQuoteLoading(true);
-      const q = await geminiService.getMotivationalQuote();
-      setQuote(q);
-      setQuoteLoading(false);
-    };
     fetchQuote();
   }, []);
+
+  const fetchQuote = async () => {
+    setQuoteLoading(true);
+    const q = await geminiService.getMotivationalQuote();
+    setQuote(q);
+    setQuoteLoading(false);
+  };
 
   const handleOnboard = () => {
     if (userName.trim()) {
@@ -34,6 +33,7 @@ const Landing: React.FC = () => {
       setStoredApiKey(apiKey);
       localStorage.setItem('icet_onboarded', 'true');
       setShowModal(false);
+      fetchQuote(); // Refresh quote after getting API key
     }
   };
 
@@ -59,6 +59,19 @@ const Landing: React.FC = () => {
         <h1 className="text-6xl md:text-8xl font-black mb-8 leading-tight tracking-tight">
           Master the <span className="text-secondary italic">Arena</span>
         </h1>
+        
+        {geminiService.isInitialized() && (
+          <motion.div 
+            initial={{ opacity: 0, scale: 0.8 }}
+            animate={{ opacity: 1, scale: 1 }}
+            className="flex items-center justify-center gap-2 mb-6"
+          >
+            <div className="w-2 h-2 bg-success rounded-full animate-pulse shadow-[0_0_10px_rgba(46,139,87,0.8)]" />
+            <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-success">
+              Gemini AI Active
+            </span>
+          </motion.div>
+        )}
         
         <p className="text-xl md:text-2xl text-text-secondary font-serif mb-12 max-w-2xl mx-auto italic">
           "{quoteLoading ? "Fetching inspiration..." : quote}"
@@ -155,6 +168,18 @@ const Landing: React.FC = () => {
           </div>
         )}
       </AnimatePresence>
+
+      {/* Footer Branding */}
+      <motion.div 
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ delay: 1.2 }}
+        className="mt-20 py-8 border-t border-primary/5 w-full text-center"
+      >
+        <p className="text-sm font-bold tracking-widest uppercase opacity-40">
+          Designed and developed by <span className="text-secondary font-black underline decoration-primary/20 underline-offset-4">VoidWareLabs</span>
+        </p>
+      </motion.div>
     </div>
   );
 };

@@ -20,7 +20,7 @@ export interface ExamState {
   testName: string;
   questions: Question[];
   userAnswers: Record<string, string>; // questionId -> optionId
-  status: Record<string, 'not-visited' | 'answered' | 'marked' | 'marked-answered'>;
+  status: Record<string, 'not-visited' | 'answered' | 'marked' | 'marked-answered' | 'not-answered'>;
   timeLeft: number; // in seconds
   startTime: number;
   endTime?: number;

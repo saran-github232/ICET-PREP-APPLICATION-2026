@@ -20,7 +20,7 @@ export const useExamState = (testId: string, questions: Question[]) => {
         questions,
         userAnswers: {},
         status: {},
-        timeLeft: 150 * 60, // 150 minutes default
+        timeLeft: 90 * 60, // 90 minutes standard
         startTime: Date.now(),
         isPaused: false,
       };
@@ -90,10 +90,11 @@ export const useExamState = (testId: string, questions: Question[]) => {
 
   const visitQuestion = useCallback((qId: string) => {
     setState(prev => {
-      if (!prev || prev.status[qId] !== 'not-visited') return prev;
+      if (!prev) return null;
+      if (prev.status[qId] !== 'not-visited') return prev;
       return {
         ...prev,
-        status: { ...prev.status, [qId]: 'not-visited' } // Already is, but we might want to track 'visited' explicitly if needed
+        status: { ...prev.status, [qId]: 'not-answered' }
       };
     });
   }, []);

@@ -3,16 +3,23 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 const API_KEY_STORAGE_KEY = "icet_gemini_api_key";
 
 export const getStoredApiKey = () => localStorage.getItem(API_KEY_STORAGE_KEY) || "";
-export const setStoredApiKey = (key: string) => localStorage.setItem(API_KEY_STORAGE_KEY, key);
+export const setStoredApiKey = (key: string) => localStorage.setItem(API_KEY_STORAGE_KEY, key.trim());
 
 class GeminiService {
   private genAI: GoogleGenerativeAI | null = null;
 
+  public isInitialized(): boolean {
+    return !!getStoredApiKey();
+  }
+
   private init() {
     const key = getStoredApiKey();
-    if (key && !this.genAI) {
-      this.genAI = new GoogleGenerativeAI(key);
+    if (!key) {
+      this.genAI = null;
+      return;
     }
+    // Re-initialize if key changed or not yet initialized
+    this.genAI = new GoogleGenerativeAI(key);
   }
 
   async getMotivationalQuote(): Promise<string> {

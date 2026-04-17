@@ -16,7 +16,12 @@ export const Header: React.FC = () => {
     <header className="w-full h-16 bg-white border-b border-primary/5 flex items-center justify-between px-8 shadow-sm">
       <div className="flex items-center gap-2 cursor-pointer" onClick={() => navigate('/')}>
         <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center text-white font-bold">I</div>
-        <span className="font-display font-bold text-xl tracking-tight text-primary">ICET MOCK</span>
+        <div className="flex flex-col">
+          <span className="font-display font-bold text-lg tracking-tight text-primary leading-none">ICET MOCK</span>
+          <span className="text-[9px] font-bold uppercase tracking-[0.2em] opacity-30 mt-0.5">
+            by VoidWareLabs
+          </span>
+        </div>
       </div>
 
       <div className="flex items-center gap-6">

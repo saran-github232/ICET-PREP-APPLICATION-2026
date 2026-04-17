@@ -1,0 +1,627 @@
+📘  Product Requirements Document
+ICET 2026 Mock Preparation Portal
+Version: 1.0
+Prepared by: Lakshmi Saran Polisetti
+Date: April 17, 2026
+Status: Draft — Ready for Development
+Table of Contents
+1. Product Overview
+2. Goals & Success Metrics
+3. User Personas
+4. Information Architecture & Page Structure
+5. Detailed Feature Requirements
+5.1 Landing Page
+5.2 Test Selection Page
+5.3 Test Interface (Exam Simulator)
+5.4 Result & Explanation Page
+5.5 ICET Guide Page
+5.6 Mock Full Tests (Gemini-Generated)
+5.7 APICET Previous Year Papers Section
+5.8 API Key Conﬁguration
+6. ICET 2026 Exam Pattern Reference
+7. PDF Content & Naming Convention
+8. Gemini AI Integration Spec
+9. UI/UX Design System (Quality Theme)
+10. Component Library & Interaction Patterns
+11. Technical Architecture
+12. Data Flow & State Management
+13. Performance Requirements
+14. Accessibility & Responsiveness
+15. Out of Scope
+16. Open Questions
+1. Product Overview
+1.1 Purpose
+A dedicated, full-featured web-based mock examination portal for students preparing for AP
+ICET 2026 (Andhra Pradesh Integrated Common Entrance Test). The portal simulates the real
+exam environment, provides AI-powered answers and explanations via Google Gemini, and
+includes a curated study guide to help students prepare holistically.
+1.2 Core Value Proposition
+Authentic exam simulation with timed, section-wise tests
+AI-generated motivational quotes on every visit (Gemini)
+AI-powered answer keys with step-by-step explanations (Gemini)
+21 shift-wise question papers + 2 full Grand Mock tests
+Complete APICET previous year papers with structured navigation
+Section-ﬁltered question palette (just like the real exam)
+Zero backend required — fully client-side with PDF + Gemini
+1.3 Target Audience
+Students appearing for AP ICET 2026; coaching institutes; self-study aspirants in Andhra
+Pradesh and Telangana.
+2. Goals & Success Metrics
+Goal Success Metric
+Students complete at least one mock test ≥ 80% session completion rate
+AI explanations load within 3 seconds Gemini API response < 3s per question
+Motivational quote refreshes on every visit 100% new quote per page load/refresh
+All 21 PDFs load correctly 0 broken paper links
+Mock test timer matches real exam Timer accurate ±1 second
+Goal Success Metric
+Mobile usability Functional on 360px minimum width
+3. User Personas
+Persona 1 — Priya (Self-Study Aspirant)
+Preparing from home, limited coaching access
+Needs: Clear guidance, timed practice, Telugu-free papers
+Goal: Score 90+ to get into a top MBA college
+Persona 2 — Ravi (Last-Minute Crammer)
+2 weeks before exam, wants quick mock tests
+Needs: Full-length timed tests, instant answer keys
+Goal: Identify weak areas quickly
+Persona 3 — Coaching Instructor
+Wants to share this portal with 30+ students
+Needs: Reliable UI, consistent content across sessions
+Goal: Replace printed papers with digital practice
+4. Information Architecture & Page Structure
+ICET Mock Prep Portal
+│
+├ ── [PAGE 1] Landing Page
+│   ├ ── Hero Text — "ICET 2026 Preparation Hub" + Tagline
+│   ├ ── AI Motivational Quote (Gemini, refreshes each visit)
+│   ├ ── Gemini API Key Input (first-time / settings)
+│   └── CTA Button — "Begin Your Journey →"
+│
+├ ── [PAGE 2] Test Selection Hub
+│   ├ ── Navigation Tabs: [Shift-wise Papers | Grand Mocks | Previous Year | Guide]
+│   ├ ── Section: 21 Shift-wise Papers (PDF-named buttons)
+│   ├ ── Section: 2 Gemini Grand Mock Tests
+5. Detailed Feature Requirements
+5.1 Landing Page
+5.1.1 Hero Section
+Primary Heading:"ICET 2026 — Your Gateway to MBA Success" (large, animated
+entrance)
+Subtitle:"Master Every Shift. Crack Every Section." (fade in, 300ms delay)
+Visual: Subtle animated geometric/academic background — no stock photos
+5.1.2 Motivational Quote Block
+Source: Google Gemini API (gemini-2.0-flash or latest)
+│   ├ ── Section: APICET Previous Year Papers
+│   │   ├ ── Set 1 (Years split)
+│   │   └── Set 2 (Years split)
+│   └── Section: ICET Guide
+│
+├ ── [PAGE 3] Exam Simulator Interface
+│   ├ ── Header Bar — Section Dropdown + Timer
+│   ├ ── Left Panel — Question Palette (numbered, color-coded)
+│   ├ ── Right Panel — Question + 4 Options
+│   └── Footer Bar — Prev | Clear | Submit | Review | Next
+│
+├ ── [PAGE 4] Results & Explanation Page
+│   ├ ── Score Card (Section-wise breakdown)
+│   ├ ── Question-by-Question Review
+│   │   ├ ── Your Answer (highlighted)
+│   │   ├ ── Correct Answer (highlighted)
+│   │   └── AI Explanation (Gemini-generated)
+│   └── Actions: Retry | Back to Hub
+│
+└── [PAGE 5] ICET Guide
+├ ── Exam Pattern Overview
+├ ── Section-wise Strategy
+├ ── Important Topics Checklist
+├ ── Time Management Tips
+└── PDF Resource Downloads
+Prompt to Gemini:"Generate a unique, powerful motivational quote (max 2
+sentences) specifically for a student preparing for a competitive MBA entrance
+exam like ICET. Be creative, not generic. Return ONLY the quote and author
+attribution."
+Behavior: Generates a fresh quote on every page load and every manual refresh
+Display: Stylized blockquote component with quotation marks, name attribution below
+Fallback: If API fails, rotate from a hardcoded list of 20 quotes
+5.1.3 API Key Input
+When to show: On ﬁrst visit (no key stored) OR via "Settings" icon
+UI: Clean modal overlay — text input labeled "Enter your Gemini API Key", save button,
+close
+Storage:localStorage key: icet_gemini_api_key
+Validation: Attempt a lightweight test call; show green ✓  or red ✗  status
+Note: Key is never sent anywhere except Gemini's own API
+5.1.4 CTA Button
+Label:"Begin Your Journey →" or "Enter the Arena →" (visually bold)
+Behavior: Navigate to Page 2 (Test Selection Hub)
+Design: Prominent, animated hover state, NOT generic ﬂat button
+5.2 Test Selection Page
+5.2.1 Page Header
+Compact top bar: Portal logo/name + Settings icon (for API key) + optional user name
+display
+5.2.2 Navigation Tabs
+Four clearly labeled tabs:
+Tab Label Content
+📄  Shift Papers 21 shift-wise PDF-based tests
+🏆  Grand Mocks 2 AI-generated full-length mock tests
+📚  Previous Year APICET solved papers (Set 1 & Set 2)
+🗺  Study Guide ICET 2026 preparation guide
+5.2.3 Shift Papers Grid (21 Papers)
+Layout: Responsive grid — 3 columns desktop, 2 tablet, 1 mobile
+Button design: Card-style button, showing:
+Paper number (e.g., Paper 01)
+PDF ﬁle name as title (e.g., ICET_Shift1_2024_Morning)
+Pill badge showing section count or question count if extractable
+Status icon: Not Attempted (grey) / Attempted (green tick) / In Progress (orange)
+Naming: Button title = exact PDF ﬁlename (without .pdf extension), formatted with
+spaces
+On click: Start exam in the Exam Simulator (Page 3)
+5.2.4 Grand Mock Tests Section
+2 Tests:Grand Mock Test 1 and Grand Mock Test 2
+Source: AI-generated by Gemini from content across all 21 PDFs
+Pattern: Follows oﬃcial ICET 2026 pattern exactly (200 questions, 150 min)
+Badge: "AI Generated" label clearly visible
+Status tracking: Same as shift papers
+5.2.5 APICET Previous Year Papers
+Division: Because the PDF is large, split into two navigable sets:
+Set 1: Earlier years (to be deﬁned when PDF is provided)
+Set 2: Recent years (to be deﬁned when PDF is provided)
+Structure: Accordion or sub-tab per year with question count shown
+Each year: Opens in the Exam Simulator with the same interface
+5.2.6 Progress Overview Panel
+Top of selection page shows a mini-dashboard:
+Papers attempted / 21
+Average score %
+Best section performance
+Streak: Days practiced
+5.3 Exam Simulator Interface
+This is the core screen. Based on the reference image provided.
+5.3.1 Layout Structure
+5.3.2 Header Bar Components
+┌─────────────────────────────────────────────────────────────────────┐
+│  [Section Dropdown ▼]      Test Name          ⏱  HH:MM:SS  [ ⚙ ]    │
+├ ────────────────── ┬ ────────────────────────────────────────────────── ┤
+│                  │                                                  │
+│  QUESTION        │   Q.No. X — Question Text                       │
+│  PALETTE         │                                                  │
+│                  │   ○  Option A                                     │
+│  [ 1 ][ 2 ][ 3 ] │   ○  Option B                                     │
+│  [ 4 ][ 5 ][ 6 ] │   ○  Option C                                     │
+│  ...             │   ○  Option D                                     │
+│                  │                                                  │
+│  Legend:         │                                                  │
+│  □ Not Visited   │                                                  │
+│  🔴  Not Answered │                                                  │
+│  🟢  Answered     │                                                  │
+│  🔵  Ans+Review   │                                                  │
+│  🟡  Marked       │                                                  │
+├ ────────────────── ┴ ────────────────────────────────────────────────── ┤
+│  [ ◀  Prev]  [Clear]          [Submit]        [Review ⭐ ]  [Next ▶ ]  │
+└─────────────────────────────────────────────────────────────────────┘
+Component Spec
+Section
+Dropdown
+Filters question palette by section (Sec A / Sec B / Sec C / All). Matches ICET section
+structure
+Test Name Centered — PDF name or Mock test name
+Timer Counts DOWN from 90:00 for shift papers / 150:00 for grand mocks. Format
+HH:MM:SS. Turns orange at 10 min, red at 5 min
+Settings icon Pause test, change API key
+5.3.3 Left Panel — Question Palette
+Scrollable grid of numbered boxes (up to 200 questions)
+Color Coding (matches real ICET):
+⬜  White / Grey outline = Not Visited
+🔴  Red = Visited but Not Answered
+🟢  Green = Answered
+🔵  Blue/Purple = Answered and Marked for Review
+🟡  Yellow/Orange = Marked for Review (without answer)
+Clicking a number jumps directly to that question
+Section ﬁlter from dropdown updates palette to highlight only that section's questions
+Bottom legend explaining all colors
+5.3.4 Right Panel — Question Area
+Question number shown as Q. 1 of 200
+Question text — clean, readable, large font (min 16px)
+4 Radio Options (A, B, C, D) — each is a tappable full-width row (not just the radio circle)
+Options have hover highlight, selected state shows ﬁlled circle + highlighted background
+Long questions scroll within the panel without aﬀecting palette
+5.3.5 Footer Navigation Bar
+Button Label Color Behavior
+Previous ◀  Prev Muted/Amber Go to previous question
+Clear Clear Grey Deselect current answer
+Submit Submit Green Conﬁrm submission modal
+Review Mark Review ⭐ Blue Flag question for review
+Next Next ▶ Orange/Teal Go to next question
+5.3.6 Submit Conﬁrmation Modal
+Before ﬁnal submission:
+Summary: Answered X / Total Y
+Not answered: Z
+Marked for review: W
+Two buttons: Go Back and Submit Final
+5.3.7 Auto-Submit
+When timer reaches 00:00:00, auto-submit ﬁres with a toast notiﬁcation: "Time's up!
+Submitting your paper..." and transitions to Results page.
+5.4 Result & Explanation Page
+5.4.1 Score Card Section
+Overall Score: Large number display (e.g., 142 / 200)
+Section Breakdown Table:
+Section Questions Attempted Correct Wrong Score
+Section A: Analytical Ability 75 — — — —
+Section B: Mathematical Ability 75 — — — —
+Section C: Communication Ability 50 — — — —
+Total 200 — — — —
+Visual: Donut chart or bar chart of section performance
+Time Taken vs Total Time displayed
+5.4.2 Question-by-Question Review
+For each question, display:
+Question text
+Your selected answer (highlighted in red if wrong, green if correct)
+Correct answer (highlighted in green)
+AI Explanation block — "Powered by Gemini" badge
+Step-by-step reasoning
+Formula or concept reference (for Math sections)
+Load on demand (lazy load with "Show Explanation" toggle to save API calls)
+5.4.3 Filter Controls on Review Page
+Show: All / Correct / Wrong / Skipped / Marked
+Section ﬁlter
+5.5 ICET Guide Page
+A comprehensive study reference, always accessible from the navigation tab.
+5.5.1 Sections in the Guide
+A. Exam Pattern Overview
+Full ICET 2026 exam structure table (see Section 6 of this PRD)
+Scoring: +1 for correct, 0 for incorrect (no negative marking)
+Total: 200 marks, 150 minutes
+B. Section-wise Strategy Cards
+Section A (Analytical): Data Suﬃciency, Sequences, Date/Time puzzles
+Section B (Mathematical): Arithmetic, Algebra, Geometry, Statistics
+Section C (Communication): Vocabulary, Grammar, Reading Comprehension, Business
+Terminology
+C. Important Topics Checklist
+Interactive checklist students can tick oﬀ
+Persists in localStorage
+D. Time Management Tips
+Recommended time per section
+Question attempt strategy
+Review ﬂagging strategy
+E. PDF Resource Downloads
+Direct download links to all 21 PDFs (as uploaded by user)
+APICET Previous Year Papers (Set 1 & Set 2)
+Business & Computer Terminology PDF
+5.6 Mock Full Tests (Gemini-Generated)
+5.6.1 Generation Logic
+Trigger: User clicks "Grand Mock Test 1" or "Grand Mock Test 2"
+Pre-generation check: If already generated and cached in localStorage, load cached
+version
+Gemini Prompt Structure:
+Split into 3 API calls (one per section) to avoid token limits
+Business & Computer Terminology questions (Section C): Alternating vocabulary →
+deﬁnition format and deﬁnition → term format
+5.6.2 Generation UX
+Loading screen with animated progress: "Generating Section A... (1/3)"
+Total generation time indicator
+Cache result in localStorage under key mock_test_1 / mock_test_2
+Option to "Regenerate" (clears cache)
+5.7 APICET Previous Year Papers
+5.7.1 Structure
+Because the PDF is large, divide into two sets on the selection page:
+Set 1 — Earlier Years
+Sub-buttons per year available in the PDF
+Each year: labeled "APICET YYYY — Morning Shift" etc.
+Set 2 — Recent Years
+Same structure as Set 1
+5.7.2 Display
+You are generating a full-length ICET 2026 mock test.
+Exam Pattern: 200 questions — Section A (75 Qs, Analytical Ability), 
+Section B (75 Qs, Mathematical Ability), Section C (50 Qs, Communication Ability).
+Generate [section] questions.
+Each question must have:
+- question_text (English only)
+- 4 options (A, B, C, D)
+- correct_answer (A/B/C/D)
+- explanation (step-by-step, 3–5 sentences)
+- section (A/B/C)
+- topic (e.g., "Arithmetic", "Grammar")
+Return ONLY valid JSON array. No markdown, no preamble.
+Accordion layout per year: click to expand and see available shifts/sets
+Question count shown per test
+"Solved" badge with AI explanations available
+5.8 API Key Conﬁguration
+Aspect Spec
+Input location Landing page (ﬁrst visit modal) + Settings icon on all pages
+Storage localStorage — key: icet_gemini_api_key
+Visibility toggle Show/hide password ﬁeld
+Validation Make a minimal test call to Gemini
+Error handling Clear message if key invalid: "Invalid API key. Please check and try again."
+Privacy notice Display: "Your API key is stored only on your device and sent only to Google Gemini."
+6. ICET 2026 Exam Pattern Reference
+Section Name Questions Marks Time
+(Recommended)
+Section
+A
+Analytical Ability 75 75 50 min
+— Part 1 Data Suﬃciency 20 20
+— Part 2 Problem Solving (Sequences, Coding, Date-
+Time, etc.)
+55 55
+Section
+B
+Mathematical Ability 75 75 60 min
+— Part 1 Arithmetical Ability 35 35
+— Part 2 Algebraical and Geometrical Ability 30 30
+Section Name Questions Marks Time
+(Recommended)
+— Part 3 Statistical Ability 10 10
+Section
+C
+Communication Ability 50 50 40 min
+— Part 1 Vocabulary 10 10
+— Part 2 Business & Computer Terminology 10 10
+— Part 3 Functional Grammar 15 15
+— Part 4 Reading Comprehension 15 15
+TOTAL 200 200 150 min
+Scoring: +1 correct, 0 for wrong/unattempted (no negative marking)
+7. PDF Content & Naming Convention
+7.1 The 21 Shift-wise Papers
+User will supply 21 PDFs
+Button title = ﬁlename without .pdf, spaces replacing underscores
+Example: ICET_2024_Shift1_FN.pdf → Button: ICET 2024 Shift1 FN
+7.2 Telugu Language Filter
+When extracting questions from PDFs:
+Remove all Telugu-script lines, paragraphs, or options
+Keep only English-language question text and options
+If a question has no English option text at all → skip it
+If only some options are Telugu → keep only English options, mark the Telugu ones as
+unavailable
+7.3 Business & Computer Terminology PDF
+Question generation format alternates:
+Odd questions: "What is the meaning of [TERM]?" → 4 deﬁnition options
+Even questions: "Which term best describes [DEFINITION]?" → 4 term options
+Source: This speciﬁc PDF content only
+7.4 APICET Previous Year Solved Papers
+PDF is large — divide by year into logical groupings
+Set 1 and Set 2 division point to be conﬁrmed once PDF is provided
+Each year's paper has: Shift indicator, full solutions, AI explanation layer
+8. Gemini AI Integration Spec
+8.1 Model
+Use: gemini-2.0-flash (fast, cost-eﬀective, suﬃcient quality)
+Fallback: gemini-1.5-flash
+8.2 API Calls Summary
+Feature Prompt type Frequency
+Motivational Quote Single-turn Every page load
+Mock Test Generation (per section) Single-turn, JSON output Once per mock (cached)
+Per-question Explanation Single-turn, JSON On-demand per question
+Business Terminology Questions Single-turn, JSON array Once (cached)
+8.3 Response Format for Questions (JSON Schema)
+json
+8.4 Error Handling
+API key missing → redirect to key input modal
+Rate limit (429) → show toast: "Generating too fast. Retrying in 5 seconds..."
+Network failure → fallback to cached content if available
+Malformed JSON response → retry once; if fails again, show error with retry button
+8.5 Caching Strategy
+Mock tests stored in localStorage under icet_mock_1, icet_mock_2
+Explanations cached individually: explanation_[paperName]_[questionId]
+Quote cached per session only (not persisted)
+9. UI/UX Design System (Quality Theme)
+9.1 Design Philosophy
+Theme Name: "Academic Excellence"
+Aesthetic Direction: Clean academic + modern digital — inspired by top-tier exam portals
+(GATE, CAT online). Professional, conﬁdence-inspiring, distraction-free. NOT ﬂashy or game-
+like.
+9.2 Color Palette
+[
+{
+"id":1,
+"section":"B",
+"topic":"Arithmetic",
+"question_text":"What is 15% of 360?",
+"options":{
+"A":"48",
+"B":"54",
+"C":"56",
+"D":"60"
+},
+"correct_answer":"B",
+"explanation":"15% of 360 = (15/100) × 360 = 54. Therefore the answer is B."
+}
+]
+Token Value Usage
+--color-primary #1A3C6E (Deep Navy) Primary actions, headers
+--color-secondary #E8700A (Warm Amber) Accent, CTAs, highlights
+--color-success #2E8B57 (Forest Green) Correct answers, answered questions
+--color-danger #CC3333 (Clear Red) Wrong answers, not-answered
+--color-review #1565C0 (Royal Blue) Marked for review
+--color-warn #F4A91C (Gold) Timer warning, mark-only
+--color-bg-main #F4F6F9 (Light Slate) Page background
+--color-bg-card #FFFFFF Card / panel backgrounds
+--color-bg-sidebar #EAECF0 Left palette panel
+--color-text-primary #1A1A2E All body text
+--color-text-secondary #555C70 Labels, captions
+--color-border #D0D7E2 All borders
+9.3 Typography
+Role Font Size Weight
+Display / Hero Playfair Display 48–64px 700
+Section Headings Libre Baskerville 24–32px 600
+Body / Questions Source Serif Pro 16–18px 400
+UI Labels / Buttons DM Sans 13–15px 500–600
+Timer JetBrains Mono 22px 700
+Palette Numbers DM Mono 13px 500
+Rationale: Serif fonts for reading-heavy question content (higher readability), sans-serif for UI
+chrome.
+9.4 Spacing System
+Base unit: 4px
+Panel padding: 24px
+Card padding: 20px
+Option row height: 52px
+Palette box: 40×40px (desktop), 34×34px (tablet)
+9.5 Motion & Animation
+Page transitions: Fade + slight upward slide (200ms ease-out)
+Quote entrance: Fade in over 600ms after hero text
+CTA button: Subtle scale + shadow on hover (transform: scale(1.03))
+Palette color changes: Instant (no transition — mirrors real exam behavior)
+Timer red ﬂash: CSS @keyframes pulse at < 5 minutes
+Results page: Score counts up from 0 to ﬁnal value (1s duration)
+9.6 Shadows & Depth
+10. Component Library & Interaction Patterns
+10.1 Core Components
+PaletteBox
+OptionRow
+css
+--shadow-card:02px8pxrgba(26,60,110,0.08);
+--shadow-panel:04px16pxrgba(26,60,110,0.12);
+--shadow-modal:08px32pxrgba(0,0,0,0.2);
+Props: questionNumber, status (not-visited | not-answered | answered | review |
+answered-review)
+Size: 40×40px square, 4px radius
+Font: DM Mono 13px
+Active state (current question): outlined in --color-secondary, bold number
+TimerDisplay
+SectionDropdown
+QuoteBlock
+TestCard (Selection Page)
+10.2 Modal Patterns
+All modals use a semi-transparent overlay (rgba(0,0,0,0.5))
+Modals slide in from bottom on mobile, appear centered on desktop
+Always include a close ( ✕ ) button
+Props: seconds (countdown), totalSeconds
+Format: HH:MM:SS using JetBrains Mono
+Color: primary when > 10 min, orange 10–5 min, red < 5 min with pulse
+Props: sections, selected, onChange
+Width: 200px (desktop), full-width (mobile)
+Options: "All Sections" + one per section (A, B, C)
+Behavior: Filters palette highlight, does NOT jump to a specific question
+Container: max-width 640px, centered
+Quotation marks: decorative, 60px, color --color-secondary at 30% opacity
+Quote text: Playfair Display italic 20px
+Attribution: DM Sans 14px color --color-text-secondary
+Loading state: skeleton shimmer
+Size: min 200px wide
+Contains: Test number, name, question count, status badge, "Start" / "Resume" /
+"Review" action
+Hover: lift shadow + slight scale
+11. Technical Architecture
+11.1 Technology Stack
+Layer Technology Rationale
+Framework React 18 + TypeScript Type safety, component reuse
+Styling Tailwind CSS 3 + shadcn/ui Rapid, consistent UI
+Build Vite + Parcel (bundle) Fast dev + single-ﬁle output
+PDF Handling pdf.js (Mozilla) Client-side PDF text extraction
+AI API Google Gemini REST API User-provided API key
+State React Context + useReducer Session-wide exam state
+Persistence localStorage Caching, progress, API key
+Routing React Router v6 Multi-page navigation
+Charts Recharts Results visualization
+11.2 Folder Structure
+src/
+├ ── components/
+│   ├ ── exam/
+│   │   ├ ── QuestionPalette.tsx
+│   │   ├ ── QuestionArea.tsx
+│   │   ├ ── TimerDisplay.tsx
+│   │   ├ ── SectionDropdown.tsx
+│   │   └── FooterNav.tsx
+│   ├ ── selection/
+│   │   ├ ── TestCard.tsx
+│   │   ├ ── TestGrid.tsx
+│   │   └── ProgressDashboard.tsx
+│   ├ ── results/
+│   │   ├ ── ScoreCard.tsx
+│   │   ├ ── QuestionReview.tsx
+│   │   └── ExplanationBlock.tsx
+│   └── common/
+12. Data Flow & State Management
+12.1 Exam Session State (in useExamState)
+│       ├ ── QuoteBlock.tsx
+│       ├ ── Modal.tsx
+│       ├ ── ApiKeyInput.tsx
+│       └── Layout.tsx
+├ ── pages/
+│   ├ ── Landing.tsx
+│   ├ ── TestSelection.tsx
+│   ├ ── ExamSimulator.tsx
+│   ├ ── Results.tsx
+│   └── Guide.tsx
+├ ── hooks/
+│   ├ ── useTimer.ts
+│   ├ ── useExamState.ts
+│   └── useGemini.ts
+├ ── services/
+│   ├ ── geminiService.ts
+│   └── pdfService.ts
+├ ── data/
+│   ├ ── examPattern.ts
+│   └── fallbackQuotes.ts
+└── types/
+└── index.ts
+typescript
+interfaceExamState{
+  testId:string;
+  questions:Question[];
+  answers:Record<number,string>; // questionId → selected option
+  flagged:Set<number>; // flagged for review
+  visited:Set<number>; // visited question IDs
+  currentQuestion:number;
+  timeRemaining:number; // seconds
+  submitted:boolean;
+  startedAt:Date;
+}
+12.2 Question Status Derivation
+13. Performance Requirements
+Requirement Target
+Initial page load < 2 seconds
+PDF text extraction (per paper) < 5 seconds
+Gemini quote load < 3 seconds
+Mock test generation (per section) < 8 seconds
+Per-question explanation < 3 seconds
+Timer accuracy ± 1 second
+Palette color update Instant (< 50ms)
+14. Accessibility & Responsiveness
+14.1 Accessibility
+All interactive elements keyboard-navigable (Tab + Enter)
+ARIA labels on palette boxes and option rows
+Color is never the ONLY indicator (always paired with text or icon)
+Timer announced by screen reader at 10-min and 5-min mark
+Minimum contrast ratio: 4.5:1 for body text
+Not visited   = id NOT in visited
+Not answered  = id in visited, NOT in answers
+Answered      = id in answers, NOT in flagged
+Review only   = id NOT in answers, id in flagged
+Answered+Rev  = id in answers, id in flagged
+14.2 Responsive Breakpoints
+Breakpoint Layout Change
+≥ 1280px Full 3-panel layout as spec'd
+768–1279px Palette collapses to overlay/drawer
+< 768px Palette as bottom sheet; question full-width
+15. Out of Scope (v1.0)
+User authentication / login system
+Backend database or server
+Multi-user leaderboards
+Oﬄine Progressive Web App (PWA) mode
+Push notiﬁcations
+Admin CMS to manage PDFs
+Payment or subscription gating
+16. Open Questions
+# Question OwnerPriority
+1 What are the exact 21 PDF ﬁlenames? User P0 — Blocks paper
+naming
+2 How is the APICET large PDF divided by year? User P0 — Blocks Set 1/2
+split
+3 Should Grand Mock tests regenerate each time or only once? User P1
+4 What is the student's name to pre-ﬁll in the exam header? User P2
+5 Should the portal support multiple user proﬁles locally? User P2
+6 Are there any speciﬁc subjects from particular PDFs to
+emphasize in mocks?
+User P2
+# Question OwnerPriority
+7 Should there be a dark mode toggle? User P3
+Appendix A — Reference UI Analysis
+The provided reference screenshot (exam interface from an existing portal) conﬁrms:
+Left panel: Question palette with numbered grid (1–60 visible), color-coded status
+Top center: Section dropdown (e.g., "ARITHMETIC"), user name displayed
+Top right: Timer in HH:MM:SS format (orange color)
+Question area: Clean white, question text in readable font, 4 radio options as full-row
+selectors
+Bottom bar: Prev (amber), Clear (grey), Submit (green), Review, Next (orange) — evenly
+distributed
+Legend at bottom-left: Color explanation for Not Visited, Not Answered, Answered,
+Answered Review
+This portal will replicate and enhance this pattern with higher visual polish and AI-powered
+features.
+End of PRD v1.0 — ICET 2026 Mock Preparation Portal
