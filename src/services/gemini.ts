@@ -81,17 +81,28 @@ Why the selected option is correct.`;
       const result = await model.generateContent(prompt);
       return result.response.text();
     } catch (error: any) {
+      const status = error?.status || error?.response?.status;
+      const message = error?.message || "";
+      
       console.error("Gemini Detailed Error:", {
-        message: error?.message,
-        status: error?.status,
-        details: error?.response?.data
+        message,
+        status,
+        error
       });
       
-      if (error?.message?.includes('429')) return "⚠️ Daily AI Quota reached. Try again later.";
-      if (error?.message?.includes('403')) return "⚠️ Invalid API Key. Please check your key in Settings.";
-      if (error?.message?.includes('billing')) return "⚠️ Gemini Billing issue detected. Check your GCP console.";
+      if (status === 429 || message.includes('429')) 
+        return "⚠️ Daily AI Quota reached. Please try again in a few minutes or use a different API key.";
       
-      return "⚠️ AI connection lost. Please verify your internet and API key.";
+      if (status === 403 || status === 401 || message.includes('403') || message.includes('API_KEY_INVALID')) 
+        return "⚠️ Invalid API Key. Please verify your key in the Settings modal (Landing Page).";
+        
+      if (message.includes('billing') || message.includes('quota')) 
+        return "⚠️ Gemini Billing/Quota issue detected. Check your Google Cloud Console.";
+
+      if (message.includes('safety') || message.includes('blocked'))
+        return "⚠️ AI response blocked by safety filters. This sometimes happens with complex logic questions.";
+      
+      return "⚠️ AI connection failed. If you're on the live site, ensure you've added your API Key in Settings.";
     }
   }
 
