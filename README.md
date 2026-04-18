@@ -60,7 +60,7 @@ graph TD
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/saran-github232/ICET-PREPARATION-APPLICATION-2026.git
-   cd ICET-PREPARATION-APPLICATION-2026/app-final
+   cd ICET-PREPARATION-APPLICATION-2026
    ```
 
 2. **Install dependencies**:
