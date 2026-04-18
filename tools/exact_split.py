@@ -12,7 +12,7 @@ def clean_text(text):
 
 def exact_split():
     # Paths
-    json_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../questions.json"))
+    json_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../questions.json"))
     output_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../public/data/questions"))
     
     if not os.path.exists(output_dir):

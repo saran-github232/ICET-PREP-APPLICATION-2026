@@ -24,7 +24,7 @@ def get_first_question_text(pdf_path):
     return "Not Found"
 
 def analyze_mapping():
-    json_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../questions.json"))
+    json_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../questions.json"))
     pdf_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../public/PDF"))
     
     with open(json_path, 'r', encoding='utf-8') as f:
