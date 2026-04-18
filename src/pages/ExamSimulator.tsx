@@ -34,7 +34,7 @@ const ExamSimulator: React.FC = () => {
         // Step 1: Try to fetch pre-parsed static JSON for this test
         // This is much faster and more reliable
         setLoadingStatus("Checking for high-speed question data...");
-        const response = await fetch(`/data/questions/${testId}.json`);
+        const response = await fetch(`${import.meta.env.BASE_URL}data/questions/${testId}.json`);
         if (response.ok) {
           const staticQuestions = await response.json();
           if (staticQuestions && staticQuestions.length > 0) {
@@ -46,7 +46,7 @@ const ExamSimulator: React.FC = () => {
 
         // Step 2: Fallback to real-time PDF parsing via Gemini
         setLoadingStatus("Connecting to Google Gemini AI for parsing...");
-        const loadPromise = pdfService.loadTest(testMetadata.pdfPath);
+        const loadPromise = pdfService.loadTest(`${import.meta.env.BASE_URL.replace(/\/$/, '')}${testMetadata.pdfPath}`);
         
         // Timeout after 25 seconds
         const timeoutPromise = new Promise((_, reject) => 

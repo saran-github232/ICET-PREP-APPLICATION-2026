@@ -8,7 +8,7 @@ import { Toaster } from './components/common/Toaster';
 
 function App() {
   return (
-    <Router basename={import.meta.env.BASE_URL}>
+    <Router basename={import.meta.env.BASE_URL.replace(/\/$/, '')}>
       <div className="min-h-screen bg-background text-text-primary">
         <Routes>
           <Route path="/" element={<Landing />} />
