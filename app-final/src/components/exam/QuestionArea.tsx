@@ -45,8 +45,14 @@ export const QuestionArea: React.FC<Props> = ({
 
       {/* Content Area */}
       <div className="flex-1 overflow-y-auto p-12 max-w-4xl mx-auto w-full">
-        <h2 className="text-2xl mb-12 leading-relaxed font-serif text-text-primary">
+        <h2 className="text-2xl mb-12 leading-relaxed font-serif text-text-primary relative group">
           {question.text}
+          {(question.text.toLowerCase().trim().endsWith('following word') || 
+            question.text.toLowerCase().trim().endsWith('underlined word')) && (
+            <span className="block mt-4 text-xs font-bold text-danger bg-danger/10 px-3 py-1 rounded-full w-fit animate-pulse">
+              ⚠️ Data Note: Keyword missing in source PDF
+            </span>
+          )}
         </h2>
 
         <div className="space-y-4">

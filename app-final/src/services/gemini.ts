@@ -58,7 +58,7 @@ class GeminiService {
     if (!this.genAI) return "⚠️ API Key not detected. Please add your Gemini API Key in Settings to enable AI explanations.";
 
     try {
-      const model = this.genAI.getGenerativeModel({ model: "gemini-1.5-flash-latest" });
+      const model = this.genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
       const prompt = `You are a professional AP ICET (Integrated Common Entrance Test) Tutor.
 Analyze this question and provide a structured explanation:
 
@@ -81,10 +81,17 @@ Why the selected option is correct.`;
       const result = await model.generateContent(prompt);
       return result.response.text();
     } catch (error: any) {
-      console.error("Gemini Explanation Error:", error);
-      if (error?.message?.includes('429')) return "Daily AI Quota reached. Try again later.";
-      if (error?.message?.includes('403')) return "Invalid API Key. Please check your key in Settings.";
-      return "AI connection lost. Please verify your internet and API key.";
+      console.error("Gemini Detailed Error:", {
+        message: error?.message,
+        status: error?.status,
+        details: error?.response?.data
+      });
+      
+      if (error?.message?.includes('429')) return "⚠️ Daily AI Quota reached. Try again later.";
+      if (error?.message?.includes('403')) return "⚠️ Invalid API Key. Please check your key in Settings.";
+      if (error?.message?.includes('billing')) return "⚠️ Gemini Billing issue detected. Check your GCP console.";
+      
+      return "⚠️ AI connection lost. Please verify your internet and API key.";
     }
   }
 

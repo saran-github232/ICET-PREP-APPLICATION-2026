@@ -24,8 +24,8 @@ def exact_split():
         '2021-s4', '2020-s1', '2020-s2', '2020-s3', '2019-s1',
         '2019-s2', 'model-2025', 'sample-2026'
     ]
-    # Add practice sets until we reach 30 or run out of questions
-    for i in range(1, 13):
+    # Add practice sets until we reach 31 or run out of questions
+    for i in range(1, 14):
         test_ids.append(f"practice-{i}")
 
     with open(json_path, 'r', encoding='utf-8') as f:

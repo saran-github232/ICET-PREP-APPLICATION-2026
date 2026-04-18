@@ -35,6 +35,7 @@ export const TESTS: TestMetadata[] = [
   { id: 'practice-10', title: 'Practice Set 10', year: '2026', type: 'shift', pdfPath: '/PDF/2026 Mock EBook.pdf', isReady: true },
   { id: 'practice-11', title: 'Practice Set 11', year: '2026', type: 'shift', pdfPath: '/PDF/2026 Mock EBook.pdf', isReady: true },
   { id: 'practice-12', title: 'Practice Set 12', year: '2026', type: 'shift', pdfPath: '/PDF/2026 Mock EBook.pdf', isReady: true },
+  { id: 'practice-13', title: 'Practice Set 13', year: '2026', type: 'shift', pdfPath: '/PDF/2026 Mock EBook.pdf', isReady: true },
 
   // Grand Tests
   { id: 'grand-previous', title: 'APICET Previous Year Solved', year: 'Historical', type: 'grand', pdfPath: '/PDF/APICET previous yr solved papers.pdf', isReady: true },

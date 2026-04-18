@@ -1,0 +1,252 @@
+[
+    {
+        "id": "1",
+        "text": "The arithmetic mean of 7.6, 6.8, 5.4, 6.4, 7.2, 4.8, 6.6 and 5.8 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "6.523"
+            },
+            {
+                "id": "2",
+                "text": "6.345"
+            },
+            {
+                "id": "3",
+                "text": "6.235"
+            },
+            {
+                "id": "4",
+                "text": "6.325"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "2",
+        "text": "What is the Geometric Mean of 12, 30 and 75?",
+        "options": [
+            {
+                "id": "1",
+                "text": "25"
+            },
+            {
+                "id": "2",
+                "text": "60"
+            },
+            {
+                "id": "3",
+                "text": "30"
+            },
+            {
+                "id": "4",
+                "text": "28"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "3",
+        "text": "What is he Harmonic Mean of 3, 4, 5 and 6 ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "5.21"
+            },
+            {
+                "id": "2",
+                "text": "4.21"
+            },
+            {
+                "id": "3",
+                "text": "4.52"
+            },
+            {
+                "id": "4",
+                "text": "5.32"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "4",
+        "text": "The median of 260, 240, 210, 190, 180, 220, 230, 250 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "225"
+            },
+            {
+                "id": "2",
+                "text": "230"
+            },
+            {
+                "id": "3",
+                "text": "220"
+            },
+            {
+                "id": "4",
+                "text": "235"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "5",
+        "text": "The arithmetic mean of some numbers is 18 and their median is 16. What is the mode?",
+        "options": [
+            {
+                "id": "1",
+                "text": "15"
+            },
+            {
+                "id": "2",
+                "text": "12"
+            },
+            {
+                "id": "3",
+                "text": "14"
+            },
+            {
+                "id": "4",
+                "text": "17"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "6",
+        "text": "The Standard Deviation of 2, 4, 6, 8, 10 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "sqrt(6)"
+            },
+            {
+                "id": "2",
+                "text": "2*sqrt(3)"
+            },
+            {
+                "id": "3",
+                "text": "2*sqrt(2)"
+            },
+            {
+                "id": "4",
+                "text": "3*sqrt(2)"
+            }
+        ],
+        "correct": 2,
+        "section": "Statistical Ability",
+        "correctAnswer": "3"
+    },
+    {
+        "id": "7",
+        "text": "The mean deviation of 3, 4, 5, 6, 7 is",
+        "options": [
+            {
+                "id": "1",
+                "text": "3.5"
+            },
+            {
+                "id": "2",
+                "text": "3.2"
+            },
+            {
+                "id": "3",
+                "text": "2.5"
+            },
+            {
+                "id": "4",
+                "text": "1.2"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    },
+    {
+        "id": "8",
+        "text": "P and Q are two sets such that n(P) = 3 and n(Q) = 4. A relation from P into Q is selected at random. What is the probability that the relation is not a function?",
+        "options": [
+            {
+                "id": "1",
+                "text": "63/64"
+            },
+            {
+                "id": "2",
+                "text": "31/32"
+            },
+            {
+                "id": "3",
+                "text": "15/16"
+            },
+            {
+                "id": "4",
+                "text": "127/128"
+            }
+        ],
+        "correct": 0,
+        "section": "Statistical Ability",
+        "correctAnswer": "1"
+    },
+    {
+        "id": "9",
+        "text": "When two dice are thrown, what is the probability of getting the sum 7 ?",
+        "options": [
+            {
+                "id": "1",
+                "text": "5/6"
+            },
+            {
+                "id": "2",
+                "text": "1/6"
+            },
+            {
+                "id": "3",
+                "text": "5/36"
+            },
+            {
+                "id": "4",
+                "text": "1/9"
+            }
+        ],
+        "correct": 1,
+        "section": "Statistical Ability",
+        "correctAnswer": "2"
+    },
+    {
+        "id": "10",
+        "text": "A coin is tossed 6 times. What is the probability of getting head atleast once?",
+        "options": [
+            {
+                "id": "1",
+                "text": "33/64"
+            },
+            {
+                "id": "2",
+                "text": "27/64"
+            },
+            {
+                "id": "3",
+                "text": "1/64"
+            },
+            {
+                "id": "4",
+                "text": "63/64"
+            }
+        ],
+        "correct": 3,
+        "section": "Statistical Ability",
+        "correctAnswer": "4"
+    }
+]
