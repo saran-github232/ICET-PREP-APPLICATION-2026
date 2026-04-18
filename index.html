@@ -6,6 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Prepare for AP ICET 2026 with our full-featured mock exam portal. Practice with 21+ papers, get AI-powered explanations, and track your progress for academic excellence." />
     <title>ICET 2026 Mock Preparation Portal | Academic Excellence</title>
+    <script type="text/javascript">
+      // GitHub Pages SPA routing hack
+      (function(l) {
+        if (l.search[1] === '/' ) {
+          var decoded = l.search.slice(1).split('&').map(function(s) { 
+            return s.replace(/~and~/g, '&') 
+          }).join('?');
+          window.history.replaceState(null, null,
+              l.pathname.slice(0, -1) + decoded + l.hash
+          );
+        }
+      }(window.location))
+    </script>
   </head>
   <body class="bg-[#F4F6F9]">
     <div id="root"></div>
