@@ -1,0 +1,48 @@
+# Plan: Configure for GitHub Pages Deployment
+
+This plan prepares the project for hosting on **GitHub Pages**. Note that this is different from Vercel; GitHub Pages is often used for static sites and requires specific configuration for React Single Page Applications (SPAs).
+
+## User Review Required
+> [!IMPORTANT]
+> **Why this change?** 
+> GitHub Pages requires a `base` path (e.g., `/ICET-PREP-APPLICATION-2026/`) to load assets correctly, and a GitHub Action to automate the build.
+> 
+> **SPA Routing Caveat**
+> GitHub Pages doesn't natively support SPA routing. If you refresh a page like `/select`, it will return a 404. I will implement a common "404 hack" to handle this, but using **HashRouter** is the most reliable alternative if the hack doesn't suit your needs.
+
+## Proposed Changes
+
+### Build Configuration
+
+#### [MODIFY] [vite.config.ts](file:///c:/Users/ideal/OneDrive/Desktop/icet%20application%20final/vite.config.ts)
+- Add `base: '/ICET-PREP-APPLICATION-2026/'` to ensure assets are loaded from the correct subdirectory.
+
+### CI/CD Pipeline
+
+#### [NEW] [.github/workflows/deploy.yml](file:///c:/Users/ideal/OneDrive/Desktop/icet%20application%20final/.github/workflows/deploy.yml)
+- Create a GitHub Action that builds the project and deploys it to the `gh-pages` branch.
+
+### Routing Fix (SPA Hack)
+
+#### [NEW] [public/404.html](file:///c:/Users/ideal/OneDrive/Desktop/icet%20application%20final/public/404.html)
+- Create a `404.html` file that redirects the user back to `index.html` while preserving the requested URL.
+
+#### [MODIFY] [index.html](file:///c:/Users/ideal/OneDrive/Desktop/icet%20application%20final/index.html)
+- Add a script to handle the redirect from `404.html` and push the state to the router.
+
+### Documentation
+
+#### [MODIFY] [README.md](file:///c:/Users/ideal/OneDrive/Desktop/icet%20application%20final/README.md)
+- Update the installation instructions to remove the `app-final` subdirectory from the commands.
+
+## Open Questions
+- Do you definitely want to switch to **GitHub Pages**, or were you trying to fix the **Vercel** deployment? (Vercel is generally better for SPAs, but GitHub Pages is a great free alternative).
+
+## Verification Plan
+
+### Automated Tests
+- None, requires deployment to verify.
+
+### Manual Verification
+- Push changes and check the "Actions" tab in GitHub.
+- Once deployed, visit `https://saran-github232.github.io/ICET-PREP-APPLICATION-2026/`.
